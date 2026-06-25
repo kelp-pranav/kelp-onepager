@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kelp One-Pager Agent</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', sans-serif; background: #FAFAFA; color: #1A2332;
+         display: flex; min-height: 100vh; align-items: flex-start; justify-content: center;
+         padding: 48px 16px; }
+  .card { background: #fff; border: 1px solid #E5E8EE; border-radius: 12px;
+          padding: 32px 36px; width: 560px; box-shadow: 0 4px 24px rgba(0,0,0,.05); }
+  .kelp { font-size: 11px; font-weight: 600; color: #3C9E41; text-transform: uppercase;
+          letter-spacing: .08em; }
+  h1 { font-size: 22px; font-weight: 600; margin: 4px 0 4px; }
+  p.sub { font-size: 12.5px; color: #5A6878; margin-bottom: 22px; }
+  label { font-size: 11px; font-weight: 600; color: #5A6878; display: block; margin: 12px 0 4px; }
+  input, textarea { width: 100%; padding: 9px 11px; border: 1px solid #E5E8EE;
+          border-radius: 6px; font-family: inherit; font-size: 13px; }
+  textarea { resize: vertical; min-height: 58px; }
+  button { margin-top: 20px; width: 100%; padding: 11px; background: #3C9E41; color: #fff;
+          border: none; border-radius: 6px; font-family: inherit; font-size: 14px;
+          font-weight: 600; cursor: pointer; }
+  button:hover { background: #348537; }
+  button:disabled { background: #B7C2CF; cursor: not-allowed; }
+  .note { font-size: 11px; color: #8A9AB0; margin-top: 14px; text-align: center; }
+  .err { color: #C0392B; font-size: 12.5px; margin-top: 14px; }
+
+  /* ---- live status panel ---- */
+  #status { display: none; margin-top: 8px; }
+  .metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 4px 0 18px; }
+  .metric { background: #F7F8FA; border: 1px solid #E5E8EE; border-radius: 8px; padding: 12px 14px; }
+  .metric .k { font-size: 10px; font-weight: 600; color: #8A9AB0; text-transform: uppercase;
+               letter-spacing: .06em; }
+  .metric .v { font-size: 19px; font-weight: 600; margin-top: 3px; font-variant-numeric: tabular-nums; }
+  .metric .v small { font-size: 12px; color: #8A9AB0; font-weight: 500; }
+
+  .phase-row { display: flex; align-items: baseline; justify-content: space-between;
+               margin-bottom: 8px; }
+  .phase-label { font-size: 13.5px; font-weight: 600; }
+  .phase-count { font-size: 11px; color: #8A9AB0; }
+  .bar { height: 8px; background: #EEF1F5; border-radius: 99px; overflow: hidden; }
+  .bar > span { display: block; height: 100%; width: 0%; background: #3C9E41;
+                border-radius: 99px; transition: width .4s ease; }
+
+  ul.steps { list-style: none; margin: 18px 0 0; }
+  ul.steps li { font-size: 12.5px; color: #8A9AB0; padding: 5px 0 5px 22px; position: relative; }
+  ul.steps li::before { content: '○'; position: absolute; left: 4px; color: #C4CDD8; }
+  ul.steps li.active { color: #1A2332; font-weight: 600; }
+  ul.steps li.active::before { content: '◔'; color: #3C9E41; }
+  ul.steps li.done { color: #5A6878; }
+  ul.steps li.done::before { content: '●'; color: #3C9E41; }
+
+  /* ---- result panel ---- */
+  #result { display: none; margin-top: 8px; }
+  .ok { background: #EAF6EB; border: 1px solid #CBE8CD; color: #2A6B2E; border-radius: 8px;
+        padding: 10px 14px; font-size: 12.5px; font-weight: 600; margin-bottom: 16px; }
+  table.sum { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  table.sum td { padding: 6px 4px; border-bottom: 1px solid #EEF1F5; }
+  table.sum td:first-child { color: #8A9AB0; }
+  table.sum td:last-child { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .dl { display: block; text-align: center; margin-top: 18px; padding: 11px; background: #3C9E41;
+        color: #fff; border-radius: 6px; font-size: 14px; font-weight: 600; text-decoration: none; }
+  .dl:hover { background: #348537; }
+  .ghost { display: block; text-align: center; margin-top: 10px; font-size: 12px; color: #5A6878;
+           cursor: pointer; }
+  .warns { margin-top: 14px; font-size: 11.5px; color: #B7791F; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="kelp">Kelp Research</div>
+    <h1>Company One-Pager Agent</h1>
+    <p class="sub">Enter a company; the agent researches it and compiles a professional one-pager.</p>
+
+    <!-- input form -->
+    <form id="form">
+      <label for="company">Company name *</label>
+      <input id="company" name="company" required placeholder="e.g. Embio Limited">
+      <label for="sector">Sector (optional)</label>
+      <input id="sector" name="sector" placeholder="e.g. pharma, banking, tech">
+      <label for="description">Business description (optional)</label>
+      <textarea id="description" name="description" placeholder="One line about what the company does"></textarea>
+      <button type="submit" id="go">Generate one-pager</button>
+      <div class="err" id="formErr"></div>
+    </form>
+
+    <!-- live status -->
+    <div id="status">
+      <div class="metrics">
+        <div class="metric"><div class="k">Time elapsed</div><div class="v" id="mElapsed">0.0<small>s</small></div></div>
+        <div class="metric"><div class="k">Est. remaining</div><div class="v" id="mRemaining">–<small>s</small></div></div>
+        <div class="metric"><div class="k">Cost incurred</div><div class="v" id="mCost">$0.00</div></div>
+      </div>
+      <div class="phase-row">
+        <span class="phase-label" id="phaseLabel">Starting…</span>
+        <span class="phase-count" id="phaseCount"></span>
+      </div>
+      <div class="bar"><span id="barFill"></span></div>
+      <ul class="steps" id="steps"></ul>
+    </div>
+
+    <!-- result -->
+    <div id="result">
+      <div class="ok" id="okMsg">One-pager ready.</div>
+      <table class="sum"><tbody id="sumBody"></tbody></table>
+      <div class="warns" id="warns"></div>
+      <a class="dl" id="dlLink" href="#">⬇ Download one-pager JSON</a>
+      <span class="ghost" id="again">← Generate another</span>
+    </div>
+
+    <div class="note">Runs on Gemini · lifetime cost tracked at <code>/cost</code></div>
+  </div>
+
+<script>
+const PHASES = [
+  ["sector_research",   "Sector research"],
+  ["sector_dedup",      "De-duplicating sector sections"],
+  ["wave_1_and_layout", "Domain research (Wave 1) + layout"],
+  ["json_population",   "Assembling JSON skeleton"],
+  ["sector_swap",       "Sector data check & swap"],
+  ["synthesis",         "Synthesis — thesis / SWOT / future / risk"],
+  ["presentation",      "Formatting & analysis"],
+  ["coverage",          "Coverage gap check"],
+  ["validation",        "Validation & dedup"],
+];
+
+const $ = (id) => document.getElementById(id);
+let pollTimer = null;
+
+function renderSteps(currentIndex, state) {
+  const ul = $("steps");
+  ul.innerHTML = "";
+  PHASES.forEach(([key, label], i) => {
+    const li = document.createElement("li");
+    li.textContent = label;
+    if (state === "done" || i < currentIndex) li.className = "done";
+    else if (i === currentIndex) li.className = "active";
+    ul.appendChild(li);
+  });
+}
+
+function fmtSecs(s) { return (s == null) ? "–" : s.toFixed(s < 10 ? 1 : 0); }
+
+async function poll(jobId) {
+  let r;
+  try { r = await fetch(`/status/${jobId}`); }
+  catch (e) { return; }            // transient; next tick retries
+  if (!r.ok) return;
+  const d = await r.json();
+
+  $("mElapsed").innerHTML = `${fmtSecs(d.elapsed_s)}<small>s</small>`;
+  $("mRemaining").innerHTML = (d.state === "done")
+      ? `0<small>s</small>` : `${fmtSecs(d.remaining_s)}<small>s</small>`;
+  $("mCost").textContent = `$${(d.cost_usd || 0).toFixed(4)}`;
+  $("phaseLabel").textContent = d.phase_label || "…";
+  $("phaseCount").textContent = d.phase_total ? `step ${d.phase_index} / ${d.phase_total}` : "";
+  $("barFill").style.width = `${Math.round((d.progress || 0) * 100)}%`;
+
+  const idx = (d.phase && d.phase !== "done")
+      ? PHASES.findIndex(p => p[0] === d.phase) : (d.state === "done" ? PHASES.length : 0);
+  renderSteps(idx, d.state);
+
+  if (d.state === "error") {
+    clearInterval(pollTimer);
+    $("status").style.display = "none";
+    $("form").style.display = "block";
+    $("go").disabled = false;
+    $("formErr").textContent = "Generation failed: " + (d.error || "unknown error");
+    return;
+  }
+  if (d.state === "done") {
+    clearInterval(pollTimer);
+    showResult(d);
+  }
+}
+
+function showResult(d) {
+  $("status").style.display = "none";
+  $("result").style.display = "block";
+  const s = d.summary || {};
+  $("okMsg").textContent = `One-pager ready for ${s.company || "company"}.`;
+  const rows = [
+    ["Subsector", s.resolved_subsector || "—"],
+    ["Total time", (s.duration_s != null ? s.duration_s + "s" : fmtSecs(d.elapsed_s) + "s")],
+    ["Run cost", "$" + (s.run_cost_usd != null ? Number(s.run_cost_usd).toFixed(6) : Number(d.cost_usd).toFixed(6))],
+    ["Lifetime cost", s.lifetime_cost_usd != null ? "$" + Number(s.lifetime_cost_usd).toFixed(6) : "—"],
+    ["Sections", `${s.sections_populated ?? "?"} populated · ${s.sections_partial ?? 0} partial · ${s.sections_unavailable ?? 0} n/a`],
+    ["Domains researched", s.domains_succeeded ?? "—"],
+  ];
+  $("sumBody").innerHTML = rows.map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("");
+  const warns = (s.warnings || []);
+  $("warns").textContent = warns.length ? ("⚠ " + warns.slice(0, 6).join(" · ")) : "";
+  $("dlLink").href = d.download_url;
+  if (d.filename) $("dlLink").setAttribute("download", d.filename);
+}
+
+$("form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  $("formErr").textContent = "";
+  $("go").disabled = true;
+
+  const body = new FormData();
+  body.append("company", $("company").value);
+  body.append("sector", $("sector").value);
+  body.append("description", $("description").value);
+
+  let r;
+  try { r = await fetch("/start", { method: "POST", body }); }
+  catch (err) { $("formErr").textContent = "Network error."; $("go").disabled = false; return; }
+  const d = await r.json();
+  if (!r.ok || d.error) { $("formErr").textContent = d.error || "Could not start."; $("go").disabled = false; return; }
+
+  $("form").style.display = "none";
+  $("status").style.display = "block";
+  renderSteps(0, "running");
+  poll(d.job_id);
+  pollTimer = setInterval(() => poll(d.job_id), 1000);
+});
+
+$("again").addEventListener("click", () => {
+  $("result").style.display = "none";
+  $("form").style.display = "block";
+  $("go").disabled = false;
+  $("formErr").textContent = "";
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,192 @@
+{
+  "_comment": "Baseline sector-specific domain templates. Sector Research loads the matching entry as a STARTING POINT, then customizes (add/remove/reweight) against the specific company's business description. These are not final — they prime the model.",
+  "pharma": {
+    "aliases": ["pharmaceuticals", "pharma", "drugs", "api", "biotech", "life sciences"],
+    "baseline_domains": [
+      {
+        "domain_name": "Pipeline & R&D",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module", "R&D and innovation"],
+        "data_fields_needed": ["pipeline programs by phase", "R&D spend as % of revenue", "recent launches", "key partnerships/collaborations", "patents filed/granted"],
+        "recommended_sources": ["company investor presentations", "USFDA Orange Book", "ClinicalTrials.gov", "annual report R&D disclosures"]
+      },
+      {
+        "domain_name": "Regulatory & Manufacturing",
+        "priority_hint": "high",
+        "sections_covered": ["Manufacturing & facilities", "Regulatory inspection history"],
+        "data_fields_needed": ["facility locations + capacity (MTPA)", "USFDA/EDQM/WHO-GMP approvals", "Warning Letters / Import Alerts history", "Form 483 observations", "DMF/CEP filings count"],
+        "recommended_sources": ["USFDA Warning Letter database", "USFDA Import Alert list", "EDQM CEP database", "company facility disclosures"]
+      },
+      {
+        "domain_name": "API & Product Economics",
+        "priority_hint": "medium",
+        "sections_covered": ["API-specific or sector module", "Revenue by product segment"],
+        "data_fields_needed": ["product-wise revenue mix", "high-margin vs commodity split", "backward integration status", "NDPS/controlled-substance licenses", "key molecule market positions"],
+        "recommended_sources": ["company annual report", "IQVIA", "broker research", "industry API reports"]
+      }
+    ]
+  },
+  "banking": {
+    "aliases": ["bank", "banking", "nbfc", "financial services", "lending"],
+    "baseline_domains": [
+      {
+        "domain_name": "Asset Quality",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["gross NPA %", "net NPA %", "provision coverage ratio", "slippage ratio", "restructured book", "sector-wise loan concentration"],
+        "recommended_sources": ["RBI filings", "quarterly investor presentations", "CARE/CRISIL/ICRA bank ratings"]
+      },
+      {
+        "domain_name": "Capital Adequacy",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["CRAR / CAR %", "Tier 1 ratio", "CET1 ratio", "leverage ratio", "recent capital raises"],
+        "recommended_sources": ["RBI Basel III disclosures", "annual report", "exchange filings"]
+      },
+      {
+        "domain_name": "Funding & Liquidity",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["CASA ratio", "cost of funds", "LCR (liquidity coverage ratio)", "credit-deposit ratio", "deposit growth"],
+        "recommended_sources": ["RBI filings", "investor presentations", "annual report"]
+      },
+      {
+        "domain_name": "NIM & Profitability",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["net interest margin (NIM)", "return on assets (ROA)", "return on equity (ROE)", "cost-to-income ratio", "fee income share"],
+        "recommended_sources": ["quarterly results", "investor presentations", "broker research"]
+      }
+    ]
+  },
+  "tech": {
+    "aliases": ["technology", "it services", "software", "saas", "it", "tech"],
+    "baseline_domains": [
+      {
+        "domain_name": "Client & Deal Pipeline",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module", "Channel mix & distribution"],
+        "data_fields_needed": ["total contract value (TCV) of deal wins", "client count by revenue bucket", "top-10 client concentration", "client additions", "book-to-bill ratio"],
+        "recommended_sources": ["quarterly investor presentations", "earnings call transcripts", "annual report"]
+      },
+      {
+        "domain_name": "Talent & Utilization",
+        "priority_hint": "medium",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["headcount", "attrition rate %", "utilization rate %", "fresher additions", "offshore/onsite mix"],
+        "recommended_sources": ["quarterly results", "annual report", "investor presentations"]
+      },
+      {
+        "domain_name": "Service Mix & Verticals",
+        "priority_hint": "medium",
+        "sections_covered": ["Revenue by product segment", "Products & services"],
+        "data_fields_needed": ["revenue by service line", "revenue by vertical (BFSI/retail/healthcare etc.)", "digital revenue %", "recurring vs project revenue"],
+        "recommended_sources": ["annual report segment disclosures", "investor presentations"]
+      }
+    ]
+  },
+  "consumer": {
+    "aliases": ["fmcg", "consumer", "consumer goods", "retail", "staples", "durables"],
+    "baseline_domains": [
+      {
+        "domain_name": "Brand Portfolio",
+        "priority_hint": "high",
+        "sections_covered": ["Products & services", "Revenue by product segment"],
+        "data_fields_needed": ["key brands + revenue contribution", "power brands (>₹1000 Cr)", "category-wise mix", "premiumization trend"],
+        "recommended_sources": ["annual report", "investor presentations", "Nielsen/Kantar reports"]
+      },
+      {
+        "domain_name": "Distribution Reach",
+        "priority_hint": "high",
+        "sections_covered": ["Channel mix & distribution"],
+        "data_fields_needed": ["direct reach (outlets)", "total reach", "rural vs urban mix", "e-commerce/modern trade share", "distributor count"],
+        "recommended_sources": ["annual report", "investor presentations"]
+      },
+      {
+        "domain_name": "Volume & Pricing Growth",
+        "priority_hint": "medium",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["volume growth %", "price/mix growth %", "underlying volume growth (UVG)", "market share by category"],
+        "recommended_sources": ["quarterly results", "Nielsen data", "investor presentations"]
+      }
+    ]
+  },
+  "manufacturing": {
+    "aliases": ["manufacturing", "industrials", "metals", "steel", "auto", "capital goods", "chemicals"],
+    "baseline_domains": [
+      {
+        "domain_name": "Capacity & Utilization",
+        "priority_hint": "high",
+        "sections_covered": ["Manufacturing & facilities", "API-specific or sector module"],
+        "data_fields_needed": ["installed capacity by product", "capacity utilization %", "plant locations", "expansion under construction"],
+        "recommended_sources": ["annual report", "investor presentations", "exchange filings"]
+      },
+      {
+        "domain_name": "Input Cost & Raw Materials",
+        "priority_hint": "medium",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["key raw materials", "RM cost as % of sales", "backward integration", "hedging policy", "input price exposure"],
+        "recommended_sources": ["annual report", "earnings calls", "commodity reports"]
+      },
+      {
+        "domain_name": "Order Book & Capex",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module", "Future plan"],
+        "data_fields_needed": ["order book value", "order book-to-revenue ratio", "planned capex", "capex funding mix"],
+        "recommended_sources": ["investor presentations", "annual report", "broker research"]
+      }
+    ]
+  },
+  "real_estate": {
+    "aliases": ["real estate", "realty", "property", "developers", "construction"],
+    "baseline_domains": [
+      {
+        "domain_name": "Land Bank & Pipeline",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["land bank (acres / msf)", "ongoing projects by region", "upcoming launches pipeline (msf)", "saleable area"],
+        "recommended_sources": ["annual report", "investor presentations", "RERA portals"]
+      },
+      {
+        "domain_name": "Sales & Bookings",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module"],
+        "data_fields_needed": ["pre-sales / bookings value", "bookings volume (msf)", "realization (₹/sqft)", "collections", "sold vs unsold inventory"],
+        "recommended_sources": ["quarterly results", "investor presentations"]
+      },
+      {
+        "domain_name": "Debt & Approvals",
+        "priority_hint": "high",
+        "sections_covered": ["API-specific or sector module", "Regulatory inspection history"],
+        "data_fields_needed": ["net debt", "net debt-to-equity", "cost of debt", "RERA registration status", "key project approvals"],
+        "recommended_sources": ["annual report", "RERA portals", "credit rating reports"]
+      }
+    ]
+  },
+  "energy": {
+    "aliases": ["energy", "power", "utilities", "oil and gas", "renewables", "thermal"],
+    "baseline_domains": [
+      {
+        "domain_name": "Generation Capacity & Mix",
+        "priority_hint": "high",
+        "sections_covered": ["Manufacturing & facilities", "API-specific or sector module"],
+        "data_fields_needed": ["installed capacity (MW/GW)", "thermal vs renewable mix", "plant load factor (PLF) %", "capacity under construction"],
+        "recommended_sources": ["annual report", "investor presentations", "CEA reports"]
+      },
+      {
+        "domain_name": "PPAs & Offtake",
+        "priority_hint": "high",
+        "sections_covered": ["Channel mix & distribution", "API-specific or sector module"],
+        "data_fields_needed": ["% capacity under long-term PPAs", "key offtakers", "merchant power exposure", "average realized tariff (₹/kWh)"],
+        "recommended_sources": ["annual report", "investor presentations", "regulatory filings"]
+      },
+      {
+        "domain_name": "Fuel, Tariffs & Transition",
+        "priority_hint": "medium",
+        "sections_covered": ["API-specific or sector module", "Future plan"],
+        "data_fields_needed": ["fuel source & cost", "regulatory tariff structure", "renewable capacity targets", "energy transition capex"],
+        "recommended_sources": ["annual report", "CERC orders", "investor presentations"]
+      }
+    ]
+  }
+}

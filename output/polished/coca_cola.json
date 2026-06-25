@@ -1,0 +1,49 @@
+{
+  "polished_by": "Claude (offline, no API) — ingested coca_cola_sector_only.json",
+  "company_name": "Coca-Cola",
+  "sections": {
+    "Global Volume vs. Price/Mix Contribution": [
+      {"t": "take", "text": "Growth is healthy and broadening. FY2025 was price-led (+4% price/mix on ~flat volume); Q1 2026 re-accelerated to +10% organic with unit-case volume back to +3% and concentrate +8% — a higher-quality, margin-accretive mix."},
+      {"t": "table", "title": "Organic revenue bridge (YoY)", "headers": ["Period", "Organic rev.", "Concentrate/vol.", "Price/mix"], "rows": [["Q1 2026", "+10%", "+8%", "+2%"], ["Q4 2025", "+5%", "+4%", "+1%"], ["FY 2025", "+5%", "+1%", "+4%"]]},
+      {"t": "table", "title": "Q1 2026 unit-case volume by region", "headers": ["Region", "Volume YoY"], "rows": [["Total global", "+3%"], ["North America", "+4%"], ["EMEA", "+2%"], ["Latin America", "+4%"], ["Asia Pacific", "+5%"]]},
+      {"t": "bullets", "items": ["Coca-Cola Zero Sugar grew +13% across every geographic segment (Q1 2026) — premiumization tailwind.", "Portfolio pruned from ~400 to ~200 brands since 2020; innovation success rate now ~3× vs 2019."]}
+    ],
+    "Regional Pricing & Growth Drivers": [
+      {"t": "take", "text": "Pricing power is strong in developed markets but emerging markets lean on affordability — and bottler input-cost inflation (aluminum) is not fully passed through, a margin watch-item."},
+      {"t": "table", "title": "Q1 2026 price/mix contribution by region", "headers": ["Region", "Price/mix"], "rows": [["North America", "+5%"], ["EMEA", "+5%"], ["Latin America", "+1%"], ["Asia Pacific", "Declined (affordability)"], ["Bottling Investments", "-1%"]]},
+      {"t": "bullets", "items": ["Pricing actions were the primary price/mix driver in NA, EMEA and Latin America.", "Q1 2026 aluminum costs 'outpaced pricing actions' at Coca-Cola Consolidated — incomplete inflation pass-through.", "Packaging mix flexed (cans ↔ PET / returnable glass) to defend affordability against tariffs and input costs.", "Asia Pacific price/mix turned negative on deliberate affordability initiatives to hold share."]}
+    ],
+    "Bottling System Structure & Re-franchising Impact": [
+      {"t": "take", "text": "Asset-light, concentrate-led model. 59% of revenue is high-margin concentrate; the capital-intensive Bottling Investments segment is shrinking to ~5% of revenue after the CCBA divestment — de-risking the balance sheet."},
+      {"t": "stats", "items": [["Concentrate ops (FY25 rev.)", "59%"], ["Finished-product / bottling ops (FY25 rev.)", "41%"], ["Bottling Investments post-CCBA", "~5% of net revenue"]]},
+      {"t": "table", "title": "Re-franchising milestones", "headers": ["Event", "Detail"], "rows": [["US system", "Fully refranchised (Oct 2017)"], ["CCBA — 100% equity value", "US$3.4 bn (Oct 2025)"], ["CCBA — stake sale", "41.52% of 66.52% to Coca-Cola HBC; option on remaining 25%"]]},
+      {"t": "bullets", "items": ["Global concentrate sales +8% in Q1 2026 — 5 points ahead of unit-case volume (extra shipping days / timing)."]}
+    ],
+    "Franchise Partner Performance & Economics": [
+      {"t": "take", "text": "Lead US bottler Coca-Cola Consolidated (COKE) is healthy but margins are easing (13.35%→12.9%) and leverage is notable (~2.3× net debt/EBITDA), on steady ~$300m/yr capex. Franchise economics are opaque — priced via an undisclosed incidence-based agreement."},
+      {"t": "table", "title": "Coca-Cola Consolidated (COKE) — lead US bottler", "headers": ["Metric", "Value"], "rows": [["Operating margin", "12.9% Q1'26 (13.15% FY25, 13.35% FY24)"], ["Long-term debt", "$2.69 bn (Dec 2025)"], ["EBITDA (FY25)", "$1.17 bn"], ["Debt / capital", "1.38"], ["Capex", "$312m FY25 · ~$300m FY26e"]]},
+      {"t": "bullets", "items": ["FY2025 capex concentrated in US capacity: $90m Columbus OH campus, $35m Twinsburg OH can line, $15m Monroe NC ops center."]}
+    ],
+    "Category Portfolio Performance & Mix": [
+      {"t": "take", "text": "Dominant category leader with durable share. Sparkling is ~69% of volume, global NARTD share is >40%, and the company has gained value share for years — while still/functional categories (water, sports, coffee, tea) now drive incremental growth."},
+      {"t": "stats", "items": [["Sparkling % of unit-case volume (2025)", "69%"], ["Global NARTD value share", ">40%"], ["Global CSD share (Jan 2026)", "~40%"]]},
+      {"t": "bullets", "items": ["Gained NARTD value share in Q1 2026 and FY2025; bottler Coca-Cola HBC +80 bps — its 6th consecutive year of share gains.", "Recent growth led by Trademark Coca-Cola plus water, sports, coffee and tea.", "Bottler (Coca-Cola Consolidated) sparkling bottle/can volume +16.7% in Q1 2026."]}
+    ],
+    "Innovation & Brand Health": [
+      {"t": "take", "text": "Elite, but watch execution. #7 global brand at $60.1bn — though value slipped -1.9% YoY, and the incoming CEO calls innovation success 'not where it needs to be' despite a ~3× improvement vs 2019."},
+      {"t": "stats", "items": [["Interbrand 2025 rank", "#7 global"], ["Brand value (2025)", "$60.1 bn (-1.9% YoY)"], ["Innovation success vs 2019", "~3×"]]},
+      {"t": "bullets", "items": ["Coca-Cola Zero Sugar +13% across all geographic segments — standout innovation/premiumization signal.", "Incoming CEO Henrique Braun (Feb 2026): innovation success 'not where it needs to be' — must 'get closer to the consumer.'", "Streamlined portfolio (~400 → ~200 brands) underpins the disciplined-innovation strategy."]}
+    ],
+    "Digital Strategy & D2C Penetration": [
+      {"t": "take", "text": "Aggressive, credible digital shift. Digital is now >65% of media spend (from <30% in 2019) and >60% of customers are digitized, backed by a new Chief Digital Officer and ML demand planning — though pure D2C remains small and not separately disclosed."},
+      {"t": "table", "title": "Digital media mix (% of total media spend)", "headers": ["Year", "Digital %"], "rows": [["2019", "<30%"], ["2023", "60%"], ["2025", ">65%"]]},
+      {"t": "stats", "items": [["Customers digitized (Mar 2026)", ">60%"]]},
+      {"t": "bullets", "items": ["New Chief Digital Officer (Sedef Salingan Sahin) effective Mar 2026 — unifying digital, data and operations.", "ML-based Customer Demand & Supply Planning system driving a 'factory of the future' model.", "Costa-led finished-product operations were 42% of revenue (2023, down from 49% in 2017)."]}
+    ],
+    "Connected Vending & Marketing Tech ROI": [
+      {"t": "take", "text": "Scaled connected-asset and martech edge. ~700k connected vending machines (Japan) and the 'Redeem' campaign doubled the all-time redemption record with strong Gen-Z lift — concrete evidence digital is monetizing, not just spending."},
+      {"t": "stats", "items": [["Connected vending machines (Japan, 2022)", "~700,000"], ["Coke ON app downloads (Japan)", "45 million"]]},
+      {"t": "table", "title": "'Redeem' martech campaign (Jan 2025)", "headers": ["Metric", "Lift"], "rows": [["Redemption record", "+100%"], ["Brand consideration", "+53%"], ["Gen-Z likelihood (Coke Zero Sugar)", "+37%"], ["Recommendations", "+26%"], ["Interactions", "400k+"], ["Audience reached", "30m+"]]}
+    ]
+  }
+}

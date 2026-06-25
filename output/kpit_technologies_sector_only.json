@@ -1,0 +1,2012 @@
+{
+  "company_name": "kpit technologies",
+  "generated_at": "20260624_221843",
+  "resolved_subsector": "automotive engineering research and development (ER&D) services for software-defined vehicles (SDVs) and intelligent mobility",
+  "sections": [
+    {
+      "heading": "Total Contract Value (TCV) & Order Book",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn)",
+          "value": [
+            {
+              "period": "Q4 FY26 (January-March 2026)",
+              "value": 349
+            },
+            {
+              "period": "Q3 FY26 (October-December 2025)",
+              "value": 202
+            },
+            {
+              "period": "Q2 FY26 (July-September 2025)",
+              "value": 232
+            },
+            {
+              "period": "Q1 FY26 (April-June 2025)",
+              "value": 241
+            },
+            {
+              "period": "Q4 FY25 (January-March 2025)",
+              "value": 280
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Order Book/Backlog Value (USD Mn, end of period)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 202,
+              "note": "as an order book pipeline"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Large Strategic Engagements Won (Quarterly)",
+          "value": [
+            {
+              "period": "Q4 FY26 (January-March 2026)",
+              "count": 2,
+              "note": "One strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of $50 million; Strategic partnerships with a leading Japanese Tier 1."
+            },
+            {
+              "period": "Q3 FY26 (October-December 2025)",
+              "count": "Not Available",
+              "note": "Strategic engagements with a leading European car manufacturer and a Chinese manufacturer in the connected vehicle domain."
+            },
+            {
+              "period": "Q2 FY26 (July-September 2025)",
+              "count": 1,
+              "note": "Multi-million-dollar, multi-year partnership with a leading European automotive OEM group."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn): [{\"period\": \"Q4 FY26 (January-March 2026)\", \"value\": 349}, {\"period\": \"Q3 FY26 (October-December 2025)\", \"value\": 202}, {\"period\": \"Q2 FY26 (July-September 2025)\", \"value\": 232}, {\"period\": \"Q1 FY26 (April-June 2025)\", \"value\": 241}, {\"period\": \"Q4 FY25 (January-March 2025)\", \"value\": 280}]",
+        "Order Book/Backlog Value (USD Mn, end of period): [{\"period\": \"Q3 FY26\", \"value\": 202, \"note\": \"as an order book pipeline\"}]",
+        "Number of Large Strategic Engagements Won (Quarterly): [{\"period\": \"Q4 FY26 (January-March 2026)\", \"count\": 2, \"note\": \"One strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of $50 million; Strategic partnerships with a leading Japanese Tier 1.\"}, {\"period\": \"Q3 FY26 (October-December 2025)\", \"count\": \"Not Available\", \"note\": \"Strategic engagements with a leading European car manufacturer and a Chinese manufacturer in the connected vehicle domain.\"}, {\"period\": \"Q2 FY26 (July-September 2025)\", \"count\": 1, \"note\": \"Multi-million-dollar, multi-year partnership with a leading European automotive OEM group.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kpit.com",
+          "url": null,
+          "fields": [
+            "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn)",
+            "Order Book/Backlog Value (USD Mn, end of period)",
+            "Number of Large Strategic Engagements Won (Quarterly)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETElv8rxYIIAGf7AEccbCIK90PrCFxPenEnitPoQbbcq3FPbdkcrmwLwwddBLGnPYPQpu6oZK7G93C9NKXd2mqIGjYreoTmzDb8YkkvYz0VHN4r_ive26qzjY5Ji8U2MedGRFOzIN5Al44U0Ms5vc_wL-tOx9MiD_ugf-p-04hJhVaghITfyQWW3YuIHdh_IfPKxzqrYkY9iEdKTw1KQ==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBfMuzocH3jdFRbULBb_ycmXmpj1-FwBag-fdlPsJjnUMq39k9-1g7sJouSvPOExpIlqUlWTHQubB5Ip0moTEptyVAuMLbGEoZF9WCE_9Lc4n00Ym_coR2csdZ9_2b1M0x1sICdWnMakjPjvoCPWVMtskmZxZS-hGh50JP16gZ3QMqBASfDbPeInKi4bfewVFN7G5m8gn9Qp7R03xTtPeN1vzbZLMGnMLyX_NHzz7jkxeDeK0i3k0bhxYivLg9iQ==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQa0IfsnCoJgURC7GjFy1q9668AG5xZs0iYuWe8Ee3TlsYgd0UwahGDvVmcaeV3JA_TmrluiVI5k1Ks80WD8uKx4zYQXBh4zHf8KJM0n9U6GCpEVso1Gxj2i7dDQN-m-Aags8t6MxyE4GSBHhgPHHShKhyZtTdObcp60opLDgs7lxDTb8UxYc4IMYhlo9dQAltMLbjJRUa7wtKemfGD4wznlc8nPcvZ84bDfri_MRGyUwPnDmhpWUFVPsjQjLE0asp31a1uSiJMbqfAEl5zA==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB3bF9fn-sC6WL3RULYqRAqR5cgFwBHuJbTwDNxctN-arDumPyYPPZ04O-e9u_NbO-H0iEcBr9hqgxvfrr_yaxfQqteZ6cSoSNfGeUCwsJXUckhYQVU1K0scsf2EiyFidhoef0m8R2jntl1uT5hP2RWgfOIGH2CKeCJ8_D8jaZe0tKZlQ-gK2_6bF7yPvuyitwyeEZl_uBVXM-xHRIomPH",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMJ3x4GlFYxyZwbMNUTxIHhWG85twTwyQ87DnIXqMSDcj5UuREIutqlwYvXnvhHzSDcxkca1UfVhJnGdEkAM9mzwmu6nmCGkNStw3vh_ZMPVGGL0DtvpzCVnLhfIIikVGUtEvR3poa07-BP5jlSYYhCO5NE8_K9_KkSMUVr32kRR-SEJ4NUSDjQAH3Blu690KXx8Ta3AuBED6iMgEPjGuFtkK8fFnJ08Y8E7WAXgplSJIHNe5QphJl-OepEA==",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZa-fEftBp0IXO5tsQ3zzN91QbBDYNEI2C3nW-coA5iXOEDU2HEu3lbE9PyifTr7icm2_o3qAMDCRegydB-lXxyPc1AFyG5eckL9AU1Do2a9aM-ea3d0BB4WTHt1ED-tcit7QVVDjaJNLx7CzyXPbSTf4nvdlq65ILfyZS1XzCzspDihNMZ6Ty_90ROZetRfZ2Kl0-",
+          "fields": []
+        }
+      ],
+      "domain_name": "Order Book & Deal Pipeline Dynamics",
+      "confidence": "high",
+      "completeness": 0.6,
+      "planned_field_count": 5,
+      "missing_fields": [
+        "Book-to-Bill Ratio (Quarterly/Annually)",
+        "Average Deal Size for New Engagements (USD Mn)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "The TCV and Book-to-Bill trends directly inform the growth trajectory and revenue visibility, making KPIT a more compelling investment to diligence if these metrics show consistent upward momentum.",
+        "banker": "Strong TCV wins and a healthy Book-to-Bill ratio indicate robust demand for KPIT's services, suggesting potential for M&A or capital raise opportunities that warrant further investigation.",
+        "credit_analyst": "The Order Book and Book-to-Bill ratio provide insight into future revenue stability and predictability, which are critical for assessing KPIT's creditworthiness and ability to service debt.",
+        "consultant": "Understanding the dynamics of TCV and deal pipeline, particularly the average deal size and number of strategic engagements, helps assess KPIT's market position and potential for operational improvement or strategic partnerships."
+      }
+    },
+    {
+      "heading": "Book-to-Bill Ratio Trend",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn)",
+          "value": [
+            {
+              "period": "Q4 FY26 (January-March 2026)",
+              "value": 349
+            },
+            {
+              "period": "Q3 FY26 (October-December 2025)",
+              "value": 202
+            },
+            {
+              "period": "Q2 FY26 (July-September 2025)",
+              "value": 232
+            },
+            {
+              "period": "Q1 FY26 (April-June 2025)",
+              "value": 241
+            },
+            {
+              "period": "Q4 FY25 (January-March 2025)",
+              "value": 280
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Order Book/Backlog Value (USD Mn, end of period)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 202,
+              "note": "as an order book pipeline"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Large Strategic Engagements Won (Quarterly)",
+          "value": [
+            {
+              "period": "Q4 FY26 (January-March 2026)",
+              "count": 2,
+              "note": "One strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of $50 million; Strategic partnerships with a leading Japanese Tier 1."
+            },
+            {
+              "period": "Q3 FY26 (October-December 2025)",
+              "count": "Not Available",
+              "note": "Strategic engagements with a leading European car manufacturer and a Chinese manufacturer in the connected vehicle domain."
+            },
+            {
+              "period": "Q2 FY26 (July-September 2025)",
+              "count": 1,
+              "note": "Multi-million-dollar, multi-year partnership with a leading European automotive OEM group."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn): [{\"period\": \"Q4 FY26 (January-March 2026)\", \"value\": 349}, {\"period\": \"Q3 FY26 (October-December 2025)\", \"value\": 202}, {\"period\": \"Q2 FY26 (July-September 2025)\", \"value\": 232}, {\"period\": \"Q1 FY26 (April-June 2025)\", \"value\": 241}, {\"period\": \"Q4 FY25 (January-March 2025)\", \"value\": 280}]",
+        "Order Book/Backlog Value (USD Mn, end of period): [{\"period\": \"Q3 FY26\", \"value\": 202, \"note\": \"as an order book pipeline\"}]",
+        "Number of Large Strategic Engagements Won (Quarterly): [{\"period\": \"Q4 FY26 (January-March 2026)\", \"count\": 2, \"note\": \"One strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of $50 million; Strategic partnerships with a leading Japanese Tier 1.\"}, {\"period\": \"Q3 FY26 (October-December 2025)\", \"count\": \"Not Available\", \"note\": \"Strategic engagements with a leading European car manufacturer and a Chinese manufacturer in the connected vehicle domain.\"}, {\"period\": \"Q2 FY26 (July-September 2025)\", \"count\": 1, \"note\": \"Multi-million-dollar, multi-year partnership with a leading European automotive OEM group.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kpit.com",
+          "url": null,
+          "fields": [
+            "Total Contract Value (TCV) Won (Quarterly, YoY, USD Mn)",
+            "Order Book/Backlog Value (USD Mn, end of period)",
+            "Number of Large Strategic Engagements Won (Quarterly)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETElv8rxYIIAGf7AEccbCIK90PrCFxPenEnitPoQbbcq3FPbdkcrmwLwwddBLGnPYPQpu6oZK7G93C9NKXd2mqIGjYreoTmzDb8YkkvYz0VHN4r_ive26qzjY5Ji8U2MedGRFOzIN5Al44U0Ms5vc_wL-tOx9MiD_ugf-p-04hJhVaghITfyQWW3YuIHdh_IfPKxzqrYkY9iEdKTw1KQ==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBfMuzocH3jdFRbULBb_ycmXmpj1-FwBag-fdlPsJjnUMq39k9-1g7sJouSvPOExpIlqUlWTHQubB5Ip0moTEptyVAuMLbGEoZF9WCE_9Lc4n00Ym_coR2csdZ9_2b1M0x1sICdWnMakjPjvoCPWVMtskmZxZS-hGh50JP16gZ3QMqBASfDbPeInKi4bfewVFN7G5m8gn9Qp7R03xTtPeN1vzbZLMGnMLyX_NHzz7jkxeDeK0i3k0bhxYivLg9iQ==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQa0IfsnCoJgURC7GjFy1q9668AG5xZs0iYuWe8Ee3TlsYgd0UwahGDvVmcaeV3JA_TmrluiVI5k1Ks80WD8uKx4zYQXBh4zHf8KJM0n9U6GCpEVso1Gxj2i7dDQN-m-Aags8t6MxyE4GSBHhgPHHShKhyZtTdObcp60opLDgs7lxDTb8UxYc4IMYhlo9dQAltMLbjJRUa7wtKemfGD4wznlc8nPcvZ84bDfri_MRGyUwPnDmhpWUFVPsjQjLE0asp31a1uSiJMbqfAEl5zA==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB3bF9fn-sC6WL3RULYqRAqR5cgFwBHuJbTwDNxctN-arDumPyYPPZ04O-e9u_NbO-H0iEcBr9hqgxvfrr_yaxfQqteZ6cSoSNfGeUCwsJXUckhYQVU1K0scsf2EiyFidhoef0m8R2jntl1uT5hP2RWgfOIGH2CKeCJ8_D8jaZe0tKZlQ-gK2_6bF7yPvuyitwyeEZl_uBVXM-xHRIomPH",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMJ3x4GlFYxyZwbMNUTxIHhWG85twTwyQ87DnIXqMSDcj5UuREIutqlwYvXnvhHzSDcxkca1UfVhJnGdEkAM9mzwmu6nmCGkNStw3vh_ZMPVGGL0DtvpzCVnLhfIIikVGUtEvR3poa07-BP5jlSYYhCO5NE8_K9_KkSMUVr32kRR-SEJ4NUSDjQAH3Blu690KXx8Ta3AuBED6iMgEPjGuFtkK8fFnJ08Y8E7WAXgplSJIHNe5QphJl-OepEA==",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZa-fEftBp0IXO5tsQ3zzN91QbBDYNEI2C3nW-coA5iXOEDU2HEu3lbE9PyifTr7icm2_o3qAMDCRegydB-lXxyPc1AFyG5eckL9AU1Do2a9aM-ea3d0BB4WTHt1ED-tcit7QVVDjaJNLx7CzyXPbSTf4nvdlq65ILfyZS1XzCzspDihNMZ6Ty_90ROZetRfZ2Kl0-",
+          "fields": []
+        }
+      ],
+      "domain_name": "Order Book & Deal Pipeline Dynamics",
+      "confidence": "high",
+      "completeness": 0.6,
+      "planned_field_count": 5,
+      "missing_fields": [
+        "Book-to-Bill Ratio (Quarterly/Annually)",
+        "Average Deal Size for New Engagements (USD Mn)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "The TCV and Book-to-Bill trends directly inform the growth trajectory and revenue visibility, making KPIT a more compelling investment to diligence if these metrics show consistent upward momentum.",
+        "banker": "Strong TCV wins and a healthy Book-to-Bill ratio indicate robust demand for KPIT's services, suggesting potential for M&A or capital raise opportunities that warrant further investigation.",
+        "credit_analyst": "The Order Book and Book-to-Bill ratio provide insight into future revenue stability and predictability, which are critical for assessing KPIT's creditworthiness and ability to service debt.",
+        "consultant": "Understanding the dynamics of TCV and deal pipeline, particularly the average deal size and number of strategic engagements, helps assess KPIT's market position and potential for operational improvement or strategic partnerships."
+      }
+    },
+    {
+      "heading": "Revenue Mix by Vehicle Segment",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %)",
+          "value": [
+            {
+              "segment": "Passenger Vehicles",
+              "value": "77%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Commercial Vehicles",
+              "value": "21%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Off-Highway",
+              "value": "Not Available",
+              "note": "Included within Commercial Vehicle segment in some reporting, was a key growth driver in Q4 FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth for each Vehicle Segment",
+          "value": [
+            {
+              "segment": "Commercial Vehicles",
+              "growth": "43%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Passenger Vehicles",
+              "growth": "0.5%",
+              "period": "FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %)",
+          "value": [
+            {
+              "practice_area": "Feature Development & Integration",
+              "value": "60.4%",
+              "period": "FY25"
+            },
+            {
+              "practice_area": "Architecture & Middleware",
+              "value": "21.8%",
+              "period": "FY25"
+            },
+            {
+              "practice_area": "Cloud-Based Connected Services",
+              "value": "17.8%",
+              "period": "FY25"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth for each Practice Area",
+          "value": [
+            {
+              "practice_area": "Feature Development & Integration",
+              "growth": "15.2%",
+              "period": "FY24"
+            },
+            {
+              "practice_area": "Architecture & Middleware Consulting",
+              "growth": "Not Available",
+              "period": "FY25 or FY26"
+            },
+            {
+              "practice_area": "Cloud-Based Connected Services",
+              "growth": "Not Available",
+              "period": "FY25 or FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels)",
+          "value": [
+            {
+              "description": "A leading European Car Manufacturer selected KPIT for strategic engagements in the electric powertrain, autonomous, and body electronics domains.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Multiple engagements in powertrain, after sales, and vehicle engineering domains for a leading American Commercial Vehicle Manufacturer.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Multiple engagements in the after sales, autonomous, and connected domains with a leading European Car Manufacturer.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic engagements in the autonomous and middleware domains with a leading American Off-highway OEM.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "A leading Asian Car Manufacturer selected KPIT for multiple engagements in the connected domain.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of USD 50M, focused on large-scale, software-defined transformation of next-generation machine platforms.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic partnerships with a leading Japanese Tier 1 with focus on next-generation digital cockpit programs for multiple global OEMs.",
+              "period": "Q4 FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %): [{\"segment\": \"Passenger Vehicles\", \"value\": \"77%\", \"period\": \"FY26\"}, {\"segment\": \"Commercial Vehicles\", \"value\": \"21%\", \"period\": \"FY26\"}, {\"segment\": \"Off-Highway\", \"value\": \"Not Available\", \"note\": \"Included within Commercial Vehicle segment in some reporting, was a key growth driver in Q4 FY26\"}]",
+        "YoY Growth for each Vehicle Segment: [{\"segment\": \"Commercial Vehicles\", \"growth\": \"43%\", \"period\": \"FY26\"}, {\"segment\": \"Passenger Vehicles\", \"growth\": \"0.5%\", \"period\": \"FY26\"}]",
+        "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %): [{\"practice_area\": \"Feature Development & Integration\", \"value\": \"60.4%\", \"period\": \"FY25\"}, {\"practice_area\": \"Architecture & Middleware\", \"value\": \"21.8%\", \"period\": \"FY25\"}, {\"practice_area\": \"Cloud-Based Connected Services\", \"value\": \"17.8%\", \"period\": \"FY25\"}]",
+        "YoY Growth for each Practice Area: [{\"practice_area\": \"Feature Development & Integration\", \"growth\": \"15.2%\", \"period\": \"FY24\"}, {\"practice_area\": \"Architecture & Middleware Consulting\", \"growth\": \"Not Available\", \"period\": \"FY25 or FY26\"}, {\"practice_area\": \"Cloud-Based Connected Services\", \"growth\": \"Not Available\", \"period\": \"FY25 or FY26\"}]",
+        "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels): [{\"description\": \"A leading European Car Manufacturer selected KPIT for strategic engagements in the electric powertrain, autonomous, and body electronics domains.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Multiple engagements in powertrain, after sales, and vehicle engineering domains for a leading American Commercial Vehicle Manufacturer.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Multiple engagements in the after sales, autonomous, and connected domains with a leading European Car Manufacturer.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic engagements in the autonomous and middleware domains with a leading American Off-highway OEM.\", \"period\": \"Q4 FY26\"}, {\"description\": \"A leading Asian Car Manufacturer selected KPIT for multiple engagements in the connected domain.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of USD 50M, focused on large-scale, software-defined transformation of next-generation machine platforms.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic partnerships with a leading Japanese Tier 1 with focus on next-generation digital cockpit programs for multiple global OEMs.\", \"period\": \"Q4 FY26\"}]"
+      ],
+      "references": [
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM=",
+          "fields": [
+            "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %)",
+            "YoY Growth for each Vehicle Segment",
+            "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %)",
+            "YoY Growth for each Practice Area",
+            "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels)"
+          ]
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8yzJ4XrfJwmO0MmydX5Vi-AOXCkFM5EBkKpuNnRKFY9G0hZg2HpYnVIHUKxy6sNHCd0GPdbhFEyO5Gj2VNmypaVU1xlI1pTg5xaSkakAdU1HSiL1VtMlTh8sT_F3JRRqOKjea07N6WvAQGkQaADwdXwAA_5LH9OqE-4z-GRAESBKJ3l8erCJ4x7iIAMdE6SiLr7WW83ptRFETnecY8ti3zD2ndRg=",
+          "fields": []
+        },
+        {
+          "name": "tradejini.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESdgFhxMYbIO8mY5i-m-2XWbhxSmB_cAc7lBjZlnNgtfOZA7k2axFawSs7LVe9b1FxvTTSi0pfx65l2pvjRl0QiJfKwUAuaAXxvQ6HPD1o17L0_EbZyBXmZfpU7bDYPFBArl0r9-zvmwxuG-T4P-U97NqV79C2fhRwxywtWPEZy9D-591UyCsFkRdjYqGD82xImP9-KP1a7In71gRQaQ==",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7asVGqibJMSCuIkRCDh5W6kgtg6bJQm-Nqp-FlRJEJb6rOiOuPGXW_QSXd120lVwZL1ZjKfTDyjanT-pLGwKI-HCEE7ZNqxZzH1lBsnQLmI15k7-YlMHgJh1l_ym3t5bJrQZYybOuP-D8IHyGxEHMY1vKTnpjhN-oXP_yMqwO8XiQ0o0obiT_Zs-81swxDlTCrJXubm_GMXBfG-fUer5S68au3J7",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTaqgyJbf4l2bi5VJtvY1qGkRh3DHuihehNZ-XhaiE_Db4g8mNtghPxYoIw6SpOPD4cylQo7N3_tkcqjISZ9TnQr-SSBWyJC-EOfiNYruY0y5ldXAbrF02nwqipcK1T3wT-Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segmental Performance & Strategic Focus Areas",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 5,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms KPIT's stated strategic focus on SDVs and intelligent mobility by showing revenue concentration and growth in relevant vehicle segments (e.g., Passenger Car) and practice areas (e.g., Feature Development & Integration), justifying deeper diligence.",
+        "banker": "Highlights potential for future M&A or capital raise activity if growth in strategic practice areas like Cloud-Based Connected Services is accelerating, making it a more attractive pitch.",
+        "credit_analyst": "Provides insight into revenue diversification and growth drivers within key segments, helping to assess the stability and future earning potential of KPIT, influencing the underwriting decision.",
+        "consultant": "Offers granular data on revenue mix and growth by practice area, enabling a consultant to identify potential operational strengths or weaknesses and areas for strategic improvement to explore further."
+      }
+    },
+    {
+      "heading": "Revenue Mix by Practice Area",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %)",
+          "value": [
+            {
+              "segment": "Passenger Vehicles",
+              "value": "77%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Commercial Vehicles",
+              "value": "21%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Off-Highway",
+              "value": "Not Available",
+              "note": "Included within Commercial Vehicle segment in some reporting, was a key growth driver in Q4 FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth for each Vehicle Segment",
+          "value": [
+            {
+              "segment": "Commercial Vehicles",
+              "growth": "43%",
+              "period": "FY26"
+            },
+            {
+              "segment": "Passenger Vehicles",
+              "growth": "0.5%",
+              "period": "FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %)",
+          "value": [
+            {
+              "practice_area": "Feature Development & Integration",
+              "value": "60.4%",
+              "period": "FY25"
+            },
+            {
+              "practice_area": "Architecture & Middleware",
+              "value": "21.8%",
+              "period": "FY25"
+            },
+            {
+              "practice_area": "Cloud-Based Connected Services",
+              "value": "17.8%",
+              "period": "FY25"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth for each Practice Area",
+          "value": [
+            {
+              "practice_area": "Feature Development & Integration",
+              "growth": "15.2%",
+              "period": "FY24"
+            },
+            {
+              "practice_area": "Architecture & Middleware Consulting",
+              "growth": "Not Available",
+              "period": "FY25 or FY26"
+            },
+            {
+              "practice_area": "Cloud-Based Connected Services",
+              "growth": "Not Available",
+              "period": "FY25 or FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels)",
+          "value": [
+            {
+              "description": "A leading European Car Manufacturer selected KPIT for strategic engagements in the electric powertrain, autonomous, and body electronics domains.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Multiple engagements in powertrain, after sales, and vehicle engineering domains for a leading American Commercial Vehicle Manufacturer.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Multiple engagements in the after sales, autonomous, and connected domains with a leading European Car Manufacturer.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic engagements in the autonomous and middleware domains with a leading American Off-highway OEM.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "A leading Asian Car Manufacturer selected KPIT for multiple engagements in the connected domain.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of USD 50M, focused on large-scale, software-defined transformation of next-generation machine platforms.",
+              "period": "Q4 FY26"
+            },
+            {
+              "description": "Strategic partnerships with a leading Japanese Tier 1 with focus on next-generation digital cockpit programs for multiple global OEMs.",
+              "period": "Q4 FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %): [{\"segment\": \"Passenger Vehicles\", \"value\": \"77%\", \"period\": \"FY26\"}, {\"segment\": \"Commercial Vehicles\", \"value\": \"21%\", \"period\": \"FY26\"}, {\"segment\": \"Off-Highway\", \"value\": \"Not Available\", \"note\": \"Included within Commercial Vehicle segment in some reporting, was a key growth driver in Q4 FY26\"}]",
+        "YoY Growth for each Vehicle Segment: [{\"segment\": \"Commercial Vehicles\", \"growth\": \"43%\", \"period\": \"FY26\"}, {\"segment\": \"Passenger Vehicles\", \"growth\": \"0.5%\", \"period\": \"FY26\"}]",
+        "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %): [{\"practice_area\": \"Feature Development & Integration\", \"value\": \"60.4%\", \"period\": \"FY25\"}, {\"practice_area\": \"Architecture & Middleware\", \"value\": \"21.8%\", \"period\": \"FY25\"}, {\"practice_area\": \"Cloud-Based Connected Services\", \"value\": \"17.8%\", \"period\": \"FY25\"}]",
+        "YoY Growth for each Practice Area: [{\"practice_area\": \"Feature Development & Integration\", \"growth\": \"15.2%\", \"period\": \"FY24\"}, {\"practice_area\": \"Architecture & Middleware Consulting\", \"growth\": \"Not Available\", \"period\": \"FY25 or FY26\"}, {\"practice_area\": \"Cloud-Based Connected Services\", \"growth\": \"Not Available\", \"period\": \"FY25 or FY26\"}]",
+        "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels): [{\"description\": \"A leading European Car Manufacturer selected KPIT for strategic engagements in the electric powertrain, autonomous, and body electronics domains.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Multiple engagements in powertrain, after sales, and vehicle engineering domains for a leading American Commercial Vehicle Manufacturer.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Multiple engagements in the after sales, autonomous, and connected domains with a leading European Car Manufacturer.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic engagements in the autonomous and middleware domains with a leading American Off-highway OEM.\", \"period\": \"Q4 FY26\"}, {\"description\": \"A leading Asian Car Manufacturer selected KPIT for multiple engagements in the connected domain.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic long-term partnership with a Global Off-Highway Equipment & Machinery Leader in excess of USD 50M, focused on large-scale, software-defined transformation of next-generation machine platforms.\", \"period\": \"Q4 FY26\"}, {\"description\": \"Strategic partnerships with a leading Japanese Tier 1 with focus on next-generation digital cockpit programs for multiple global OEMs.\", \"period\": \"Q4 FY26\"}]"
+      ],
+      "references": [
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2IqlkIbSOBIfmUJ4FaxnOi3ecS37gc7f50jVN6PN0bi6jHYzBxjEh6jB4T5ahYBVrUZN32phY_v__Uuz-AtWHsD5buH59ybqY5vDnPlZGjZAOB9L4NjpJNJYT03iFLEnFe_TW8m5SUUHl8TVd4ilWWHLUp5utIdsd42GZgo7JG4SMg1mo8hrlVHUz6-4YKHNutQr4IhafBbb4qbt1iM=",
+          "fields": [
+            "Revenue Split by Vehicle Segment (Passenger Car %, Commercial %, Off-Highway %)",
+            "YoY Growth for each Vehicle Segment",
+            "Revenue Split by Practice Area (Feature Development & Integration %, Architecture & Middleware %, Cloud-Based Connected Services %)",
+            "YoY Growth for each Practice Area",
+            "Number of Strategic Engagements in new/focus segments (e.g., off-highway, specific ADAS levels)"
+          ]
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8yzJ4XrfJwmO0MmydX5Vi-AOXCkFM5EBkKpuNnRKFY9G0hZg2HpYnVIHUKxy6sNHCd0GPdbhFEyO5Gj2VNmypaVU1xlI1pTg5xaSkakAdU1HSiL1VtMlTh8sT_F3JRRqOKjea07N6WvAQGkQaADwdXwAA_5LH9OqE-4z-GRAESBKJ3l8erCJ4x7iIAMdE6SiLr7WW83ptRFETnecY8ti3zD2ndRg=",
+          "fields": []
+        },
+        {
+          "name": "tradejini.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESdgFhxMYbIO8mY5i-m-2XWbhxSmB_cAc7lBjZlnNgtfOZA7k2axFawSs7LVe9b1FxvTTSi0pfx65l2pvjRl0QiJfKwUAuaAXxvQ6HPD1o17L0_EbZyBXmZfpU7bDYPFBArl0r9-zvmwxuG-T4P-U97NqV79C2fhRwxywtWPEZy9D-591UyCsFkRdjYqGD82xImP9-KP1a7In71gRQaQ==",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn7asVGqibJMSCuIkRCDh5W6kgtg6bJQm-Nqp-FlRJEJb6rOiOuPGXW_QSXd120lVwZL1ZjKfTDyjanT-pLGwKI-HCEE7ZNqxZzH1lBsnQLmI15k7-YlMHgJh1l_ym3t5bJrQZYybOuP-D8IHyGxEHMY1vKTnpjhN-oXP_yMqwO8XiQ0o0obiT_Zs-81swxDlTCrJXubm_GMXBfG-fUer5S68au3J7",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTaqgyJbf4l2bi5VJtvY1qGkRh3DHuihehNZ-XhaiE_Db4g8mNtghPxYoIw6SpOPD4cylQo7N3_tkcqjISZ9TnQr-SSBWyJC-EOfiNYruY0y5ldXAbrF02nwqipcK1T3wT-Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segmental Performance & Strategic Focus Areas",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 5,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms KPIT's stated strategic focus on SDVs and intelligent mobility by showing revenue concentration and growth in relevant vehicle segments (e.g., Passenger Car) and practice areas (e.g., Feature Development & Integration), justifying deeper diligence.",
+        "banker": "Highlights potential for future M&A or capital raise activity if growth in strategic practice areas like Cloud-Based Connected Services is accelerating, making it a more attractive pitch.",
+        "credit_analyst": "Provides insight into revenue diversification and growth drivers within key segments, helping to assess the stability and future earning potential of KPIT, influencing the underwriting decision.",
+        "consultant": "Offers granular data on revenue mix and growth by practice area, enabling a consultant to identify potential operational strengths or weaknesses and areas for strategic improvement to explore further."
+      }
+    },
+    {
+      "heading": "Automotive ER&D Market Growth Drivers",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Global Automotive ER&D Market Size (USD Bn)",
+          "value": [
+            {
+              "period": "2026 (projected)",
+              "value": 235.09
+            },
+            {
+              "period": "2025 (projected, from USD 180 Bn in 2022)",
+              "value": 238
+            },
+            {
+              "period": "2025",
+              "value": 224.65
+            }
+          ],
+          "sources": [
+            {
+              "name": "precedenceresearch.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Global Automotive ER&D Market Size (USD Bn): [{\"period\": \"2026 (projected)\", \"value\": 235.09}, {\"period\": \"2025 (projected, from USD 180 Bn in 2022)\", \"value\": 238}, {\"period\": \"2025\", \"value\": 224.65}]"
+      ],
+      "references": [
+        {
+          "name": "precedenceresearch.com",
+          "url": null,
+          "fields": [
+            "Global Automotive ER&D Market Size (USD Bn)"
+          ]
+        },
+        {
+          "name": "precedenceresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWFNwuXYIeOEihVDRg_qCXZyY-XIKQUZGCNiN-9dEUT6202qDsdFxLFjvuQuCUDW_sYv98KpUioSUIHLgwwqonaLa0hjglEtd_P5mBqsf7iR-xbY2hqR6bUaLFcyvDrmeNZHA6IJhXa8bfchaNImIkP9RrhsDMr4bY_bkjkDG-cgXrKg==",
+          "fields": []
+        },
+        {
+          "name": "datamintelligence.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-weUhVmq7xw-MAPJUzlM6d4tE6-_Me6ImCc40oJryqQTaO3CjD77z1HK2IplcohTSveIX5jM1EVd6Fdje-zkluHHlnx8C68AE_sken1BJazUd-0XWTJzXaJW2X0IoiH61Sg_tMwA8G129XO9jA4FvV_0cdEwRrCUBX1Qgw24w8ntbDt91kv7pDrMqQOoVyk3q1g==",
+          "fields": []
+        },
+        {
+          "name": "tatatechnologies.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEre64IjWJ08hKlk78p-4aLk5zEkkUdZqTt6C_Q5yBfaMqWkRpHOCzcr-9lgRIi2bCzygZSd9__i0E5xrHTQ6ZYn0XI3WqnzDmkU2FBGBLOyBYNNUrFa2rcJzDGu6b2iVEixfrwy_isMW1LrCLX6f5zBUSmfhuE0pOyOCDV-BVQ6OtujpbAQ6qSjIgbhkvuwWce0jkhe4OXkrbyWo7u922m3sfNNEruLTYVYklKxdM=",
+          "fields": []
+        },
+        {
+          "name": "fortunebusinessinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvscX1g8UyCh86oO5VVVzclHFrRbK9boqPVoeR8GVQn9HjNqyk7bgbNlW_nFmU-d9tcjIhcqZmXxHltYgUxr1OpcQKZAqk7T9nMcKv-hdsp0KAYEbMLRjf9hGIeUP4OAGvVQhbjkRzwQ-gMPF1BVuj8h4qZ4_T2hCV8dlKWd9b_ICK4In48FjU",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa53xNqnw7ZQOChx1BVKtI_PptWKtVE-6s6TcHeDSrTGsGfp5MMIM0vBG-911m5tAYCx16v5Rr0YSsf10BPdsp2Us7K-0aWn2mCYUUdfsICIRH3lzL9fJmPmAnrrB4qRcKoi_l59gHiWySNFQdxuBZ4To7FY_8qobHMXgQ-vcHPSRvDoNWZd0Y708iSLfBffpO05K32w==",
+          "fields": []
+        },
+        {
+          "name": "insightaceanalytic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBzqrkjZHuFCcjDp-PLJ4GtlSCctovovIaaZ8ltP7dx72nTZJj7nXHqHJqbsELfnO8aG_-RYWXiTT4SHkdzClL7sQgI3JXj68q-iqyuv03b1ZbM-6H4D9DIZj-mIIO8jBfulOwrvokIzStBlv5JvZhlc4WNA4qLSMDiBkGzwduVv7YPU9ofvQ",
+          "fields": []
+        },
+        {
+          "name": "bccresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_d90kxqpGI3W2c_ia-vVIJMfQDIEjfbYAl6G4had72hHuQVe4o8GM8JtcCYHg0E5xFANBKlulWRRCsgMJ7HcnV-9w7m_cTzTYVMxT9bMO4CJ28iA_XRTJz4TXNM_9o0iTjc5R1Zo2yuspIsLHnctkfETb1whKvnqFbe1seDd_BK6Ub4eHTa035wk8ZzmQLOF8xCVS_qymXGJd",
+          "fields": []
+        },
+        {
+          "name": "gminsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMcE1Z30P0OzpCPgHQUepJzVicFYGqFhAUkup8lhS9vqA_zP5naV1aAk08Imb6b_PgdUut8-CNuzSq_ov4jipLxgSWaiISsavLPy2mMEpuyhETkrkMsth7t0c4a9LdRa8GqMIhmJ5Aed_sWRrHHHBNdCPVOxwpNu_6w-5uM4-OK4djW_uYA==",
+          "fields": []
+        },
+        {
+          "name": "strategicmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5xGfMwHTBUbV_mE7602EXWUS11qALfZtZLO69P1n7nDYFuj9DY1pLQCm5n0zAPXFpR-FAAF_2Dv1hdWRfPP9LJlWUd05BjgA3n9CNY1uLqyOgEiepdY27o0g4KsTQNZRFTRB6cFFBLwz-QfiVCst85uJaxUueuf7624wvZOdYSx2Kx2Bvl7EbXamBIN0stw==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6j_ovXL4k_bkAW04TpqBcv3uSvHDAm-TP3zq-S1gnmucEDvyzGQ4ncHDq91SN0JnRssKBn0CoENB2VTyuO2uny9iBHYX77wiReiS1bcJwvVkL4RvY4yd-2d9TpJeQSf6N4v74NWVnuw02cUazR_1Wh5L7QmjV1lFjzZDHG_U-A1mZeqKcnkxOTsCZ7l9wxXquzfoNb9MNp8qGy1-5sEE0ug8vteuNppvtLzq2tw7GsMQJHTMiEUUBHQgMkyQ8MQC1jc8v",
+          "fields": []
+        },
+        {
+          "name": "bnef.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE04l0b4ZVoMrRXDpVBVhqMSgZIBonrnBlCTdCHANYfuwVjKkFlJm_qsV7vvSE9fNU-jx-MtNpsDl2F4XpE1-jBWV6_LDKOJGoW2ijKTbp1dhwX938XCMn41HDGy6QBgk2HLAxIMLJg2D3HsUMU2I6uP7HjEmhcGjNWOlVvQtMOQR-o5ogAZEm3AeSIhKeSyeegTSOuKEKZzd6JB5KKGxk3DfSAo2Fv3B46Nx2qI96EJau9V6lkgJV8J_eXv4o3OUpHT7V58MqLCeqbTZz-JvFmG1f8jkNvokFwjtvQiIl9E7lW_rBD1eWzpZYvtAGVmYZ2iyo=",
+          "fields": []
+        },
+        {
+          "name": "ev-volumes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsnwWmeeQa5qeZhQR1vy7cHMgCE9biV-4K8QK5bfa4nfnK0Ma4tPc3SFcq2Rauv-6iflB42vG5YwdIdGRxnsIcyMr3_kuKQ_V2bG6lnb2cajg=",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBCgOk-LiD8Xbj4Vfn_Tkn2RKKdFpG5Et0Au6hmZ2BZmQMsZ207Qr6YE1Ehgvfn_hbVRK0ID-P9gPJiWj0dv01ll6CMrkoaTACRqNcnXh4j-PMHxjC9IESA5lLChqSZS0sUt0q5WM2Wlt_T5vcilAdMp96mDPL66kbi7v3JJ48FsUDAZT9ZHjLnepUXLZPGZ9v1bxVHg==",
+          "fields": []
+        },
+        {
+          "name": "iea.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD7vk58PAlUCk5ojmj3x7ttyNtrMkKxSBN81WaZmlA7zU5cx-afZfcZqpvrhd0Ttps4lDzj0pAGiUmWCeiRpDJ2Xm7iMqoO2LNPzjZpYAORg-kawf9a7HOqfEcR_vr7G6xnMo3J5plDyOJcA9vZbb3DxUQmE0DJXU_12GVq-0S2_pZaGA=",
+          "fields": []
+        },
+        {
+          "name": "tridenstechnology.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxL5_mYwuxH5Id8Vy_nTSeCpv7Znfq0xz2cICp8GHRDD2VyStNpPBipEivBx0f2sDGaxAjPPz--WznOv7kExDDhd54Ypa_vlIBB-SpTS6LqbmWePqul9qRaqt7Zo6Vq7hDPk2rG-cjoEzWLG828BfX4kShTsWy",
+          "fields": []
+        },
+        {
+          "name": "news18a.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhehHw1VvxL67uGoL5viLQa0yyTmsWwOJUzCGwIualbdFDeMLlj9AFzHWo8m7PWvFV0ZeKPmmEElsa9yG4c9y5vAc2ETIXcKS8JUjXFCBtWSfiE2CbYhldiMlozGujG99ET015_gQ8HhdG_Xrx5A==",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22TULFH1GcXzyLJUQjgHBJXZZXstHvucm3zqERlQKcoly0t0-J6QKhQ85WYJrphy-DXi3ll5-hll6Dx1secUD_jGaz4h_JgigvrUgoe4fpCYdu-zm_U2dFa6Iaja8PMiJDp6Lm9jjPS75iftrnhUFZHcfF5gMKA5lor59g4ceN1_MaLFIOERO1wpAxYFjQZC6moecK0YmeMXP",
+          "fields": []
+        },
+        {
+          "name": "sphericalinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN483JgCDeStKxr6hnCZzqB2kn4F3SjWHUXFIxZ-NOxj9cphQyLtDJEfSS7-xC2h2sMaPZj3pVdl1TcTWq7cstcUcdmxEPA--fZNb1ImukJdpUJLv9p1DPErYefxaWQxntn-nlQV9Dtgm72Um2nL1qHtMBRmCGZbDg0HtKSDtWg2eAWHV-bZOhoj67XPOpGaU-mYRwUlenQcBM3HGFwNXlRLUb-WSZO61h2ejtqYxYmjNQZWiyls2GARNlElY4fFo0oRoAb0RdPuwXy4y-JeOTk0yzwwdG2Ew=",
+          "fields": []
+        },
+        {
+          "name": "mordorintelligence.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiijQhap31SrBYYTB2Kn2H-YpN4kQgnVrrBeEZujSlb-xSCSgSeuQykQ7YfEeazVbrX9REAItgzQQGGttgTxaNmSu5HvWT3gh4yhO-mTLSGB99kGgrVopadxOuARzwz8BwwHPwZb2Tq3A1Hb1bCsvX-dKcfI1OfBh-VEni_0pRkbxVjwZNduc=",
+          "fields": []
+        },
+        {
+          "name": "dataintelo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wH_8XAmTUUgXdG-eGIUUUxVE2vMgTG4aoJRxK34MCcYKp6-gE2AgUi1LWjZwJldjoS8T6DZqa6dLr0DJZ0mEc0UoVn3RyUh92bcG7yT-czI6Wx5Ro-8SCQk0MXvTPnGJOQX6tqcf3sZlus7qzpyyFLJUPY1qYKqdSmPdPLbrr9s5nhhNlg==",
+          "fields": []
+        },
+        {
+          "name": "pestel-analysis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhB2CL3uLDV-v9TE1RxJJytP_kei2W8e8eXuELTYSCnMKV1NmaLtLXrDky-t84K58bL6IfpPWvdTyBVChSsG_4sLDx03ppsDLCbvYiTo7i_PRhXgMDaihoGcq62Z5Ccy1TprfK5RSvp77ZpZI=",
+          "fields": []
+        },
+        {
+          "name": "marklines.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPccky02ZtWca3EiNEsstOj3k11WnoVtBJwwtXuTtB7VBYdkY3MJJgCqL6kkPx718bTkS9AitYxsxb_DVlilci423Ok84f5xcQ5sAP5e7VxRfkd2h5qu9n8S1XLnM0j1zy1A==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-oeOz7675q1PvozLUhniJPPlcDi6WzfeT3FhbhD-I7U4l8O_yeWlpUZ_xml3-3uZRwhxfZob78HtUC5x2Syad1TObfpZ868AFOiW7mXYOsOQZZG2VjZ1ldrDg67trAHUlpSv53ZahGaM1rSNTnWBq3FO-XNgbmC6QZtG3YxeUcXNspRhEtHi1PkXv7oqOR98eOKJiM_BNw6bItQbAA==",
+          "fields": []
+        },
+        {
+          "name": "automotive-cybersecurity-conference.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUvMA3tSlTF-c6ibXGa91rg-oCwBnJ7viWwImCIQ1GcEa6xJCnSTbtyphlMKtco0zR9HVrSMxczebLT3wdJonR3HU5jnc92fq1OifWziaqV6HsUvSfNPVd3hONfYTQt_KU9s0IZWZssPmHBif1p2CoX6ug6PDUzc5twSSLdELLx7nheZA9UpavKqkeaU6aFqAWBbbt8KZmApBsED8UxegpPA==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcmFL0o8drmdpy5nY3pkA5k0yMjiBViDg6VX6K_Q6TETXVBlkGtO5R_b57TPqlitYWhnEhCWRecrCLslLzR1K2z76hasEhzH3G5x9zE6IsETFsLgP9a7gl3DgsmkP89BVadDhI7OkrlbJfIiC5ex3B2B2CczvnQhuaYk7LWAGb3w0pMIz5ccTKojkRghPXbjCp75iXlePw1IbQHrS2SjfQ8rr9DMfgL1h4fpbJ2ZQf3kz-XOpCXkWI-OmqCHHl",
+          "fields": []
+        },
+        {
+          "name": "bisinfotech.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXc7WrKCdjJ7zuLm4bTshBumpyUPEZld0y2bjQ5eNaP_2pXKn_U0ccTOXGQj0emoJZJHy8V91i_5b1l_4ZSNYCqDkQcEmjcnPYThinhQSykf_gNtwHv7tfVfyzoIBPl9vXEhtI3Rj3FP0acZalANUApy1Wwk84mfVyIwh7c6oEJcS4xgMet5oV4foTtdzdVg3QgJ4ovRqOYcqOZhLpFowot1edlqKyuSsq0MYPNH9fdklRTRQzzaxt",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOy3pRnw9pjYW2HrK3ltJjARKvQMArnSQwXHBjHczz7DpSja1GoZzrmOezxzrjh3LvYq52ZOckspqTvvVamh-Vxc35SGX9ryO8FlSa8uVnXs9z99yet8sx1uhdhxRToY3_-aVxjcBrijexgiJ618AuI2r751n7vaDkZHEXZzx2YBkMSqlTvUYBKw-uHLyQf1yDadSCX1Ilsr_chxpWoP5Rz0GlaZa2VU883lhWC4GIUq4Ly64pKj1hxl3dUlsMlWtom3mlqG016St5roD-bjbcwajnJhX5EGYdYIC0iDF04w==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK2RMP9_GL_aPOpSsRepGB7f4-QfPLnOW-qSQrK7srf2I0ZQ5rP5WvBFOs1MfwzbMaqp5daLjwioIq2lYFvAFz_m_R_kYdYuF_kyE3HvhUMHsqiJ4HAAj1Z4L0x_6-",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93_QnlBr6hdWpLIsgykSVnFrS1fBdvTw80tQFC8Ra4CZXQr0E8LGAjVfwAma4z0aOGMKuhdQxv6K4WawfAO7sbemqF6WGjvUvP1UuHDnJynGIxd1Zl-1WP6ct-uo-0n-DtCRLSOB4y3pqTVVG__wQJ8V0ByYVGG5dLyKk7BAscQZ4IqFchRHEgczsrQE-iivXLVI=",
+          "fields": []
+        },
+        {
+          "name": "strategicmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpG0KRh0vRMh3DDmWnaJvQvtwd_IPxUYT4y_FrFnsStmQkCU0207ra2-LfHw1WuqLTTpvJOJGkQtxholWGAOhg35-O1tR-UM9x80WALGDOBNEqA76o7IDM_af9N3fqHlvAUq0Dt3WvgLKHKIUjES5UyaCeo6vPYiiVXk5Yc7ZApszXa0hXudPw7Q9ogxz-Dx0=",
+          "fields": []
+        },
+        {
+          "name": "marketsandmarkets.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC1IQ0jqhsLaqHZwKhVBe7GXHs0Aqn3EIQm-z5m7uiR_PBlqciDHu8MY4J8WhXJaL6WEunIcUu8huaknWHJBkOEgQY95kZx1H9KpZQLEmSu2CMGLST8rOFC7tk6QFES-Ff578LiI1hMB0VLKW4EqM7QOwwAcbypzTVVupLczR6H1AlQxY39ydjqYPMt-wTZlqkwL1a0vN2WFHXiw==",
+          "fields": []
+        },
+        {
+          "name": "gminsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH03wIHRm8F61ygpNYdPrwnil_H50ZrMj5rDFAF9dIpz048kvTKkdZR0dJHDpYaSCDLf2-HaMqMxVGhl8UiQcPsgm-3fXouUnGaRISFwDwgYMcQM6Ybxdngw5lVGoDWcultEu2bCk1pkyGqx6G5lOYP8YMLjOwEDh49rUL4mImFgyJ_-sdxRCg=",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfjnWnA0UJbt2twM5BlTI1MWV1u5MwMXy9kwE9lAFV9nZL3Rpba90oakeV73J4ZFbZ-16MasYh5CcahJiPCrbWZyM6AhTlkVGOdZMrhHpnE3waIU40DqVGe0l-y17GO6h6H6N0X-B2n8iuhEvbWegfDCtVrSghG9LdF7_CPbiiTahIuGC-jveyhNmGLR7qgA_LX6dYl4P1c3JnxE=",
+          "fields": []
+        },
+        {
+          "name": "bccresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOBGu0xrHK53_wNSmr0oRphvT3kcYvymV74JBmDwMQR_sCuqZq9rN8uRyc8u9SjizRl0BjNrDDIO0skGl9Dzy8qInCCPICbooqtNglNAbYbsv4oiLnvQhXo4deUcqPTuulgK-pB2fy81S0mhIlwzeHWvG_FsGqNk_vzZUBzwplG7LyoJWLFjFGEnDZDYYTGpmSTgL_sacxwP3MTw==",
+          "fields": []
+        },
+        {
+          "name": "insightaceanalytic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkObsJiAhT5i8yrJp7qkoxspN0YQE6K2OPUc9za7TU8OYV1zf59F7DuSKRm9O-ekvYVIoMnRHJJQUv5pKWcD_B7htGLZFHUw3vRzmKr7ZOhxmv4YLD1EJ0uoFnCySbQDbQenv1KvzldCfyWCom_Qf9FLCtPqmx53OWFW8I3awqZGFKRfYvauzN5w==",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrJ5VDvyq-hdjpu_aQhwCPGElQWpM5tcrV7pTgf77pxcy3BLUdB8vrNHgYPOGixOmYHWbqMCyCPku1Y-676hAf3cbFunp4YLEBmm4iaYU4adYvrqKbMNNWt5BNsJ77ytE8FxLoRhPDhw-KvOhMcWpAkiMvzOX3Zqp5Q2IiGPEcwS_1MxnO6PECswlf7Ueo0ckPt5SSZCo=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL0u1YTjQHw0WnN8jKXdI1tkEznwbIOFebPSaI7b4664nc97S_FVABmCOPolgJJnX--EkYB4C9IKqX4DuZ9psdyxnY0NC5G-rA8zRbroIKQivjXIVtws1qI0rVpcpFhYAtZefEPRb-IOthkbsEaQdbCmzWoQkt1CH19b2KHmk0D_ccF_OB2zJZFKwWibvB3LADfV9TuAp6cnsHMbN1c4gA9jIJHmA6jiPk5xIN--eIhXcrYR5MqgCzo44rV_FP4jMFO1uCew==",
+          "fields": []
+        },
+        {
+          "name": "iea.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhKIfsvgZnaXaMGLBYBB1S48ArM3jN-zl5DBiAzGzbzZsUFhrNTiZfOYyZR5Bq-U4Yay7cdc8bC4bRoC2oV5DZ5e6hs4nRsSdltj0GKKwimX1Bpsisj86GHRU51oz58tR8CWffszgyorFxqWtwKKzFnMtJstmiphR_iGEq8i9K0rCXF9kJ",
+          "fields": []
+        },
+        {
+          "name": "ev-volumes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYp0FFKeDcwkhS24A_z0MhQrAtDrXhL9IwfW4D6D93csVYpcnIXawvMTFzFcocBkPgXBBso2mRFgPiu1DxiX0zjsgH7V8Bg268WwXiYCVlJ7F5",
+          "fields": []
+        },
+        {
+          "name": "downtoearth.org.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZAAiay9sWnSxv7y_6gU0QACNtH9HuHN3RaTfbTRIorOJ4d4j5Te5pGLCIsvdO88_VKxfIpMx-S2YnjM4Wbf2V6qOxw7KIcmTZWzmqA8Ni7Cr2Tln-wQeRZCvTr2naWj3NTpAaWVIlSq6aORrEBQot4FpWnYb0Qc_NmLeHKLOIKLdzfq0cAVclV-LXw0NmICWxM55gpSirKutkdc4xBujvs-f8RHf-wqjH-MaBqD4=",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe3yGQu0sZ3-0UHP7XXnanZ450bgrjPHB3YdJAd6PFOg3FA5DChVev7dEm8wxcncDsHgGvkn1AKaA7PqKtvT_yARayBMUDoxhq2_HhVUKTGY9ZnNs714TL_9JmOP8MNg01X436e40=",
+          "fields": []
+        },
+        {
+          "name": "coxautoinc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeWzCUkVeYLCuDh2emX3dLTXC-qP7YhpDbyd8nOmAZcsZXePpQjeub3Hg36KfMDMH0FgXNEH4PiH8QzZ_UngUOA8SvPnDv3pdFM0-5rajAwzNMuDYluq0ZeMrwtCnjuBCVsbgI1rc9i1g93OVEjEAyhsJ1Av2UxwAwTw==",
+          "fields": []
+        },
+        {
+          "name": "caredge.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX89u590TWyiq-r0BvpVss5IpCs83jRfYkXdDJ2P52gpm2GhIF27BNnc4zqbNX7SSDXcwZpjWggDRr7d9j52_VoLmBe7lZBh8dXTkOfUVbrsX--pelE9auYzdhcOg9hlTwAyYLcjBrVdW58SrzlULiKlhzyElLyrQbo3FSew==",
+          "fields": []
+        },
+        {
+          "name": "forbes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1CkFvdd4F793PSTIdjXdBaEtQDU3GR25jw_cPK_BkAOdazdsuhrRQ2hI7_khzLDMPRCeJ_hYYtUtoWm6PQhkpLNHwpoR-Va-bPcpg8Mcr1-ZaP0weCzyKGDBaKoUA2k0DYVoIbmrHsZtTFdhqpThe4LwrvQkQWdVvZ4sPUuNXRS9bvlIgnGoscnLXtX3uv5mZQFTUAybumNBEGaaaDyhZMHVhz1DtPZs=",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9g38xIYsYZYMGpKIRsslkMA8pI-1f2StCmVwryV8JWiR9Co-s41SgKrBCgH1hTp5g0B_g7h42neyAnfHjtmZU4SFabbnnndUxeed_iHHnYNLks4F3c00Edk2eBlMeM1skHkbcNz22yWsw61CWTpwvW3XVNuFINzPFXQGyhE08G7TM-LkxtZl-8rSp6LptAQCoa514akUNFa1yFw==",
+          "fields": []
+        },
+        {
+          "name": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfw8UTIa5Fx1wz-qG2JqYMY7OHKfU-BPTWgqk7fTaqwCawZ4zKmqx_4qvM8rkiAwN4kcw6qXguJpZ5BxmxFSHpF3PKr0tDXrxnFcnqjyItsfJ7t5sQRj0delWih_Us-FX3zNoRtpdUY9w2BkmCDycL5Im8gFMfFIJPwgCQWNZqmi34DfP_JlCwoa3A9sgsihDeQjzvqgY=",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfuW2cbLtshfXKfs1yHULmP8inWdiZJtHoY4buNw9S1YOWZqa_-7THpYws9mWPf6zCgezKB81a-3pLhdbP_rvcj1k_0bgxVq5S86cAfQeTXNR8dkJvRp00f3X-I8MZMomRDMO7fvD-xNKX2Oxyg==",
+          "fields": []
+        },
+        {
+          "name": "spglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgwiBsq6gB-__RkCiTieU0Z-dESqZne-ldmWJ-4zUnSqkpM7BcP4hPp3IOJWuZmgDJ8tx2Vstr9aVnjhKVPDSlqAX5EMvTdBCXtlek_OStgZ4hd-lHd7GwIVwMvszenjC63067G_ACkH_qwvkRyY8d-tD0zBi2oPEx2hikH_jD4ZMINjQPzu6IIQxc6Kd6GgfRnPWhHB6wksoFILPrsR3DXtdDFjzqb47R0tn5sXbFDD7efV1hdosHOF3YYOs=",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNdOUCz3j-28Losl7jaBUMSyS54248vbXZ4HXLz8djYwz0XPZ_UFQijW9GWx3RWBaaNaW3Tqag_veAdxub-NHBAgo9tsJdBYOGwNbc1V7vhrg6re7_DJIAInQNpT8EwUxHLHr2FRigw9eSrKsAhV1Ysdea8-UFy4dihc9O1xsJIytq9-uGz4fkgxPrT00DuJFKWo_NBbG8IiKBndsrtqQ=",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxCTGHhpHIFhSkGByCecDEQaiXr3obvcG6bPjkspVVMuXs3fe5r2CQZ1nXz_TKSBPs9epzuvCBTzbLEJn-ioDT10B6OGjFTFRbC6XJ8GkCmF1AFKvPEhlr5AHBR4fKx-Jea2ouDYMSbVPLjJZ_jE_e6j_8Eb2dr-NJBWpLiOW77-xLTiSccJ4BhNJORoNpRuNiQazM0BzDgnHiY4qj4k1Q4zVZu7l4maxy",
+          "fields": []
+        },
+        {
+          "name": "bisinfotech.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4DS82DsGnK2Ya0gmx9YrRNWVLW1jrCE3blEPmpJ5b2ZgqfHKxU1sorG2jGRcBn3r-45yB04mytGLyiNt4o7apvxolAxHvX99a7PW-XxBByboVzeS-sa2fGARkxc8LRHrUZD2Ace-NrIoVsN8E2E_9pDXm8ja1WR8nMTPdE4pxa7y5GD96UqDJdqerwpJup7zPQOaJQxLlDWUDDCCEqYExglr-LtfOs1FWan6Ns2t09PME0JTsxZmnpg==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaroJj0_6cW3u7J6r6mpIxAj5dc9g4-io1Eo9MdXr0AwzfGnBQRExk3S1ERBhF0hxRYRuJmvsn6VcS2QHUBuuEfVahktuC1nUj-lEMpO0QuEdqoN9bWmMToPv6sHKwrWOGmzunsUoDAvFdpDQjQpGqJ7wv9lmtE52Qz9Q1gXwkfN2BokDsUHPthV60-dul-RhfXClASt649n5M-AB_K6bpxKXeRP2eFevwu9Dwo6mEtX24RzLGjQ5_6TRjk85zrg==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFust6pPuTnV744l8cmx8p74TH9b_X7QrT6-xPplB4RflOTpvAyCFztyA_XvAMYT7TD_xMlNyLYsnK_l6-sQNiIMCmFd14g_QKw4M0fIwQO_pye_KN9kWCiFTThtx5-J_oosEsl_WT2qyAGPabn8r5qmO5MCZdaepdlyd39t4_vmSuk-1cHjoTbhehHnXlKxG3uprJ9zh7f2wxX94ft6TpIYM7wuwjuOcRm3RCsyZwRRwQL0w==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHShaJRj1A2M7VrxpbARGq9wEHBygGZmEFGd2Mt3GyI7XDkO8vwMqgWPqsRtkrEf03c0o_2iiezhSrqlbGLSWEaFN3c3B7Bavvm7gvKThGIUO00sg_LhdFXHgdY9rHbNnAWE9Xxi7YmWojlZfMgRJWydbWVIScB-WyiVnJxJJ06cwYmu-AxIbnnk5d2O-CcmZqVSDBfA-67I-lPL0qxM2V1r6XyvAY5strICjlc266te3kcjI5synIlcVTgvVriN6sHfZyyXGJ94D_ZrVKfRvFImwOqtvtFbdKzIjZ7I6L2dqE=",
+          "fields": []
+        },
+        {
+          "name": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_Tz1NOmmsjbOZ1a68j3gWSQYNtwjUbfRaz_fEWhxIn4wn0ijB-9n-H6Svd4PjYM6Qk2lrVxqLSinkdFsVdY4eHlnYXULS5eo-T8OjtYO1khAbQC9daMaZD_F73hUkagn5-9LuYExhOnOMONu1a90GdLuCrX3RC0Q8wwdsajlIm5MGF8afYwXi8GLIYLwCc5DsDRiW8xqYJxmY0Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Automotive Software ER&D Market Trends & KPIT's Niche",
+      "confidence": "low",
+      "completeness": 0.167,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Software-Defined Vehicle (SDV) Market CAGR (%)",
+        "Electric Vehicle (EV) Sales Penetration Rate (%)",
+        "ADAS L2/L3 Adoption Rate in New Vehicles (%)",
+        "KPIT's estimated market share in specific automotive software sub-segments (if available from analyst reports)",
+        "Key OEM/Tier-1 strategic partnerships announced"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a large and growing market (SDV, EV, ADAS) with a clear technology shift, making KPIT's focus area attractive for potential investment thesis development.",
+        "banker": "Highlights strong industry tailwinds and potential for M&A or capital raise activity given the strategic importance of SDVs and partnerships.",
+        "credit_analyst": "Null",
+        "consultant": "Provides critical context on market trends (SDVs, EVs, ADAS) and KPIT's positioning within them, enabling a deeper assessment of operational improvement opportunities."
+      }
+    },
+    {
+      "heading": "KPIT's Strategic Positioning",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Global Automotive ER&D Market Size (USD Bn)",
+          "value": [
+            {
+              "period": "2026 (projected)",
+              "value": 235.09
+            },
+            {
+              "period": "2025 (projected, from USD 180 Bn in 2022)",
+              "value": 238
+            },
+            {
+              "period": "2025",
+              "value": 224.65
+            }
+          ],
+          "sources": [
+            {
+              "name": "precedenceresearch.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Global Automotive ER&D Market Size (USD Bn): [{\"period\": \"2026 (projected)\", \"value\": 235.09}, {\"period\": \"2025 (projected, from USD 180 Bn in 2022)\", \"value\": 238}, {\"period\": \"2025\", \"value\": 224.65}]"
+      ],
+      "references": [
+        {
+          "name": "precedenceresearch.com",
+          "url": null,
+          "fields": [
+            "Global Automotive ER&D Market Size (USD Bn)"
+          ]
+        },
+        {
+          "name": "precedenceresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWFNwuXYIeOEihVDRg_qCXZyY-XIKQUZGCNiN-9dEUT6202qDsdFxLFjvuQuCUDW_sYv98KpUioSUIHLgwwqonaLa0hjglEtd_P5mBqsf7iR-xbY2hqR6bUaLFcyvDrmeNZHA6IJhXa8bfchaNImIkP9RrhsDMr4bY_bkjkDG-cgXrKg==",
+          "fields": []
+        },
+        {
+          "name": "datamintelligence.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-weUhVmq7xw-MAPJUzlM6d4tE6-_Me6ImCc40oJryqQTaO3CjD77z1HK2IplcohTSveIX5jM1EVd6Fdje-zkluHHlnx8C68AE_sken1BJazUd-0XWTJzXaJW2X0IoiH61Sg_tMwA8G129XO9jA4FvV_0cdEwRrCUBX1Qgw24w8ntbDt91kv7pDrMqQOoVyk3q1g==",
+          "fields": []
+        },
+        {
+          "name": "tatatechnologies.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEre64IjWJ08hKlk78p-4aLk5zEkkUdZqTt6C_Q5yBfaMqWkRpHOCzcr-9lgRIi2bCzygZSd9__i0E5xrHTQ6ZYn0XI3WqnzDmkU2FBGBLOyBYNNUrFa2rcJzDGu6b2iVEixfrwy_isMW1LrCLX6f5zBUSmfhuE0pOyOCDV-BVQ6OtujpbAQ6qSjIgbhkvuwWce0jkhe4OXkrbyWo7u922m3sfNNEruLTYVYklKxdM=",
+          "fields": []
+        },
+        {
+          "name": "fortunebusinessinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvscX1g8UyCh86oO5VVVzclHFrRbK9boqPVoeR8GVQn9HjNqyk7bgbNlW_nFmU-d9tcjIhcqZmXxHltYgUxr1OpcQKZAqk7T9nMcKv-hdsp0KAYEbMLRjf9hGIeUP4OAGvVQhbjkRzwQ-gMPF1BVuj8h4qZ4_T2hCV8dlKWd9b_ICK4In48FjU",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa53xNqnw7ZQOChx1BVKtI_PptWKtVE-6s6TcHeDSrTGsGfp5MMIM0vBG-911m5tAYCx16v5Rr0YSsf10BPdsp2Us7K-0aWn2mCYUUdfsICIRH3lzL9fJmPmAnrrB4qRcKoi_l59gHiWySNFQdxuBZ4To7FY_8qobHMXgQ-vcHPSRvDoNWZd0Y708iSLfBffpO05K32w==",
+          "fields": []
+        },
+        {
+          "name": "insightaceanalytic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBzqrkjZHuFCcjDp-PLJ4GtlSCctovovIaaZ8ltP7dx72nTZJj7nXHqHJqbsELfnO8aG_-RYWXiTT4SHkdzClL7sQgI3JXj68q-iqyuv03b1ZbM-6H4D9DIZj-mIIO8jBfulOwrvokIzStBlv5JvZhlc4WNA4qLSMDiBkGzwduVv7YPU9ofvQ",
+          "fields": []
+        },
+        {
+          "name": "bccresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_d90kxqpGI3W2c_ia-vVIJMfQDIEjfbYAl6G4had72hHuQVe4o8GM8JtcCYHg0E5xFANBKlulWRRCsgMJ7HcnV-9w7m_cTzTYVMxT9bMO4CJ28iA_XRTJz4TXNM_9o0iTjc5R1Zo2yuspIsLHnctkfETb1whKvnqFbe1seDd_BK6Ub4eHTa035wk8ZzmQLOF8xCVS_qymXGJd",
+          "fields": []
+        },
+        {
+          "name": "gminsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMcE1Z30P0OzpCPgHQUepJzVicFYGqFhAUkup8lhS9vqA_zP5naV1aAk08Imb6b_PgdUut8-CNuzSq_ov4jipLxgSWaiISsavLPy2mMEpuyhETkrkMsth7t0c4a9LdRa8GqMIhmJ5Aed_sWRrHHHBNdCPVOxwpNu_6w-5uM4-OK4djW_uYA==",
+          "fields": []
+        },
+        {
+          "name": "strategicmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5xGfMwHTBUbV_mE7602EXWUS11qALfZtZLO69P1n7nDYFuj9DY1pLQCm5n0zAPXFpR-FAAF_2Dv1hdWRfPP9LJlWUd05BjgA3n9CNY1uLqyOgEiepdY27o0g4KsTQNZRFTRB6cFFBLwz-QfiVCst85uJaxUueuf7624wvZOdYSx2Kx2Bvl7EbXamBIN0stw==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6j_ovXL4k_bkAW04TpqBcv3uSvHDAm-TP3zq-S1gnmucEDvyzGQ4ncHDq91SN0JnRssKBn0CoENB2VTyuO2uny9iBHYX77wiReiS1bcJwvVkL4RvY4yd-2d9TpJeQSf6N4v74NWVnuw02cUazR_1Wh5L7QmjV1lFjzZDHG_U-A1mZeqKcnkxOTsCZ7l9wxXquzfoNb9MNp8qGy1-5sEE0ug8vteuNppvtLzq2tw7GsMQJHTMiEUUBHQgMkyQ8MQC1jc8v",
+          "fields": []
+        },
+        {
+          "name": "bnef.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE04l0b4ZVoMrRXDpVBVhqMSgZIBonrnBlCTdCHANYfuwVjKkFlJm_qsV7vvSE9fNU-jx-MtNpsDl2F4XpE1-jBWV6_LDKOJGoW2ijKTbp1dhwX938XCMn41HDGy6QBgk2HLAxIMLJg2D3HsUMU2I6uP7HjEmhcGjNWOlVvQtMOQR-o5ogAZEm3AeSIhKeSyeegTSOuKEKZzd6JB5KKGxk3DfSAo2Fv3B46Nx2qI96EJau9V6lkgJV8J_eXv4o3OUpHT7V58MqLCeqbTZz-JvFmG1f8jkNvokFwjtvQiIl9E7lW_rBD1eWzpZYvtAGVmYZ2iyo=",
+          "fields": []
+        },
+        {
+          "name": "ev-volumes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsnwWmeeQa5qeZhQR1vy7cHMgCE9biV-4K8QK5bfa4nfnK0Ma4tPc3SFcq2Rauv-6iflB42vG5YwdIdGRxnsIcyMr3_kuKQ_V2bG6lnb2cajg=",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBCgOk-LiD8Xbj4Vfn_Tkn2RKKdFpG5Et0Au6hmZ2BZmQMsZ207Qr6YE1Ehgvfn_hbVRK0ID-P9gPJiWj0dv01ll6CMrkoaTACRqNcnXh4j-PMHxjC9IESA5lLChqSZS0sUt0q5WM2Wlt_T5vcilAdMp96mDPL66kbi7v3JJ48FsUDAZT9ZHjLnepUXLZPGZ9v1bxVHg==",
+          "fields": []
+        },
+        {
+          "name": "iea.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD7vk58PAlUCk5ojmj3x7ttyNtrMkKxSBN81WaZmlA7zU5cx-afZfcZqpvrhd0Ttps4lDzj0pAGiUmWCeiRpDJ2Xm7iMqoO2LNPzjZpYAORg-kawf9a7HOqfEcR_vr7G6xnMo3J5plDyOJcA9vZbb3DxUQmE0DJXU_12GVq-0S2_pZaGA=",
+          "fields": []
+        },
+        {
+          "name": "tridenstechnology.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxL5_mYwuxH5Id8Vy_nTSeCpv7Znfq0xz2cICp8GHRDD2VyStNpPBipEivBx0f2sDGaxAjPPz--WznOv7kExDDhd54Ypa_vlIBB-SpTS6LqbmWePqul9qRaqt7Zo6Vq7hDPk2rG-cjoEzWLG828BfX4kShTsWy",
+          "fields": []
+        },
+        {
+          "name": "news18a.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhehHw1VvxL67uGoL5viLQa0yyTmsWwOJUzCGwIualbdFDeMLlj9AFzHWo8m7PWvFV0ZeKPmmEElsa9yG4c9y5vAc2ETIXcKS8JUjXFCBtWSfiE2CbYhldiMlozGujG99ET015_gQ8HhdG_Xrx5A==",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22TULFH1GcXzyLJUQjgHBJXZZXstHvucm3zqERlQKcoly0t0-J6QKhQ85WYJrphy-DXi3ll5-hll6Dx1secUD_jGaz4h_JgigvrUgoe4fpCYdu-zm_U2dFa6Iaja8PMiJDp6Lm9jjPS75iftrnhUFZHcfF5gMKA5lor59g4ceN1_MaLFIOERO1wpAxYFjQZC6moecK0YmeMXP",
+          "fields": []
+        },
+        {
+          "name": "sphericalinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN483JgCDeStKxr6hnCZzqB2kn4F3SjWHUXFIxZ-NOxj9cphQyLtDJEfSS7-xC2h2sMaPZj3pVdl1TcTWq7cstcUcdmxEPA--fZNb1ImukJdpUJLv9p1DPErYefxaWQxntn-nlQV9Dtgm72Um2nL1qHtMBRmCGZbDg0HtKSDtWg2eAWHV-bZOhoj67XPOpGaU-mYRwUlenQcBM3HGFwNXlRLUb-WSZO61h2ejtqYxYmjNQZWiyls2GARNlElY4fFo0oRoAb0RdPuwXy4y-JeOTk0yzwwdG2Ew=",
+          "fields": []
+        },
+        {
+          "name": "mordorintelligence.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiijQhap31SrBYYTB2Kn2H-YpN4kQgnVrrBeEZujSlb-xSCSgSeuQykQ7YfEeazVbrX9REAItgzQQGGttgTxaNmSu5HvWT3gh4yhO-mTLSGB99kGgrVopadxOuARzwz8BwwHPwZb2Tq3A1Hb1bCsvX-dKcfI1OfBh-VEni_0pRkbxVjwZNduc=",
+          "fields": []
+        },
+        {
+          "name": "dataintelo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wH_8XAmTUUgXdG-eGIUUUxVE2vMgTG4aoJRxK34MCcYKp6-gE2AgUi1LWjZwJldjoS8T6DZqa6dLr0DJZ0mEc0UoVn3RyUh92bcG7yT-czI6Wx5Ro-8SCQk0MXvTPnGJOQX6tqcf3sZlus7qzpyyFLJUPY1qYKqdSmPdPLbrr9s5nhhNlg==",
+          "fields": []
+        },
+        {
+          "name": "pestel-analysis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhB2CL3uLDV-v9TE1RxJJytP_kei2W8e8eXuELTYSCnMKV1NmaLtLXrDky-t84K58bL6IfpPWvdTyBVChSsG_4sLDx03ppsDLCbvYiTo7i_PRhXgMDaihoGcq62Z5Ccy1TprfK5RSvp77ZpZI=",
+          "fields": []
+        },
+        {
+          "name": "marklines.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPccky02ZtWca3EiNEsstOj3k11WnoVtBJwwtXuTtB7VBYdkY3MJJgCqL6kkPx718bTkS9AitYxsxb_DVlilci423Ok84f5xcQ5sAP5e7VxRfkd2h5qu9n8S1XLnM0j1zy1A==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-oeOz7675q1PvozLUhniJPPlcDi6WzfeT3FhbhD-I7U4l8O_yeWlpUZ_xml3-3uZRwhxfZob78HtUC5x2Syad1TObfpZ868AFOiW7mXYOsOQZZG2VjZ1ldrDg67trAHUlpSv53ZahGaM1rSNTnWBq3FO-XNgbmC6QZtG3YxeUcXNspRhEtHi1PkXv7oqOR98eOKJiM_BNw6bItQbAA==",
+          "fields": []
+        },
+        {
+          "name": "automotive-cybersecurity-conference.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUvMA3tSlTF-c6ibXGa91rg-oCwBnJ7viWwImCIQ1GcEa6xJCnSTbtyphlMKtco0zR9HVrSMxczebLT3wdJonR3HU5jnc92fq1OifWziaqV6HsUvSfNPVd3hONfYTQt_KU9s0IZWZssPmHBif1p2CoX6ug6PDUzc5twSSLdELLx7nheZA9UpavKqkeaU6aFqAWBbbt8KZmApBsED8UxegpPA==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcmFL0o8drmdpy5nY3pkA5k0yMjiBViDg6VX6K_Q6TETXVBlkGtO5R_b57TPqlitYWhnEhCWRecrCLslLzR1K2z76hasEhzH3G5x9zE6IsETFsLgP9a7gl3DgsmkP89BVadDhI7OkrlbJfIiC5ex3B2B2CczvnQhuaYk7LWAGb3w0pMIz5ccTKojkRghPXbjCp75iXlePw1IbQHrS2SjfQ8rr9DMfgL1h4fpbJ2ZQf3kz-XOpCXkWI-OmqCHHl",
+          "fields": []
+        },
+        {
+          "name": "bisinfotech.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXc7WrKCdjJ7zuLm4bTshBumpyUPEZld0y2bjQ5eNaP_2pXKn_U0ccTOXGQj0emoJZJHy8V91i_5b1l_4ZSNYCqDkQcEmjcnPYThinhQSykf_gNtwHv7tfVfyzoIBPl9vXEhtI3Rj3FP0acZalANUApy1Wwk84mfVyIwh7c6oEJcS4xgMet5oV4foTtdzdVg3QgJ4ovRqOYcqOZhLpFowot1edlqKyuSsq0MYPNH9fdklRTRQzzaxt",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOy3pRnw9pjYW2HrK3ltJjARKvQMArnSQwXHBjHczz7DpSja1GoZzrmOezxzrjh3LvYq52ZOckspqTvvVamh-Vxc35SGX9ryO8FlSa8uVnXs9z99yet8sx1uhdhxRToY3_-aVxjcBrijexgiJ618AuI2r751n7vaDkZHEXZzx2YBkMSqlTvUYBKw-uHLyQf1yDadSCX1Ilsr_chxpWoP5Rz0GlaZa2VU883lhWC4GIUq4Ly64pKj1hxl3dUlsMlWtom3mlqG016St5roD-bjbcwajnJhX5EGYdYIC0iDF04w==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK2RMP9_GL_aPOpSsRepGB7f4-QfPLnOW-qSQrK7srf2I0ZQ5rP5WvBFOs1MfwzbMaqp5daLjwioIq2lYFvAFz_m_R_kYdYuF_kyE3HvhUMHsqiJ4HAAj1Z4L0x_6-",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93_QnlBr6hdWpLIsgykSVnFrS1fBdvTw80tQFC8Ra4CZXQr0E8LGAjVfwAma4z0aOGMKuhdQxv6K4WawfAO7sbemqF6WGjvUvP1UuHDnJynGIxd1Zl-1WP6ct-uo-0n-DtCRLSOB4y3pqTVVG__wQJ8V0ByYVGG5dLyKk7BAscQZ4IqFchRHEgczsrQE-iivXLVI=",
+          "fields": []
+        },
+        {
+          "name": "strategicmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpG0KRh0vRMh3DDmWnaJvQvtwd_IPxUYT4y_FrFnsStmQkCU0207ra2-LfHw1WuqLTTpvJOJGkQtxholWGAOhg35-O1tR-UM9x80WALGDOBNEqA76o7IDM_af9N3fqHlvAUq0Dt3WvgLKHKIUjES5UyaCeo6vPYiiVXk5Yc7ZApszXa0hXudPw7Q9ogxz-Dx0=",
+          "fields": []
+        },
+        {
+          "name": "marketsandmarkets.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC1IQ0jqhsLaqHZwKhVBe7GXHs0Aqn3EIQm-z5m7uiR_PBlqciDHu8MY4J8WhXJaL6WEunIcUu8huaknWHJBkOEgQY95kZx1H9KpZQLEmSu2CMGLST8rOFC7tk6QFES-Ff578LiI1hMB0VLKW4EqM7QOwwAcbypzTVVupLczR6H1AlQxY39ydjqYPMt-wTZlqkwL1a0vN2WFHXiw==",
+          "fields": []
+        },
+        {
+          "name": "gminsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH03wIHRm8F61ygpNYdPrwnil_H50ZrMj5rDFAF9dIpz048kvTKkdZR0dJHDpYaSCDLf2-HaMqMxVGhl8UiQcPsgm-3fXouUnGaRISFwDwgYMcQM6Ybxdngw5lVGoDWcultEu2bCk1pkyGqx6G5lOYP8YMLjOwEDh49rUL4mImFgyJ_-sdxRCg=",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfjnWnA0UJbt2twM5BlTI1MWV1u5MwMXy9kwE9lAFV9nZL3Rpba90oakeV73J4ZFbZ-16MasYh5CcahJiPCrbWZyM6AhTlkVGOdZMrhHpnE3waIU40DqVGe0l-y17GO6h6H6N0X-B2n8iuhEvbWegfDCtVrSghG9LdF7_CPbiiTahIuGC-jveyhNmGLR7qgA_LX6dYl4P1c3JnxE=",
+          "fields": []
+        },
+        {
+          "name": "bccresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOBGu0xrHK53_wNSmr0oRphvT3kcYvymV74JBmDwMQR_sCuqZq9rN8uRyc8u9SjizRl0BjNrDDIO0skGl9Dzy8qInCCPICbooqtNglNAbYbsv4oiLnvQhXo4deUcqPTuulgK-pB2fy81S0mhIlwzeHWvG_FsGqNk_vzZUBzwplG7LyoJWLFjFGEnDZDYYTGpmSTgL_sacxwP3MTw==",
+          "fields": []
+        },
+        {
+          "name": "insightaceanalytic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkObsJiAhT5i8yrJp7qkoxspN0YQE6K2OPUc9za7TU8OYV1zf59F7DuSKRm9O-ekvYVIoMnRHJJQUv5pKWcD_B7htGLZFHUw3vRzmKr7ZOhxmv4YLD1EJ0uoFnCySbQDbQenv1KvzldCfyWCom_Qf9FLCtPqmx53OWFW8I3awqZGFKRfYvauzN5w==",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrJ5VDvyq-hdjpu_aQhwCPGElQWpM5tcrV7pTgf77pxcy3BLUdB8vrNHgYPOGixOmYHWbqMCyCPku1Y-676hAf3cbFunp4YLEBmm4iaYU4adYvrqKbMNNWt5BNsJ77ytE8FxLoRhPDhw-KvOhMcWpAkiMvzOX3Zqp5Q2IiGPEcwS_1MxnO6PECswlf7Ueo0ckPt5SSZCo=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL0u1YTjQHw0WnN8jKXdI1tkEznwbIOFebPSaI7b4664nc97S_FVABmCOPolgJJnX--EkYB4C9IKqX4DuZ9psdyxnY0NC5G-rA8zRbroIKQivjXIVtws1qI0rVpcpFhYAtZefEPRb-IOthkbsEaQdbCmzWoQkt1CH19b2KHmk0D_ccF_OB2zJZFKwWibvB3LADfV9TuAp6cnsHMbN1c4gA9jIJHmA6jiPk5xIN--eIhXcrYR5MqgCzo44rV_FP4jMFO1uCew==",
+          "fields": []
+        },
+        {
+          "name": "iea.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhKIfsvgZnaXaMGLBYBB1S48ArM3jN-zl5DBiAzGzbzZsUFhrNTiZfOYyZR5Bq-U4Yay7cdc8bC4bRoC2oV5DZ5e6hs4nRsSdltj0GKKwimX1Bpsisj86GHRU51oz58tR8CWffszgyorFxqWtwKKzFnMtJstmiphR_iGEq8i9K0rCXF9kJ",
+          "fields": []
+        },
+        {
+          "name": "ev-volumes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYp0FFKeDcwkhS24A_z0MhQrAtDrXhL9IwfW4D6D93csVYpcnIXawvMTFzFcocBkPgXBBso2mRFgPiu1DxiX0zjsgH7V8Bg268WwXiYCVlJ7F5",
+          "fields": []
+        },
+        {
+          "name": "downtoearth.org.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZAAiay9sWnSxv7y_6gU0QACNtH9HuHN3RaTfbTRIorOJ4d4j5Te5pGLCIsvdO88_VKxfIpMx-S2YnjM4Wbf2V6qOxw7KIcmTZWzmqA8Ni7Cr2Tln-wQeRZCvTr2naWj3NTpAaWVIlSq6aORrEBQot4FpWnYb0Qc_NmLeHKLOIKLdzfq0cAVclV-LXw0NmICWxM55gpSirKutkdc4xBujvs-f8RHf-wqjH-MaBqD4=",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe3yGQu0sZ3-0UHP7XXnanZ450bgrjPHB3YdJAd6PFOg3FA5DChVev7dEm8wxcncDsHgGvkn1AKaA7PqKtvT_yARayBMUDoxhq2_HhVUKTGY9ZnNs714TL_9JmOP8MNg01X436e40=",
+          "fields": []
+        },
+        {
+          "name": "coxautoinc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeWzCUkVeYLCuDh2emX3dLTXC-qP7YhpDbyd8nOmAZcsZXePpQjeub3Hg36KfMDMH0FgXNEH4PiH8QzZ_UngUOA8SvPnDv3pdFM0-5rajAwzNMuDYluq0ZeMrwtCnjuBCVsbgI1rc9i1g93OVEjEAyhsJ1Av2UxwAwTw==",
+          "fields": []
+        },
+        {
+          "name": "caredge.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX89u590TWyiq-r0BvpVss5IpCs83jRfYkXdDJ2P52gpm2GhIF27BNnc4zqbNX7SSDXcwZpjWggDRr7d9j52_VoLmBe7lZBh8dXTkOfUVbrsX--pelE9auYzdhcOg9hlTwAyYLcjBrVdW58SrzlULiKlhzyElLyrQbo3FSew==",
+          "fields": []
+        },
+        {
+          "name": "forbes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1CkFvdd4F793PSTIdjXdBaEtQDU3GR25jw_cPK_BkAOdazdsuhrRQ2hI7_khzLDMPRCeJ_hYYtUtoWm6PQhkpLNHwpoR-Va-bPcpg8Mcr1-ZaP0weCzyKGDBaKoUA2k0DYVoIbmrHsZtTFdhqpThe4LwrvQkQWdVvZ4sPUuNXRS9bvlIgnGoscnLXtX3uv5mZQFTUAybumNBEGaaaDyhZMHVhz1DtPZs=",
+          "fields": []
+        },
+        {
+          "name": "counterpointresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9g38xIYsYZYMGpKIRsslkMA8pI-1f2StCmVwryV8JWiR9Co-s41SgKrBCgH1hTp5g0B_g7h42neyAnfHjtmZU4SFabbnnndUxeed_iHHnYNLks4F3c00Edk2eBlMeM1skHkbcNz22yWsw61CWTpwvW3XVNuFINzPFXQGyhE08G7TM-LkxtZl-8rSp6LptAQCoa514akUNFa1yFw==",
+          "fields": []
+        },
+        {
+          "name": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfw8UTIa5Fx1wz-qG2JqYMY7OHKfU-BPTWgqk7fTaqwCawZ4zKmqx_4qvM8rkiAwN4kcw6qXguJpZ5BxmxFSHpF3PKr0tDXrxnFcnqjyItsfJ7t5sQRj0delWih_Us-FX3zNoRtpdUY9w2BkmCDycL5Im8gFMfFIJPwgCQWNZqmi34DfP_JlCwoa3A9sgsihDeQjzvqgY=",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfuW2cbLtshfXKfs1yHULmP8inWdiZJtHoY4buNw9S1YOWZqa_-7THpYws9mWPf6zCgezKB81a-3pLhdbP_rvcj1k_0bgxVq5S86cAfQeTXNR8dkJvRp00f3X-I8MZMomRDMO7fvD-xNKX2Oxyg==",
+          "fields": []
+        },
+        {
+          "name": "spglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgwiBsq6gB-__RkCiTieU0Z-dESqZne-ldmWJ-4zUnSqkpM7BcP4hPp3IOJWuZmgDJ8tx2Vstr9aVnjhKVPDSlqAX5EMvTdBCXtlek_OStgZ4hd-lHd7GwIVwMvszenjC63067G_ACkH_qwvkRyY8d-tD0zBi2oPEx2hikH_jD4ZMINjQPzu6IIQxc6Kd6GgfRnPWhHB6wksoFILPrsR3DXtdDFjzqb47R0tn5sXbFDD7efV1hdosHOF3YYOs=",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNdOUCz3j-28Losl7jaBUMSyS54248vbXZ4HXLz8djYwz0XPZ_UFQijW9GWx3RWBaaNaW3Tqag_veAdxub-NHBAgo9tsJdBYOGwNbc1V7vhrg6re7_DJIAInQNpT8EwUxHLHr2FRigw9eSrKsAhV1Ysdea8-UFy4dihc9O1xsJIytq9-uGz4fkgxPrT00DuJFKWo_NBbG8IiKBndsrtqQ=",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxCTGHhpHIFhSkGByCecDEQaiXr3obvcG6bPjkspVVMuXs3fe5r2CQZ1nXz_TKSBPs9epzuvCBTzbLEJn-ioDT10B6OGjFTFRbC6XJ8GkCmF1AFKvPEhlr5AHBR4fKx-Jea2ouDYMSbVPLjJZ_jE_e6j_8Eb2dr-NJBWpLiOW77-xLTiSccJ4BhNJORoNpRuNiQazM0BzDgnHiY4qj4k1Q4zVZu7l4maxy",
+          "fields": []
+        },
+        {
+          "name": "bisinfotech.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4DS82DsGnK2Ya0gmx9YrRNWVLW1jrCE3blEPmpJ5b2ZgqfHKxU1sorG2jGRcBn3r-45yB04mytGLyiNt4o7apvxolAxHvX99a7PW-XxBByboVzeS-sa2fGARkxc8LRHrUZD2Ace-NrIoVsN8E2E_9pDXm8ja1WR8nMTPdE4pxa7y5GD96UqDJdqerwpJup7zPQOaJQxLlDWUDDCCEqYExglr-LtfOs1FWan6Ns2t09PME0JTsxZmnpg==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaroJj0_6cW3u7J6r6mpIxAj5dc9g4-io1Eo9MdXr0AwzfGnBQRExk3S1ERBhF0hxRYRuJmvsn6VcS2QHUBuuEfVahktuC1nUj-lEMpO0QuEdqoN9bWmMToPv6sHKwrWOGmzunsUoDAvFdpDQjQpGqJ7wv9lmtE52Qz9Q1gXwkfN2BokDsUHPthV60-dul-RhfXClASt649n5M-AB_K6bpxKXeRP2eFevwu9Dwo6mEtX24RzLGjQ5_6TRjk85zrg==",
+          "fields": []
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFust6pPuTnV744l8cmx8p74TH9b_X7QrT6-xPplB4RflOTpvAyCFztyA_XvAMYT7TD_xMlNyLYsnK_l6-sQNiIMCmFd14g_QKw4M0fIwQO_pye_KN9kWCiFTThtx5-J_oosEsl_WT2qyAGPabn8r5qmO5MCZdaepdlyd39t4_vmSuk-1cHjoTbhehHnXlKxG3uprJ9zh7f2wxX94ft6TpIYM7wuwjuOcRm3RCsyZwRRwQL0w==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHShaJRj1A2M7VrxpbARGq9wEHBygGZmEFGd2Mt3GyI7XDkO8vwMqgWPqsRtkrEf03c0o_2iiezhSrqlbGLSWEaFN3c3B7Bavvm7gvKThGIUO00sg_LhdFXHgdY9rHbNnAWE9Xxi7YmWojlZfMgRJWydbWVIScB-WyiVnJxJJ06cwYmu-AxIbnnk5d2O-CcmZqVSDBfA-67I-lPL0qxM2V1r6XyvAY5strICjlc266te3kcjI5synIlcVTgvVriN6sHfZyyXGJ94D_ZrVKfRvFImwOqtvtFbdKzIjZ7I6L2dqE=",
+          "fields": []
+        },
+        {
+          "name": "yahoo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_Tz1NOmmsjbOZ1a68j3gWSQYNtwjUbfRaz_fEWhxIn4wn0ijB-9n-H6Svd4PjYM6Qk2lrVxqLSinkdFsVdY4eHlnYXULS5eo-T8OjtYO1khAbQC9daMaZD_F73hUkagn5-9LuYExhOnOMONu1a90GdLuCrX3RC0Q8wwdsajlIm5MGF8afYwXi8GLIYLwCc5DsDRiW8xqYJxmY0Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Automotive Software ER&D Market Trends & KPIT's Niche",
+      "confidence": "low",
+      "completeness": 0.167,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Software-Defined Vehicle (SDV) Market CAGR (%)",
+        "Electric Vehicle (EV) Sales Penetration Rate (%)",
+        "ADAS L2/L3 Adoption Rate in New Vehicles (%)",
+        "KPIT's estimated market share in specific automotive software sub-segments (if available from analyst reports)",
+        "Key OEM/Tier-1 strategic partnerships announced"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a large and growing market (SDV, EV, ADAS) with a clear technology shift, making KPIT's focus area attractive for potential investment thesis development.",
+        "banker": "Highlights strong industry tailwinds and potential for M&A or capital raise activity given the strategic importance of SDVs and partnerships.",
+        "credit_analyst": "Null",
+        "consultant": "Provides critical context on market trends (SDVs, EVs, ADAS) and KPIT's positioning within them, enabling a deeper assessment of operational improvement opportunities."
+      }
+    },
+    {
+      "heading": "Shift to Outcome-Based & IP-Led Models",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "68.3%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            },
+            {
+              "period": "FY26",
+              "value": "65.4%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            },
+            {
+              "period": "FY25",
+              "value": "nearly 10%",
+              "note": "IP & Platform Licensing contribution to total revenue"
+            },
+            {
+              "period": "Q4 FY25 (corresponds to Q4 FY24)",
+              "value": "59.6%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ3UU7Zs0qFW3Nb8UC2Ax9PIvxwdKtgjlYpn6W0MLg87t7b2lnA-mzrmOoLwqIsJrnct9pSD3xWThKCl4FXPFkz-CfVCtszkuKSOxZhT3jPbCj7Z7_dLDGmXwwev4mqugA7VsgyHD8UqpIqBmpd7fF8Mkn8my2zVjvrYSk7q0L"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Patents Filed/Granted (Automotive Software specific)",
+          "value": {
+            "total_patents_as_of_Q4_FY24": 68,
+            "recent_automotive_software_patents": [
+              {
+                "patent_number": "11982736",
+                "title": "Perception sensors based fusion system for vehicle control and method thereof",
+                "date_of_patent": "October 1, 2024",
+                "filed_date": "August 2, 2019",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11814085",
+                "title": "System for grid-based merge cut-in prediction and method thereof",
+                "granted_date": "November 14, 2023",
+                "filed_date": "March 26, 2021",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11170588",
+                "title": "Autonomous system validation",
+                "granted_date": "November 9, 2021",
+                "filed_date": "September 23, 2017",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11030469",
+                "title": "System and method for detection of free parking space for a vehicle",
+                "granted_date": "June 8, 2021",
+                "filed_date": "January 20, 2019",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "10380434",
+                "title": "Vehicle detection system and method",
+                "granted_date": "August 13, 2019",
+                "filed_date": "January 16, 2015",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "10266169",
+                "title": "Powertrain system for electric and hybrid electric vehicles",
+                "granted_date": "April 23, 2019",
+                "filed_date": "April 16, 2018",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "9944271",
+                "title": "Retrofit system for converting a vehicle into one of a hybrid electric vehicle and electric vehicle",
+                "granted_date": "April 17, 2018",
+                "filed_date": "September 1, 2014",
+                "status": "Granted"
+              }
+            ],
+            "Q2_2024_autonomous_vehicle_patents": {
+              "filed": 0,
+              "granted_percentage": "50%"
+            }
+          },
+          "sources": [
+            {
+              "name": "justia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65W5sWyg4u_bzGbm-aWn7Un7InrXlzD-Pk_wFOvDUAYRO4CYIDRcp2hriMIEpFZvFiJPb3E268DlktpRG2e8OVjOAo7L8cwMIMvFCR7EizqmvY0-8jt5_GX1iqH65TbjLY3Q0i3djodwGMEKuyG1WnGc6HFvojLQ="
+            },
+            {
+              "name": "justia.com",
+              "url": null
+            },
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key Proprietary Platforms/Frameworks (named in disclosures)",
+          "value": [
+            {
+              "name": "ignitarium",
+              "description": "Proprietary AI and data engineering platform for accelerating autonomous driving algorithm development."
+            },
+            {
+              "name": "Beacon",
+              "description": "Mobility Intelligence product, a deterministic, enterprise-scale AI platform for safety-critical mobility engineering."
+            },
+            {
+              "name": "Mobility-infused AI frameworks",
+              "description": "Used to accelerate transformation towards Software and AI-Defined Vehicles."
+            },
+            {
+              "name": "Integration frameworks and tools",
+              "description": "Utilized for digital cockpit solutions for faster time-to-market, reduced defects, enhanced user experience."
+            },
+            {
+              "name": "KPIT AI Platform",
+              "description": "Provides OEMs infrastructure to deploy, monitor, and retrain AI models across vehicle fleets at scale."
+            },
+            {
+              "name": "KGPT",
+              "description": "Compresses development timelines for KPIT's own engineering teams."
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            },
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEfhbqSuXPvrIgFoDeG63v8KhAzOCH6K1NflXljJ8-nB46avxZzO5wpzR0HOLkmDV4Jp_jEUvhSSUsHhrz5bj8dHifyLZqZh0eljchoGv2i5UTLVpz0Zv4eMdFoHGOYoboEO42bMRc7cEoBIKo8mXTHtsW59tbQN66BCiggIw2v00TLd2pyeV0snS8PnIPUCt3MC8oKG9SeU3YF0pEhU="
+            },
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz22D-LDr6tNulr9afED1Y6rHG6-GH-yFTTjzIliD70PmYkGgkAc_eKGlUellaxe8Ti5v57SvQg_WYkdroYqZ_xVb7Gw6Nn4ZTEiMyeYsg6utf8CTt_e3-5hjXhTOUGovAgEu4IbYvba1jFUGUOsOSH0TkHF-PxIUgLg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Contribution of Products & Solutions to Overall Pipeline (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "approximately 21%",
+              "note": "Contribution to overall pipeline"
+            },
+            {
+              "period": "Mid-term target",
+              "value": "50%",
+              "note": "Management's goal for solutions and products as percentage of revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26): [{\"period\": \"Q4 FY26\", \"value\": \"68.3%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}, {\"period\": \"FY26\", \"value\": \"65.4%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}, {\"period\": \"FY25\", \"value\": \"nearly 10%\", \"note\": \"IP & Platform Licensing contribution to total revenue\"}, {\"period\": \"Q4 FY25 (corresponds to Q4 FY24)\", \"value\": \"59.6%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}]",
+        "Number of Patents Filed/Granted (Automotive Software specific): {\"total_patents_as_of_Q4_FY24\": 68, \"recent_automotive_software_patents\": [{\"patent_number\": \"11982736\", \"title\": \"Perception sensors based fusion system for vehicle control and method thereof\", \"date_of_patent\": \"October 1, 2024\", \"filed_date\": \"August 2, 2019\", \"status\": \"Granted\"}, {\"patent_number\": \"11814085\", \"title\": \"System for grid-based merge cut-in prediction and method thereof\", \"granted_date\": \"November 14, 2023\", \"filed_date\": \"March 26, 2021\", \"status\": \"Granted\"}, {\"patent_number\": \"11170588\", \"title\": \"Autonomous system validation\", \"granted_date\": \"November 9, 2021\", \"filed_date\": \"September 23, 2017\", \"status\": \"Granted\"}, {\"patent_number\": \"11030469\", \"title\": \"System and method for detection of free parking space for a vehicle\", \"granted_date\": \"June 8, 2021\", \"filed_date\": \"January 20, 2019\", \"status\": \"Granted\"}, {\"patent_number\": \"10380434\", \"title\": \"Vehicle detection system and method\", \"granted_date\": \"August 13, 2019\", \"filed_date\": \"January 16, 2015\", \"status\": \"Granted\"}, {\"patent_number\": \"10266169\", \"title\": \"Powertrain system for electric and hybrid electric vehicles\", \"granted_date\": \"April 23, 2019\", \"filed_date\": \"April 16, 2018\", \"status\": \"Granted\"}, {\"patent_number\": \"9944271\", \"title\": \"Retrofit system for converting a vehicle into one of a hybrid electric vehicle and electric vehicle\", \"granted_date\": \"April 17, 2018\", \"filed_date\": \"September 1, 2014\", \"status\": \"Granted\"}], \"Q2_2024_autonomous_vehicle_patents\": {\"filed\": 0, \"granted_percentage\": \"50%\"}}",
+        "Key Proprietary Platforms/Frameworks (named in disclosures): [{\"name\": \"ignitarium\", \"description\": \"Proprietary AI and data engineering platform for accelerating autonomous driving algorithm development.\"}, {\"name\": \"Beacon\", \"description\": \"Mobility Intelligence product, a deterministic, enterprise-scale AI platform for safety-critical mobility engineering.\"}, {\"name\": \"Mobility-infused AI frameworks\", \"description\": \"Used to accelerate transformation towards Software and AI-Defined Vehicles.\"}, {\"name\": \"Integration frameworks and tools\", \"description\": \"Utilized for digital cockpit solutions for faster time-to-market, reduced defects, enhanced user experience.\"}, {\"name\": \"KPIT AI Platform\", \"description\": \"Provides OEMs infrastructure to deploy, monitor, and retrain AI models across vehicle fleets at scale.\"}, {\"name\": \"KGPT\", \"description\": \"Compresses development timelines for KPIT's own engineering teams.\"}]",
+        "Contribution of Products & Solutions to Overall Pipeline (%): [{\"period\": \"Q4 FY26\", \"value\": \"approximately 21%\", \"note\": \"Contribution to overall pipeline\"}, {\"period\": \"Mid-term target\", \"value\": \"50%\", \"note\": \"Management's goal for solutions and products as percentage of revenue\"}]"
+      ],
+      "references": [
+        {
+          "name": "multibagg.ai",
+          "url": null,
+          "fields": [
+            "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)",
+            "Number of Patents Filed/Granted (Automotive Software specific)",
+            "Key Proprietary Platforms/Frameworks (named in disclosures)",
+            "Contribution of Products & Solutions to Overall Pipeline (%)"
+          ]
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ3UU7Zs0qFW3Nb8UC2Ax9PIvxwdKtgjlYpn6W0MLg87t7b2lnA-mzrmOoLwqIsJrnct9pSD3xWThKCl4FXPFkz-CfVCtszkuKSOxZhT3jPbCj7Z7_dLDGmXwwev4mqugA7VsgyHD8UqpIqBmpd7fF8Mkn8my2zVjvrYSk7q0L",
+          "fields": [
+            "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65W5sWyg4u_bzGbm-aWn7Un7InrXlzD-Pk_wFOvDUAYRO4CYIDRcp2hriMIEpFZvFiJPb3E268DlktpRG2e8OVjOAo7L8cwMIMvFCR7EizqmvY0-8jt5_GX1iqH65TbjLY3Q0i3djodwGMEKuyG1WnGc6HFvojLQ=",
+          "fields": [
+            "Number of Patents Filed/Granted (Automotive Software specific)"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": null,
+          "fields": [
+            "Number of Patents Filed/Granted (Automotive Software specific)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEfhbqSuXPvrIgFoDeG63v8KhAzOCH6K1NflXljJ8-nB46avxZzO5wpzR0HOLkmDV4Jp_jEUvhSSUsHhrz5bj8dHifyLZqZh0eljchoGv2i5UTLVpz0Zv4eMdFoHGOYoboEO42bMRc7cEoBIKo8mXTHtsW59tbQN66BCiggIw2v00TLd2pyeV0snS8PnIPUCt3MC8oKG9SeU3YF0pEhU=",
+          "fields": [
+            "Key Proprietary Platforms/Frameworks (named in disclosures)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz22D-LDr6tNulr9afED1Y6rHG6-GH-yFTTjzIliD70PmYkGgkAc_eKGlUellaxe8Ti5v57SvQg_WYkdroYqZ_xVb7Gw6Nn4ZTEiMyeYsg6utf8CTt_e3-5hjXhTOUGovAgEu4IbYvba1jFUGUOsOSH0TkHF-PxIUgLg==",
+          "fields": [
+            "Key Proprietary Platforms/Frameworks (named in disclosures)"
+          ]
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU6fLwm-mGiOwmG3MMXqSMn6KElPDe9B5huvnZfaZbAtW4sUxOyYz-NGdcq6eXS7qe1oHZCHcb201D_SFKMJm0GyZcITXvhNJZJeGv5D2IXdT9KyCLKtBuDN5cdESnOpaQ586AGvmB6DEufVuvL1Y=",
+          "fields": []
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY8pitWKHkB4JW9VCk92dBGG342dQAvozlTSBIUdEx4RmPgt82vATfspwKYJNq68X1FAkkYN8IgqPYAXnOU8gPw9m921vAAn1-AtKWxWINJt7nii9vWs0aHY_k8sMknb7UMt6_wciNXVaHMTosBbdbhbibXFEt2-kcOgE=",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCdmAUV3MGUb2Kp6k_e7m4JO3tXV7skCmugohHgUwYixoF-ecjVo_oy3K5QCd86HDuQKQV5eufusbQCp38m94uKEIsMBIH-dTPyjv7maiVF4WPkudwyBVV17CbmSYvPQV2VzsMa79HI1nEpJpsZ02WdI2_hY9kHBr1hvOVvjdDHu3CicMR1SICcYXQ4WP-z018zNDY",
+          "fields": []
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYuWOGoQo5Sd8tXYfg8fmWoCG5iH_5YUWEzj5HJ16ZDj99kzkvMYi6hmden4lCEg0692Lbo0K_0C4YCX5OYaJKqpMYl7mxodosuP12J79ccBWqKnXfKhDEcEcbjkgfsq5ITp7x2mArgqcmWFI9B9tzw9ntsA==",
+          "fields": []
+        },
+        {
+          "name": "verdict.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVfSKKOAwv6iGo_Rh6CMt0Aq6vumSGHmz27U6MApYqT6yR7QW5L4kDzFRay5RTcTImaA6ukzKH-P6VGcel0Rj9nMFjhye0uk6Ck2Ei6ZjPXe1qWhxY2L-nbdXEXG6_M_4l3pkcVjjSfexT5vXRH_VUHFlG5eViVQ==",
+          "fields": []
+        },
+        {
+          "name": "autocarpro.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsIKaPQHzNmZsIXgtpFKLB7fjG_YCWavGMEFEgrsIcDNYQNjHGsF0Lo663Ga3PF0tIVLGU89emyByCun27b8R1ds8CLybKJdl5iTq8VFKroylzQ8z1dIT3p_FQ5QNNR3Mmvs_XIjLKJzl-LM8W2LwYELEz2ni9A_u5iTvUcPYD_MOeQAlArk4iDmFEYR9bs5cl3y0vAM_Vc5vetcQDNg==",
+          "fields": []
+        },
+        {
+          "name": "tradejini.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9sJjVIpmhbbMsFQWjOzH9t0nNIJeI0RBOoE6uT6jYTFi-2eBf3vaE--UoCAfFpt7rr-2mvUOJUOlO3hF2F8YeQv7CrDJ27AqGD6z27Pvd-9HyQUKtKmqi9mXZKNSEy1ciZpq34QvoxWGX85fiWG3wPKPJlirqRufRrP7ZPqKylGGuxFOs-DCvUGSIhX0L57g1C2gSbFzzBxNmZEJL6Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Revenue Model Evolution & IP-Led Solutions",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 5,
+      "missing_fields": [
+        "YoY Growth Rate of IP-Led Revenue Segment"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Increases pursuit likelihood by demonstrating a strategic shift towards higher-margin, differentiated revenue streams and a robust innovation pipeline, suggesting potential for sustained competitive advantage and growth.",
+        "banker": "Null",
+        "credit_analyst": "Increases pursuit likelihood by providing quantifiable evidence of revenue diversification and a growing IP asset base, which can strengthen the company's financial resilience and reduce reliance on traditional service models.",
+        "consultant": "Increases pursuit likelihood by highlighting the company's investment in proprietary platforms and IP, indicating potential for operational efficiencies and unique client solutions that could be leveraged in strategic advisory engagements."
+      }
+    },
+    {
+      "heading": "IP Portfolio & Innovation",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "68.3%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            },
+            {
+              "period": "FY26",
+              "value": "65.4%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            },
+            {
+              "period": "FY25",
+              "value": "nearly 10%",
+              "note": "IP & Platform Licensing contribution to total revenue"
+            },
+            {
+              "period": "Q4 FY25 (corresponds to Q4 FY24)",
+              "value": "59.6%",
+              "note": "Fixed-price programs, proxy for outcome-based models"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ3UU7Zs0qFW3Nb8UC2Ax9PIvxwdKtgjlYpn6W0MLg87t7b2lnA-mzrmOoLwqIsJrnct9pSD3xWThKCl4FXPFkz-CfVCtszkuKSOxZhT3jPbCj7Z7_dLDGmXwwev4mqugA7VsgyHD8UqpIqBmpd7fF8Mkn8my2zVjvrYSk7q0L"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Patents Filed/Granted (Automotive Software specific)",
+          "value": {
+            "total_patents_as_of_Q4_FY24": 68,
+            "recent_automotive_software_patents": [
+              {
+                "patent_number": "11982736",
+                "title": "Perception sensors based fusion system for vehicle control and method thereof",
+                "date_of_patent": "October 1, 2024",
+                "filed_date": "August 2, 2019",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11814085",
+                "title": "System for grid-based merge cut-in prediction and method thereof",
+                "granted_date": "November 14, 2023",
+                "filed_date": "March 26, 2021",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11170588",
+                "title": "Autonomous system validation",
+                "granted_date": "November 9, 2021",
+                "filed_date": "September 23, 2017",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "11030469",
+                "title": "System and method for detection of free parking space for a vehicle",
+                "granted_date": "June 8, 2021",
+                "filed_date": "January 20, 2019",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "10380434",
+                "title": "Vehicle detection system and method",
+                "granted_date": "August 13, 2019",
+                "filed_date": "January 16, 2015",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "10266169",
+                "title": "Powertrain system for electric and hybrid electric vehicles",
+                "granted_date": "April 23, 2019",
+                "filed_date": "April 16, 2018",
+                "status": "Granted"
+              },
+              {
+                "patent_number": "9944271",
+                "title": "Retrofit system for converting a vehicle into one of a hybrid electric vehicle and electric vehicle",
+                "granted_date": "April 17, 2018",
+                "filed_date": "September 1, 2014",
+                "status": "Granted"
+              }
+            ],
+            "Q2_2024_autonomous_vehicle_patents": {
+              "filed": 0,
+              "granted_percentage": "50%"
+            }
+          },
+          "sources": [
+            {
+              "name": "justia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65W5sWyg4u_bzGbm-aWn7Un7InrXlzD-Pk_wFOvDUAYRO4CYIDRcp2hriMIEpFZvFiJPb3E268DlktpRG2e8OVjOAo7L8cwMIMvFCR7EizqmvY0-8jt5_GX1iqH65TbjLY3Q0i3djodwGMEKuyG1WnGc6HFvojLQ="
+            },
+            {
+              "name": "justia.com",
+              "url": null
+            },
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key Proprietary Platforms/Frameworks (named in disclosures)",
+          "value": [
+            {
+              "name": "ignitarium",
+              "description": "Proprietary AI and data engineering platform for accelerating autonomous driving algorithm development."
+            },
+            {
+              "name": "Beacon",
+              "description": "Mobility Intelligence product, a deterministic, enterprise-scale AI platform for safety-critical mobility engineering."
+            },
+            {
+              "name": "Mobility-infused AI frameworks",
+              "description": "Used to accelerate transformation towards Software and AI-Defined Vehicles."
+            },
+            {
+              "name": "Integration frameworks and tools",
+              "description": "Utilized for digital cockpit solutions for faster time-to-market, reduced defects, enhanced user experience."
+            },
+            {
+              "name": "KPIT AI Platform",
+              "description": "Provides OEMs infrastructure to deploy, monitor, and retrain AI models across vehicle fleets at scale."
+            },
+            {
+              "name": "KGPT",
+              "description": "Compresses development timelines for KPIT's own engineering teams."
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            },
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEfhbqSuXPvrIgFoDeG63v8KhAzOCH6K1NflXljJ8-nB46avxZzO5wpzR0HOLkmDV4Jp_jEUvhSSUsHhrz5bj8dHifyLZqZh0eljchoGv2i5UTLVpz0Zv4eMdFoHGOYoboEO42bMRc7cEoBIKo8mXTHtsW59tbQN66BCiggIw2v00TLd2pyeV0snS8PnIPUCt3MC8oKG9SeU3YF0pEhU="
+            },
+            {
+              "name": "kpit.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz22D-LDr6tNulr9afED1Y6rHG6-GH-yFTTjzIliD70PmYkGgkAc_eKGlUellaxe8Ti5v57SvQg_WYkdroYqZ_xVb7Gw6Nn4ZTEiMyeYsg6utf8CTt_e3-5hjXhTOUGovAgEu4IbYvba1jFUGUOsOSH0TkHF-PxIUgLg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Contribution of Products & Solutions to Overall Pipeline (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "approximately 21%",
+              "note": "Contribution to overall pipeline"
+            },
+            {
+              "period": "Mid-term target",
+              "value": "50%",
+              "note": "Management's goal for solutions and products as percentage of revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26): [{\"period\": \"Q4 FY26\", \"value\": \"68.3%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}, {\"period\": \"FY26\", \"value\": \"65.4%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}, {\"period\": \"FY25\", \"value\": \"nearly 10%\", \"note\": \"IP & Platform Licensing contribution to total revenue\"}, {\"period\": \"Q4 FY25 (corresponds to Q4 FY24)\", \"value\": \"59.6%\", \"note\": \"Fixed-price programs, proxy for outcome-based models\"}]",
+        "Number of Patents Filed/Granted (Automotive Software specific): {\"total_patents_as_of_Q4_FY24\": 68, \"recent_automotive_software_patents\": [{\"patent_number\": \"11982736\", \"title\": \"Perception sensors based fusion system for vehicle control and method thereof\", \"date_of_patent\": \"October 1, 2024\", \"filed_date\": \"August 2, 2019\", \"status\": \"Granted\"}, {\"patent_number\": \"11814085\", \"title\": \"System for grid-based merge cut-in prediction and method thereof\", \"granted_date\": \"November 14, 2023\", \"filed_date\": \"March 26, 2021\", \"status\": \"Granted\"}, {\"patent_number\": \"11170588\", \"title\": \"Autonomous system validation\", \"granted_date\": \"November 9, 2021\", \"filed_date\": \"September 23, 2017\", \"status\": \"Granted\"}, {\"patent_number\": \"11030469\", \"title\": \"System and method for detection of free parking space for a vehicle\", \"granted_date\": \"June 8, 2021\", \"filed_date\": \"January 20, 2019\", \"status\": \"Granted\"}, {\"patent_number\": \"10380434\", \"title\": \"Vehicle detection system and method\", \"granted_date\": \"August 13, 2019\", \"filed_date\": \"January 16, 2015\", \"status\": \"Granted\"}, {\"patent_number\": \"10266169\", \"title\": \"Powertrain system for electric and hybrid electric vehicles\", \"granted_date\": \"April 23, 2019\", \"filed_date\": \"April 16, 2018\", \"status\": \"Granted\"}, {\"patent_number\": \"9944271\", \"title\": \"Retrofit system for converting a vehicle into one of a hybrid electric vehicle and electric vehicle\", \"granted_date\": \"April 17, 2018\", \"filed_date\": \"September 1, 2014\", \"status\": \"Granted\"}], \"Q2_2024_autonomous_vehicle_patents\": {\"filed\": 0, \"granted_percentage\": \"50%\"}}",
+        "Key Proprietary Platforms/Frameworks (named in disclosures): [{\"name\": \"ignitarium\", \"description\": \"Proprietary AI and data engineering platform for accelerating autonomous driving algorithm development.\"}, {\"name\": \"Beacon\", \"description\": \"Mobility Intelligence product, a deterministic, enterprise-scale AI platform for safety-critical mobility engineering.\"}, {\"name\": \"Mobility-infused AI frameworks\", \"description\": \"Used to accelerate transformation towards Software and AI-Defined Vehicles.\"}, {\"name\": \"Integration frameworks and tools\", \"description\": \"Utilized for digital cockpit solutions for faster time-to-market, reduced defects, enhanced user experience.\"}, {\"name\": \"KPIT AI Platform\", \"description\": \"Provides OEMs infrastructure to deploy, monitor, and retrain AI models across vehicle fleets at scale.\"}, {\"name\": \"KGPT\", \"description\": \"Compresses development timelines for KPIT's own engineering teams.\"}]",
+        "Contribution of Products & Solutions to Overall Pipeline (%): [{\"period\": \"Q4 FY26\", \"value\": \"approximately 21%\", \"note\": \"Contribution to overall pipeline\"}, {\"period\": \"Mid-term target\", \"value\": \"50%\", \"note\": \"Management's goal for solutions and products as percentage of revenue\"}]"
+      ],
+      "references": [
+        {
+          "name": "multibagg.ai",
+          "url": null,
+          "fields": [
+            "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)",
+            "Number of Patents Filed/Granted (Automotive Software specific)",
+            "Key Proprietary Platforms/Frameworks (named in disclosures)",
+            "Contribution of Products & Solutions to Overall Pipeline (%)"
+          ]
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ3UU7Zs0qFW3Nb8UC2Ax9PIvxwdKtgjlYpn6W0MLg87t7b2lnA-mzrmOoLwqIsJrnct9pSD3xWThKCl4FXPFkz-CfVCtszkuKSOxZhT3jPbCj7Z7_dLDGmXwwev4mqugA7VsgyHD8UqpIqBmpd7fF8Mkn8my2zVjvrYSk7q0L",
+          "fields": [
+            "Percentage Revenue from Outcome-Based/IP-Led Models (FY24, FY25, FY26)"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65W5sWyg4u_bzGbm-aWn7Un7InrXlzD-Pk_wFOvDUAYRO4CYIDRcp2hriMIEpFZvFiJPb3E268DlktpRG2e8OVjOAo7L8cwMIMvFCR7EizqmvY0-8jt5_GX1iqH65TbjLY3Q0i3djodwGMEKuyG1WnGc6HFvojLQ=",
+          "fields": [
+            "Number of Patents Filed/Granted (Automotive Software specific)"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": null,
+          "fields": [
+            "Number of Patents Filed/Granted (Automotive Software specific)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEfhbqSuXPvrIgFoDeG63v8KhAzOCH6K1NflXljJ8-nB46avxZzO5wpzR0HOLkmDV4Jp_jEUvhSSUsHhrz5bj8dHifyLZqZh0eljchoGv2i5UTLVpz0Zv4eMdFoHGOYoboEO42bMRc7cEoBIKo8mXTHtsW59tbQN66BCiggIw2v00TLd2pyeV0snS8PnIPUCt3MC8oKG9SeU3YF0pEhU=",
+          "fields": [
+            "Key Proprietary Platforms/Frameworks (named in disclosures)"
+          ]
+        },
+        {
+          "name": "kpit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz22D-LDr6tNulr9afED1Y6rHG6-GH-yFTTjzIliD70PmYkGgkAc_eKGlUellaxe8Ti5v57SvQg_WYkdroYqZ_xVb7Gw6Nn4ZTEiMyeYsg6utf8CTt_e3-5hjXhTOUGovAgEu4IbYvba1jFUGUOsOSH0TkHF-PxIUgLg==",
+          "fields": [
+            "Key Proprietary Platforms/Frameworks (named in disclosures)"
+          ]
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU6fLwm-mGiOwmG3MMXqSMn6KElPDe9B5huvnZfaZbAtW4sUxOyYz-NGdcq6eXS7qe1oHZCHcb201D_SFKMJm0GyZcITXvhNJZJeGv5D2IXdT9KyCLKtBuDN5cdESnOpaQ586AGvmB6DEufVuvL1Y=",
+          "fields": []
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY8pitWKHkB4JW9VCk92dBGG342dQAvozlTSBIUdEx4RmPgt82vATfspwKYJNq68X1FAkkYN8IgqPYAXnOU8gPw9m921vAAn1-AtKWxWINJt7nii9vWs0aHY_k8sMknb7UMt6_wciNXVaHMTosBbdbhbibXFEt2-kcOgE=",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCdmAUV3MGUb2Kp6k_e7m4JO3tXV7skCmugohHgUwYixoF-ecjVo_oy3K5QCd86HDuQKQV5eufusbQCp38m94uKEIsMBIH-dTPyjv7maiVF4WPkudwyBVV17CbmSYvPQV2VzsMa79HI1nEpJpsZ02WdI2_hY9kHBr1hvOVvjdDHu3CicMR1SICcYXQ4WP-z018zNDY",
+          "fields": []
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYuWOGoQo5Sd8tXYfg8fmWoCG5iH_5YUWEzj5HJ16ZDj99kzkvMYi6hmden4lCEg0692Lbo0K_0C4YCX5OYaJKqpMYl7mxodosuP12J79ccBWqKnXfKhDEcEcbjkgfsq5ITp7x2mArgqcmWFI9B9tzw9ntsA==",
+          "fields": []
+        },
+        {
+          "name": "verdict.co.uk",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVfSKKOAwv6iGo_Rh6CMt0Aq6vumSGHmz27U6MApYqT6yR7QW5L4kDzFRay5RTcTImaA6ukzKH-P6VGcel0Rj9nMFjhye0uk6Ck2Ei6ZjPXe1qWhxY2L-nbdXEXG6_M_4l3pkcVjjSfexT5vXRH_VUHFlG5eViVQ==",
+          "fields": []
+        },
+        {
+          "name": "autocarpro.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsIKaPQHzNmZsIXgtpFKLB7fjG_YCWavGMEFEgrsIcDNYQNjHGsF0Lo663Ga3PF0tIVLGU89emyByCun27b8R1ds8CLybKJdl5iTq8VFKroylzQ8z1dIT3p_FQ5QNNR3Mmvs_XIjLKJzl-LM8W2LwYELEz2ni9A_u5iTvUcPYD_MOeQAlArk4iDmFEYR9bs5cl3y0vAM_Vc5vetcQDNg==",
+          "fields": []
+        },
+        {
+          "name": "tradejini.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9sJjVIpmhbbMsFQWjOzH9t0nNIJeI0RBOoE6uT6jYTFi-2eBf3vaE--UoCAfFpt7rr-2mvUOJUOlO3hF2F8YeQv7CrDJ27AqGD6z27Pvd-9HyQUKtKmqi9mXZKNSEy1ciZpq34QvoxWGX85fiWG3wPKPJlirqRufRrP7ZPqKylGGuxFOs-DCvUGSIhX0L57g1C2gSbFzzBxNmZEJL6Q==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Revenue Model Evolution & IP-Led Solutions",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 5,
+      "missing_fields": [
+        "YoY Growth Rate of IP-Led Revenue Segment"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Increases pursuit likelihood by demonstrating a strategic shift towards higher-margin, differentiated revenue streams and a robust innovation pipeline, suggesting potential for sustained competitive advantage and growth.",
+        "banker": "Null",
+        "credit_analyst": "Increases pursuit likelihood by providing quantifiable evidence of revenue diversification and a growing IP asset base, which can strengthen the company's financial resilience and reduce reliance on traditional service models.",
+        "consultant": "Increases pursuit likelihood by highlighting the company's investment in proprietary platforms and IP, indicating potential for operational efficiencies and unique client solutions that could be leveraged in strategic advisory engagements."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 26
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.017028,
+    "domain_research_usd": 0.126085,
+    "accuracy_verify_usd": 0.0,
+    "actual_total_usd": 0.143113,
+    "actual_calls": 18,
+    "elapsed_seconds": 169.9,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.031521,
+      "estimated_generic_domains_usd": 0.189128,
+      "estimated_synthesis_usd": 0.126085,
+      "estimated_total_usd": 0.458325
+    }
+  }
+}

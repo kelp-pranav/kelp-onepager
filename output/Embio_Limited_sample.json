@@ -1,0 +1,684 @@
+{
+  "metadata": {
+    "company_name": "Embio Limited",
+    "sources": [
+      {
+        "name": "Embio Annual Report FY25",
+        "url": "https://embio.co.in/ar25",
+        "accessed_at": "2026-06-24T14:18:40.504486",
+        "field_attributions": [
+          "revenue",
+          "EBITDA"
+        ]
+      },
+      {
+        "name": "CARE Ratings, Oct 2025",
+        "url": "https://www.careratings.com/embio",
+        "accessed_at": "2026-06-24T14:18:40.504480",
+        "field_attributions": [
+          "credit ratings"
+        ]
+      }
+    ],
+    "domain_source_index": {
+      "Financials & Ratios": [
+        0
+      ],
+      "Credit & Risk": [
+        1
+      ],
+      "Market Position": [
+        0
+      ]
+    },
+    "documents_used": [],
+    "sections_total": 30,
+    "sections_populated": 12,
+    "sections_partial": 0,
+    "sections_unavailable": 18,
+    "validation_report": {
+      "unit_issues": [],
+      "date_issues": [],
+      "missing_citations": [
+        "Business description",
+        "Investment thesis",
+        "Risk flags",
+        "SWOT",
+        "Future plan"
+      ],
+      "implausible_numbers": [],
+      "fabricated_urls": [],
+      "duplicate_sections": [],
+      "completeness_actions": [],
+      "swot_alignment": {
+        "checked": true,
+        "unsupported": [
+          "FY25 EBITDA margin 25.35%, up from ~10%"
+        ]
+      }
+    }
+  },
+  "company_header": {
+    "name": "Embio Limited",
+    "sector": "pharma",
+    "ticker": null,
+    "cin": "U24110MH1986PLC038680",
+    "founded": "1986",
+    "listed_status": "Unlisted Public (PE-backed)",
+    "hq": "Mumbai, India"
+  },
+  "sections": [
+    {
+      "section_name": "Key stats bar",
+      "column": "left",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "stat_grid",
+      "content": {
+        "data": {
+          "5-year revenue": {
+            "FY25": "₹272.85 Cr",
+            "FY24": "₹180.84 Cr",
+            "FY23": "₹207.88 Cr"
+          },
+          "EBITDA": {
+            "FY25": "₹69.16 Cr",
+            "FY24": "₹17.76 Cr"
+          },
+          "PAT": {
+            "FY25": "₹39.05 Cr",
+            "FY24": "₹4.47 Cr"
+          },
+          "EBITDA margin": "25.35% (FY25)",
+          "interest coverage": "28.46x (FY25)"
+        },
+        "confidence": "high",
+        "completeness": 0.9,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {
+        "EBITDA": [
+          0
+        ]
+      },
+      "quality_flags": []
+    },
+    {
+      "section_name": "Business description",
+      "column": "left",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "prose",
+      "content": {
+        "text": "Embio Limited, founded 1986 in Mumbai, manufactures controlled-substance APIs, chiral intermediates and specialty chemicals via fermentation and chiral chemistry at USFDA/WHO-GMP facilities, exporting to ~80 countries. It leads in licensed Schedule-1/2 controlled-substance APIs.",
+        "status": "populated"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": [
+        "no_source_link"
+      ]
+    },
+    {
+      "section_name": "Regulatory inspection history",
+      "column": "left",
+      "order_in_column": 2,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Products & services",
+      "column": "left",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "full product list": [
+            "Ephedrine",
+            "Pseudoephedrine",
+            "Chiral intermediates"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.8,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Investment thesis",
+      "column": "left",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "prose",
+      "content": {
+        "thesis": [
+          {
+            "heading": "Competitive moat",
+            "text": "Leadership in licensed Schedule-1/2 controlled-substance APIs at USFDA/WHO-GMP facilities — a high regulatory barrier."
+          },
+          {
+            "heading": "Current story",
+            "text": "FY25 revenue +50.5% to ₹272.85 Cr with EBITDA margin expanding to 25.35%; CARE upgraded to BBB+/Stable."
+          },
+          {
+            "heading": "Forward opportunity",
+            "text": "Dahej capacity expansion plus True North growth capital position the company for export-led scale-up."
+          }
+        ],
+        "status": "populated"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": [
+        "no_source_link"
+      ]
+    },
+    {
+      "section_name": "Risk flags",
+      "column": "left",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "flags": [
+            {
+              "severity": "amber",
+              "flag": "Customer concentration in top-10 pharma majors"
+            },
+            {
+              "severity": "red",
+              "flag": "Controlled-substance diversion / regulatory risk"
+            }
+          ]
+        },
+        "confidence": "medium",
+        "status": "populated"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": [
+        "no_source_link"
+      ]
+    },
+    {
+      "section_name": "Financial performance chart",
+      "column": "left",
+      "order_in_column": 6,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "5-year revenue": {
+            "FY25": "₹272.85 Cr",
+            "FY24": "₹180.84 Cr",
+            "FY23": "₹207.88 Cr"
+          },
+          "EBITDA": {
+            "FY25": "₹69.16 Cr",
+            "FY24": "₹17.76 Cr"
+          },
+          "PAT": {
+            "FY25": "₹39.05 Cr",
+            "FY24": "₹4.47 Cr"
+          },
+          "EBITDA margin": "25.35% (FY25)"
+        },
+        "confidence": "high",
+        "completeness": 0.9,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {
+        "EBITDA": [
+          0
+        ]
+      },
+      "quality_flags": []
+    },
+    {
+      "section_name": "Margin trend & key metrics",
+      "column": "left",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "EBITDA margin": "25.35% (FY25)",
+          "interest coverage": "28.46x (FY25)"
+        },
+        "confidence": "high",
+        "completeness": 0.9,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Working capital analysis",
+      "column": "left",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {},
+        "confidence": "high",
+        "completeness": 0.9,
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Revenue by geography",
+      "column": "left",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Revenue by product segment",
+      "column": "left",
+      "order_in_column": 10,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "top 5-8 peers with revenue + EBITDA margin + focus": [
+            {
+              "name": "Divi's Laboratories",
+              "focus": "APIs/intermediates"
+            },
+            {
+              "name": "Laurus Labs",
+              "focus": "APIs/CDMO"
+            }
+          ],
+          "full product list": [
+            "Ephedrine",
+            "Pseudoephedrine",
+            "Chiral intermediates"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.8,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Peers comparison",
+      "column": "left",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "top 5-8 peers with revenue + EBITDA margin + focus": [
+            {
+              "name": "Divi's Laboratories",
+              "focus": "APIs/intermediates"
+            },
+            {
+              "name": "Laurus Labs",
+              "focus": "APIs/CDMO"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.8,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Manufacturing & facilities",
+      "column": "left",
+      "order_in_column": 12,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Channel mix & distribution",
+      "column": "left",
+      "order_in_column": 13,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {},
+        "confidence": "high",
+        "completeness": 0.8,
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "SWOT",
+      "column": "left",
+      "order_in_column": 14,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "swot_grid",
+      "content": {
+        "strengths": [
+          "FY25 EBITDA margin 25.35%, up from ~10%",
+          "CARE BBB+/Stable, upgraded from A-/Negative"
+        ],
+        "weaknesses": [
+          "Customer concentration in top-10 pharma majors"
+        ],
+        "opportunities": [
+          "Dahej expansion; ~80-country export base"
+        ],
+        "threats": [
+          "Controlled-substance regulatory/diversion risk"
+        ],
+        "status": "populated"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": [
+        "no_source_link"
+      ]
+    },
+    {
+      "section_name": "Market size",
+      "column": "left",
+      "order_in_column": 15,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "table",
+      "content": {
+        "data": {},
+        "confidence": "high",
+        "completeness": 0.8,
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Recent news",
+      "column": "left",
+      "order_in_column": 16,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Details",
+      "column": "right",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Ownership",
+      "column": "right",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Shareholders & promoters",
+      "column": "right",
+      "order_in_column": 2,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Leadership",
+      "column": "right",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Board members",
+      "column": "right",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Compliance & ESG",
+      "column": "right",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Credit ratings",
+      "column": "right",
+      "order_in_column": 6,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "current LT and ST credit ratings + agency + outlook": "CARE BBB+ / Stable (LT), CARE A2 (ST)",
+          "4-year rating history": [
+            {
+              "date": "Oct 2025",
+              "rating": "BBB+/Stable"
+            },
+            {
+              "date": "FY2023",
+              "rating": "A-/Negative"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        1
+      ],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Deals & transactions",
+      "column": "right",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Key catalysts",
+      "column": "right",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Key milestones",
+      "column": "right",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Awards & certifications",
+      "column": "right",
+      "order_in_column": 10,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Global presence",
+      "column": "right",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "status": "unavailable"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": []
+    },
+    {
+      "section_name": "Future plan",
+      "column": "right",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "targets": [
+          {
+            "target": "Commission Dahej facility",
+            "timeline": "FY26"
+          },
+          {
+            "target": "Scale controlled-substance API exports",
+            "timeline": "FY27"
+          }
+        ],
+        "status": "populated"
+      },
+      "citations": [],
+      "field_citations": {},
+      "quality_flags": [
+        "no_source_link"
+      ]
+    }
+  ]
+}

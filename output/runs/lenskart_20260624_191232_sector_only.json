@@ -1,0 +1,900 @@
+{
+  "company_name": "Lenskart",
+  "generated_at": "20260624_191232",
+  "resolved_subsector": "omnichannel eyewear retail & manufacturing",
+  "sections": [
+    {
+      "heading": "Omnichannel Sales & Engagement Metrics",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Same Store Sales Growth (SSSG) - India (YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "24.2%"
+            },
+            {
+              "period": "Full-year FY26",
+              "value": "20.8%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "The Times of India",
+              "url": null
+            },
+            {
+              "name": "ScanX",
+              "url": null
+            },
+            {
+              "name": "The Economic Times",
+              "url": null
+            },
+            {
+              "name": "Lenskart Q4 FY26 Concall",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Same Pincode Sales Growth (SPSG) - India (YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "31.1%"
+            },
+            {
+              "period": "Full-year FY26",
+              "value": "27.3%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "ScanX",
+              "url": null
+            },
+            {
+              "name": "Lenskart Q4 FY26 Concall",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Total Eye Tests Conducted (Global, YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "45.0%",
+              "note": "6.8 million eye tests"
+            },
+            {
+              "period": "Full-year FY26",
+              "value": "48.5%",
+              "note": "23.8 million eye tests"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "ScanX",
+              "url": null
+            },
+            {
+              "name": "The Economic Times",
+              "url": null
+            },
+            {
+              "name": "Lenskart Q4 FY26 Concall",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Eye Tests Conducted - India (YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "50.1%",
+              "note": "6.0 million eye tests"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "Lenskart Q4 FY26 Concall",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Eyewear Units Sold (Global, YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "25.2%"
+            },
+            {
+              "period": "Full-year FY26",
+              "value": "24.7%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "ScanX",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Eyewear Units Sold - India (YoY %)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "24.3%",
+              "note": "7.9 million units"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "Whalesbook Corporate News",
+              "url": null
+            },
+            {
+              "name": "Lenskart Q4 FY26 Concall",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Same Store Sales Growth (SSSG) - India (YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"24.2%\"}, {\"period\": \"Full-year FY26\", \"value\": \"20.8%\"}]",
+        "Same Pincode Sales Growth (SPSG) - India (YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"31.1%\"}, {\"period\": \"Full-year FY26\", \"value\": \"27.3%\"}]",
+        "Total Eye Tests Conducted (Global, YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"45.0%\", \"note\": \"6.8 million eye tests\"}, {\"period\": \"Full-year FY26\", \"value\": \"48.5%\", \"note\": \"23.8 million eye tests\"}]",
+        "Eye Tests Conducted - India (YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"50.1%\", \"note\": \"6.0 million eye tests\"}]",
+        "Eyewear Units Sold (Global, YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"25.2%\"}, {\"period\": \"Full-year FY26\", \"value\": \"24.7%\"}]",
+        "Eyewear Units Sold - India (YoY %): [{\"period\": \"Q4 FY26\", \"value\": \"24.3%\", \"note\": \"7.9 million units\"}]"
+      ],
+      "references": [
+        {
+          "name": "Lenskart Q4 FY26 Shareholders' Letter",
+          "url": null,
+          "fields": [
+            "Same Store Sales Growth (SSSG) - India (YoY %)",
+            "Same Pincode Sales Growth (SPSG) - India (YoY %)",
+            "Total Eye Tests Conducted (Global, YoY %)",
+            "Eye Tests Conducted - India (YoY %)",
+            "Eyewear Units Sold (Global, YoY %)",
+            "Eyewear Units Sold - India (YoY %)"
+          ]
+        },
+        {
+          "name": "The Times of India",
+          "url": null,
+          "fields": [
+            "Same Store Sales Growth (SSSG) - India (YoY %)"
+          ]
+        },
+        {
+          "name": "ScanX",
+          "url": null,
+          "fields": [
+            "Same Store Sales Growth (SSSG) - India (YoY %)",
+            "Same Pincode Sales Growth (SPSG) - India (YoY %)",
+            "Total Eye Tests Conducted (Global, YoY %)",
+            "Eyewear Units Sold (Global, YoY %)"
+          ]
+        },
+        {
+          "name": "The Economic Times",
+          "url": null,
+          "fields": [
+            "Same Store Sales Growth (SSSG) - India (YoY %)",
+            "Total Eye Tests Conducted (Global, YoY %)"
+          ]
+        },
+        {
+          "name": "Lenskart Q4 FY26 Concall",
+          "url": null,
+          "fields": [
+            "Same Store Sales Growth (SSSG) - India (YoY %)",
+            "Same Pincode Sales Growth (SPSG) - India (YoY %)",
+            "Total Eye Tests Conducted (Global, YoY %)",
+            "Eye Tests Conducted - India (YoY %)",
+            "Eyewear Units Sold - India (YoY %)"
+          ]
+        },
+        {
+          "name": "Whalesbook Corporate News",
+          "url": null,
+          "fields": [
+            "Eyewear Units Sold - India (YoY %)"
+          ]
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXk4UHcgbv-TXmFBkPDJVepJnk1hjQF9gtYqaA4RPIlHxRPT4NDj_GT671jqtX0e5CAuRgFBDISA2lY_hF_A5YCD_NhvrY62fVXxaGb8w-8QDO-2ExU4hNzoKrxuICVGkOpo-mol1o7JbFRN72zlfG7W9-50vxj29N8cKCSGTFd_EgRfSboWLWJH49Zmk-Tfuf0t_rtcYZOCVGFB_XEGu9hamTpmGegPJpYzyBYcFTrwFYgn7Gu208gI-pcqoFVBUYp6UXH-bz9k83AfhTLHmtmdnSdwJzKvjwhvpbG3VGmNKnPsw44QA2k7ZLfksxKzNVEV61zSPLOzqv5-L9pEdWl6F40cudzBlDLTsRCF7es6OeXo6tJ12r53gIA44gLYiJw==",
+          "fields": []
+        },
+        {
+          "name": "techinasia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENZ49xYeQE1fpxjs16OiX8NDMpdNA67wvzSsFu5x8-UuuINxcyfautNKb5hZ6tyZ7ZuzUy0sGozBrluZoXMfnsUCnSAf8DqX2BIP9teTEchKJZcJ1t-Blm_UEK8h0u_-xOwWdqLcMtTrt3nbkqh4oK3GSDogyDIuICCO5vLe0zWtPNYbF_xdY=",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg731t0xr59SlBqZYnTr9Gyr6CPW6Axj5zjuQDHdopUiLl_-T7OVR0odChPC14K9UcEsTiAqhORJRi1OZZSiztLg1HB6U95_IGf0KzZFW3WOJeEoqy7sIjbx3W5vq87f5Har00kYkGPivOeidftMxhocc=",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHUx72bCzWqeBEgXePI9v5xhlrSUdOfGmyh_ZECqSiNYYIYkyZs217qMekxFrwciuxJzvkWC1jkXwYDo_Y17SEUcCRrVezgdN1xjtVAOVpSu7VufeEVLXuUhtrM6FGHJTczI-pqGOPHPt7dWKQgWKJcU-MONj9lr6plyEWCs=",
+          "fields": []
+        },
+        {
+          "name": "bseindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6CPAekDy8n5nBrKYswzdLKwC4fGJnySgfgkWGNDi_hfwmdNCIDLeaQz00VRxsUxlH6YnJ-2LYPvgdkCIgI2IVOm6ee5vFvhJPDmgmjU4tCaAZiDLu72kRhbf0H0b1UAaf59Mw4LdO3H73FbkCA3nCYkBboVJDbknMGLkHts1cofxRoXMHSd_Qb1xiXYg-eUId0otu3vrsJwhu",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkqc8NCmGAiMLXxlesjooNryZq0amlheudy8hGjzMZSkrJumKyw3tH6V5SaxnyC8WwvkPaQy_BXj1uJzD0H8EtdqyPCrKfl2ZiUoR5mNhlYypDPsLCBNw9-NNx26bSkiLp6XaIZbP_FzMC-SdhNalddas6fw_4Ke1EOUBTJliQJbuTPf_a75VNC8ZOpUXlH_uRl7PuUlp3vnd1Hc_WHVg=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Omnichannel Sales & Engagement Metrics",
+      "confidence": "high",
+      "completeness": 0.6,
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: SSSG and SPSG provide direct indicators of core business health and market penetration, crucial for evaluating investment potential.",
+        "banker": "Pursue: The Online vs. Offline Revenue Split and Conversion Rate are key metrics for understanding customer journey and potential for strategic partnerships or M&A integration.",
+        "credit_analyst": "Pursue: SSSG, SPSG, and Eyewear Units Sold (Global/India) offer insights into revenue stability and growth trajectory, informing credit risk assessment.",
+        "consultant": "Pursue: Conversion Rate (Eye Test to Purchase) and Home Eye Check-up Volumes directly highlight operational efficiency and potential areas for customer experience improvement."
+      }
+    },
+    {
+      "heading": "Lenskart Gold Subscription Performance",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Lenskart Gold Members (Total, YoY % growth)",
+          "value": [
+            {
+              "period": "FY26-end",
+              "total_members": "8.8 Million",
+              "yoy_growth_percent": "29.5%"
+            },
+            {
+              "period": "FY25-end",
+              "total_members": "6.8 Million",
+              "yoy_growth_percent": "Not Available"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Lenskart Gold Subscription Revenue (YoY % growth)",
+          "value": [
+            {
+              "period": "Full-year FY26",
+              "revenue_million_inr": 1995,
+              "yoy_growth_percent": "84.7%"
+            },
+            {
+              "period": "Q4 FY26",
+              "revenue_million_inr": 595,
+              "yoy_growth_percent": "55.2%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Average Revenue Per Gold Member (ARPGM)",
+          "value": {
+            "period": "FY26",
+            "arpgm_inr": 226.7
+          },
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Gold Member Retention Rate (%)",
+          "value": [
+            {
+              "metric": "Overall 2-year repeat rate",
+              "value_percent": "98%",
+              "note": "Not exclusively for Gold members"
+            },
+            {
+              "metric": "Q3 FY26 sales from prior-quarter Gold members",
+              "value_percent": "37%",
+              "note": "Highlights retention-led growth"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Contribution of Gold Members to Total Sales (%)",
+          "value": {
+            "period": "Q3 FY26",
+            "value_percent": "37%",
+            "note": "From Gold members acquired prior to Q3"
+          },
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Gold Member Purchase Frequency",
+          "value": [
+            {
+              "metric": "Overall purchase frequency over 2 years",
+              "value": "3.6 units of eyewear"
+            },
+            {
+              "metric": "Gold Membership benefit limit",
+              "value": "2 times a month",
+              "note": "Benefit limit, not actual purchase frequency"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Research report",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Lenskart Gold Members (Total, YoY % growth): [{\"period\": \"FY26-end\", \"total_members\": \"8.8 Million\", \"yoy_growth_percent\": \"29.5%\"}, {\"period\": \"FY25-end\", \"total_members\": \"6.8 Million\", \"yoy_growth_percent\": \"Not Available\"}]",
+        "Lenskart Gold Subscription Revenue (YoY % growth): [{\"period\": \"Full-year FY26\", \"revenue_million_inr\": 1995, \"yoy_growth_percent\": \"84.7%\"}, {\"period\": \"Q4 FY26\", \"revenue_million_inr\": 595, \"yoy_growth_percent\": \"55.2%\"}]",
+        "Average Revenue Per Gold Member (ARPGM): {\"period\": \"FY26\", \"arpgm_inr\": 226.7}",
+        "Gold Member Retention Rate (%): [{\"metric\": \"Overall 2-year repeat rate\", \"value_percent\": \"98%\", \"note\": \"Not exclusively for Gold members\"}, {\"metric\": \"Q3 FY26 sales from prior-quarter Gold members\", \"value_percent\": \"37%\", \"note\": \"Highlights retention-led growth\"}]",
+        "Contribution of Gold Members to Total Sales (%): {\"period\": \"Q3 FY26\", \"value_percent\": \"37%\", \"note\": \"From Gold members acquired prior to Q3\"}",
+        "Gold Member Purchase Frequency: [{\"metric\": \"Overall purchase frequency over 2 years\", \"value\": \"3.6 units of eyewear\"}, {\"metric\": \"Gold Membership benefit limit\", \"value\": \"2 times a month\", \"note\": \"Benefit limit, not actual purchase frequency\"}]"
+      ],
+      "references": [
+        {
+          "name": "Research report",
+          "url": null,
+          "fields": [
+            "Lenskart Gold Members (Total, YoY % growth)",
+            "Lenskart Gold Subscription Revenue (YoY % growth)",
+            "Average Revenue Per Gold Member (ARPGM)",
+            "Gold Member Retention Rate (%)",
+            "Contribution of Gold Members to Total Sales (%)",
+            "Gold Member Purchase Frequency"
+          ]
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-gEWQgk2H2Xat5n12bqW4k6THs9KUrQkeOX_d_205S69MK1G2X-6wj0Vz2CgBbKmxN8jM533EtUtwz4Jv8MFnZY0OEG3uePz2KqUqLnR56FuzpcYqmB4WmyD7VQtDzMfIt4FHCuffztgBFJ5-HHJ5TnP6km-3_RuOrqX5MzLL8wW0J7WR8d-Nt8k94L8d4CApa_srtyijsJcVekuEP0NH8BOrNB3hnd1NYZP9SSbOy2pG4AwpAYwpJnh7tqPyPyMq8I17H2tOiVzMfTskNVHsGuDNCk5hH4LNcmHjG1PC_Y1L8BhfcH_lhtMkRpKTbPPyqVY1jXGOktIHQjBxU3421E7DAngTIk4JKuDUt26llT4K8KALyNlSOota7egEmF9FA==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFTU5hKsv8rxphbO3br_UTz7lbL-XV6y--SXtesXedMrvhIWXgvGwdLkTH5DkXZmaNjB7Sni-Tvv0v6viQyw4fgHeAJQUvc21RpuVYD4kdBycgim-nCO_GZVg5iBuw-GCUfqzyDZyJRh8OmK2mwSJzSzY=",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlWiDy4YOIR3v2ceoIdE-qYKTy2cfHge4JA6yPb6ZvVe3ckn74aL3nGN4T4NIw1-L9tUA_arZlN6AR9oCtBGO0UsyHDad67C5t-Mq-PCK5KmTDBeqrqko61sAYrgklxCGfSR8XVKLq30vC9IeXMNx8mEoh1xN7Tf9-BCApi-3s0BB91u9Ex2y_ccTQgq9oUVqfNJ_y5HRe5umR9DSFtzqF3XKd3mIu-NOBQNzz5JnmnuLnUlJ-b1z8x9vhXm-tg1V75YyClULTEjCZHsctVRYJyjFGTJvk-XYFH6CY0QXpGDBZKeJBSHUqCFsqPQpwuRG65-cPsO1-pvXynrixj3Y176TZfuivGSzGTWVUbQaePyV5OaACuxqg4mfKUX4Sg==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEizX3SVGIeMP4ocWrx-d11JG2GP7QQ9t7LO6QHUUsyDq99CZhQ36jvJlHLnkPmc0KkMZO8NHJPqrAGTEGSUl-_347yjCBUe_8K2XleeWU7rHrMoKPGQf1GGCjifG0C",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwZd54G5MNSPl9A-miz3LjGbFnMWAxPU5-kXhFFa-uN-60mD6HMLOsbyOUROSGmvIlZO_acUk1CTtWPWP0INvkDdoxEC33o2QgDG1k8JiC-Jau-YxquNUQT4SrxpzhKgnJxY6fX4I-zjaXIfE2J8eAEwsoi90yTS4CYIzBU0nsJ9BM0t2foVg0KsLE9laWlvN4QDaOMHf5owsO6D92Ttb-QyMARvRSLx17NCnBTY9YOhSNDJUi7xpTWaUBIq3Ut5mw6eOKLw0jmrrtKiZSy4srBg5W7OyIHl7zjVdxj_LCfqf4OtDDPWobsUD0lBRcufaqOVTEYjSnrWIh9kJ5K86I1sOeCkBtCHShIPFa6J0kJ3OM_xe871yfpqIQJmtcsMwn",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwQAA_vVs2d5ae6yblNiSSBUnEKhoo54qkiLOAYa2T5jsTzWgmg1XWSZw456M7wqegOt5qsKVaQ-NeC5oWeany1fTssg8UOfQy-kXWNpzjLT5wGDBVb1SQ-9FQNBVWeUKghO6CzQ==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa6CPNh-ilbRKtf9gHdNk-b02qu-7AlglWJ6ITs3HmRtnBG9Dcym6aiJCpkJWWR2t4jQqy5JdPIeev_wqWqsxQzx_Av3h1MdUJXRsjI0zLYb2zxktLYH3KljdJ1YYcFYOwp7s9TFs8JAAPkyxaUOOMGQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Subscription Program Economics",
+      "confidence": "high",
+      "completeness": 0.75,
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "The strong performance and growth metrics of the Lenskart Gold subscription program suggest a potentially sticky customer base and recurring revenue stream, increasing the likelihood of pursuing deeper diligence on the company's overall business model and valuation.",
+        "banker": "The subscription program's success indicates a potential avenue for future financing or M&A, making the company more attractive for a pitch, thus strengthening the pursue decision.",
+        "credit_analyst": "The high retention rate and contribution to total sales from Gold Members suggest a stable and predictable revenue base, reducing perceived credit risk and encouraging a deeper underwriting look.",
+        "consultant": "The detailed subscription economics provide a clear operational lever for growth and customer loyalty, making the company a compelling case study for strategic operational improvements and thus worth pursuing for further analysis."
+      }
+    },
+    {
+      "heading": "Store Network Growth & Unit Economics",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total Store Count (Global, India, International)",
+          "value": [
+            {
+              "region": "Global",
+              "count": 3327,
+              "period": "FY26-end"
+            },
+            {
+              "region": "India",
+              "count": 2609,
+              "period": "FY26-end"
+            },
+            {
+              "region": "International",
+              "count": 718,
+              "period": "FY26-end"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indianstartupnews.com",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Net New Store Additions (YoY, India, International)",
+          "value": [
+            {
+              "period": "FY26",
+              "total": 603,
+              "india": 542,
+              "international": 61,
+              "note": "1.8x increase from FY25 total"
+            },
+            {
+              "period": "FY25",
+              "total": 335,
+              "india": 282,
+              "international": "Not Available",
+              "note": "For trend comparison"
+            }
+          ],
+          "sources": [
+            {
+              "name": "businessworld.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgPdg3GjsZGYtnxBn0bOyo8tq5I7ag57xAONUgg9nn6xQFuVKnrr_MSzheRooR2LZ6cdHOn3Tkk3jdiWZRmxgXXh8QIEtIhRvpbh-Q-sinexLGNUUlLKsVeivHo4ok3fZt2liQ2H_wszEMAV5G_ey5wsvzwZWwjLw02rbNgIYX1Tb9YovF9jVY7TENVDMv_gN_222toQqfE4iZAyyebOGXKE7d4b-6"
+            },
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYeXk48gGpuMXngPCEHn5eVwsFd9D79480ofsT-WE4Ro32_DQfMrQQME_ESjgy5Sg6IcKpoZanXvlyPedDCfgZ1ZwsdKpP217TH5sWL4mB8jCUXAZolytfDLd-yXsdBZ1rfVJvqpAn0ATJupFEpLnDHeo9G69DcRowHLdCRQqt6A_2e4DiJlOGzO_dsgUmzQTRW3W4OKXS3nK8N_zdHqJ3MXJHYIhshm1E3vIhmjLxKrgwASKfkAKIUL4zFJn0kie5LK_MOuLN2w=="
+            },
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWXeq7fRP01_JyoXgooY0dLtsmyeKvT1YLbcVvfe7RP38LinI11nwNj9hT5uK0VHADXdlc1O4ZbyaYOOgjW0ScXefPJ_3qxsD3zzxz43U-AGFOYyY9uqrv-6iZt4vv8BTWcuI7sLOsUne5mJZVcZmHMTeNXIXjpBoUOXTt4eYjmvqLuKhBX5XQqBxLviemdamYEePG90ALsvkn6mbv5k1DJJGqsWG7W3lpYHjII197EoeXxm-q9HS4a5pcGfhcn8AwaWH8-vCXwlXptFSRATdiMEESL0sc_qyz-zDoRQ-DcowefnZXj3_KduQW4MfeAXP0weGE5bA="
+            },
+            {
+              "name": "indianstartupnews.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2uPva2Mq9Lo_MHkUxrz_H5PpjUbjDpQdw12Ws0KuepSlHmGxYARUL_q_pnpLviW1boTvGkh2FuIKKt5tnBta685qUmynHpj53-nNsoU0EvCpZfwmrnW_YdMZ4CedTkN31e-PKGPMx7CA0y40trq84HCVj4qhqodbKsHLTLhc9bWqYBcFA1audhS5pfV8EmTV8qbJpDXf4uNef5JN7t_NQkM-ZNmfZhEsdI3vJgBkRi3zrlbViLQ=="
+            },
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Average Revenue Per Store (India, International)",
+          "value": [
+            {
+              "region": "India",
+              "period": "FY26",
+              "value": "₹2.02 crore/store"
+            },
+            {
+              "region": "International",
+              "period": "FY26",
+              "value": "₹5.28 crore/store"
+            }
+          ],
+          "sources": [
+            {
+              "name": "bseindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGooy5U1F9mvimDss1uOxH81CBbGoEw2DGP-dFK_zjqILwzsfO_dW9q8NO3RZYktUDkYBwXt3qmXuP8Us0EDF_kt07lBkbEmD_5A9EiNjkv1R9FJ0nfTyrrNElFXe0I7Ja9zUL8zZOe9AQkVzgSx6jOGWBuCiBOmol_fuvupbrZvmO7WTphUpNIc1B_vUgUZces_TfHPHNfgo="
+            },
+            {
+              "name": "Lenskart Q4 FY26 Shareholders' Letter",
+              "url": null
+            },
+            {
+              "name": "Lenskart Solutions Earnings Call for Q4FY26",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Total Store Count (Global, India, International): [{\"region\": \"Global\", \"count\": 3327, \"period\": \"FY26-end\"}, {\"region\": \"India\", \"count\": 2609, \"period\": \"FY26-end\"}, {\"region\": \"International\", \"count\": 718, \"period\": \"FY26-end\"}]",
+        "Net New Store Additions (YoY, India, International): [{\"period\": \"FY26\", \"total\": 603, \"india\": 542, \"international\": 61, \"note\": \"1.8x increase from FY25 total\"}, {\"period\": \"FY25\", \"total\": 335, \"india\": 282, \"international\": \"Not Available\", \"note\": \"For trend comparison\"}]",
+        "Average Revenue Per Store (India, International): [{\"region\": \"India\", \"period\": \"FY26\", \"value\": \"₹2.02 crore/store\"}, {\"region\": \"International\", \"period\": \"FY26\", \"value\": \"₹5.28 crore/store\"}]"
+      ],
+      "references": [
+        {
+          "name": "indianstartupnews.com",
+          "url": null,
+          "fields": [
+            "Total Store Count (Global, India, International)"
+          ]
+        },
+        {
+          "name": "businessworld.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgPdg3GjsZGYtnxBn0bOyo8tq5I7ag57xAONUgg9nn6xQFuVKnrr_MSzheRooR2LZ6cdHOn3Tkk3jdiWZRmxgXXh8QIEtIhRvpbh-Q-sinexLGNUUlLKsVeivHo4ok3fZt2liQ2H_wszEMAV5G_ey5wsvzwZWwjLw02rbNgIYX1Tb9YovF9jVY7TENVDMv_gN_222toQqfE4iZAyyebOGXKE7d4b-6",
+          "fields": [
+            "Net New Store Additions (YoY, India, International)"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYeXk48gGpuMXngPCEHn5eVwsFd9D79480ofsT-WE4Ro32_DQfMrQQME_ESjgy5Sg6IcKpoZanXvlyPedDCfgZ1ZwsdKpP217TH5sWL4mB8jCUXAZolytfDLd-yXsdBZ1rfVJvqpAn0ATJupFEpLnDHeo9G69DcRowHLdCRQqt6A_2e4DiJlOGzO_dsgUmzQTRW3W4OKXS3nK8N_zdHqJ3MXJHYIhshm1E3vIhmjLxKrgwASKfkAKIUL4zFJn0kie5LK_MOuLN2w==",
+          "fields": [
+            "Net New Store Additions (YoY, India, International)"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWXeq7fRP01_JyoXgooY0dLtsmyeKvT1YLbcVvfe7RP38LinI11nwNj9hT5uK0VHADXdlc1O4ZbyaYOOgjW0ScXefPJ_3qxsD3zzxz43U-AGFOYyY9uqrv-6iZt4vv8BTWcuI7sLOsUne5mJZVcZmHMTeNXIXjpBoUOXTt4eYjmvqLuKhBX5XQqBxLviemdamYEePG90ALsvkn6mbv5k1DJJGqsWG7W3lpYHjII197EoeXxm-q9HS4a5pcGfhcn8AwaWH8-vCXwlXptFSRATdiMEESL0sc_qyz-zDoRQ-DcowefnZXj3_KduQW4MfeAXP0weGE5bA=",
+          "fields": [
+            "Net New Store Additions (YoY, India, International)"
+          ]
+        },
+        {
+          "name": "indianstartupnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2uPva2Mq9Lo_MHkUxrz_H5PpjUbjDpQdw12Ws0KuepSlHmGxYARUL_q_pnpLviW1boTvGkh2FuIKKt5tnBta685qUmynHpj53-nNsoU0EvCpZfwmrnW_YdMZ4CedTkN31e-PKGPMx7CA0y40trq84HCVj4qhqodbKsHLTLhc9bWqYBcFA1audhS5pfV8EmTV8qbJpDXf4uNef5JN7t_NQkM-ZNmfZhEsdI3vJgBkRi3zrlbViLQ==",
+          "fields": [
+            "Net New Store Additions (YoY, India, International)"
+          ]
+        },
+        {
+          "name": "Lenskart Q4 FY26 Shareholders' Letter",
+          "url": null,
+          "fields": [
+            "Net New Store Additions (YoY, India, International)",
+            "Average Revenue Per Store (India, International)"
+          ]
+        },
+        {
+          "name": "bseindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGooy5U1F9mvimDss1uOxH81CBbGoEw2DGP-dFK_zjqILwzsfO_dW9q8NO3RZYktUDkYBwXt3qmXuP8Us0EDF_kt07lBkbEmD_5A9EiNjkv1R9FJ0nfTyrrNElFXe0I7Ja9zUL8zZOe9AQkVzgSx6jOGWBuCiBOmol_fuvupbrZvmO7WTphUpNIc1B_vUgUZces_TfHPHNfgo=",
+          "fields": [
+            "Average Revenue Per Store (India, International)"
+          ]
+        },
+        {
+          "name": "Lenskart Solutions Earnings Call for Q4FY26",
+          "url": null,
+          "fields": [
+            "Average Revenue Per Store (India, International)"
+          ]
+        },
+        {
+          "name": "indianstartupnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfNjmbf3qPuAqk8bWxRwRoaTRlkMV7gX6oV3h46AkxRUvFKxHHq0Uz-2Nhc7jDZfXcsNY4Edysv9WjeYtNdfi88ht-l-_hBQHllVvnwb1ngkQG10-idBgKCi00Flc9cB0cIQG-6nH2I9s0MOPuRQ9yDafui8N_LAw--VgTxAofimthSh1u3zwFZALbNLoRVsmXAU8LacaUCSj_lIZULl1Mv2rLpsvwMpTLJd1caD3tTK8arB56e0A=",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4NZO4vwfzKQJxX0PjosJpj85AOAGjAMZlLt0knRY5iQYyvKRcYCQFxTPeYLp2vG_LJT-ZWswiloyq5aXi3k2Vi5aYN1ddtQw68DA8TjE6gAwTB3Biq48aImGD-KOq8SOioGOk45M=",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSPbewzwp7FyyaSKBRrVatU0qWsG6eU7XNghrMRPpPL_terGwb3FGUpC9c3DdeTZ3NBeHe8Q8EgyOJqLXfBvgBPzcYvu4pynjLYcrt2iIgVXSF-uYoTlXxcwWMXKXniwktJ9ZCCFt9ZjISReAeqz-ZG8PGtiPi79SbNPhZRZhb5xpolDhVn1-xouqb8JxVqV9Yuf48ZfHfEzsXTB9l5DiyEysfApUqn_EeWyfBsFc3fbbteBzccQ2ESlhnyZDrLrDzzfSyEZFpsNCjdmiET8X59gxD906HGbj-Krgf5HSym5fgq8cxpNAi1ihdmuh1p3WJYZJCJIYc1kCOHqBQPeODxIrvphuBeQ6qkMCW_nP8GryR8ehUoG3OFyv6bfpcOkhSNQ==",
+          "fields": []
+        },
+        {
+          "name": "businessworld.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHFNrN7qiX0YUXBapfOipudzcmSJ4CZE9u7e6RlfgkyA56K_45dJ8o_qc0vUXTldPI5u0fK69jsni4y8FXIrWWHTZeF0pYeWAk0OSeWcD0rqa94ewlgEIkeKSqIqgy1FoWobyljlT3nJTlTXL47DQsXDIKqX5eG150B67dQfHaKRCuJGUBX0lxFbVpL1jnj4Yj3C2FcvWEaXdNCizEpvFUahLjSpFuWA==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBSevSLXMGqhz1wNCGUyQtSS7c4YcsA678zCoaxBe26TK4yln5yWJ6y5O_kkmKPmnBDF0JCjwUDXvKk-3WkiZFKXVF1V9WA335aXFBakBkzySnIwDS9S8WmbGimO3jcf3MxhxZ0zAx7j17oPTxMrpRwNCJvaLK8aEibIuogUOUD8wv-xSE2DzUd4424ve8z_8IVOhZUiPiPGDpkrXz5RbOv2ouyMTrgtVUqQnh7Dwo_NJCrt7NSELnMVLa_Emth5F4UMG256TxpCzaCU9w5QRFBX8ZMN9LF1rtoMQwwci0UIpVWAASu56jw-JsxvrjchNjuZXoZPoHfg6CCDNFWRwjbNprQ3feMWMxX9FUXA2SSrxTV-a1KvbJpyUuwPlyGA==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAdaBPXP8DkqvOIS2TtibryF7J5HggRzU--NpZUkbE_kjlCCm8LwDLQjPeBtS1-VaFfl-1Ic1DXCakyHlyT2-1KXuzu0i85N51yjpEcW1RkQiyPNzX2K0dQ2osvDsuLL6yzDW8Nzpkna8x3oujRGefShA=",
+          "fields": []
+        },
+        {
+          "name": "ipocentral.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzSvbBskWvS8ZiNlA3TI6PBiUP4BWE2DP2QjqTZGu8EeSh1mNJSddEC-gebmliRnJgbXYXRg8y9xOw8gIHBB8AKKxnxx1i5h2-OcMruS1Hpw5VOUcALd00rlUi9V4WX6XDugFHJfwonTQn",
+          "fields": []
+        },
+        {
+          "name": "scribd.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfkTOy3uBA3e2QpKFeBG3x_5B7qn3FpXDKJT5v7Ppz1mj3XXlO39fd0gQekXYT6z_sAhEBvmLMuwJF-Pr72CmalYV3GBOpgdZF_X0jRcRlLovaC2PRP6zsmSS9djpqY7ueqo2rGCwdnam10Vg7upWs7Y8B3eTbsf-mGIemGFfF-wjsFgg=",
+          "fields": []
+        },
+        {
+          "name": "samco.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENeALrCqlRfKCLnb3EWJkDEit0q2X4p74LvlJAOwacHNjNy6UG23ocqxeR12eMGPiX1JBjPe0L4K6bE87eGAllNHEljZKTJOCXtl5EyG9-k0t8XriF71Rj2QG5S0I5Fq64jEPeEImbnmEAQui04QzyqFdIm8jjDzJRdPPBtakjxmMLNYhleld7xcjgXxJUJtKlJ80ZXNtQDq8h_oQNIYOcbdL8VLt1Ia6iWL4x1KQZw==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ-P2TrMOstH-lEJZrB7fUsuRsAM9_3MJ1sOFLKORt2gCpfWyOoLSlBVFED-GrthV7912BMisuPupiEue-vA8molqwRbb_Ydff4r2Oj5xQO6KYJBSGFA0U3YFCCwTn8hqtzrNE7RWivmOrVgBxqy3heN_ubuSsfPPjlDRY3oF04bTRVdNYr9QoWLAkvbM1L_276uxPtipUJhbmkOkBfbYd3uwACQcthXAZyhUemg9RcY3QmpLu9NLfr8oMo4Lp7Y2SXzuIqGRzBcHhnEkeI0E6Zmz8oCm38Z4uNEUUM-iKnIQoQ9gIU8NthumKgnjzbDNKA21SXzQDHFgUpxTvRG2Qeo65qOSAJpGRN6-Qw-BoltdYRgMsJl8r-kPioe8RnXOj",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuje1iJ17W2kWydKQ-gouufq6mp4iCwZ8c6eu06Jh-ydpvx3sBW8HYCDbHa4kJYyJsAGyOWLVoqNAY98e_BsZakVoquT61fQ-rM5NH3HfW9V6y__OK2lPql4trLtyrHueDKfVNbQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Store Network Growth & Unit Economics",
+      "confidence": "medium",
+      "completeness": 0.3,
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The strong unit economics (payback period, contribution margin) and clear store density strategy would significantly increase the likelihood of pursuing deeper diligence for investment potential.",
+        "banker": "Positive unit economics and store growth metrics could signal a healthy, scalable business model, making it more attractive for potential M&A or financing pitches.",
+        "credit_analyst": "The data on store operating costs, contribution margin, and payback period provides crucial insights into the store-level profitability and cash flow generation, directly impacting the credit risk assessment.",
+        "consultant": "Understanding the store density, franchise mix, and operating costs would be critical for identifying potential operational efficiencies and expansion strategies, thus warranting further investigation."
+      }
+    },
+    {
+      "heading": "Vertical Integration & Manufacturing Efficiency",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Backward Integration % (e.g., % of lenses/frames manufactured in-house)",
+          "value": [
+            {
+              "item": "prescription eyewear",
+              "percent": 70,
+              "period": "FY25"
+            },
+            {
+              "item": "frames",
+              "percent": "20-25",
+              "period": "December 2025",
+              "note": "plans to increase domestic production"
+            }
+          ],
+          "sources": [
+            {
+              "name": "investmentguruindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqDBbQ_ulwuEAT8My-7P0fMAj7bfKHDjgmCgjl9c4Ovqc_tCsmXQx-nZKq2WUeojAuVtPkazs-w8yP-n_q7ohuloyU9K68CfjowLvE5SGO7ZdXgS2h18jbB-sSBKcpElxJ4btQFskhTAqHiy3hcfHuwkL_MUpWT0dsTUkb79zyQBXviRgvuWPGeMyX0tSvWrIqJAY_NXziDM5P21JqHxIZeYoDBQ=="
+            },
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECtsa95NVgjexXZZ4mG9naehFKUuDfSkkewHsgyyqYdMo43jwT5mTQIE6Dlx-Z4dUbYHU_h5lmVLmnOiFNjnUPYa8qCY-Qy8TJ5k1JW5x0nXc6jRS7tQKogI8bB9e1Py4EeikHBe_625HGk1FH3vd17L5i_eQgO3GSGftbSkj1yg4rNz_Q_Bpvr3vdC5uhneYdUqMY0KNrMIixH0L2qIlyRt3Qnz3ExgV_wJ9FpeTVCBYH31nz5YZpcV6_9H6vTOUSIkgGlUMDAJdPro4w8bXWBkv_2mKPKogTwIYstnozfSrh3g=="
+            }
+          ]
+        },
+        {
+          "label": "Lens Manufacturing Capacity (units per year)",
+          "value": [
+            {
+              "facility": "Bhiwadi",
+              "capacity_million": 50,
+              "as_of": "March 2026"
+            },
+            {
+              "facility": "Hyderabad (new)",
+              "capacity_million": 73,
+              "as_of": "end of 2025",
+              "note": "first phase fully operational"
+            }
+          ],
+          "sources": [
+            {
+              "name": "luminorforensics.com",
+              "url": null
+            },
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECtsa95NVgjexXZZ4mG9naehFKUuDfSkkewHsgyyqYdMo43jwT5mTQIE6Dlx-Z4dUbYHU_h5lmVLmnOiFNjnUPYa8qCY-Qy8TJ5k1JW5x0nXc6jRS7tQKogI8bB9e1Py4EeikHBe_625HGk1FH3vd17L5i_eQgO3GSGftbSkj1yg4rNz_Q_Bpvr3vdC5uhneYdUqMY0KNrMIixH0L2qIlyRt3Qnz3ExgV_wJ9FpeTVCBYH31nz5YZpcV6_9H6vTOUSIkgGlUMDAJdPro4w8bXWBkv_2mKPKogTwIYstnozfSrh3g=="
+            }
+          ]
+        },
+        {
+          "label": "Frame Manufacturing Capacity (units per year)",
+          "value": [
+            {
+              "facility": "Bhiwadi plant",
+              "capacity_million": 20,
+              "as_of": "November 2025"
+            },
+            {
+              "facility": "China JV",
+              "capacity_million": 6.4,
+              "as_of": "August 2025",
+              "note": "last year"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECtsa95NVgjexXZZ4mG9naehFKUuDfSkkewHsgyyqYdMo43jwT5mTQIE6Dlx-Z4dUbYHU_h5lmVLmnOiFNjnUPYa8qCY-Qy8TJ5k1JW5x0nXc6jRS7tQKogI8bB9e1Py4EeikHBe_625HGk1FH3vd17L5i_eQgO3GSGftbSkj1yg4rNz_Q_Bpvr3vdC5uhneYdUqMY0KNrMIixH0L2qIlyRt3Qnz3ExgV_wJ9FpeTVCBYH31nz5YZpcV6_9H6vTOUSIkgGlUMDAJdPro4w8bXWBkv_2mKPKogTwIYstnozfSrh3g=="
+            },
+            {
+              "name": "investmentguruindia.com",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Backward Integration % (e.g., % of lenses/frames manufactured in-house): [{\"item\": \"prescription eyewear\", \"percent\": 70, \"period\": \"FY25\"}, {\"item\": \"frames\", \"percent\": \"20-25\", \"period\": \"December 2025\", \"note\": \"plans to increase domestic production\"}]",
+        "Lens Manufacturing Capacity (units per year): [{\"facility\": \"Bhiwadi\", \"capacity_million\": 50, \"as_of\": \"March 2026\"}, {\"facility\": \"Hyderabad (new)\", \"capacity_million\": 73, \"as_of\": \"end of 2025\", \"note\": \"first phase fully operational\"}]",
+        "Frame Manufacturing Capacity (units per year): [{\"facility\": \"Bhiwadi plant\", \"capacity_million\": 20, \"as_of\": \"November 2025\"}, {\"facility\": \"China JV\", \"capacity_million\": 6.4, \"as_of\": \"August 2025\", \"note\": \"last year\"}]"
+      ],
+      "references": [
+        {
+          "name": "investmentguruindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqDBbQ_ulwuEAT8My-7P0fMAj7bfKHDjgmCgjl9c4Ovqc_tCsmXQx-nZKq2WUeojAuVtPkazs-w8yP-n_q7ohuloyU9K68CfjowLvE5SGO7ZdXgS2h18jbB-sSBKcpElxJ4btQFskhTAqHiy3hcfHuwkL_MUpWT0dsTUkb79zyQBXviRgvuWPGeMyX0tSvWrIqJAY_NXziDM5P21JqHxIZeYoDBQ==",
+          "fields": [
+            "Backward Integration % (e.g., % of lenses/frames manufactured in-house)"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECtsa95NVgjexXZZ4mG9naehFKUuDfSkkewHsgyyqYdMo43jwT5mTQIE6Dlx-Z4dUbYHU_h5lmVLmnOiFNjnUPYa8qCY-Qy8TJ5k1JW5x0nXc6jRS7tQKogI8bB9e1Py4EeikHBe_625HGk1FH3vd17L5i_eQgO3GSGftbSkj1yg4rNz_Q_Bpvr3vdC5uhneYdUqMY0KNrMIixH0L2qIlyRt3Qnz3ExgV_wJ9FpeTVCBYH31nz5YZpcV6_9H6vTOUSIkgGlUMDAJdPro4w8bXWBkv_2mKPKogTwIYstnozfSrh3g==",
+          "fields": [
+            "Backward Integration % (e.g., % of lenses/frames manufactured in-house)",
+            "Lens Manufacturing Capacity (units per year)",
+            "Frame Manufacturing Capacity (units per year)"
+          ]
+        },
+        {
+          "name": "luminorforensics.com",
+          "url": null,
+          "fields": [
+            "Lens Manufacturing Capacity (units per year)"
+          ]
+        },
+        {
+          "name": "investmentguruindia.com",
+          "url": null,
+          "fields": [
+            "Frame Manufacturing Capacity (units per year)"
+          ]
+        },
+        {
+          "name": "luminorforensics.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiLT7J5ehSQ9yMCL0TGCXTjF1WDXumJW0zHJp6QEHIwPzqNPGLnQT_QbY0JCJcPNOnHnk3KfYVJ4P0l2A6FPggThFo7DJRwmdnV5yNzfYco-BbJC7GvwlpqQ7Fem5ze1HaIPKr6dZPSe8UrJ-wbANAsY9ccdgBcJn86qEY8l3sxPuKSui741cb9I0sLKyc9202",
+          "fields": []
+        },
+        {
+          "name": "thirdeyesight.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2hm-YpmKBFYmXM1e482I7Hs5ejIDXmuA1J5MrT7anxYVEncUQoA8mAkTSY0_NILctbNealoSGKPm0FIOyWSngxt2VGOrOKVNTASzVQnh8xXrs2j6OyXosWdQVd5PrifuSduqn-fXlGUkQdTbSRYKydfk=",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaCAn45bU22tFga23c2oaUGV8SoV-oZKnVVbm_gW5RJ35YiU4YW72MzMYG15nLafl4Uw_JjC1qa1QBtkEL2eAvJxdjhScWuHTjUj225GGvqJr3ItbDWS0OOqkYGPUsDrE=",
+          "fields": []
+        },
+        {
+          "name": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG6mOW782ohfgHdl4Y2JPmoF8TBUfrR0VQl_lsAmP95Tc0Cr1XbeQMXHsx9JXJl5rmhkm3-LEMoc1Ag-OSYzdFJbPYZupsPNb6S_KNrSF_umZMP9AGj674XKL3OEhdKKMSOppplC6Y0ErzoDFKJ7rRlISL6CcY0xBZ8BUcUN3EvFSiQ06odRXhyWM7Ylx4Tz6d6hOYGE2_rCqFDE1ys4fGGIgT6Q_Pcai7Tkgkd9_eLCdHoadMtTSAu0cg",
+          "fields": []
+        },
+        {
+          "name": "ewintelligence.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA0IW-h0mOl8nEfl1tMs4URc7njD6RXR4a2wSIskauPiLhoXpgSUi4Pifs-68xhxkitGNYahJnipzybLE9fcOYeGMiK-jIxMArT1_6KkcReUnFxPnHN8k45IzuT_TWVn4Gd2-666pzBDtad3dEfD0SXgUtZHUFRcsahgLmIvtKGgr5b4PEu4sProctVxexrFpm59ga",
+          "fields": []
+        },
+        {
+          "name": "madison-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFZNxsKqch5UnpqLuIlZ7d2rgy81S_18VZlPE_PaQFAWDmel3wDQU7P10KWqgfNqbTh8s2btOU06s2C2ZTmPCpttUSIc8dhizSXTDzUI2-S0XLVO7c-Q2IygqqdMddh2CEaofcbUNToIlf-gtuA0i5Gsi-AUq7fdC8HA656S1gjEhz3sImkOyT7LqqzHQJjZu1KolLz3_XgWxE_q5--Q0R",
+          "fields": []
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHxCzSXFBMC0V-X3SDpp7BLCXkFpg1F3T8DMx1DKs1lRji-TeCPViYjoELvfsCFL9yPzrMh8wqNa93FkCJZ-IPSk7IzUEuBpaOSBYg_wzgEAMOfuq5aEZ3dMqOlAzN4uS6GWos3oFDkBy-3-dFw9URwjvdPLgDyz0CYEzPGjIFhxIqz971GmSVYoo=",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2x4kGSsQExknOpeMhedU4U55O6GCKo6r-gEKoULULeI2ik6odga3ee0LOB_WEhqEotm7La-ON8E2Q5YRQiavfzFYr0fsS_N4fkLW_holX-6WOc3q_7Y_UZg==",
+          "fields": []
+        },
+        {
+          "name": "lenskart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj0T1ACZrFmJgt48siB721V_cd1oDsJCKshzPMtb3Hgru_j3ScPUkRwAM282fkYAfbbivzrp4p1qyOg9qIJ9mneA4Hwq0dXqqsaiK1daWKl9JRZ4PTHe6joFMYvDNTvVcnTM-YGbb5fzSsAYU=",
+          "fields": []
+        },
+        {
+          "name": "topstockresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJKeVkBgG6f6UxOeCWS3q8f5ZEfNCrXEKU0w25Jz_gqbPjy-7Shhi-gy7VJBxxbVxDgDJfaMAbVjeS5Vxvp82zNup-AxUz_2uB3ZLiOZAgq6uBLLUGtEnfqVcm-TAaGCv_KrpRRrSS4uoqDwChs3hW49vJeZThtV1hsLha4g==",
+          "fields": []
+        },
+        {
+          "name": "themoatinvestor.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGenSbGqyz8p-_Wqc6vMKXEJ32OtJQbl-eRr6oLCQL3zOv4DGVHNBWJ5U5VHs2BkfSy2rab_LK00OwOmYAoNA3GJNzk4W7Upz1D02iBNsF9cwUkOFcN3NV5MGpjXadcwlzqFIzttx9ftUt4ClNboue",
+          "fields": []
+        },
+        {
+          "name": "quartr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhxRZXpG8PGDIfuXQfK5oc0NWPTIUPkRH4bL5zUBs_hOmDEOlyuFSHu9_up2KHa6MY9-YMiZCcNmy_KGgwy75WlvgeeSs4w--BVskBxt9lZmhNb0MCZLEfuZdYUBaoebMhrMFWg8MZuFLgXEfRgUolXycFgXBVlA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Vertical Integration & Manufacturing Efficiency",
+      "confidence": "medium",
+      "completeness": 0.333,
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: High backward integration and capacity utilization suggest potential cost advantages and operational control, warranting deeper diligence into scalability and margin potential.",
+        "banker": "Null",
+        "credit_analyst": "Pursue: Strong inventory turnover and quality control pass rates are positive indicators for operational stability and reduced risk, making a deeper credit underwriting more attractive.",
+        "consultant": "Pursue: The detailed manufacturing efficiency metrics (lead time, utilization, R&D spend) provide a strong foundation for identifying operational improvement opportunities and competitive advantages."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "cost": {
+    "phase1_sector_research_usd": 0.015424,
+    "domain_research_usd": 0.127811,
+    "actual_total_usd": 0.143235,
+    "actual_calls": 24,
+    "elapsed_seconds": 194.1,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.031953,
+      "estimated_generic_domains_usd": 0.191717,
+      "estimated_synthesis_usd": 0.127811,
+      "estimated_total_usd": 0.462763
+    }
+  }
+}

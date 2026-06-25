@@ -1,0 +1,3101 @@
+{
+  "metadata": {
+    "company_name": "Dawaadost",
+    "sources": [
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:02.008577",
+        "field_attributions": [
+          "5-year revenue",
+          "EBITDA",
+          "PAT",
+          "EBITDA margin",
+          "PAT margin",
+          "currency",
+          "units",
+          "debt breakdown (secured/unsecured, short/long term) — try annual-report notes / rating rationale before NA"
+        ]
+      },
+      {
+        "name": "Research report, Davadost Pharma Private Limited Financial Report.pdf",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:02.008604",
+        "field_attributions": [
+          "ROE",
+          "ROCE",
+          "debt/equity"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf (calculated)",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:02.008610",
+        "field_attributions": [
+          "interest coverage",
+          "debt/EBITDA"
+        ]
+      },
+      {
+        "name": "Company document",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:02.008615",
+        "field_attributions": [
+          "current ratio",
+          "debtor days",
+          "inventory days",
+          "payable days",
+          "operating cycle"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 1 (Company Name)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgJU5zNwkkxZAwHHkwP6TAGGZoSi1VWS9kuzRstu3CqukM1GRtMvdwZy4VtyQ1-mo5WFtUgBpePkEm7xKWiOx0OAIC39kwH3GHDNxF81i3RA87CoGZZjxrjbm4n-RJjTwtocHTATAxORducrzX1owiutDZweYhrggcM0WW1C8scyoApV3xv_zXLEa2rdeaSVPQRIbuo092Ur867Sh_YciWipL1X6GsxQmDyqA-47OBRVE=",
+        "accessed_at": "2026-06-22T16:53:00.634106",
+        "field_attributions": [
+          "company type (listed/unlisted/PE-backed)"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 6",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErkkI9KVRgEfxJ2XWvVEzvw4seWKs1bpJ-ue9O2NcBMeAB9aI0fU8hDlW2oPMMMOO-N4-QAE8XK9CXp-T_8-hK6ZxOBNaue1Goe7h5v24iLK4gU43bNrikic22Lmw8WLY9FR4pFA_Y9VMrOWUtElAH00_CDewGuHEkCOSIeplrEd4pZH6WKYiS7KZLiJ2v0gfUGrKZwSSa",
+        "accessed_at": "2026-06-22T16:53:00.634191",
+        "field_attributions": [
+          "promoter %",
+          "authorized capital",
+          "individual promoters"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 5 (Share Capital as of 31.03.2025)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwv-XbkzIuYaJYKXsBcEVwB2ANPl3IL6b91VHpX8FWU3K-p45HDR3OAMkX7jpmEifM10rRaaBbBIFpei-Xon9wuF1AvugFs2OrB-QQilqzCh_c0p8J5GcAi2K6zei4mKNvLioRiddKLs_Iji80MAwHfKWTOCSFAZ139DTPrkbDXnKbXPS8lU-GNIJoF1EvWxYPXK18gDPqAr6QNHJmFKCd5RJui6U5g5qpIQVqy58=",
+        "accessed_at": "2026-06-22T16:53:00.634198",
+        "field_attributions": [
+          "paid-up capital"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 2",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:00.634202",
+        "field_attributions": [
+          "board members + roles",
+          "executives + backgrounds"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 8",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:00.634206",
+        "field_attributions": [
+          "auditor name",
+          "contingent liabilities"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf, Section 7",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:00.634210",
+        "field_attributions": [
+          "RPT flags"
+        ]
+      },
+      {
+        "name": "Research report",
+        "url": null,
+        "accessed_at": "2026-06-22T16:53:00.634213",
+        "field_attributions": [
+          "ESG initiatives"
+        ]
+      },
+      {
+        "name": "Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlog4zhVGBpIgj85EW5AypPT1bp-FG4mlFP77i6bGlXEuupcakpQLgXKO2XZJyNIChzd4wsVsw8y9O0pDfPdbDsklipbuXrpIZLmWJn6HDTzs0_Lr1sXq-f9edyFxTt2mMAq1lowQEb59IYHcNh5O3YQ_vUprBhSGbl3bxSIFjHHhp_KgAL_qnV0HB_c3NNQA2ljw0Uj8TdAhkzXTTgN8WNK68ewmc",
+        "accessed_at": "2026-06-22T16:54:33.885421",
+        "field_attributions": [
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)"
+        ]
+      },
+      {
+        "name": "['Credence Research (Report dated November 22, 2025)', 'Grand View Research', 'IMARC Group', 'Nexdigm']",
+        "url": "https://www.google.com/search?q=time+in+India",
+        "accessed_at": "2026-06-22T16:54:33.885445",
+        "field_attributions": [
+          "3-5 market sizes (TAM with CAGR)"
+        ]
+      },
+      {
+        "name": "Davadost Pharma Private Limited Financial Report.pdf",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8nXM9UE2MMItQQhKnBQ_Jv5uGDaOcObTa1rHN_5nuCm6gO4BvQ3sM59oUKTyZPJmiedi-9acMz_KxlKaNHxFHsQs1PmchsB2GpKhYC1CfPgK9TgiHBiWvluGfBKNOkMsb9i4BAwEJzKEKWBmsgnbItZcKnqt0YFY=",
+        "accessed_at": "2026-06-22T16:54:33.885449",
+        "field_attributions": [
+          "full product list"
+        ]
+      },
+      {
+        "name": "Research report, AUTHORITATIVE COMPANY DOCUMENTS",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNNf_3AIXNf-Zn_jZj4Z9J_rwRowxZgy41bzZRuWz8XqYTWlQCouqA-_rtksuS6_N4Q1Jx53_sPguIafEzoRp4VLvjz3k17V5fRb_z9aP05XVParSnm57pXM3h9k88ZA1xGTldkQ2yk_spDgUiNPzLO3zc1Y_Z7A5aEXLu3I2i7Z2NzNaXC2nYx_QL3N8e7VT0mqBPhWfPbqnTxZUizRs2gu_JPRc18JoAkk2cLCUtuq3NzAnU0GsTWbMXEEyCxXjcdSsExqZHIGXK0mCprIn5LKNVew==",
+        "accessed_at": "2026-06-22T16:54:33.885453",
+        "field_attributions": [
+          "channel breakdown (B2B/B2C, direct/distributor)",
+          "key customers if disclosed"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTu5A-i_LTF-syHTU5Y63hXYZRZDg5WBTSyFEEW55aK9SkjL-XNFCQXGs2JkLq8Yie3oQMiutEaWj0HYkj1GU5_DTe_QDwv94o4QUwhUxFdOuWeH062WUquKI_kgOaUO11bFUlBR8tIbzpZdfT0Lq8j5zqHRScfKXVfBIMpcc=",
+        "accessed_at": "2026-06-22T16:54:33.885458",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoKJZSG29z7ufyWF-PHZCYmSgkInWonQiUd_FFz-9tlF8OmGnyvI10wDAw16Ay5NPwdxv2SU1OaaRdA_GsfkbHTWoXPBl28Ubvn1DlPBQUzXiFwHJKgvyPAgywEDRSF4Gd0AivjYdhhPcm6jiNb44-LOjzHjeuAJwFi9_BQqTkZKRp",
+        "accessed_at": "2026-06-22T16:54:33.885462",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErCyQsNWmWgSK4j-oWyJBSo7lH00iIdhL0A2Ixw5FDN8kJmNqi0EWp1hnkcitSL6AzJVptoHz_QfBzIWxV3WTeC36RYVBfDSlKrBBlEq6y6VCbwgY413lmBmOVkLKkuqLayQ-gTmlCfLcBEQ==",
+        "accessed_at": "2026-06-22T16:54:33.885466",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://www.google.com/search?q=time+in+Belgaum+Division,+IN",
+        "accessed_at": "2026-06-22T16:54:33.885469",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUNjabm9J1XMwknez_gAczPjACcViZS4sonf81afFATwU__Lh-OqvZ7IG64f0IWpYVXTVFjj-QQrvWi4H6Iv5f6hL1Pg_UP8st3o5WaU5iNQNsmsDfDH2GBcPpusZI9DPo9FxsYv8IieIFooO7TL7fpZNjotAR0ntVErTjOeOefBSgwp5xXIvUE1Y=",
+        "accessed_at": "2026-06-22T16:54:33.885474",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoHGhHIUYAuVf3yepQbr2nl2ZRv242cshZkFiZ1zM3O7yBPyNKiJ42aPh6QQeUiKGszvAvmgiXYb5tjNM0pnhJ769QULUV24-uxcMDHrczdaxBeDRUmYn2mEPNfWSReyw0OiejL9ebmto5zLOp8fjriz7VwRLy7AOaf7yglkvmAJhDNjz0k8arHcEoNmaxC4EO1ZbORbls45oRsVCwjCkVU2cZkaEQMefUgKoHQtID2sbeSs5B1a90UezypbTyJyoXN47IegaAPDOM5LB2",
+        "accessed_at": "2026-06-22T16:54:33.885478",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEihAz-DXKkLs5Zdw5zTEcU8xjVW7ewRUUKucuPXxCGxf3gzjmO1hUSmOV2mimNags-UHKOwdGlBATNNreuHtq3hd1ghaHRnrd0Aemfp3nqxhZX7XzLgUvlJmLmqykG5Ul7G8kfAJJcm9CWHmdz6em9Xo6GcoYDalWFmSMJqxX6m3Vs7itqN8ftwg==",
+        "accessed_at": "2026-06-22T16:54:33.885483",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPFVXChUFwSF0Vlif3W5Ov8YDUQZoMx37GGmsAQabnjdpNfsP0ra2nl-KKbRFYjWq0Xr02QRUCEicHEK_ligCSctUV4-zhNflWYFUPMIsQtG_SiMzh_nUcL9rGnpms6ij-NPfVBiOzuVUcpqtLnFiZbWSEd9ESn7aSCWE=",
+        "accessed_at": "2026-06-22T16:54:33.885487",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnlE_idfr0zPgGDwAbRJJgWPF2anUKPdR0WPIP-lcSij255wEiKvT9DEEa6_1aZtY-XI409Wz1-v2LYNktvjWtArVbhm2xkONuysK2nvfJKuuaDbRr5CoCzvlb21x7YEi4Recv9oNVRUQSnWq5Wd37zgzn2d4hdRFq-MGbmfE=",
+        "accessed_at": "2026-06-22T16:54:33.885491",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvALV4g2kN83sxkwIpvcDfIq0ryvXfwvIN5rt1Bx-MHPBu3F8kQhROzhAJOV3kH8zU4wwWocl8ek0iMOdJtHxFaj1XAliYxeCPTkxgWflfSVe7WjCQ_1gdgLMPieJSTSA17rEju3d7WAZaYzK4mWTUmsSvU4Sx4zpM55iF4XSgZqA=",
+        "accessed_at": "2026-06-22T16:54:33.885497",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5cBawdVIbqLWHqsMpNozgGzZTQWf5tVTrg3972xRAb7FcSTQ0oMe_BIlRm1qsKE7ctYzEinbFsON_bzx1zA38p6gS3c3awLMxVYleJGZ2UhgxpFnOsXP9806-nN9vmZX8smiY7kimt-k9vE1LAzz6",
+        "accessed_at": "2026-06-22T16:54:33.885501",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZJ9yXjQ42hTUusBe1J9iiQYfS1BCrGIsJRXALT7QX7PsZADjERzQbhKaOfb4Ti18riR6rOP5FSRimqpy0NFwawo2J7bimRjnpaWXpEn-IZHE-QTD3nkmonMz9w_gNpGpjU2O9rNs2XLcmnp_JbxTU9_NxNZc83Lxz_dm2boMU9X5tC8CUQiXZumBD2iitNvszoUe1ypI=",
+        "accessed_at": "2026-06-22T16:54:33.885506",
+        "field_attributions": []
+      },
+      {
+        "name": "Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG04tsahZUrwTEtIO6nHFw5qGOBjXiTLPngKQgIDjA43vt8ZoyrYQXnCfKgqoo0hc_kk57CrS8Rw11XZY2JPehBbszUGriseECWzY_1bop2tp1vnyy4j3gkCT03BRKr3i1I4QPHvtqZvHQmlKGwe4DgI0e2futSDLqwv1Tibg3j6jeWv7pooiQ=",
+        "accessed_at": "2026-06-22T16:54:06.630507",
+        "field_attributions": [
+          "country count"
+        ]
+      },
+      {
+        "name": "Research report, January 10, 2023",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfk1l3qxKcG8tXBXIOY8-H42DUdENFprG5EvZx7Pb3XSbBP_Hkue5XXN2E_pSS0OQpSJe9g4s7pPCZnvSD6ZtBQ6SN491LgtRN0x5wlLaNJmQI39HCq9gyjp2ETlv5dk9hxuOfUA==",
+        "accessed_at": "2026-06-22T16:54:43.191861",
+        "field_attributions": [
+          "Store count (offline/online split)",
+          "Geographical distribution (tier-1/2/3 towns)"
+        ]
+      },
+      {
+        "name": "Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIACdOm-Ts7aV2JrkhW8Dma0ZsfLPe3LV7xfvIuUOPXjsGj2m7bEa-pi1CBz6V55IWpgzOADMA7suYj1TZPE9dQagEdXaE8xy0enN2xaGqUmQ3s70TwbbO2pXVtmYezMgESvL4eB19FK1mrV3ponfji7XbUKvkJ26b_6zZduVWQxL7_OQASFLk1CAApONAXfXl02R41n1mSJxd-vSt-1sIRcz1yTUep8xwM3sR4pG2",
+        "accessed_at": "2026-06-22T16:54:43.191890",
+        "field_attributions": [
+          "Store format (e.g., small format, large format)"
+        ]
+      },
+      {
+        "name": "the report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs6v5t0QxfjIRePMhEZvaVRq8jUfTu3eN2ENfVaHhnwfLCib-mfTZGCIQ3lP5QWDT9YomT3yrQgFl_FMg5B0oqEypHLuDaq-6XUfaims0TQGORpN5jC8CTrVj77_v76CssaQE3",
+        "accessed_at": "2026-06-22T16:54:43.191894",
+        "field_attributions": [
+          "New store openings/closures per year"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0gJX907LgzpMNDSuKllHK-fQyfeYtMtnBIOvMOrmawvndzliUcTe00C-5FB8rZphSdPo3n8J6-mgj0FNv2t8FctX_BwLbOXaVL6K3Z38EdR30R55ibvDEboD_qUe_drITlurJtOIbbhaTTuXGO8_clW8iE3-iHyPQSbP3Lgba5QlwnnhsRtbLYoESui4W32tyg08GvT6NyYw-6U2s0aUVQC0GnkuYhVnEvirlcM4G",
+        "accessed_at": "2026-06-22T16:54:43.191899",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBnxWg7_uPG9md6K6rJzOp2PY4X2plkSIdiC71h03WsnoFPhhN-uktlBUjQHLAGz1zM8D5f8ys5Y-mUdzQDiUe-r39Ug0bmlb3s9g5i4bJgpsVc7ZKO9oet6hpHSQ0XlkpKSpREZ36MpS9WvOa5koPNirDEEI0mEZupV9vW-vRv6KoqEoHO6jH_hfMuNELUI1k-w5C",
+        "accessed_at": "2026-06-22T16:54:43.191903",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWbeMzTzcWbKRfZES9HcaYrbLEEXa0IYplRjlWWipbhLEZokp5Mo0og5VpLKNjiavnBdf8AZHpyAfjR57fPDFABCExStdWs1vORq1JjBmDg8TqMOedGSD6hFYCsPxx_YZNCsMbvEh44fGcwF5N-wAAHAhjOT-M7aS9NiOVucwLVXEzIFLkl-RRmnlvb1QCF69RQklq7MhY15xSbw==",
+        "accessed_at": "2026-06-22T16:54:43.191906",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy5zDXcNUM-AwK-Ip9z8d8IVTCygThtyL0L8fghwiDCcwIceorhOg6Pf6RV0L36u-z7Ys-2pj8mzaRtHcs7tL1XDusw-uFqDrKuSyKDKE8fnpPmhpzy9L-M9TDwMeXphKO0Grn",
+        "accessed_at": "2026-06-22T16:54:43.191910",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBatty67EFt124SHEP1OSErwBKtKH4SsTBwd9KXvPP10M4Ksp4qYC3gMeMUv-SPhoCq1mk6XsWNZQ_-w9lbsGEeV0fNFf0UV5DcSp5GBWMvjXUoeIVuswiMi8=",
+        "accessed_at": "2026-06-22T16:54:43.191913",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGurz4OKas_5xCx5l0O3bNomLg36Zz3uxMK3YXqwNuR1ZFO_Tox5vkzfBwchBgjgLtSs2Pb_uApRbZS43yvyXV2qkPvzb13geGsjjs1-vN6L8j-22Sq5w==",
+        "accessed_at": "2026-06-22T16:54:43.191916",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5EGfkI0mRVDdjvtlmhz6_sRzY-DT-6jSrevXyIzUsBhXSQoD6q7bZEUn5wGTVk7Rk6dnhpamEWH4WpkNIkpMqoopmyNet8LWHQNlvIsrZzU6EYrZUX-R5y326X7_Q_qWYIKDLIrvosxtwU8ucZUuq7cv7WTWl9GDC7KBO0kVr6hqsIE-gNPx0XATEhm_nN7yJnt85VAUcmBkpjybmXqS34Mi-_ek53PiCFEOTRwjVNini2JeHxkooPw==",
+        "accessed_at": "2026-06-22T16:54:43.191920",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqZtkPM07M0C9iSRyiYsD8GLMP8YkR52Iu9cvjyEGQWMBJswZLNFGKxaAUiv5Tz3M5ybQURxdY_sxJj7-n5Gva6RM0mgiqfO1ftFtpEjCze3-UGpQ6TciXeNVGRoD0puRSzRqh",
+        "accessed_at": "2026-06-22T16:55:03.880516",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoEGoRzsXIBx2zN4BSO1KMr8EPCoLZktcLwUb7Wywf3ej8S5TO7HrWUg8YR5drILOoVJr5YY_jnPhuuhUuFwJcf6_W2ARJHbCZjA5WSl7UNC109dgCKcrBlA==",
+        "accessed_at": "2026-06-22T16:55:03.880538",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfL1_3IvoJKKJOyIIFUgT8ZgVnZ7GM-UP3_GhGnntj44-HLgo7bcJijbfJzIs4kjEjCy8G7LzCuQGgiGBb0rsFBB2dTUxqU7LEPaHbbJ_7MjMCqBUNx5IGOK-WZdQBXkUjK3dqyWOPYVwrhV9VHdiY1YvDsA_D0or-ZWyof2iCZWTVNGnLbuxepddw2gLUIBWavIDYVfTMvyauIOo2bnpNm-1eauMYCbakzX0UUfLANuz0g==",
+        "accessed_at": "2026-06-22T16:55:03.880542",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQl16yrbWPu0v_u5_atfFawz-I0kZZwEanb-CY-HH8E37xCZtdPVZ850zo7GPfxU1lLhyFTIMKbDjWoKHCPzXkLd38mZUj185iKcxGL_fFntqrwpJKc_p5PnB5BmSEdR0r8UA1LQT0y0Bi_GM=",
+        "accessed_at": "2026-06-22T16:55:03.880546",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4H1WaAlogwPm9QszWCPwgK-V0QyF4uitco82qgZ3A-TFMHVmdn8bSpH3Gk29DfylzK3rbZhuiL6imiQR33gbs9JAfiMfO_UZFS5ahXLj_xftoxBtA7sIiZIqO-aD_ueq6n3PQBqIfVsOxDzd9DLcElgms0_2qIXO4",
+        "accessed_at": "2026-06-22T16:55:19.661573",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhqVVvluDKttHDUxvGB7yVc15OBVI6haat7oUPrUzpjJC9zdKcpayia_ae10PdIqfxYJ2_jMAA1fgzG6HrYnpaW_3xK-Iwn6n9wr0PiRVAMRSSFcMf6hIEr9wVzBpRODViaNyeeF-3RQci5j-YBRUkkGTNv1bNO7C0Si7Aq_h6zz6lTUqxiKjszuqArfJrGxbGhVBgS1gpJjK5rw==",
+        "accessed_at": "2026-06-22T16:55:19.661599",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV30jzmyc9GXoaLj7Y18NyZlSzxDF9epcgBrWWSaTGSQ8CpyWOb1tYlix3aZn3YGBFUrWK3cdXV6V8jFueo-m8kjK8Se8Ci15q6J7acB43FKOYpsp9HGdGJB8mUjkBNK1N2vPSwzJIuFDtZw8w3sNza-StzA6AAeEFd2A=",
+        "accessed_at": "2026-06-22T16:55:19.661603",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMe3ynzzGMroWA1HcpzwK1pRA0_Dp_3vXqOTKipTAdXpQWay__NrlAwF7ypfedcBMTdFcnhAuqAvkAU0B8Uon2UEM0wzOixnXonXM-hYgz__Dx89z95Mw1dTPvV92pJChgEuGIF5tw3rtf8TCUCijqKKzefgeeEolx59j-NDnih8zvl6vKjNFAhQlBx1hGxXD8GzTEf2HqDWBXpFgngBCLbCwlTFxwswb0XySoYTD5",
+        "accessed_at": "2026-06-22T16:55:19.661606",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGswE-q8SVR6ixZjketgjjTIvJlKcJ0aHcxnVn3G8xkqsOTB8lV0fqYmoBMeFHMT3PQ8E-tOteCk9A-V405sEXyv5X6NqzfOjHD7ODDugzoo-B1N_6MjMuZBBU=",
+        "accessed_at": "2026-06-22T16:55:19.661609",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkuLT5ZrRTb0n5E6d_O9DsqnutQs01d_b7zIqX7WzptgeSrqH1i5nQT-AkgEDfNJ3-fhxMkmdi24zFmhGQfrZJEzahL98aN8oA5yFBmzH02Hm3qRVbk4tZzobJH5ii2k8cA51Sv4r0IQzSjYB_o3T",
+        "accessed_at": "2026-06-22T16:55:19.661612",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaDFUGj5EHIykJkFCNTootyH-9JD3hVXm83c3xLlyFBbqvSrQOqA_39FIaLa62rkiaXejpQkVdmhr2i7jyYNZS56vbctbT90E5N9XDuesc0Ebtx03nYTLnGDPGpB56qjdINiiCJskv_U274IG4A2eosFZoOQ==",
+        "accessed_at": "2026-06-22T16:55:19.661615",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPSwOD_tgAX7UNLfifWp_L6gF-l-HIkWDWJa-4S5Qs_5Us0TFff2DixqXBP-Gk9OJ_TaK6tNiRcK31abZthbTrKLDA6HaJ95fb-f0-uKDrRs7DcXzyd-7PbJKVCaNNMDRStVW27kKaAFoWaILXris=",
+        "accessed_at": "2026-06-22T16:55:19.661619",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIVPETM7VMcQzrfIs4Ah8HI1crqlNeKDUOJNPeCWLDn0GFxzrhedwVwSOp7Ou0PA3HP1PIGaCIkOhfHosdlubCn4wWtdOfUeS4xv4zzvAtf5bqAuak_3_I48xncMdwbMmDnX5UDkdi5BRen1IOuj_6EF4hHFL4Z6wvlzkATTBMjlnjL1ufHgk5eoTm5VSpvo2Lnt8alU5uSWNl0Q==",
+        "accessed_at": "2026-06-22T16:55:19.661622",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTkQWdNd75p-i22HhDEEwq7CYaxYzcNrPEsMMlfxY_eroixY0q95lPrgX5ZUjen8KJ938mPo-5UWhegHtrsR2D7wOHCpL5ShTKl9zHUgk3P1wTqXtX1z4ieMGkvNJOtFHvbrujayeTZtew2ghSvSWpjYkUSBxuWGjC7P9K",
+        "accessed_at": "2026-06-22T16:55:19.661625",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH1KmGBz5qMpHxkNQl6OebSVZ-b4mNcNB92qIRok6ntcPyu9KAFzx_oxlCruPP_97AW4tCXng3K1ABVsYdgvm8ZvxWch4h-Hp2JuHu4kMxypjHuSRWm0EAX7kg5D2h3q9WdNp9",
+        "accessed_at": "2026-06-22T16:55:19.661628",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRG0xfdO5_lQv4hoqYe9e-tn6o3stV_FUM2tIb9EYlEH5IHZVKHtygp7G8gcUP_aP6APj7iEUUGnsIEugqtMtkJrwrcUooQWjW9KzZznv5nxR1BO1YbaIdxFZ5MkHs",
+        "accessed_at": "2026-06-22T16:55:19.661631",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKWH-0krU4qv1OduFA-0ki0v0aVXfxjf4iWFkrTaaAdS8xKABCzbF2tB7QfDX0E3FmcJmp6K4ZarV8A0EFAyYC9lN5PzzvWvU8ypxmN5LjOYGgC5j8E-kASinXEQlLYI_s3fgeMdSrakM_sBja3lovfydOzsEt2FKr4O-ZcYZRi05tk_nuFKXFX2idXyC0inQ=",
+        "accessed_at": "2026-06-22T16:55:24.343600",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpWUXQiY6m9qPmQgyVfuiYJ9kYe3Z78SQGeb-uJd3_D6LMXq54nwHQBRto-ODXWSOe7lAodzkb_7dP6V_tyGAvQFj8pvTCovuuxYGRzhOu_nOytXJUcHJQsV2I0GI3On7eJ6cLeWVImB7x1P_arG5Eh_YNMV2cTkxlGCFB_G0I34g0Huh9TitIEFejYrOXm8ru6vKWbf1z1i7gPBT4ZU7wqTloATnniH4gpdC4-npk3Fw=",
+        "accessed_at": "2026-06-22T16:55:24.343623",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_IkNQ5Xrz44qHJ2o-7DeYtIkHLVAHRTL2dDat31zhMzRliMUqV-s-JuND0_xg-VQvtMH5SLiYTB21WJd9qyAYcR91p622SWF49U7_pKnU6Z14h7eoDyef8GX2A6Nm07xZxseu4y4q5N4306eCnKSb8olt5vfODq0E5dtKy9rVfDCW4gW5ZqdbfhYM_Io0GamVDIKqdPNSG2lN",
+        "accessed_at": "2026-06-22T16:55:24.343628",
+        "field_attributions": []
+      },
+      {
+        "name": "Not Available",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Rt-TXFAVHFcuM3zh-8wMyCfWu6_FJD6I2lcuEsuAF7QUmmTBUUBh21ZT4A9BBy1uJGoN2eWuPQugHkUpnB2UfP_JQPgavC58uplk8I3EQrru2fehW44u2gh2kK7vkz0bLOou6UntfnofeFeuQdtvFIDAWtX2K9Yx0VUgN2jYCMVeSakYgGayIGQ0tqynZnwhKln73ehTuiP32w==",
+        "accessed_at": "2026-06-22T16:56:09.759487",
+        "field_attributions": [
+          "App/website traffic (monthly unique users)",
+          "Tech stack details (e.g., e-commerce platform, inventory management system)",
+          "Integration with e-prescribing platforms",
+          "Telehealth service adoption rate"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHobj4Z88lsTp9Cld4KfpXi3rCdiIgLJGnUMRC624N2cY7tsbL1-rCWpKU52CgTUd6vtktW0IaOwl2oPCGcvcsx59AOlNGFDyGipPCB_KC2Ki6YX03EWdOrZBP7NT6JlKGkIGorUTwB3EpIlDbpr0xtw2vxyEyGfM3O8ZwaI2rx6xwy",
+        "accessed_at": "2026-06-22T16:56:09.759518",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxgMXkhQiDYC83TzdFE-8x_FlpuOhEdkmy3_SRD6mmtwkViJDOTjtXOWxXAvXSfy--H2CgorwiFIJzux4tYy8uKJK8TjNVI0VKyfcTSilYFEndUTEHstxn-m3LK0_E5zlZN7hkqYpPTbe13aEmAda67m0hyYktQVelaI4SEm8tGtTYJ-V1d9ea-kyNfTDTqRiuUIVCy9F0YzKvVCtO7oVMlo3i8XiIxdgwdqdjrnzB",
+        "accessed_at": "2026-06-22T16:56:09.759522",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTA6bLHHGCdNW425lbHmNV76TzsIBEWH6rlhjNIPwghUds82eGYibbMve7SLA0Exor529_RltvhgtRmQZ1_O5bKDiuYMmdLgyaYUQMsnyr1zx0BGm44QjyPWmHoWFNH-rAhHduvFrm03w4vPyVKXsxanGGq-vS7J5PLgPdimnkpw==",
+        "accessed_at": "2026-06-22T16:56:09.759526",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRc_KGBT5hF0H6S3__LOyquxTqt4KC2mTb3logvfsi3gyzdY6WX3ArvTGtGHfcfdyaqE8hF_VFWm_zDY7INUsoFwXM_y_mmNeW_MXrUA16DxlIdWajQ58QoATivXSOB7aofsSR5XCFYA6DGuAHECPw4z3YKV0tcGl-XLTduOaXgp6N9Vgq4lvg_QTFUWyDtVXFezwDh-_xUC6JNbqELFvsfkeaQtS8EVQSoG_uCvuFMayd3tfzhzpmx62qChtGC_16mnin9qQTmbnMBe2zlw==",
+        "accessed_at": "2026-06-22T16:56:09.759530",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxBhigiMXjwEjmSo6F122i4FZWfnlsagxt06cXPTEDnXtUCjXNBHXBP8TWzCAN__Y4ZvequiaV-MrzRv19wLHagUFeT7nFbdE6QYcVGzBI1Sa5z5ljTL4isLc=",
+        "accessed_at": "2026-06-22T16:56:09.759534",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdWZN9vGWUQra-21wHo96Oahex7mL263bYJhrguigHMmLP4zvVOR1oU8EmQWrjI7G_YYY2zcunFyKCtfTV16r53FVMjT6_AjYFkAqS9mJGpo2mdl32SRp2bLpcjWMebGo_R2yDaVn12fkyUk-SmYlnvdacA3xC",
+        "accessed_at": "2026-06-22T16:56:09.759538",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYLBo9ITxAKJXNk3bqs2URtIzRzb8ADsOu3wxx9oH0eDbXJaSywNVxZ4xf4gXsNPHC_AeQTE-UhdlVZjTWNWqDl5mW0japcxLc1Vvg4CS-oyVi84bZBvCboOOi3_j4XuDy789C-g==",
+        "accessed_at": "2026-06-22T16:56:09.759541",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQsdr0E2ffxgOcN_bx6wRKPOCfI-B_Zgy2q7v1K0PcMIvrljmfmbR6niPhDQu_BoVI0mV7gjAwbS_5YLeK_Eh04B8okpaWV97zXL28x8Eg4yt-KdO8xWfLr7ZxG9IyTG39RwmapHW5KvQokavxUg14fi5aUetInObRFN9dsJHnf7Asx89G1vmzL0=",
+        "accessed_at": "2026-06-22T16:56:09.759545",
+        "field_attributions": []
+      },
+      {
+        "name": "March 20, 2026",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCu2LRmDI_-FUrmOqgFUJnNlqy5CRV0AoAQAHbSN93KgAHAOCJMXeh3QFmRoJc6JEnPAhVfXAAPcOBc4SfDY6QnJbWF54N7W-LdcIQ3TpEejsvTtqdfqLUSir8naKm9C4RSmnO_bfAu-zrXmNPnclQk5c5upHfbdClI9KGPO9VX4XswvhSllKrpf1NAdNKbf1eiqV4jngSiMcfAbmcJrfYgzrsaFGe-aCKg4RCglRvDH3w",
+        "accessed_at": "2026-06-22T16:55:53.829863",
+        "field_attributions": [
+          "Equity share capital (value, number of shares)"
+        ]
+      },
+      {
+        "name": "Not Available",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAVEjtzSlYkvVizC9i_gOdoXjqgnHpxbldj6StN7PPSIG2K19Rfp8XQY0FFxrz2ZWJV2FesYhMLCGxT2am8iq6XHWU-UGxYZLbsxEYrhdXwcLFRREgXVSB7FOiqUuC0w1rn8EpEtws2g==",
+        "accessed_at": "2026-06-22T16:55:53.829880",
+        "field_attributions": [
+          "ESOP pool size, vesting schedule, and exercise price"
+        ]
+      },
+      {
+        "name": "{'debt_funding': 'Grameen Impact in April 2022', 'debt_equity_ratio_change': 'report for Davadost Pharma Private Limited in 2024'}",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDH-LRN32sVcdDUrGUS8c_DVpV43wjlAxlQsldSaDmYQ6XVdaQWCSkMbBOxDxOeV2Apm0_Ladbo62oImE7uj38F9njza0NTV1DTblinzqION4tjPh1v40ET36xYlbNN3xPmo_UXyJwHZkv3RcY7a-WWf0F_gEAY4nWD-HDekmxxJifKVNlhGZJ58WDco7LdVICCCGScOKup0lu7svERJgkGG5XpeH41LoTfUculNew",
+        "accessed_at": "2026-06-22T16:55:53.829884",
+        "field_attributions": [
+          "Debt-to-equity structure (specific to funding rounds/instruments)"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsitCR9LQDP0CFM1G7qeuRZEBGvpd2vu5E36_p3vt7gzO8fJjNXM1Hx08_V1Am_P_yl0-XDx2i3eGuR0nSRYJOvSU-panOF4HY19nmkU_URPM0D7lArcFBs3VrbaWvOQSphbXrxWnSjs0PstfZfkVyIfLg6g5LvRMqS0NEOfnb3Mk9TcFho1WX7v8i_lIxln5s16-JxqOau2BXv-eHV4oqvdxmVukV0604KA9Z-CvF83KWcdcBHEwis-o-huC6Sa6JHkKrQVAWvZmHsqR6emwelAoswj5tJ9BQMkC8MqnoVeYCyQ==",
+        "accessed_at": "2026-06-22T16:55:53.829886",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-QdVVRWPVVZ2Dm_uvFYa242YO9AWJXubbSOrnIsxgqNqTzf-sVgzypLRXbfHf_mxfyhQ6M9bLd2hTG6d_XiZHBW8_nzLAgRJHfdnhSBpz3ocFhILokhbzgtziTA-IekpVhzOxAdO6ZHgG0IBlrk2v7lyHIlwwRztvz4qGwTU2gVl1VXZnnVq5EFDo7eSXozekzGVwVZj",
+        "accessed_at": "2026-06-22T16:55:53.829889",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXGNW2-v9l6dKumwQb9FJz31NdxMD1OVKROcgSM3RdgxOfNHWXH6cZddUStXz0hgxCMvsKbtueAyg4aF9xg1s6XeHjo89qfrq14HETEK2wokIQEjucjHIqzxMluhOs8CwvZZcvwBJzG3k0zlN-y8LxnBfmmxhQ",
+        "accessed_at": "2026-06-22T16:56:17.701885",
+        "field_attributions": []
+      }
+    ],
+    "documents_used": [
+      "Davadost Pharma Private Limited Financial Report.pdf"
+    ],
+    "sections_total": 33,
+    "sections_populated": 30,
+    "sections_partial": 3,
+    "sections_unavailable": 0,
+    "coverage": {
+      "not_applicable": [],
+      "gaps": [
+        {
+          "section": "customer acquisition & retention economics",
+          "why_it_matters": "Crucial for understanding the cost and effectiveness of acquiring and keeping customers in a competitive retail environment, especially with both offline and online channels."
+        },
+        {
+          "section": "technology/digital/D2C",
+          "why_it_matters": "Essential for a pharmaceutical retailer operating both offline and online to understand their digital capabilities, e-commerce strategy, and direct-to-consumer approach."
+        },
+        {
+          "section": "product/category mix",
+          "why_it_matters": "Important for understanding the breadth of pharmaceutical and related products offered, which impacts revenue streams and market positioning."
+        },
+        {
+          "section": "Revenue by geography",
+          "why_it_matters": "Helps understand the geographical spread of sales, identifying key markets and potential areas for expansion or focus within India."
+        },
+        {
+          "section": "operations/supply-chain/manufacturing",
+          "why_it_matters": "Critical for a retail business to understand the efficiency and reliability of their supply chain, inventory management, and logistics, especially for pharmaceuticals which have specific storage and handling requirements."
+        },
+        {
+          "section": "Global presence",
+          "why_it_matters": "While primarily an Indian retailer, understanding any existing or planned international operations is relevant for assessing growth potential and diversification."
+        }
+      ],
+      "notes": "The company is an Indian Pharmaceutical Retailer with both offline and online presence. Sections like 'network/footprint & unit economics', 'customer acquisition & retention economics', 'technology/digital/D2C', 'product/category mix', 'operations/supply-chain/manufacturing', and 'Revenue by geography' are particularly important for this business model. While some are populated or partial, 'product/category mix', 'Revenue by geography', and 'operations/supply-chain/manufacturing' are unavailable, representing significant gaps."
+    },
+    "sections_not_applicable": 0,
+    "validation_report": {
+      "unit_issues": [],
+      "date_issues": [],
+      "missing_citations": [
+        "Risk flags"
+      ],
+      "implausible_numbers": [],
+      "fabricated_urls": [],
+      "completeness_actions": [],
+      "swot_alignment": {
+        "checked": true,
+        "unsupported": [
+          "[strengths] Achieved profitability in FY 2024-25 with a Profit After Tax (PAT) of ₹29,183,655.0, marking its first profitable year.",
+          "[strengths] Demonstrates strong financial health with a very low debt/equity ratio of 0.0021x and a high current ratio of 5.11 as of March 31, 2025.",
+          "[strengths] Robust debt servicing capability shown by an interest coverage ratio of 105.00x and a low debt/EBITDA ratio of 0.0383x in FY 2024-25.",
+          "[strengths] Extensive omnichannel retail network comprising 70 offline stores and 2500 Kirana partnerships in Rajasthan, enhancing market reach.",
+          "[strengths] Strategic focus on Sustainable Development Goals (SDG) and digital health integration, including a partnership with ABHA (Ayushman Bharat Health Account) in July 2024 and the Medwiki platform reaching over 45 million users.",
+          "[weaknesses] Experienced significant underperformance in FY 2023-24, with negative ROE of -7.60% and ROCE of -9.40%.",
+          "[weaknesses] Prior year financial instability indicated by negative interest coverage of -210.94x and negative debt/EBITDA of -0.0684x in FY 2023-24.",
+          "[weaknesses] Significant data gaps in critical operational and financial areas, including 'short_term_debt' (Not Available) and 'ESOP pool size' (Not Available), as well as 'Product Mix & Sourcing Economics' (completeness 0.0).",
+          "[weaknesses] Presence of Related Party Transaction (RPT) flags, such as 'Subsidiary Cash Advances' and 'Inter-Group Commercial Sales Volume', which may raise governance concerns.",
+          "[weaknesses] Limited geographical presence, operating solely within India, which concentrates market and regulatory risks.",
+          "[opportunities] Significant growth potential within the India Retail Pharmacy Market, projected to grow at a CAGR of 9.20% from USD 23,959.34 million in 2024 to 2032.",
+          "[opportunities] Expansion strategy focused on catering to small towns and villages, aiming to serve over 3 million people in Rajasthan, tapping into underserved markets.",
+          "[opportunities] Leveraging digital platforms and partnerships, such as the ABHA integration (July 2024) and the Medwiki platform, to expand reach and enhance service offerings.",
+          "[opportunities] Access to impact investment and government support, evidenced by debt funding from Grameen Impact India Investments and a capital subsidy grant of ₹75,00,000 from IPICOL.",
+          "[opportunities] Omnichannel strategy (physical stores, website, and mobile application) positions the company to capture both traditional and digital customer segments effectively.",
+          "[threats] High regulatory risk in the pharmaceutical sector, compounded by a lack of completeness in 'Regulatory & Compliance' data (0.0), indicating potential unquantified risks.",
+          "[threats] Intense competition from 10-15 listed and unlisted peers, including established players like Apollo Pharmacy and Medplus Health Services Ltd, which could pressure market share and margins.",
+          "[threats] Concentrated geographical presence in a single country (India) exposes the company to country-specific economic downturns, policy changes, and supply chain disruptions.",
+          "[threats] Potential governance and transparency risks highlighted by Related Party Transaction (RPT) flags, including subsidiary cash advances, which could impact investor confidence.",
+          "[threats] As an unlisted company, Dawaadost may face limitations in accessing broader public capital markets for future funding and liquidity compared to listed competitors."
+        ]
+      }
+    }
+  },
+  "company_header": {
+    "name": "Dawaadost",
+    "sector": "pharma",
+    "ticker": null,
+    "cin": "U51100WB2014PTC203164",
+    "founded": "August 19, 2014",
+    "listed_status": "Unlisted",
+    "hq": "Kolkata, West Bengal, 700071"
+  },
+  "sections": [
+    {
+      "section_name": "Key stats bar",
+      "column": "left",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "stat_grid",
+      "content": {
+        "data": {
+          "5-year revenue": 1442537729.0,
+          "EBITDA": 23824375.0,
+          "PAT": 29183655.0,
+          "EBITDA margin": 23824375.0,
+          "PAT margin": 29183655.0,
+          "interest coverage": [
+            {
+              "year": "FY 2024-25",
+              "coverage": "105.00x"
+            },
+            {
+              "year": "FY 2023-24",
+              "coverage": "-210.94x"
+            }
+          ],
+          "debt/EBITDA": [
+            {
+              "year": "FY 2024-25",
+              "ratio": "0.0383x"
+            },
+            {
+              "year": "FY 2023-24",
+              "ratio": "-0.0684x"
+            }
+          ],
+          "debt breakdown (secured/unsecured, short/long term) — try annual-report notes / rating rationale before NA": {
+            "long_term_debt": [
+              {
+                "date": "March 31, 2025",
+                "amount": "₹13,91,973.00"
+              },
+              {
+                "date": "March 31, 2024",
+                "amount": "₹17,06,870.00"
+              },
+              {
+                "date": "March 31, 2023",
+                "amount": "₹19,97,922.00"
+              }
+            ],
+            "short_term_debt": "Not Available",
+            "secured_unsecured": "Not Available"
+          },
+          "operating cycle": 56.46
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "Business description",
+      "column": "left",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "prose",
+      "content": {
+        "text": "Davadost Pharma Private Limited, incorporated in August 2014 and headquartered in Kolkata, West Bengal, operates as an Indian pharmaceutical retailer. The company specializes in selling affordable generic and branded medicines through a growing network of neighborhood pharmacy stores, primarily in Tier-2/3 towns, complemented by an online sales channel. Having expanded significantly through two 100% owned retail subsidiaries, Davadost achieved its first consolidated profitability in FY 2024-25 after a period of substantial investment and scaling.",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "ownership/funding/cap-table or IPO status",
+      "column": "left",
+      "order_in_column": 2,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Equity share capital (value, number of shares)": {
+            "Authorized Share Capital": "Rs. 20,000,000",
+            "Paid-up Capital": "Rs. 8,233,120"
+          },
+          "Preference share capital (value, number of shares, conversion terms, dividend rates)": {
+            "value": "Not Available",
+            "source": "Not Available"
+          },
+          "Investor names and their percentage holdings (equity and preference, e.g., Ashish Ramesh Kacholia, RBA Finance & Investment Co., Unicorn Infinite LLP)": [
+            {
+              "investor": "Founders",
+              "percentage_holding": "33.63%",
+              "type": "equity",
+              "source": "March 10, 2025"
+            },
+            {
+              "investor": "Funds",
+              "percentage_holding": "3.00%",
+              "type": "equity",
+              "source": "March 10, 2025"
+            },
+            {
+              "investor": "Angels",
+              "percentage_holding": "32.60%",
+              "type": "equity",
+              "source": "March 10, 2025"
+            },
+            {
+              "investor": "Enterprises",
+              "percentage_holding": "27.78%",
+              "type": "equity",
+              "source": "March 10, 2025"
+            },
+            {
+              "investor": "Grameen Impact India (Giii)",
+              "percentage_holding": "Not Available",
+              "type": "VC Investors & Angel Networks",
+              "source": "Not Available"
+            },
+            {
+              "investor": "Kunal Shah",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Saurabh Garg",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Amit Agarwal",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "AN Seshadri",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Ashish Goel",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Amrish Rau",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Shankar Narayan",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            },
+            {
+              "investor": "Singapore-based Thakral Group",
+              "percentage_holding": "Not Available",
+              "type": "Angel Investor",
+              "source": "January 2023"
+            }
+          ],
+          "ESOP pool size, vesting schedule, and exercise price": {
+            "ESOP pool size": "Not Available",
+            "vesting schedule": "Not Available",
+            "exercise price": "Not Available"
+          },
+          "Debt-to-equity structure (specific to funding rounds/instruments)": {
+            "debt_funding_source": "Grameen Impact",
+            "debt_funding_date": "April 2022",
+            "instrument_details": "Pay-for-Performance model, allowing for a reduction, partial or complete, of interest payable based on the company meeting specific UN Sustainable Development Goal (SDG) related milestones.",
+            "debt_equity_ratio": "Not Available",
+            "debt_equity_ratio_change": "-1.48%▼"
+          }
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "section_name": "Products & services",
+      "column": "left",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "full product list": [
+            "Retail Sale of Pharmaceutical Goods",
+            "Retail Sale of Medical Goods",
+            "Retail Sale of Orthopedic Goods",
+            "Wholesale Trade and Commission Trade",
+            "Commercial Software/Service Sales"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "section_name": "network/footprint & unit economics",
+      "column": "left",
+      "order_in_column": 4,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Store count (offline/online split)": {
+            "offline_stores": 70,
+            "offline_stores_date": "January 10, 2023",
+            "online_presence": "Omnichannel platform via website and mobile application (Android and iOS)",
+            "kirana_partnerships": 2500,
+            "kirana_partnerships_location": "Rajasthan",
+            "kirana_partnerships_date": "January 10, 2023"
+          },
+          "Store format (e.g., small format, large format)": "Omni-channel units, functioning as both physical retail outlets and fulfillment centers for digital orders. Strategically located in high-footfall areas such as near bus stands, railway, and metro stations.",
+          "Geographical distribution (tier-1/2/3 towns)": "Presence in 9 cities across Rajasthan, Karnataka, Telangana, Maharashtra, and Delhi (as of January 10, 2023). Focused on catering to small towns and villages, aiming to expand its reach in Rajasthan to serve over 3 million people.",
+          "New store openings/closures per year": [
+            {
+              "description": "70 stores in nine cities (Rajasthan, Karnataka, Telangana, Maharashtra, and Delhi)",
+              "date": "January 10, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "66 stores in Rajasthan, Karnataka, Telangana, and Maharashtra",
+              "date": "May 16, 2022",
+              "source": "the report"
+            },
+            {
+              "description": "Aims to add 100 physical stores within the year",
+              "date": "from January 24, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "SAMRIDH is supporting Dawaa Dost with funding to open 10 new physical stores",
+              "date": "September 6, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "80+ offline pharmacies",
+              "date": "Not specified",
+              "source": "Dawaa Dost 'About Us' page"
+            }
+          ],
+          "Capex per new store": "Not Available",
+          "Online order penetration (%)": "Not Available",
+          "Dark store count": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.571,
+        "status": "populated"
+      },
+      "citations": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "section_name": "Investment thesis",
+      "column": "left",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "prose",
+      "content": {
+        "thesis": [
+          {
+            "heading": "Competitive Moat",
+            "text": "Dawaadost maintains a strong financial position, evidenced by a low debt/equity ratio of 0.0021x as of March 31, 2025, and robust interest coverage of 105.00x in FY 2024-25. Its fully integrated B2C retail model, conducted through 100% owned subsidiaries Davadost Retail Private Limited and Dawaa Dost Retail Private Limited, provides control over its distribution and customer experience."
+          },
+          {
+            "heading": "Current Story",
+            "text": "The company has reached a critical inflection point, achieving its first profitable year in FY 2024-25 with a reported PAT of ₹29,183,655. This turnaround is further highlighted by a significant improvement in ROE, which rose to 4.46% in FY 2024-25 from -7.60% in the previous fiscal year."
+          },
+          {
+            "heading": "Forward Opportunity",
+            "text": "Dawaadost is well-positioned to capitalize on the expanding India Retail Pharmacy Market, which is projected to reach USD 23,959.34 million in 2024 and grow at a CAGR of 9.20% from 2024 to 2032. While the company's established retail channel provides a foundation, specific internal operational catalysts for accelerated future growth are not detailed in the provided data beyond standard corporate events."
+          }
+        ],
+        "confidence": "high",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "customer acquisition & retention economics",
+      "column": "left",
+      "order_in_column": 6,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Customer acquisition cost (CAC) by channel (online/offline)": "Not Available",
+          "Customer lifetime value (CLTV)": "Not Available",
+          "Repeat purchase rate (monthly/quarterly)": "Not Available",
+          "Average order value (AOV)": "Not Available",
+          "Prescription refill rates (%)": "Not Available",
+          "Loyalty program enrollment/redemption rates": "Not Available",
+          "App downloads/active users (monthly)": [
+            {
+              "metric": "DawaaDost App Downloads (total)",
+              "value": "110,000",
+              "date": "June 8, 2026"
+            },
+            {
+              "metric": "DawaaDost App Downloads (last 30 days)",
+              "value": "3,800",
+              "date": "June 8, 2026"
+            },
+            {
+              "metric": "Karma Dost App Downloads (total)",
+              "value": "59,000",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "Karma Dost Active Users",
+              "value": "100,000 users across India",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "DawaaDost App Users (delivery)",
+              "value": "Approximately 500,000 Indians",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "Target Active Transacting Users",
+              "value": "4 million",
+              "date": "by January 2024 (from a January 2023 statement)"
+            }
+          ],
+          "Tele-consult volumes (if offered)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.125,
+        "status": "partial"
+      },
+      "citations": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "section_name": "Risk flags",
+      "column": "left",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "flags": [
+            {
+              "severity": "red",
+              "title": "Persistent Losses and High Cash Drain from Subsidiaries",
+              "description": "Both Davadost Retail Private Limited and Dawaa Dost Retail Private Limited, wholly-owned subsidiaries, have consistently reported losses and negative reserves since their acquisition/incorporation. As of FY24-25, Davadost Retail had reserves of ₹(3,00,32,192) and Dawaa Dost Retail had reserves of ₹(2,25,98,634). The parent company provided significant and growing cash advances to these subsidiaries, reaching ₹5,95,47,509 for Davadost Retail and ₹3,63,90,601 for Dawaa Dost Retail in FY24-25. These substantial and increasing advances to loss-making entities represent a material drain on the parent company's resources and pose a risk to consolidated profitability."
+            },
+            {
+              "severity": "amber",
+              "title": "Reliance on Accounting Adjustments for Profitability Turnaround",
+              "description": "While Dawaadost achieved its first profitable year in FY24-25 (Standalone PAT: ₹2,91,83,655), this turnaround was preceded by several accounting adjustments in FY23-24. A capital subsidy grant of ₹75,00,000 was directly offset against core expenses rather than recognized as revenue, and a change in depreciation method (Written Down Value to Straight-Line Method) lowered depreciation expense by ₹1,53,26,820. Additionally, expenditures for regional retail project expansions are treated as deferred revenue expenditures, written off over subsequent 5-year operational blocks. These practices raise questions about the quality and sustainability of the reported profitability."
+            },
+            {
+              "severity": "amber",
+              "title": "Growing Related Party Advances to Medwiki Technology Private Limited",
+              "description": "Cash advances paid out to Medwiki Technology Private Limited, a company owned by Dawaa Dost, increased significantly from ₹70,84,629 in FY23-24 to ₹2,09,83,456 (₹2,09,834.56 hundreds) in FY24-25. While there are commercial software/service sales to Medwiki (₹2,85,34,263 in FY23-24), the substantial and growing cash advances to this related party, especially one that is still in a community-building phase with monetization to follow, require careful monitoring for potential liquidity implications or conflicts of interest."
+            },
+            {
+              "severity": "amber",
+              "title": "Unproven Sustainability of Profitability After Long Loss-Making Period",
+              "description": "FY24-25 marks Dawaadost's first profitable year after a prolonged period of heavy losses (e.g., standalone net loss of ₹3,20,46,729 in FY23-24 and ₹7,55,23,680 in FY22-23). While the pivot to profitability is a positive development, its long-term sustainability remains unproven, particularly when considering the accounting adjustments noted in other flags."
+            },
+            {
+              "severity": "green",
+              "title": "Strong Liquidity and Very Low Debt Profile",
+              "description": "As of March 31, 2025, Dawaadost maintains a very low debt-to-equity ratio of 0.0021x and a debt-to-EBITDA ratio of 0.0383x. The current ratio is strong at 5.11, indicating robust short-term liquidity. Interest coverage improved dramatically to 105.00x in FY24-25 from a negative figure in FY23-24. The company also has low contingent liabilities of ₹25,92,000, which are fully backed by corresponding Fixed Deposits, indicating minimal leverage risk."
+            },
+            {
+              "severity": "green",
+              "title": "Consistent Revenue Growth and Strategic Market Positioning",
+              "description": "Dawaadost has demonstrated strong revenue growth, with standalone revenue increasing from ₹45.05 crore in FY23-24 to ₹57.49 crore in FY24-25, and consolidated revenue growing from ₹51.82 crore to ₹64.96 crore in the same period. Tracxn reports a 1-year revenue CAGR of 25% for FY25. The company is strategically positioned in the affordable generic medicines market, aiming to reduce healthcare expenditure by 50-80% for consumers, and has partnered with the Ayushman Bharat Digital Mission to enhance healthcare accessibility."
+            }
+          ]
+        },
+        "confidence": "high",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "technology/digital/D2C",
+      "column": "left",
+      "order_in_column": 8,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Customer acquisition cost (CAC) by channel (online/offline)": "Not Available",
+          "Customer lifetime value (CLTV)": "Not Available",
+          "Repeat purchase rate (monthly/quarterly)": "Not Available",
+          "Average order value (AOV)": "Not Available",
+          "Prescription refill rates (%)": "Not Available",
+          "Loyalty program enrollment/redemption rates": "Not Available",
+          "App downloads/active users (monthly)": [
+            {
+              "metric": "DawaaDost App Downloads (total)",
+              "value": "110,000",
+              "date": "June 8, 2026"
+            },
+            {
+              "metric": "DawaaDost App Downloads (last 30 days)",
+              "value": "3,800",
+              "date": "June 8, 2026"
+            },
+            {
+              "metric": "Karma Dost App Downloads (total)",
+              "value": "59,000",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "Karma Dost Active Users",
+              "value": "100,000 users across India",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "DawaaDost App Users (delivery)",
+              "value": "Approximately 500,000 Indians",
+              "date": "January 24, 2023"
+            },
+            {
+              "metric": "Target Active Transacting Users",
+              "value": "4 million",
+              "date": "by January 2024 (from a January 2023 statement)"
+            }
+          ],
+          "Tele-consult volumes (if offered)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.125,
+        "status": "partial"
+      },
+      "citations": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "section_name": "Financial performance chart",
+      "column": "left",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "5-year revenue": 1442537729.0,
+          "EBITDA": 23824375.0,
+          "PAT": 29183655.0,
+          "EBITDA margin": 23824375.0,
+          "PAT margin": 29183655.0,
+          "debt/EBITDA": [
+            {
+              "year": "FY 2024-25",
+              "ratio": "0.0383x"
+            },
+            {
+              "year": "FY 2023-24",
+              "ratio": "-0.0684x"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "value-added or tech-enabled services",
+      "column": "left",
+      "order_in_column": 10,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Online revenue contribution (%)": "Not Available",
+          "App/website traffic (monthly unique users)": [
+            {
+              "metric": "Monthly reach",
+              "users": "Approximately 40 million people in India",
+              "as_of": "May 2022",
+              "source": "cite: 9 in previous step"
+            },
+            {
+              "metric": "Medwiki platform users",
+              "users": "Over 45 million Indians",
+              "as_of": "August 2022",
+              "source": "cite: 11 in previous step"
+            },
+            {
+              "metric": "Karma Dost app users",
+              "users": "100,000 people across India",
+              "as_of": "January 2023",
+              "source": "Not Available"
+            },
+            {
+              "metric": "App medicine deliveries",
+              "users": "Approximately 500,000 Indians",
+              "as_of": "January 2023",
+              "source": "Not Available"
+            },
+            {
+              "metric": "Annual transacting users",
+              "users": "1.5 million users",
+              "as_of": "January 2023",
+              "source": "Not Available"
+            },
+            {
+              "metric": "Target monthly reach",
+              "users": "200 million Indians monthly",
+              "as_of": "December 2022",
+              "source": "cite: 14 in previous step"
+            }
+          ],
+          "Online conversion rates (%)": "Not Available",
+          "Digital marketing spend as % of online revenue": "Not Available",
+          "Tech stack details (e.g., e-commerce platform, inventory management system)": [
+            {
+              "component": "Proprietary Search Engine",
+              "description": "Helps customers find the right medicine at the right price",
+              "source": "cite: 5 in previous step"
+            },
+            {
+              "component": "Kirana Tech Platform",
+              "description": "Enables selling medicines via kirana (small retail) stores",
+              "source": "cite: 3 in previous step"
+            },
+            {
+              "component": "Digital Shelf",
+              "description": "For customer experience on the front end",
+              "source": "cite: 9 in previous step"
+            },
+            {
+              "component": "Digital Warehouse",
+              "description": "For back-end operations",
+              "source": "cite: 9 in previous step"
+            },
+            {
+              "component": "Conversational AI",
+              "description": "Powers the Karma Dost app for medication adherence",
+              "source": "cite: 9 in previous step"
+            },
+            {
+              "component": "Advanced Digital Platform",
+              "description": "Used by DavaDost Pharma for procurement of pharmaceuticals, wellness products, and medical supplies",
+              "source": "cite: 4 in previous step"
+            },
+            {
+              "component": "Medwiki",
+              "description": "A search engine-based video library curated by pharmacists to help users understand medicines",
+              "source": "Not Available"
+            },
+            {
+              "component": "B2B App",
+              "description": "Used by kirana store owners to place orders",
+              "source": "Not Available"
+            }
+          ],
+          "Integration with e-prescribing platforms": [
+            {
+              "platform": "ABHA (Ayushman Bharat Health Account)",
+              "details": "Partnership under Ayushman Bharat Digital Mission (July 2024) allowing users to create unique ABHA numbers and access digital lab reports, prescriptions, and diagnoses.",
+              "source": "cite: 4 in previous step"
+            },
+            {
+              "platform": "Prescription Upload",
+              "details": "Customers can upload prescriptions directly on the DawaaDost website and app for order fulfillment.",
+              "source": "Not Available"
+            }
+          ],
+          "Telehealth service adoption rate": [
+            {
+              "service": "Medication Adherence (Karma Dost app)",
+              "adoption_rate": "Improved medicine adherence among users by above 60%",
+              "as_of": "January 2023",
+              "source": "Not Available"
+            },
+            {
+              "service": "Direct telehealth consultations",
+              "adoption_rate": "Not Available",
+              "as_of": "Not Available",
+              "source": "Not Available"
+            }
+          ],
+          "R&D spend on digital initiatives": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "section_name": "Margin trend & key metrics",
+      "column": "left",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "EBITDA margin": 23824375.0,
+          "PAT margin": 29183655.0,
+          "ROE": [
+            {
+              "year": "FY 2024-25",
+              "type": "Standalone",
+              "percentage": "4.46%"
+            },
+            {
+              "year": "FY 2023-24",
+              "type": "Standalone",
+              "percentage": "-7.60%"
+            }
+          ],
+          "ROCE": [
+            {
+              "year": "FY 2024-25",
+              "type": "Standalone",
+              "percentage": "2.35%"
+            },
+            {
+              "year": "FY 2023-24",
+              "type": "Standalone",
+              "percentage": "-9.40%"
+            }
+          ],
+          "debt/equity": "0.0021x as of March 31, 2025",
+          "interest coverage": [
+            {
+              "year": "FY 2024-25",
+              "coverage": "105.00x"
+            },
+            {
+              "year": "FY 2023-24",
+              "coverage": "-210.94x"
+            }
+          ],
+          "debt/EBITDA": [
+            {
+              "year": "FY 2024-25",
+              "ratio": "0.0383x"
+            },
+            {
+              "year": "FY 2023-24",
+              "ratio": "-0.0684x"
+            }
+          ],
+          "current ratio": 5.11
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "Working capital analysis",
+      "column": "left",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "current ratio": 5.11,
+          "debtor days": 67.16,
+          "inventory days": 37.68,
+          "payable days": 48.38,
+          "operating cycle": 56.46
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "Revenue by product segment",
+      "column": "left",
+      "order_in_column": 13,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)": [
+            {
+              "name": {
+                "value": "Dawaadost Pharma Private Limited",
+                "source": "Company document"
+              },
+              "revenue": {
+                "value": "₹64.96 crore (FY24-25)",
+                "source": "Company document"
+              },
+              "EBITDA margin": {
+                "value": "~4.25% (Approx. Standalone, FY24-25)",
+                "source": "Company document"
+              },
+              "focus": {
+                "value": "Retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Company document"
+              }
+            },
+            {
+              "name": {
+                "value": "PharmEasy (API Holdings)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹6,869 crore (FY26, projected/reported)",
+                "source": "21"
+              },
+              "EBITDA margin": {
+                "value": "~0.9% (FY26, EBITDA of ₹63 crore on ₹6,869 crore revenue)",
+                "source": "21"
+              },
+              "focus": {
+                "value": "Online pharmacy, diagnostic services, teleconsultations, medical equipment, home vaccination, and B2B distribution.",
+                "source": "1, 2, 4, 5"
+              }
+            },
+            {
+              "name": {
+                "value": "MedPlus Health Services Ltd",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹6,184.7 crore (FY25, Net Sales)",
+                "source": "23"
+              },
+              "EBITDA margin": {
+                "value": "8.09% (Core EBITDA Margin, Consolidated, Mar2025)",
+                "source": "19"
+              },
+              "focus": {
+                "value": "Second-largest pharmacy retailer in India (offline and online), offering pharmaceutical products, path labs, optical services, and wholesale trading and manufacturing of pharmaceutical products, FMCG, and beauty products.",
+                "source": "11, 15, 16"
+              }
+            },
+            {
+              "name": {
+                "value": "Apollo Pharmacy (part of Apollo HealthCo, a subsidiary of Apollo Hospitals Enterprise Ltd)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹16,260 crore (FY25, HealthCo revenue run rate)",
+                "source": "40"
+              },
+              "EBITDA margin": {
+                "value": "3.5% (FY25, HealthCo)",
+                "source": "40"
+              },
+              "focus": {
+                "value": "India's largest online and offline pharmacy chain, providing healthcare products, personal care, baby care, health and nutrition, wellness, lifestyle categories, digital health platform (Apollo 24/7), and diagnostics.",
+                "source": "3, 22, 38"
+              }
+            },
+            {
+              "name": {
+                "value": "Tata 1mg",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹2,392 crore (FY25, consolidated)",
+                "source": "2, 33"
+              },
+              "EBITDA margin": {
+                "value": "EBITDA positive across all established businesses (FY26). Diagnostics business sustains double-digit EBITDA margins, and the ePharmacy business achieved breakeven in FY26.",
+                "source": "16, 26, 34"
+              },
+              "focus": {
+                "value": "Integrated healthcare platform including e-pharmacy (ranked 1 in India), diagnostic services, e-consultations, health content, specialty pharma, direct-to-consumer health products, and an expanding offline retail presence.",
+                "source": "4, 5, 16, 33, 34"
+              }
+            },
+            {
+              "name": {
+                "value": "Netmeds",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "US$102 million (~₹850 crore, 2025)",
+                "source": "39"
+              },
+              "EBITDA margin": {
+                "value": "Not explicitly stated for FY25, but EBITDA decreased in FY24, implying it was negative. Online pharmacy gross margins averaged ~18-22% in 2025.",
+                "source": "37, 44"
+              },
+              "focus": {
+                "value": "Online pharmacy for prescription medicines, OTC products, and wellness items, with a growing presence in offline stores.",
+                "source": "4, 6, 14"
+              }
+            },
+            {
+              "name": {
+                "value": "Wellness Forever Medicare Ltd",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹1,453 crore (FY24)",
+                "source": "13"
+              },
+              "EBITDA margin": {
+                "value": "Profit was -₹72 crore (FY24), indicating negative EBITDA.",
+                "source": "13"
+              },
+              "focus": {
+                "value": "A \"Pharmacy Led Wellness Destination\" operating retail pharmacies, hospital pharmacies, and managed franchises with 24x7 operations and an omnichannel presence, offering a wide range of medicines, medical equipment, and health/lifestyle products.",
+                "source": "15, 24"
+              }
+            },
+            {
+              "name": {
+                "value": "Frank Ross Pharmacy (Emami Frank Ross Limited)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹603.26 crore (FY25)",
+                "source": "10"
+              },
+              "EBITDA margin": {
+                "value": "Reported losses in FY23 and 9MFY24, with PBILDT margin declining to 4.17% in 9MFY24. Directors did not recommend a dividend for FY25 due to losses, suggesting a negative or very low EBITDA margin.",
+                "source": "10, 22"
+              },
+              "focus": {
+                "value": "One of Eastern India's largest and oldest pharmacy chains, with retail stores and an e-commerce presence. Also deals in medical devices, personal care, baby care, health food & drinks, sexual wellness, and ayurvedic/herbal products.",
+                "source": "10, 15, 28"
+              }
+            },
+            {
+              "name": {
+                "value": "Zeelab Pharmacy",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹100 crore (FY25)",
+                "source": "3, 11"
+              },
+              "EBITDA margin": {
+                "value": "Profitable at the EBITDA level (FY25).",
+                "source": "3"
+              },
+              "focus": {
+                "value": "Providing affordable generic medicines through an online platform and a network of company-owned and franchised pharmacies, aiming to cut out middlemen. Also sells cosmetics and nutraceuticals.",
+                "source": "3, 8, 11, 15"
+              }
+            },
+            {
+              "name": {
+                "value": "Medkart Pharmacy",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹44.7 crore (FY25)",
+                "source": "10, 19"
+              },
+              "EBITDA margin": {
+                "value": "Not explicitly stated for FY25, but Tracxn reports a 1-year EBITDA CAGR of 63% for FY25.",
+                "source": "10"
+              },
+              "focus": {
+                "value": "An online platform for comparing prices of branded drugs with generics, and a retail chain specializing in generic medicines.",
+                "source": "7, 10, 19"
+              }
+            },
+            {
+              "name": {
+                "value": "Generic Aadhaar",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "$2 million (~₹16.66 crore, current, as of 2025 reports)",
+                "source": "2"
+              },
+              "EBITDA margin": {
+                "value": "No specific percentage found, but the business model aims to provide 40% profit for retailers, implying a healthy margin for the company itself.",
+                "source": "5"
+              },
+              "focus": {
+                "value": "A pharma-aggregator business model that sources generic drugs directly from manufacturers and supplies them to retailers (B2B2C), including a franchise model, to make medicines affordable.",
+                "source": "2, 3, 4"
+              }
+            }
+          ],
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market_name": "India Retail Pharmacy Market",
+              "market_size": "USD 23,959.34 million",
+              "year": "2024",
+              "cagr": "9.20% (2024-2032)"
+            },
+            {
+              "market_name": "India Pharmacy Market",
+              "market_size": "USD 27,383.6 million",
+              "year": "2024",
+              "cagr": "10% (2025-2030)"
+            },
+            {
+              "market_name": "India Pharmaceutical Market (overall)",
+              "market_size": "USD 68.38 Billion",
+              "year": "2025",
+              "cagr": "10.98% (2026-2034)"
+            },
+            {
+              "market_name": "India Orthopedic Devices Market",
+              "market_size": "USD 1.7 billion",
+              "year": "2024",
+              "cagr": "7.5% (2024-2030)"
+            }
+          ],
+          "full product list": [
+            "Retail Sale of Pharmaceutical Goods",
+            "Retail Sale of Medical Goods",
+            "Retail Sale of Orthopedic Goods",
+            "Wholesale Trade and Commission Trade",
+            "Commercial Software/Service Sales"
+          ],
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2C": {
+              "type": "Business-to-Consumer",
+              "description": "Retail sale of pharmaceutical, medical, and orthopedic goods.",
+              "contribution_to_turnover": "100%",
+              "method": "Primarily conducted through its two 100% owned retail subsidiaries: Davadost Retail Private Limited and Dawaa Dost Retail Private Limited."
+            },
+            "B2B": {
+              "internal_wholesale_distribution": {
+                "description": "Inter-group commercial sales volume to its retail subsidiaries.",
+                "sales_to_davadost_retail_private_ltd": {
+                  "amount": "₹42,87,121",
+                  "fiscal_year": "FY 2024-25"
+                },
+                "sales_to_dawaa_dost_retail_private_ltd": {
+                  "amount": "₹65,59,044",
+                  "fiscal_year": "FY 2024-25"
+                }
+              },
+              "commercial_software_service_sales": {
+                "description": "Revenue generated from commercial software/service sales.",
+                "revenue_from_medwiki_technology_private_limited": {
+                  "amount": "₹2,85,34,263",
+                  "fiscal_year": "FY 2023-24"
+                }
+              }
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "name": "Davadost Retail Private Limited",
+              "relationship": "100% owned retail subsidiary"
+            },
+            {
+              "name": "Dawaa Dost Retail Private Limited",
+              "relationship": "100% owned retail subsidiary"
+            },
+            {
+              "name": "Medwiki Technology Private Limited",
+              "relationship": "Customer for commercial software/service sales",
+              "revenue_generated": {
+                "amount": "₹2,85,34,263",
+                "fiscal_year": "FY 2023-24"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "section_name": "Peers comparison",
+      "column": "left",
+      "order_in_column": 14,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)": [
+            {
+              "name": {
+                "value": "Dawaadost Pharma Private Limited",
+                "source": "Company document"
+              },
+              "revenue": {
+                "value": "₹64.96 crore (FY24-25)",
+                "source": "Company document"
+              },
+              "EBITDA margin": {
+                "value": "~4.25% (Approx. Standalone, FY24-25)",
+                "source": "Company document"
+              },
+              "focus": {
+                "value": "Retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Company document"
+              }
+            },
+            {
+              "name": {
+                "value": "PharmEasy (API Holdings)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹6,869 crore (FY26, projected/reported)",
+                "source": "21"
+              },
+              "EBITDA margin": {
+                "value": "~0.9% (FY26, EBITDA of ₹63 crore on ₹6,869 crore revenue)",
+                "source": "21"
+              },
+              "focus": {
+                "value": "Online pharmacy, diagnostic services, teleconsultations, medical equipment, home vaccination, and B2B distribution.",
+                "source": "1, 2, 4, 5"
+              }
+            },
+            {
+              "name": {
+                "value": "MedPlus Health Services Ltd",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹6,184.7 crore (FY25, Net Sales)",
+                "source": "23"
+              },
+              "EBITDA margin": {
+                "value": "8.09% (Core EBITDA Margin, Consolidated, Mar2025)",
+                "source": "19"
+              },
+              "focus": {
+                "value": "Second-largest pharmacy retailer in India (offline and online), offering pharmaceutical products, path labs, optical services, and wholesale trading and manufacturing of pharmaceutical products, FMCG, and beauty products.",
+                "source": "11, 15, 16"
+              }
+            },
+            {
+              "name": {
+                "value": "Apollo Pharmacy (part of Apollo HealthCo, a subsidiary of Apollo Hospitals Enterprise Ltd)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹16,260 crore (FY25, HealthCo revenue run rate)",
+                "source": "40"
+              },
+              "EBITDA margin": {
+                "value": "3.5% (FY25, HealthCo)",
+                "source": "40"
+              },
+              "focus": {
+                "value": "India's largest online and offline pharmacy chain, providing healthcare products, personal care, baby care, health and nutrition, wellness, lifestyle categories, digital health platform (Apollo 24/7), and diagnostics.",
+                "source": "3, 22, 38"
+              }
+            },
+            {
+              "name": {
+                "value": "Tata 1mg",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹2,392 crore (FY25, consolidated)",
+                "source": "2, 33"
+              },
+              "EBITDA margin": {
+                "value": "EBITDA positive across all established businesses (FY26). Diagnostics business sustains double-digit EBITDA margins, and the ePharmacy business achieved breakeven in FY26.",
+                "source": "16, 26, 34"
+              },
+              "focus": {
+                "value": "Integrated healthcare platform including e-pharmacy (ranked 1 in India), diagnostic services, e-consultations, health content, specialty pharma, direct-to-consumer health products, and an expanding offline retail presence.",
+                "source": "4, 5, 16, 33, 34"
+              }
+            },
+            {
+              "name": {
+                "value": "Netmeds",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "US$102 million (~₹850 crore, 2025)",
+                "source": "39"
+              },
+              "EBITDA margin": {
+                "value": "Not explicitly stated for FY25, but EBITDA decreased in FY24, implying it was negative. Online pharmacy gross margins averaged ~18-22% in 2025.",
+                "source": "37, 44"
+              },
+              "focus": {
+                "value": "Online pharmacy for prescription medicines, OTC products, and wellness items, with a growing presence in offline stores.",
+                "source": "4, 6, 14"
+              }
+            },
+            {
+              "name": {
+                "value": "Wellness Forever Medicare Ltd",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹1,453 crore (FY24)",
+                "source": "13"
+              },
+              "EBITDA margin": {
+                "value": "Profit was -₹72 crore (FY24), indicating negative EBITDA.",
+                "source": "13"
+              },
+              "focus": {
+                "value": "A \"Pharmacy Led Wellness Destination\" operating retail pharmacies, hospital pharmacies, and managed franchises with 24x7 operations and an omnichannel presence, offering a wide range of medicines, medical equipment, and health/lifestyle products.",
+                "source": "15, 24"
+              }
+            },
+            {
+              "name": {
+                "value": "Frank Ross Pharmacy (Emami Frank Ross Limited)",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹603.26 crore (FY25)",
+                "source": "10"
+              },
+              "EBITDA margin": {
+                "value": "Reported losses in FY23 and 9MFY24, with PBILDT margin declining to 4.17% in 9MFY24. Directors did not recommend a dividend for FY25 due to losses, suggesting a negative or very low EBITDA margin.",
+                "source": "10, 22"
+              },
+              "focus": {
+                "value": "One of Eastern India's largest and oldest pharmacy chains, with retail stores and an e-commerce presence. Also deals in medical devices, personal care, baby care, health food & drinks, sexual wellness, and ayurvedic/herbal products.",
+                "source": "10, 15, 28"
+              }
+            },
+            {
+              "name": {
+                "value": "Zeelab Pharmacy",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹100 crore (FY25)",
+                "source": "3, 11"
+              },
+              "EBITDA margin": {
+                "value": "Profitable at the EBITDA level (FY25).",
+                "source": "3"
+              },
+              "focus": {
+                "value": "Providing affordable generic medicines through an online platform and a network of company-owned and franchised pharmacies, aiming to cut out middlemen. Also sells cosmetics and nutraceuticals.",
+                "source": "3, 8, 11, 15"
+              }
+            },
+            {
+              "name": {
+                "value": "Medkart Pharmacy",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "₹44.7 crore (FY25)",
+                "source": "10, 19"
+              },
+              "EBITDA margin": {
+                "value": "Not explicitly stated for FY25, but Tracxn reports a 1-year EBITDA CAGR of 63% for FY25.",
+                "source": "10"
+              },
+              "focus": {
+                "value": "An online platform for comparing prices of branded drugs with generics, and a retail chain specializing in generic medicines.",
+                "source": "7, 10, 19"
+              }
+            },
+            {
+              "name": {
+                "value": "Generic Aadhaar",
+                "source": "Not Available"
+              },
+              "revenue": {
+                "value": "$2 million (~₹16.66 crore, current, as of 2025 reports)",
+                "source": "2"
+              },
+              "EBITDA margin": {
+                "value": "No specific percentage found, but the business model aims to provide 40% profit for retailers, implying a healthy margin for the company itself.",
+                "source": "5"
+              },
+              "focus": {
+                "value": "A pharma-aggregator business model that sources generic drugs directly from manufacturers and supplies them to retailers (B2B2C), including a franchise model, to make medicines affordable.",
+                "source": "2, 3, 4"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "section_name": "Channel mix & distribution",
+      "column": "left",
+      "order_in_column": 15,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2C": {
+              "type": "Business-to-Consumer",
+              "description": "Retail sale of pharmaceutical, medical, and orthopedic goods.",
+              "contribution_to_turnover": "100%",
+              "method": "Primarily conducted through its two 100% owned retail subsidiaries: Davadost Retail Private Limited and Dawaa Dost Retail Private Limited."
+            },
+            "B2B": {
+              "internal_wholesale_distribution": {
+                "description": "Inter-group commercial sales volume to its retail subsidiaries.",
+                "sales_to_davadost_retail_private_ltd": {
+                  "amount": "₹42,87,121",
+                  "fiscal_year": "FY 2024-25"
+                },
+                "sales_to_dawaa_dost_retail_private_ltd": {
+                  "amount": "₹65,59,044",
+                  "fiscal_year": "FY 2024-25"
+                }
+              },
+              "commercial_software_service_sales": {
+                "description": "Revenue generated from commercial software/service sales.",
+                "revenue_from_medwiki_technology_private_limited": {
+                  "amount": "₹2,85,34,263",
+                  "fiscal_year": "FY 2023-24"
+                }
+              }
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "name": "Davadost Retail Private Limited",
+              "relationship": "100% owned retail subsidiary"
+            },
+            {
+              "name": "Dawaa Dost Retail Private Limited",
+              "relationship": "100% owned retail subsidiary"
+            },
+            {
+              "name": "Medwiki Technology Private Limited",
+              "relationship": "Customer for commercial software/service sales",
+              "revenue_generated": {
+                "amount": "₹2,85,34,263",
+                "fiscal_year": "FY 2023-24"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "section_name": "SWOT",
+      "column": "left",
+      "order_in_column": 16,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "swot_grid",
+      "content": {
+        "strengths": [
+          "Achieved profitability in FY 2024-25 with a Profit After Tax (PAT) of ₹29,183,655.0, marking its first profitable year.",
+          "Demonstrates strong financial health with a very low debt/equity ratio of 0.0021x and a high current ratio of 5.11 as of March 31, 2025.",
+          "Robust debt servicing capability shown by an interest coverage ratio of 105.00x and a low debt/EBITDA ratio of 0.0383x in FY 2024-25.",
+          "Extensive omnichannel retail network comprising 70 offline stores and 2500 Kirana partnerships in Rajasthan, enhancing market reach.",
+          "Strategic focus on Sustainable Development Goals (SDG) and digital health integration, including a partnership with ABHA (Ayushman Bharat Health Account) in July 2024 and the Medwiki platform reaching over 45 million users."
+        ],
+        "weaknesses": [
+          "Experienced significant underperformance in FY 2023-24, with negative ROE of -7.60% and ROCE of -9.40%.",
+          "Prior year financial instability indicated by negative interest coverage of -210.94x and negative debt/EBITDA of -0.0684x in FY 2023-24.",
+          "Significant data gaps in critical operational and financial areas, including 'short_term_debt' (Not Available) and 'ESOP pool size' (Not Available), as well as 'Product Mix & Sourcing Economics' (completeness 0.0).",
+          "Presence of Related Party Transaction (RPT) flags, such as 'Subsidiary Cash Advances' and 'Inter-Group Commercial Sales Volume', which may raise governance concerns.",
+          "Limited geographical presence, operating solely within India, which concentrates market and regulatory risks."
+        ],
+        "opportunities": [
+          "Significant growth potential within the India Retail Pharmacy Market, projected to grow at a CAGR of 9.20% from USD 23,959.34 million in 2024 to 2032.",
+          "Expansion strategy focused on catering to small towns and villages, aiming to serve over 3 million people in Rajasthan, tapping into underserved markets.",
+          "Leveraging digital platforms and partnerships, such as the ABHA integration (July 2024) and the Medwiki platform, to expand reach and enhance service offerings.",
+          "Access to impact investment and government support, evidenced by debt funding from Grameen Impact India Investments and a capital subsidy grant of ₹75,00,000 from IPICOL.",
+          "Omnichannel strategy (physical stores, website, and mobile application) positions the company to capture both traditional and digital customer segments effectively."
+        ],
+        "threats": [
+          "High regulatory risk in the pharmaceutical sector, compounded by a lack of completeness in 'Regulatory & Compliance' data (0.0), indicating potential unquantified risks.",
+          "Intense competition from 10-15 listed and unlisted peers, including established players like Apollo Pharmacy and Medplus Health Services Ltd, which could pressure market share and margins.",
+          "Concentrated geographical presence in a single country (India) exposes the company to country-specific economic downturns, policy changes, and supply chain disruptions.",
+          "Potential governance and transparency risks highlighted by Related Party Transaction (RPT) flags, including subsidiary cash advances, which could impact investor confidence.",
+          "As an unlisted company, Dawaadost may face limitations in accessing broader public capital markets for future funding and liquidity compared to listed competitors."
+        ],
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "expansion/international",
+      "column": "left",
+      "order_in_column": 17,
+      "section_tag": "Sector",
+      "section_tag_label": "Pharma",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Store count (offline/online split)": {
+            "offline_stores": 70,
+            "offline_stores_date": "January 10, 2023",
+            "online_presence": "Omnichannel platform via website and mobile application (Android and iOS)",
+            "kirana_partnerships": 2500,
+            "kirana_partnerships_location": "Rajasthan",
+            "kirana_partnerships_date": "January 10, 2023"
+          },
+          "Store format (e.g., small format, large format)": "Omni-channel units, functioning as both physical retail outlets and fulfillment centers for digital orders. Strategically located in high-footfall areas such as near bus stands, railway, and metro stations.",
+          "Geographical distribution (tier-1/2/3 towns)": "Presence in 9 cities across Rajasthan, Karnataka, Telangana, Maharashtra, and Delhi (as of January 10, 2023). Focused on catering to small towns and villages, aiming to expand its reach in Rajasthan to serve over 3 million people.",
+          "New store openings/closures per year": [
+            {
+              "description": "70 stores in nine cities (Rajasthan, Karnataka, Telangana, Maharashtra, and Delhi)",
+              "date": "January 10, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "66 stores in Rajasthan, Karnataka, Telangana, and Maharashtra",
+              "date": "May 16, 2022",
+              "source": "the report"
+            },
+            {
+              "description": "Aims to add 100 physical stores within the year",
+              "date": "from January 24, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "SAMRIDH is supporting Dawaa Dost with funding to open 10 new physical stores",
+              "date": "September 6, 2023",
+              "source": "the report"
+            },
+            {
+              "description": "80+ offline pharmacies",
+              "date": "Not specified",
+              "source": "Dawaa Dost 'About Us' page"
+            }
+          ],
+          "Capex per new store": "Not Available",
+          "Online order penetration (%)": "Not Available",
+          "Dark store count": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.571,
+        "status": "populated"
+      },
+      "citations": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "section_name": "Market size",
+      "column": "left",
+      "order_in_column": 18,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market_name": "India Retail Pharmacy Market",
+              "market_size": "USD 23,959.34 million",
+              "year": "2024",
+              "cagr": "9.20% (2024-2032)"
+            },
+            {
+              "market_name": "India Pharmacy Market",
+              "market_size": "USD 27,383.6 million",
+              "year": "2024",
+              "cagr": "10% (2025-2030)"
+            },
+            {
+              "market_name": "India Pharmaceutical Market (overall)",
+              "market_size": "USD 68.38 Billion",
+              "year": "2025",
+              "cagr": "10.98% (2026-2034)"
+            },
+            {
+              "market_name": "India Orthopedic Devices Market",
+              "market_size": "USD 1.7 billion",
+              "year": "2024",
+              "cagr": "7.5% (2024-2030)"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "section_name": "Recent news",
+      "column": "left",
+      "order_in_column": 19,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "8-10 most recent news items — each with date, headline, source": [
+            {
+              "date": "April 9, 2025",
+              "headline": "Sundeep Bajoria appointed as an Additional Director.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Company achieved its first profitable year (FY 2024-25).",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "1,42,985 Compulsorily Convertible Cumulative Preference Shares (CCCPS) fully paid up.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Formal statutory provision of ₹3,749.53 hundreds added to Balance Sheet for future gratuity obligations.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Davadost Retail Private Limited reported a turnover of ₹5,24,59,739 for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Dawaa Dost Retail Private Limited reported a turnover of ₹3,87,98,001 for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Cash advances paid out to Medwiki Technology Private Limited reached ₹2,09,834.56 hundreds for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Authorised Capital Reclassification completed for FY 2023-24.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Received a capital subsidy grant of ₹75,00,000 from IPE Global Limited in FY 2023-24.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Changed asset calculation model from Written Down Value (WDV) to Straight-Line Method (SLM), lowering depreciation expense by ₹1,53,26,820 in FY 2023-24.",
+              "source": "Company document"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        3
+      ]
+    },
+    {
+      "section_name": "Details",
+      "column": "right",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Unlisted",
+          "paid-up capital": "₹7,563,690.00",
+          "authorized capital": "₹2,00,00,000",
+          "auditor name": "M/s S.K. Batwara & Co."
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Ownership",
+      "column": "right",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Unlisted",
+          "promoter %": "50.29%",
+          "institutional %": "Not Available",
+          "retail %": "Not Available",
+          "pledge %": "Not Available",
+          "paid-up capital": "₹7,563,690.00",
+          "authorized capital": "₹2,00,00,000",
+          "individual promoters": [
+            {
+              "name": "Amit Choudhary"
+            },
+            {
+              "name": "Yash Harlalka"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Shareholders & promoters",
+      "column": "right",
+      "order_in_column": 2,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "promoter %": "50.29%",
+          "institutional %": "Not Available",
+          "retail %": "Not Available",
+          "individual promoters": [
+            {
+              "name": "Amit Choudhary"
+            },
+            {
+              "name": "Yash Harlalka"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Leadership",
+      "column": "right",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "executives + backgrounds": [
+            {
+              "name": "Amit Choudhary",
+              "role": "Chief Executive Officer (CEO)",
+              "background": "Appointed as an Additional Director on October 10, 2018, regularized as a full Director in the 2019 AGM, and appointed as the Chief Executive Officer (CEO) on October 28, 2019."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Board members",
+      "column": "right",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "board members + roles": [
+            {
+              "name": "Nikita Choudhary",
+              "role": "Director",
+              "appointment_date": "August 19, 2014",
+              "resignation_date": "Not Available"
+            },
+            {
+              "name": "Badri Prasad Choudhary",
+              "role": "Director",
+              "appointment_date": "August 19, 2014",
+              "resignation_date": "October 4, 2021"
+            },
+            {
+              "name": "Amit Choudhary",
+              "role": "Director, Chief Executive Officer (CEO)",
+              "appointment_date": "October 10, 2018 (Additional Director), 2019 AGM (Regularized), October 28, 2019 (CEO)",
+              "resignation_date": "Not Available"
+            },
+            {
+              "name": "Punit Kumar Poddar",
+              "role": "Director",
+              "appointment_date": "October 28, 2019 (Additional Director), December 24, 2020 (Regularized)",
+              "resignation_date": "Not Available"
+            },
+            {
+              "name": "Sunil Rewachand Chandiramani",
+              "role": "Director",
+              "appointment_date": "April 7, 2020 (Additional Director), December 24, 2020 (Regularized)",
+              "resignation_date": "Not Available"
+            },
+            {
+              "name": "Yash Harlalka",
+              "role": "Director",
+              "appointment_date": "October 4, 2021 (Additional Director), October 7, 2021 (Director)",
+              "resignation_date": "Not Available"
+            },
+            {
+              "name": "Sundeep Bajoria",
+              "role": "Additional Director",
+              "appointment_date": "April 9, 2025",
+              "resignation_date": "Not Available"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Compliance & ESG",
+      "column": "right",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "auditor name": "M/s S.K. Batwara & Co.",
+          "litigation status": "Not Available",
+          "RPT flags": [
+            {
+              "type": "Subsidiary Cash Advances",
+              "parties": [
+                "Davadost Retail Private Ltd",
+                "Dawaa Dost Retail Private Ltd"
+              ],
+              "details": "Year-End Balances reported for FY21-22 to FY24-25"
+            },
+            {
+              "type": "Inter-Group Commercial Sales Volume",
+              "parties": [
+                "Davadost Retail Private Ltd",
+                "Dawaa Dost Retail Private Ltd"
+              ],
+              "details": "Sales volume reported for FY22-23 to FY24-25"
+            },
+            {
+              "type": "Transactions with Medwiki Technology Private Limited",
+              "parties": [
+                "Medwiki Technology Private Limited"
+              ],
+              "details": "Cash advances paid out and commercial software/service sales reported for FY23-24 and FY24-25"
+            }
+          ],
+          "contingent liabilities": "Standard bank guarantees backed by corresponding Fixed Deposits remained constant at ₹25,92,000 across FY23, FY24, and FY25 timelines.",
+          "ESG initiatives": [
+            {
+              "name": "Sustainable Development Goals (SDG) Focus",
+              "description": "In April 2022, Dawaa Dost received debt funding from Grameen Impact India Investments due to its focus on the Sustainable Development Goals (SDG) of good health and well-being.",
+              "source": "Research report"
+            },
+            {
+              "name": "Affordable and Accessible Medicines",
+              "description": "The company's mission is to make medicines affordable for Indians, aiming to provide a minimum of 50 percent savings on prescriptions and ensure equitable access to medicines.",
+              "source": "Research report"
+            },
+            {
+              "name": "Rural Outreach",
+              "description": "Dawaa Dost has an initiative called \"Dawaa Ki Potli\" for rural areas, which includes a pouch of over-the-counter (OTC) medicines for common ailments, along with a booklet for better understanding.",
+              "source": "Research report"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "section_name": "Credit ratings",
+      "column": "right",
+      "order_in_column": 6,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "current LT and ST credit ratings + agency + outlook (check ALL of CARE, CRISIL, ICRA, India Ratings before NA)": "Not Available",
+          "4-year rating history": "Not Available",
+          "key positive/negative triggers": {
+            "positive": [
+              {
+                "trigger": "Pivoted into profitability in FY 2024-25, marking the first profitable year.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              {
+                "trigger": "Received a capital subsidy grant of ₹75,00,000 from IPE Global Limited in FY 2023-24, which was net-deducted directly from core line item expenses.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              {
+                "trigger": "Changed asset calculation model from Written Down Value (WDV) to Straight-Line Method (SLM) in FY 2023-24, which lowered depreciation expense by ₹1,53,26,820 and helped narrow net loss margin.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              {
+                "trigger": "M/s S.K. Batwara & Co. maintained clean, unqualified audit certifications with no adverse remarks or structural reservations across all evaluated financial periods.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            ],
+            "negative": [
+              {
+                "trigger": "Experienced a heavy loss phase from FY 2018-19 to FY 2023-24 due to scaling and project expansions.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              {
+                "trigger": "Subsidiaries Davadost Retail Private Limited and Dawaa Dost Retail Private Limited consistently reported negative reserves and net losses across multiple financial years (FY 2020-21 to FY 2024-25).",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              {
+                "trigger": "Expenditures tied to regional retail project expansions are treated as deferred revenue expenditures, written off over subsequent 5-year operational blocks.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            ]
+          }
+        },
+        "confidence": "medium",
+        "completeness": 0.333,
+        "status": "populated"
+      },
+      "citations": [
+        0
+      ]
+    },
+    {
+      "section_name": "Deals & transactions",
+      "column": "right",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "funding/investment rounds — each with date, round/stage, lead investors, amount raised": [
+            {
+              "date": {
+                "value": "March 31, 2025",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "round/stage": {
+                "value": "Preference Shares Issued",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "lead investors": {
+                "value": "Ashish Ramesh Kacholia, RBA Finance & Investment Co.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount raised": {
+                "value": "₹14,29,850",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            },
+            {
+              "date": {
+                "value": "FY 2023-24",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "round/stage": {
+                "value": "Capital subsidy grant",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "lead investors": {
+                "value": "IPE Global Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount raised": {
+                "value": "₹75,00,000",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            }
+          ],
+          "M&A and acquisitions — each with date, target, amount, strategic rationale": [
+            {
+              "date": {
+                "value": "October 27, 2020",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "target": {
+                "value": "Davadost Retail Private Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount": {
+                "value": "Not Available",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "strategic rationale": {
+                "value": "Acquired/Incorporated as a key retail subsidiary to support the company's expansion into the retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            },
+            {
+              "date": {
+                "value": "November 16, 2021",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "target": {
+                "value": "Dawaa Dost Retail Private Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount": {
+                "value": "Not Available",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "strategic rationale": {
+                "value": "Acquired/Incorporated as a key retail subsidiary to support the company's expansion into the retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        3
+      ]
+    },
+    {
+      "section_name": "Key catalysts",
+      "column": "right",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "upcoming catalysts — each with date/quarter, event, materiality": [
+            {
+              "date/quarter": "11th AGM",
+              "event": "Proposal for regularization of Sundeep Bajoria as a Director",
+              "materiality": "Standard",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        3
+      ]
+    },
+    {
+      "section_name": "Key milestones",
+      "column": "right",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "corporate milestones — each with date and event, from founding to present": [
+            {
+              "date": "August 19, 2014",
+              "event": "Company incorporated as Davadost Pharma Private Limited (formerly Oakwood Consulting Pvt Ltd)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "August 19, 2014",
+              "event": "Nikita Choudhary appointed as Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "August 19, 2014",
+              "event": "Badri Prasad Choudhary appointed as Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 10, 2018",
+              "event": "Amit Choudhary appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "2019 AGM",
+              "event": "Amit Choudhary regularized as a full Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 28, 2019",
+              "event": "Amit Choudhary appointed as Chief Executive Officer (CEO)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 28, 2019",
+              "event": "Punit Kumar Poddar appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "April 7, 2020",
+              "event": "Sunil Rewachand Chandiramani appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 27, 2020",
+              "event": "Davadost Retail Private Limited acquired/incorporated",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "December 24, 2020",
+              "event": "Punit Kumar Poddar regularized as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "December 24, 2020",
+              "event": "Sunil Rewachand Chandiramani regularized as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 4, 2021",
+              "event": "Badri Prasad Choudhary resigned from directorship",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 4, 2021",
+              "event": "Yash Harlalka appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 7, 2021",
+              "event": "Yash Harlalka appointed as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "November 16, 2021",
+              "event": "Dawaa Dost Retail Private Limited acquired/incorporated",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Authorised Capital Reclassification",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Capital subsidy grant of ₹75,00,000 injected into operations by IPE Global Limited",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Asset calculation model changed from Written Down Value (WDV) to Straight-Line Method (SLM)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2024-25",
+              "event": "First Profitable Year (Standalone)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2024-25",
+              "event": "Formal statutory provision of ₹3,749.53 hundreds added to Balance Sheet for future gratuity obligations",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "April 9, 2025",
+              "event": "Sundeep Bajoria appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        3
+      ]
+    },
+    {
+      "section_name": "Awards & certifications",
+      "column": "right",
+      "order_in_column": 10,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "8-10 most recent news items — each with date, headline, source": [
+            {
+              "date": "April 9, 2025",
+              "headline": "Sundeep Bajoria appointed as an Additional Director.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Company achieved its first profitable year (FY 2024-25).",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "1,42,985 Compulsorily Convertible Cumulative Preference Shares (CCCPS) fully paid up.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Formal statutory provision of ₹3,749.53 hundreds added to Balance Sheet for future gratuity obligations.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Davadost Retail Private Limited reported a turnover of ₹5,24,59,739 for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Dawaa Dost Retail Private Limited reported a turnover of ₹3,87,98,001 for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2025",
+              "headline": "Cash advances paid out to Medwiki Technology Private Limited reached ₹2,09,834.56 hundreds for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Authorised Capital Reclassification completed for FY 2023-24.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Received a capital subsidy grant of ₹75,00,000 from IPE Global Limited in FY 2023-24.",
+              "source": "Company document"
+            },
+            {
+              "date": "March 31, 2024",
+              "headline": "Changed asset calculation model from Written Down Value (WDV) to Straight-Line Method (SLM), lowering depreciation expense by ₹1,53,26,820 in FY 2023-24.",
+              "source": "Company document"
+            }
+          ],
+          "funding/investment rounds — each with date, round/stage, lead investors, amount raised": [
+            {
+              "date": {
+                "value": "March 31, 2025",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "round/stage": {
+                "value": "Preference Shares Issued",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "lead investors": {
+                "value": "Ashish Ramesh Kacholia, RBA Finance & Investment Co.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount raised": {
+                "value": "₹14,29,850",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            },
+            {
+              "date": {
+                "value": "FY 2023-24",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "round/stage": {
+                "value": "Capital subsidy grant",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "lead investors": {
+                "value": "IPE Global Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount raised": {
+                "value": "₹75,00,000",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            }
+          ],
+          "M&A and acquisitions — each with date, target, amount, strategic rationale": [
+            {
+              "date": {
+                "value": "October 27, 2020",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "target": {
+                "value": "Davadost Retail Private Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount": {
+                "value": "Not Available",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "strategic rationale": {
+                "value": "Acquired/Incorporated as a key retail subsidiary to support the company's expansion into the retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            },
+            {
+              "date": {
+                "value": "November 16, 2021",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "target": {
+                "value": "Dawaa Dost Retail Private Limited",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "amount": {
+                "value": "Not Available",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              },
+              "strategic rationale": {
+                "value": "Acquired/Incorporated as a key retail subsidiary to support the company's expansion into the retail sale of pharmaceutical, medical, and orthopedic goods.",
+                "source": "Davadost Pharma Private Limited Financial Report.pdf"
+              }
+            }
+          ],
+          "corporate milestones — each with date and event, from founding to present": [
+            {
+              "date": "August 19, 2014",
+              "event": "Company incorporated as Davadost Pharma Private Limited (formerly Oakwood Consulting Pvt Ltd)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "August 19, 2014",
+              "event": "Nikita Choudhary appointed as Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "August 19, 2014",
+              "event": "Badri Prasad Choudhary appointed as Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 10, 2018",
+              "event": "Amit Choudhary appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "2019 AGM",
+              "event": "Amit Choudhary regularized as a full Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 28, 2019",
+              "event": "Amit Choudhary appointed as Chief Executive Officer (CEO)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 28, 2019",
+              "event": "Punit Kumar Poddar appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "April 7, 2020",
+              "event": "Sunil Rewachand Chandiramani appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 27, 2020",
+              "event": "Davadost Retail Private Limited acquired/incorporated",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "December 24, 2020",
+              "event": "Punit Kumar Poddar regularized as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "December 24, 2020",
+              "event": "Sunil Rewachand Chandiramani regularized as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 4, 2021",
+              "event": "Badri Prasad Choudhary resigned from directorship",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 4, 2021",
+              "event": "Yash Harlalka appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "October 7, 2021",
+              "event": "Yash Harlalka appointed as a Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "November 16, 2021",
+              "event": "Dawaa Dost Retail Private Limited acquired/incorporated",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Authorised Capital Reclassification",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Capital subsidy grant of ₹75,00,000 injected into operations by IPE Global Limited",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2023-24",
+              "event": "Asset calculation model changed from Written Down Value (WDV) to Straight-Line Method (SLM)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2024-25",
+              "event": "First Profitable Year (Standalone)",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "FY 2024-25",
+              "event": "Formal statutory provision of ₹3,749.53 hundreds added to Balance Sheet for future gratuity obligations",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            },
+            {
+              "date": "April 9, 2025",
+              "event": "Sundeep Bajoria appointed as an Additional Director",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            }
+          ],
+          "upcoming catalysts — each with date/quarter, event, materiality": [
+            {
+              "date/quarter": "11th AGM",
+              "event": "Proposal for regularization of Sundeep Bajoria as a Director",
+              "materiality": "Standard",
+              "source": "Davadost Pharma Private Limited Financial Report.pdf"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        3
+      ]
+    },
+    {
+      "section_name": "Global presence",
+      "column": "right",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "country count": 1,
+          "key regional approvals/certifications": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "partial"
+      },
+      "citations": [
+        27
+      ]
+    },
+    {
+      "section_name": "Future plan",
+      "column": "right",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "targets": [],
+        "confidence": "low",
+        "note": "Future plan could not be synthesized from available data.",
+        "status": "populated"
+      },
+      "citations": []
+    }
+  ]
+}

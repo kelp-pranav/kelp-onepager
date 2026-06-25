@@ -1,0 +1,1272 @@
+{
+  "company_name": "axis bank",
+  "generated_at": "20260624_221229",
+  "resolved_subsector": "Private-sector Universal Bank (India)",
+  "sections": [
+    {
+      "heading": "Deposit Mix & Cost of Funds",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total Deposits (₹ crores)",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Month-End Balance",
+              "value": "13,35,834"
+            },
+            {
+              "period": "March 31, 2026",
+              "type": "Quarterly Average Balance",
+              "value": "12,26,500"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH6gGJ0YxltUyplWq94vYXl5-44LMfmQNzV1beTakyZk5tYB9Si5FTCxaEawJ0akA-ruR8D8dH5oPIuVe7Ggj2b080CQ-ab5YfkwW7lWP5sNp2qyLkcdT1daVVEkYRuSyBPOBMwvtzh3-ShsgVgC7t4-bbwhT06nTGACwoIK6n1XvS1Vu6pl3uKUUnuzAzvBJAY4H4RWNPHFKH7-SkjWX9ba6bbvnqApO0SD_zqSmpJ73tg233fvGCEpIs4O3bB3zL2tqR0DBfvzhb51tfE0kBZ5jAX0F5Tn-unP8Ws5EgfYwzSUrikCb0mHydyGDP84r27zmsZi4d7PXvPEd1uGmdZiDgzQhg8JXYWXr59PXGrxcxYoPScicx9w=="
+            },
+            {
+              "name": "axis.bank.in",
+              "url": null
+            },
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMzQbnpHVH524iODynG-sdWbH5Gq0wRcMhd9SW_97ByIOyBy4dD5ba1HxrKS2SV43z__ngzN7KC4sxsMzoUlJ_aIk99S_PxF62oEnnX3tg012X7pp5sPinTfXBtNohZnGNgcyytRi0ttrmm_hjXQhAfBQ33NTNifsX3XU"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "CASA Ratio (Month-End Balance) %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "value": "40.00"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH6gGJ0YxltUyplWq94vYXl5-44LMfmQNzV1beTakyZk5tYB9Si5FTCxaEawJ0akA-ruR8D8dH5oPIuVe7Ggj2b080CQ-ab5YfkwW7lWP5sNp2qyLkcdT1daVVEkYRuSyBPOBMwvtzh3-ShsgVgC7t4-bbwhT06nTGACwoIK6n1XvS1Vu6pl3uKUUnuzAzvBJAY4H4RWNPHFKH7-SkjWX9ba6bbvnqApO0SD_zqSmpJ73tg233fvGCEpIs4O3bB3zL2tqR0DBfvzhb51tfE0kBZ5jAX0F5Tn-unP8Ws5EgfYwzSUrikCb0mHydyGDP84r27zmsZi4d7PXvPEd1uGmdZiDgzQhg8JXYWXr59PXGrxcxYoPScicx9w=="
+            },
+            {
+              "name": "axis.bank.in",
+              "url": null
+            },
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMzQbnpHVH524iODynG-sdWbH5Gq0wRcMhd9SW_97ByIOyBy4dD5ba1HxrKS2SV43z__ngzN7KC4sxsMzoUlJ_aIk99S_PxF62oEnnX3tg012X7pp5sPinTfXBtNohZnGNgcyytRi0ttrmm_hjXQhAfBQ33NTNifsX3XU"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "CASA Ratio (Daily Average) %",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "37.37",
+              "note": "Calculated from Average CASA deposits of ₹4,58,300 crores and Total quarterly average deposits of ₹12,26,500 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH6gGJ0YxltUyplWq94vYXl5-44LMfmQNzV1beTakyZk5tYB9Si5FTCxaEawJ0akA-ruR8D8dH5oPIuVe7Ggj2b080CQ-ab5YfkwW7lWP5sNp2qyLkcdT1daVVEkYRuSyBPOBMwvtzh3-ShsgVgC7t4-bbwhT06nTGACwoIK6n1XvS1Vu6pl3uKUUnuzAzvBJAY4H4RWNPHFKH7-SkjWX9ba6bbvnqApO0SD_zqSmpJ73tg233fvGCEpIs4O3bB3zL2tqR0DBfvzhb51tfE0kBZ5jAX0F5Tn-unP8Ws5EgfYwzSUrikCb0mHydyGDP84r27zmsZi4d7PXvPEd1uGmdZiDgzQhg8JXYWXr59PXGrxcxYoPScicx9w=="
+            },
+            {
+              "name": "axis.bank.in",
+              "url": null
+            },
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMzQbnpHVH524iODynG-sdWbH5Gq0wRcMhd9SW_97ByIOyBy4dD5ba1HxrKS2SV43z__ngzN7KC4sxsMzoUlJ_aIk99S_PxF62oEnnX3tg012X7pp5sPinTfXBtNohZnGNgcyytRi0ttrmm_hjXQhAfBQ33NTNifsX3XU"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Liquidity Coverage Ratio (LCR) %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "value": "117.00",
+              "note": "Consolidated Average for the quarter"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH6gGJ0YxltUyplWq94vYXl5-44LMfmQNzV1beTakyZk5tYB9Si5FTCxaEawJ0akA-ruR8D8dH5oPIuVe7Ggj2b080CQ-ab5YfkwW7lWP5sNp2qyLkcdT1daVVEkYRuSyBPOBMwvtzh3-ShsgVgC7t4-bbwhT06nTGACwoIK6n1XvS1Vu6pl3uKUUnuzAzvBJAY4H4RWNPHFKH7-SkjWX9ba6bbvnqApO0SD_zqSmpJ73tg233fvGCEpIs4O3bB3zL2tqR0DBfvzhb51tfE0kBZ5jAX0F5Tn-unP8Ws5EgfYwzSUrikCb0mHydyGDP84r27zmsZi4d7PXvPEd1uGmdZiDgzQhg8JXYWXr59PXGrxcxYoPScicx9w=="
+            },
+            {
+              "name": "axis.bank.in",
+              "url": null
+            },
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMzQbnpHVH524iODynG-sdWbH5Gq0wRcMhd9SW_97ByIOyBy4dD5ba1HxrKS2SV43z__ngzN7KC4sxsMzoUlJ_aIk99S_PxF62oEnnX3tg012X7pp5sPinTfXBtNohZnGNgcyytRi0ttrmm_hjXQhAfBQ33NTNifsX3XU"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Deposits (₹ crores): [{\"period\": \"March 31, 2026\", \"type\": \"Month-End Balance\", \"value\": \"13,35,834\"}, {\"period\": \"March 31, 2026\", \"type\": \"Quarterly Average Balance\", \"value\": \"12,26,500\"}]",
+        "CASA Ratio (Month-End Balance) %: [{\"period\": \"March 31, 2026\", \"value\": \"40.00\"}]",
+        "CASA Ratio (Daily Average) %: [{\"period\": \"Q4 FY26\", \"value\": \"37.37\", \"note\": \"Calculated from Average CASA deposits of ₹4,58,300 crores and Total quarterly average deposits of ₹12,26,500 crores\"}]",
+        "Liquidity Coverage Ratio (LCR) %: [{\"period\": \"March 31, 2026\", \"value\": \"117.00\", \"note\": \"Consolidated Average for the quarter\"}]"
+      ],
+      "references": [
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH6gGJ0YxltUyplWq94vYXl5-44LMfmQNzV1beTakyZk5tYB9Si5FTCxaEawJ0akA-ruR8D8dH5oPIuVe7Ggj2b080CQ-ab5YfkwW7lWP5sNp2qyLkcdT1daVVEkYRuSyBPOBMwvtzh3-ShsgVgC7t4-bbwhT06nTGACwoIK6n1XvS1Vu6pl3uKUUnuzAzvBJAY4H4RWNPHFKH7-SkjWX9ba6bbvnqApO0SD_zqSmpJ73tg233fvGCEpIs4O3bB3zL2tqR0DBfvzhb51tfE0kBZ5jAX0F5Tn-unP8Ws5EgfYwzSUrikCb0mHydyGDP84r27zmsZi4d7PXvPEd1uGmdZiDgzQhg8JXYWXr59PXGrxcxYoPScicx9w==",
+          "fields": [
+            "Total Deposits (₹ crores)",
+            "CASA Ratio (Month-End Balance) %",
+            "CASA Ratio (Daily Average) %",
+            "Liquidity Coverage Ratio (LCR) %"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": null,
+          "fields": [
+            "Total Deposits (₹ crores)",
+            "CASA Ratio (Month-End Balance) %",
+            "CASA Ratio (Daily Average) %",
+            "Liquidity Coverage Ratio (LCR) %"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMzQbnpHVH524iODynG-sdWbH5Gq0wRcMhd9SW_97ByIOyBy4dD5ba1HxrKS2SV43z__ngzN7KC4sxsMzoUlJ_aIk99S_PxF62oEnnX3tg012X7pp5sPinTfXBtNohZnGNgcyytRi0ttrmm_hjXQhAfBQ33NTNifsX3XU",
+          "fields": [
+            "Total Deposits (₹ crores)",
+            "CASA Ratio (Month-End Balance) %",
+            "CASA Ratio (Daily Average) %",
+            "Liquidity Coverage Ratio (LCR) %"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECXuK7WMkG0JN8whuRSSKnk6A6-m7ovMbs-s0M_7M0Od11S5_pV5FjAjM4kAqidFlA6TzTC9qF-1Rkn6ObDiflMonNHdH2RN8VfyqHM9X6AaWhgi4oazZofMgOBcttm3CRZ2RFTtWZg74iJRhSlgQEJU2Ys-mlEuKGxMKT3WUmIQhLDJOJjdX0WjFsPI40-4Gb2bsgf0x1ZIMY2MW4PVOc9vImx9OPYqWAI6kBMusoNEen_d3PXXw1M00EXEtNr31-4Pil5OtTVjXZXumZsxKuwh9QVzoYnxt6VtjouldhGff8DktA-w==",
+          "fields": []
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6cqVk-uQlCL8mG7bfCAAxDcA7iPM0VwNDz52HbfCTzmWT4CPao2AJba5usjpDhOUaUBDhUpmx5zon7BQp6OzHxcr3Fhh7TJxAySFptCoesyaIcFgkZPAoNc5wqbFKsuEEL2RVbp1xHH74ru49MS62u8XOYtMoR3BKbBrjOcy4Q-PDyNZNv2L7syQYFuHiXd0WZKADDD3F_myhya9qM49AG8LakmU4Y4ZYMCU3sDr6T6gA7KBYugJTJ1aNyvDIlXDRUclIvj_2PAUw",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtZVQ8BXcEOAXy9vJn2sV_bci533a_4pC4uJbNNfkVQf4JTS02KUR5pPeJoO0nvq3P3wmvBlOexZtq4TK63Y_ijNvUYzPkqlyJ8A8jb_6rSt8Yb6r4DcQrh-8QXL0lp9SLMQmglzPzwRqh9GUSUQUqS7MfLxfCqJ5o6G-z168VVLG-7oTYmnPSt0lDHpzgjjPNxQ7KQQI0Ey8lgsynCZzElG_bd4Mc4QAg3D-P5EYVqo0qRcVxG8KcUIiNRDhqemk33GPcZoAwl6jAhDTW8JM=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Deposit Franchise & Funding Cost",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Retail Term Deposits % of Total Deposits",
+        "Wholesale Term Deposits % of Total Deposits",
+        "Cost of Deposits %",
+        "Cost of Funds %"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "This data directly informs the bank's stability and profitability potential, making it a 'pursue' signal for deeper investment diligence.",
+        "banker": "Understanding the deposit franchise and funding costs is crucial for assessing a bank's ability to fund growth and its overall financial health, thus a 'pursue' for pitching.",
+        "credit_analyst": "The CASA ratio and LCR are key indicators of funding stability and liquidity risk, directly impacting creditworthiness and warranting a 'pursue' for underwriting.",
+        "consultant": "The deposit mix and cost of funds reveal operational efficiency and competitive positioning within the Indian banking sector, making it a 'pursue' for strategic analysis."
+      }
+    },
+    {
+      "heading": "Citibank Acquisition: Integration & Strategic Impact",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Acquired Customer Base (number of customers)",
+          "value": "2.4 million",
+          "sources": [
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8pSMNtUhPUdegRLJZPmFx3dpRNI7j0L3maC-BsCtCC1Ff8VESc6_nfgfOv_fl6JYQqWhvmVdkEK7vDlWEeSN8Y3TBn2SArIn6T7-jKPSp3iPTa6GTGePsxd0P0hWIggbXUrk6vAiN_QjaxsMr9spIaVeCizorR640NbOMkRvfQD1Sw65CwrsIyrkE-708Fz4efbqweLA-k31ex_uLUYd8UG7ljv_SnoCz_AXGKFSkMZDYStPyXx5vwjqM7z-VeZd34IIVJFSZdaiBhGlUFlgYbCE8uIG3foYF_glUQsZT598KDwvoJF3V"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Growth in Cards in Force (post-acquisition, % YoY)",
+          "value": [
+            {
+              "period": "March 2023",
+              "value": "34% YoY"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdGRzQ7FhJ8Cadq5mmAB-BMsf-kpj0TTqf5qV_qQh0lWkYnazQLeSaFv7bG8snmfvS29K8ZsAUv2EJbtY32-csosiF87J4fE4wmWXgMDNSfQpxr9GQRpTr5bPyvWHNblUU_OGpP6Lek2yzaslXPTp0HWmppvkZDIN2SpY0egQrxJtjShZLpVras-FbzcI1QYglujgR_teq8OLg6gu-Z1HDG3Wu5qW5OZyGUZrr23dL2uD5fMKIl-TznUokJO28qrg="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Growth in Wealth Management AUM from acquired base (post-acquisition, % YoY)",
+          "value": [
+            {
+              "period": "Q2 FY26 (September 30, 2025)",
+              "value": "16% YoY to ₹2,46,610 crores"
+            },
+            {
+              "period": "Q1 FY26 (June 30, 2025)",
+              "value": "10% YoY to ₹2,30,438 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Integration Costs Incurred (₹ crores)",
+          "value": "₹1,500 crores (one-time charge in Q4 FY2023, amortised over 18 months)",
+          "sources": [
+            {
+              "name": "fitchratings.com",
+              "url": null
+            },
+            {
+              "name": "mergersindia.com",
+              "url": null
+            },
+            {
+              "name": "icicisecurities.com",
+              "url": null
+            },
+            {
+              "name": "indianexpress.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Cross-sell Ratio to Acquired Customers",
+          "value": "₹1,400 crore worth of products sold (in 8 months, as of November 2023)",
+          "sources": [
+            {
+              "name": "financialexpress.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Impact on NIM from acquired liabilities/assets",
+          "value": "Combined CASA ratio improved by ~150 bps to 46% on a proforma basis (proxy for NIM impact)",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwXXBSSg-2fVJVSDXM_scaCT05JcSzg-t9fi301cN1KbEDj2O20aEGOfMrbelB_3nBTbg2SIqgk9mN-ZD9RJVGjm4Y-ubCsrbAssvuIj32REnkia60dCFYgXL2krrB4PrrbOdnAs1U6m_m9k5jR2PFCvyyR8tfoXdTJhhmnNoNlsW5-E5wH9oVRvZIFxJjs162va71UI8x5BeCPTh5IdxQJqKpRRufXrNWwXPcIhxFuPT1_fMJX9IR4C64wssBvZQ28fbZQU9eDHiKX02X0Fc11GotS7QshBar6mtiRVgfYRFhJtuHM1SC3NqcXnuy7jYSPnNY1UVZAhiY49uolvtjj3-S8lLl1RJsBx3yXhEbqmoXWPPeAOE4rYfAH69T"
+            },
+            {
+              "name": "axis.bank.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Acquired Customer Base (number of customers): 2.4 million",
+        "Growth in Cards in Force (post-acquisition, % YoY): [{\"period\": \"March 2023\", \"value\": \"34% YoY\"}]",
+        "Growth in Wealth Management AUM from acquired base (post-acquisition, % YoY): [{\"period\": \"Q2 FY26 (September 30, 2025)\", \"value\": \"16% YoY to ₹2,46,610 crores\"}, {\"period\": \"Q1 FY26 (June 30, 2025)\", \"value\": \"10% YoY to ₹2,30,438 crores\"}]",
+        "Integration Costs Incurred (₹ crores): ₹1,500 crores (one-time charge in Q4 FY2023, amortised over 18 months)",
+        "Cross-sell Ratio to Acquired Customers: ₹1,400 crore worth of products sold (in 8 months, as of November 2023)",
+        "Impact on NIM from acquired liabilities/assets: Combined CASA ratio improved by ~150 bps to 46% on a proforma basis (proxy for NIM impact)"
+      ],
+      "references": [
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8pSMNtUhPUdegRLJZPmFx3dpRNI7j0L3maC-BsCtCC1Ff8VESc6_nfgfOv_fl6JYQqWhvmVdkEK7vDlWEeSN8Y3TBn2SArIn6T7-jKPSp3iPTa6GTGePsxd0P0hWIggbXUrk6vAiN_QjaxsMr9spIaVeCizorR640NbOMkRvfQD1Sw65CwrsIyrkE-708Fz4efbqweLA-k31ex_uLUYd8UG7ljv_SnoCz_AXGKFSkMZDYStPyXx5vwjqM7z-VeZd34IIVJFSZdaiBhGlUFlgYbCE8uIG3foYF_glUQsZT598KDwvoJF3V",
+          "fields": [
+            "Acquired Customer Base (number of customers)"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdGRzQ7FhJ8Cadq5mmAB-BMsf-kpj0TTqf5qV_qQh0lWkYnazQLeSaFv7bG8snmfvS29K8ZsAUv2EJbtY32-csosiF87J4fE4wmWXgMDNSfQpxr9GQRpTr5bPyvWHNblUU_OGpP6Lek2yzaslXPTp0HWmppvkZDIN2SpY0egQrxJtjShZLpVras-FbzcI1QYglujgR_teq8OLg6gu-Z1HDG3Wu5qW5OZyGUZrr23dL2uD5fMKIl-TznUokJO28qrg=",
+          "fields": [
+            "Growth in Cards in Force (post-acquisition, % YoY)"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": null,
+          "fields": [
+            "Growth in Wealth Management AUM from acquired base (post-acquisition, % YoY)",
+            "Impact on NIM from acquired liabilities/assets"
+          ]
+        },
+        {
+          "name": "fitchratings.com",
+          "url": null,
+          "fields": [
+            "Integration Costs Incurred (₹ crores)"
+          ]
+        },
+        {
+          "name": "mergersindia.com",
+          "url": null,
+          "fields": [
+            "Integration Costs Incurred (₹ crores)"
+          ]
+        },
+        {
+          "name": "icicisecurities.com",
+          "url": null,
+          "fields": [
+            "Integration Costs Incurred (₹ crores)"
+          ]
+        },
+        {
+          "name": "indianexpress.com",
+          "url": null,
+          "fields": [
+            "Integration Costs Incurred (₹ crores)"
+          ]
+        },
+        {
+          "name": "financialexpress.com",
+          "url": null,
+          "fields": [
+            "Cross-sell Ratio to Acquired Customers"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwXXBSSg-2fVJVSDXM_scaCT05JcSzg-t9fi301cN1KbEDj2O20aEGOfMrbelB_3nBTbg2SIqgk9mN-ZD9RJVGjm4Y-ubCsrbAssvuIj32REnkia60dCFYgXL2krrB4PrrbOdnAs1U6m_m9k5jR2PFCvyyR8tfoXdTJhhmnNoNlsW5-E5wH9oVRvZIFxJjs162va71UI8x5BeCPTh5IdxQJqKpRRufXrNWwXPcIhxFuPT1_fMJX9IR4C64wssBvZQ28fbZQU9eDHiKX02X0Fc11GotS7QshBar6mtiRVgfYRFhJtuHM1SC3NqcXnuy7jYSPnNY1UVZAhiY49uolvtjj3-S8lLl1RJsBx3yXhEbqmoXWPPeAOE4rYfAH69T",
+          "fields": [
+            "Impact on NIM from acquired liabilities/assets"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXT6rsM4buiF7jAIXim0zyVOaPo43O1nHZRUmIGOQdJ1vNWaKJzexl7zyARZJD9eOSPubgTY5kDwmdbRs1d-EYtv5JbGK4CwYF5IMPfqlmBtMkX1uXfKBlwCmBhJnYq-G55ZivJEiTlZXYsE6e25GLcXffyYQIwhlXuN8fHU_jXJsmEkJsSS3D2EY_Rk37FHVXojjIDy2ZQa8E-NrOpbn5vaRaaQa6l1MVgnXSuWhF7H6K1DVOOrMrf8_py8DhHjHcrhzHX1sIUAYkZ084qUCDWkZtP47i7bYitVIq0kHPX2tyr-tAPJKCFdrbGOVVk5akxCY4wlpuVhc=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6QwKS1BK-38YmjF2wXDA6yfVb0SWq9KY4GAc0ru1G35_J6RFXaD_st5_SSRhTJ4V5Agd78Pc4t9ss8ke_T8p4ikYtatH1y_amLn4-xFvMVdD68BkuTZV0vaETIIRE5nJcND1MfRNoqX_79k6lxrBgrT_BoKVykqcSw9v0YQ==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-_zWw2mV9rRdfO9Pprv_BISP-ngw1ubJsGJsbKqmzFdgi7mjMF6nQp3nQ2rKVBq5wB_dueMrCT7hiWSivg6y3dOwEru90diH65jJHPkcOeNKOtl-LdkfoBB8boEaRK_0J7FH9tBT7FuULXVd4B_4yFajoIG--6OlA2xV1bQ==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUygouCyi7xT2xW7M52jgbHkhiYdc7VzlrBLJEjX0HytJ70iD7sREnH_ro2PncXLcU6yWhcnZ0ZzwYHwqRaE3nI9Fii1QOs86HKvJ5J4RKkzpguq7qvykMAetGRq8y2kS9yxm87n2CjMVbTHKbjEDuqrmz4W_iEDR_iwt60vt0cY_KobuKk_vgXfOtdei2bPhqZTXIEHpB9AZC8EcyJot8puXH0Eq3ydz4s_tSnfAwRQ1lkquLPYjYdXokX1p58nkgdYZTqShIv6hyaQLh3RA0eOszcVEczSTl6brK_HVcdezS9U13aP19XjceC7msPO-tsLWr-wJ4nvF7d_LiZ4DLBHzLLs74bxQUTIeITkxiGrJkYIbNE-XIou6LtlXXvjGSAaMMSw==",
+          "fields": []
+        },
+        {
+          "name": "scribd.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ6gNeZCrYxETft-SU9okwibfdGqR2v9yvxaNF_OfwLAc9cZUZWi9Jed6NdJqpO4RMDCSe_y4nTpiLZkGMH-Ttg24laQwoZh16o7fc2rsHdfzv9vfGbWFVUkXTAi_KoCQ4APQNjozoJrYXn3os049Jz2e0rZ4Qtx8Ey_KrCmLX9RP5AzX1HApZwYTa",
+          "fields": []
+        },
+        {
+          "name": "moneycontrol.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaJVeZTNF08YXFekG631FdBd_augWecnm__hQFlEwyhiOACIBLCY6m9rQcY__3PBniLwIyc1B2UkdzUAK6bZyKTUuMlC0sxmRhGnHc0I3SGrkG1VqNloL4Gy5KDXYFd-5PVQqaaOsCE8SKRHvQoEPm5R4OW7p-XUOWnW3TK1wxCOG0WYsemTybqmyxlce17Tag7TNPuRXL7Cm_e84=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb92YhwgpHtWSD_AV3KhBHdsiPTIABHRBbFBBKmFz6xnIqzMd1pKGM9EPky9HsZvh1p62HzEwB9CblIFDR0Rbwhu995SEFxl03HUuyVsMNVdjqwygFAOFP5b6cE26SWtjB2gT4MUZuwovsdt6SK7flXdiqSr2IZnKDZx5FYpvvZ7oHa-onHKBek29-DOJmtTzILYY5Zh-Gf0PbjCXml7Jm0w8CkE8DYgv-qDHTEpY-vX6goGjAin4jXhzLlszcfZR2nkk-ME-ohfTzJPMdeqrg3A4CxyUurqz6QofW4cFY8dvtjpKD2dci_Lc69oWGHzC1hpZwEUALJw==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9lglm1TE6U4PvxCccc-EgwwfSrnk1r-c5hWpbk0SZ05SaDpIK-fCcs6IiRKkkPHO-Xd2P5VETxfFevwa7Cu4rfALPS4QTGkH7i_Ty0RVucAhsPaynhEeu4DNIP_wbJ8UhIgblkqMKIbuJTttcN0lU-lm71MDS0TZjdPeIBeU6Vg9UhTOhmUnSMqRFtvklucOYNSPiLucR2-DSRf27_N3ghmDreA7-ha6_DvtJ2VTG4sULf4vFI9DIXv4LQP3fKBLGM4zoqsJ1jn8eDs3338xWBG43PTpNQSFo4htfvY2_IGreityj_LqKpvlei6AR7iGNruvZ47RVfNYIA3nJY4uWgC5lYmwB2mPxVV9mlq91HMMguQEG8sCdmuE2loRvh2-FOcLQww==",
+          "fields": []
+        },
+        {
+          "name": "nseindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzA5logq5UDPtA_iiSecY1ykcXobc7eOyTW1eHAfpnn07BrW9VSuvrl-_nGNpQk9hBbN7_7VxN2vqv31XnvG-HpthKEajm6GnLnZs3ie8Yp_Vq-xCYRhitkhaat75XNMgw0Jy7oxcE5hmbG_ungxqPxPNM7Lt9kNL-e3PSqopSGmyzhM__jC-nk7H_Zw==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZSrm8E-wRP1g2OITh7rJpR4Uiaua8cjqsWPD4P--BFxJFs2a_C_TjMLawd_971n9CdpVcoV5UXfq01YAimRZKiXcy0XzgwHK1NMrvEjjBISH3ci0lMh55y0J1ymg8vrte_hS-D10KS03S8wpBuIxA_buuAqQo8sxcHSifrAdygAsTMG3C2djAdbj-Y1raji16HfOlkM-H2BWRxcu9av1K9eo4yRR71lwvsmjSyIr7Rj6CyvnKigKLtkjAupmbNB02OeBsg4IBsvUm_5JnuS0yzxuLVWKwHvH8_lOi1UxRzoNdEr4zV4FoHUS3HKWctYCr-tTb2Q==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm7l3v974Z9Rq65L4rv0go20U3OIk_BiLKmS4csQcfpnXeosRSxwRvOKTZ_58Wcssv7hU1l-rKP2nJidx9pvTlKIf8WHMfmiPli-WI4vVIUtSJ0UVcGd1Ncdw15mwXwxJ8UcPdLEka3_NXcD-CyG20-jU_IU8wR4AEKTmhOKEfZddDjrnwgDJRb5PnLsWFSofX_mywkG7gLztIjBTicMF0IG6cNeW0jK1F3ip5FjylqKPz0MPMK9y9uIHumRvbqpsq0jkbGNohyGZtd9nGEAPNKYzGVc3EwWKUE4IuEg194WoyijLxqlHhBBiV-OrvR_Wlt89sqlKEvqPw8r27vRk=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPwmqnMAHvv-oArdnStQiVoQUMCw4oWrp2_YJuE4ufgd9IOFXe3h4naxoxehcuCvFgoOpu4bq1MhRItS7zVyrAoiXle6BQ0dJFM5-1E7f6L9qEPJtj_Rq-nammOs0HvP3PFLCXxXmfxv7pxKfjWWV8nptNpRr6843eBSlZbw==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiPEY02cpta6WUNcA-H9r1ldeDEBA9EvjBjaw6v46y2lOjoI47Dj3wTCJcC-FmSengMGAk8haHmKbvHPwd4ivt99VPQ--s85V6tTbdMPFZRxzcKlLPSvCfRDdFKannwD9NXx6O7Cw7Lnjr4ksdNq26xV-mN-xsy8VQNLxKCJ7ERzg4I8CRsg2mO5gWJrpUTyA4anBi5l7bd-D4W1AGYkaFnUn8bi8ZMvIYv0dLMJUupBE0Yo1whVK2iiopDaaNGFZ38YfcuR9XwlazqycIb4Nky6B5l5AJwLPszY3TgQmSpkb1hMRuRYZreCFp-EQHvF8h",
+          "fields": []
+        },
+        {
+          "name": "retailbankerinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuR9QEr3zkWYkF5y79eS7tUd0-x_cIa33pVZzjNcyT7W5KSgHpLtT6-T8nVve8mKm3bwfSAgwfSFLmeRAC9ontVk2OurYx7dc2EaWs9PR6Mt2KCaqGEo97qyKlZ4f-R5YE-V-_RMwhtEN_iLKysO9n9f1GQ945ygJ0CUw13vvVOIJsWon",
+          "fields": []
+        },
+        {
+          "name": "electronicpaymentsinternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEGr2oxtggTxTcbeAuZyQBo3aK2RQiiLpNKwxNeIHUaAzGwhcrCPgR2WIglJZz_Lqv_4oj96K7LH2N1JtmvDRalKrHf2hdcQY0QGpeRI86GX1tPGdlIspTGjtgpJYWwyhgKwBO6VujXnxWmovXTHqhRZEvBra1zN6OhttzeQ8P0fkbAAHYnlodaYnIap34zNSPlQb0MuB_ukUWQEpJQyL6Xos0rEvMZ6DSABpvdfbbOnXM43kBCGj76K5Ga0xlAqhFlYhkVg==",
+          "fields": []
+        },
+        {
+          "name": "fitchratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfyvQRtaGBpv62L2PW95zgM6Bsprsvs4-3uyuAEutbwYmSENrFCtupAbNe_JkQmoqDp0HZqS3bHgd9hJLZ54vwcLzQZHT8dE684yhUAjeUsQ6Gl3dbAunVfhjEcsYCal2WoX_2cHsX0NVKXJUAzVohUHXM55CtMwSRcRD5_lkmqgGcQ4SvkQAKpx8DEYv_V7u-rPv_vHl1zAsGlvYy2FcEe3C4mMehPcmme1UfJsN0TYhS7L-pNlkZnAUS-g==",
+          "fields": []
+        },
+        {
+          "name": "mergersindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErq2HV3bWZciv8JjZI00nhB-O1lnDXTwsvWhAKVyyNPHhK1PQpo0Hk4chdxt-ar4yfgiHPKNYMXt10L8pIvufxz8qFPFhgMEZWe5FK_upwlIg3AaghlOgRsSslxTuQh7AVqyNPupLLGpvvc-rJcQ53Y_bLRIMDi9KDRi1ZTgMEaJ_aySt0n9iV0M9PWwYltdjuJycGGaE_4lnVe28YmjtvCwRTgdjZwevLYQ==",
+          "fields": []
+        },
+        {
+          "name": "assettype.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNcdeGJjxB8Ew-89q92VQOT9YlqpQ-YBFFj3NvnOz3NWzA2A008FSt66VJhizqrDvpmUHZpicd6jfzF5y6E-ZUURWPGV8-FHgwtJEnD679cwgCBVgciJmDaxekUo9JBm4SgRoc-GQtQyQMMPCvPdUmCIKQ94vKhVBpKH5R1wcHc6w7MnhuzniPHAAIjuTZYp8lHWqxIJxx_U72u0Zl3TWwCMl-ZBoXdesyX3yIiBowiQ6ojiVttr4mnrrLIBsPJA==",
+          "fields": []
+        },
+        {
+          "name": "indianexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG--YEmwKGA4LF1xaomPvs5hhNpKHbclksKA_dXW0oEdowCs-f8Vn6Lfc9dczHNdoEtipR4jz3wxFjM5tC7A7RAMZmJtgvKX4c_SfwePgqq36FfqjwWghebVQCzGAEnYwaE9JtjynN6r1gTcrcxfUZdzSix5KdI3llWk0MuumCaYE1DqudYOF4CjmP1rVp1TqayaZbw28MWnXP7JXhU4QTvspk5teroHMkb5DunM8y3RJC-5M38EwHAcFO02OKzX56B6g==",
+          "fields": []
+        },
+        {
+          "name": "icicisecurities.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETuugAjY8exvjKbRmKkz1oSrb-ZUAR_RfaRaxw9akEiiQSbS90JqJfiqVxr8tu2hhFnEM0_g-cSSX8HGah6aI6FICGXij9YFmVRPF752Dz1eXnKfhCutbw-g9iTnAeXT-2Nzz0-4kaehUtJBwYAPqx6jY1ilnBNb-AEQf-g7XVZYVmjs6BwJYxklK52s-sigMxh6rHWPweUM6c2c4avJ4BmqbfgwfIsccx_5sy9vnH6RgW_Lrbk1a4ec-iiY61Xv50d5b-qlG1QGkpiai8wyEGMwA-p5BSp1G50bmBNXdvSO63WQh7ikLwZKfAEyGzW0Q3Uokk0BRM7DqnlFCuoF6LdQ==",
+          "fields": []
+        },
+        {
+          "name": "financialexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXZEyuoaIxOFwHz7t6zflgBzJROH-LTrMm8uKttnFo0ZUhN4VEo6aLFreZHr3RlA2VLbsjb6qtvR9uLxzQWElr1e-cZ-vT6GKzz1SkKf_fT4yIQ9dMqAzHeSBXooU7MEGwEt5309fmmLV2A512KODqz6OmxpJNEcu7UPrKDZgc9Brbo_k3QXh2-t_DnbrtJHuVAupYnk91HGnaMdiARhcv6whZlU0YxybyNU09ZE09o3dA6Nw=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECtxMbLxm0KqeEcP4vGCi6bu3eRJWVpn5RoqBZ_uufCRED8XgcYtZ8InvVppzQ_qund99h7JqpVzMgeesnsX0z9_YzmCiG62QZOrx_UVpTcHwBmW-8s_bRSPE2va3iaO2TfCONLr7gxtQM9WQH9zURlJIg92fcB5jVFsB96PBCE1mqd-JsyeDdzeSZ5wqIBOTgdOitHabyMLXdqSwOXsePKDtrGoicUzB3koiCWI9bdlTuEc8VKpEKEmWyn2-QjEZ7qnVi3vhXulp4DnANjaSJLv6GqXAoiFIPo4LY1LyDlRMrahNCNCGAHtfs92vHgIz0crdM4KYPUqEmn3_VM_t93wH-yU7nPGYDe4dEsls_xzfXDBF3wSZeF8U=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO01Sq-YpnLl-YriFk_PJsI9Gjvylbs9bup13roMJ9oU6f58_LggC_ORL0gnhxQtNxXnI1ZXof7ndS3fQgH7YxPUDTnxUzIvFKkgkB09WfAiZCAVwwbTtG9v50GKzz6bc02D7nZcryLCGEzksc5VIa7QGRZzwdcbOT87hbtCo1ISFQ_SPEYPw3pkzUx3wMWMIi58rcyTJnmxHH7ol4nm-VCOuBc-wm3Xe2cebnClGPvjMb_m5jcCYyiZlX-UREVKx-a_MY4dbmBZxc1nnQEpV4L9A0bjRMeCB-vEg04av5alZDEZFbcnxhcZVfrch56pg4Z2DaqW6UQxtJXzb4UW-CwzkH4kT34Jnd60_I--Iltz2vycydT2QRZpa3Awdchj35kkCpsQ==",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyNsjqLDu5eoAWF_dW6B-HkPWuTNkzLL0-VfaubuYazmHNIkBoe_2DC2YFxWOduYF6ZSvoFCXDZKqaOOyzMLYXJbm5g6U9UOcz19nDBvJeq79lBqnfZ5NlYxfKK4yWnPJ7CX8miQPWA0-dvcLkXdK1YLAwvTVf-yXxaO9ILMpTJ-BTW0-yB2hyVYO5fhJAnuZS094rLAqWMaoL6vdX-HvyL-geYNefxuo-hafwRu_4zDOqY1yliqARFOadpaOIT3IaEsvxFK8qZ6QOAF43f_SYwbLoO07VxSMlzdGKJ0Mxhja4uHeMwkl0FSZZFEsv08AzZeJTLkyRRYY=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Citibank Acquisition: Integration & Strategic Impact",
+      "confidence": "high",
+      "completeness": 0.667,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Synergies Realized (Cost/Revenue, ₹ crores)",
+        "Contribution of Acquired Business to Fee Income (%)",
+        "Customer Retention Rate (acquired base)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data directly informs the potential for revenue synergies and cost savings post-acquisition, crucial for evaluating the investment's upside and integration success.",
+        "banker": "Quantifiable integration costs and realized synergies are key metrics for assessing the deal's financial viability and potential for future advisory mandates.",
+        "credit_analyst": "Integration costs and their impact on NIM are critical for understanding the short-term financial strain and long-term profitability of the acquired business.",
+        "consultant": "The cross-sell ratio and customer retention rate provide insights into the operational effectiveness of the integration and potential areas for further optimization."
+      }
+    },
+    {
+      "heading": "Capital Adequacy & Risk-Weighted Assets",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Common Equity Tier 1 (CET1) Ratio %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "14.38%"
+            },
+            {
+              "period": "March 31, 2026",
+              "type": "Consolidated",
+              "value": "14.45%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Tier 1 Capital Ratio %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "14.78%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Capital Adequacy Ratio (CAR) %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "16.42%"
+            },
+            {
+              "period": "March 31, 2026",
+              "type": "Consolidated",
+              "value": "16.41%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Risk-Weighted Assets (RWA) (₹ crores)",
+          "value": "₹13,58,532 crores",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "RWA Growth % YoY",
+          "value": "17% YoY",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Net Stable Funding Ratio (NSFR) %",
+          "value": "113%",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Domestic Systemically Important Bank (D-SIB) Status",
+          "value": "Not a D-SIB",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "RBI Penalties/Observations (if any)",
+          "value": [
+            {
+              "date": "April 29, 2025",
+              "amount": "₹29.60 lakh",
+              "reason": "Non-compliance with directions on 'Un-authorized Operation of Internal / Office Accounts'"
+            },
+            {
+              "date": "February 12, 2025",
+              "amount": "₹37,32,505",
+              "reason": "Non-compliance with foreign exchange management regulations, including delayed reporting of downstream investment and non-compliance with pricing guidelines during equity stake acquisition"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Common Equity Tier 1 (CET1) Ratio %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"14.38%\"}, {\"period\": \"March 31, 2026\", \"type\": \"Consolidated\", \"value\": \"14.45%\"}]",
+        "Tier 1 Capital Ratio %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"14.78%\"}]",
+        "Total Capital Adequacy Ratio (CAR) %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"16.42%\"}, {\"period\": \"March 31, 2026\", \"type\": \"Consolidated\", \"value\": \"16.41%\"}]",
+        "Risk-Weighted Assets (RWA) (₹ crores): ₹13,58,532 crores",
+        "RWA Growth % YoY: 17% YoY",
+        "Net Stable Funding Ratio (NSFR) %: 113%",
+        "Domestic Systemically Important Bank (D-SIB) Status: Not a D-SIB",
+        "RBI Penalties/Observations (if any): [{\"date\": \"April 29, 2025\", \"amount\": \"₹29.60 lakh\", \"reason\": \"Non-compliance with directions on 'Un-authorized Operation of Internal / Office Accounts'\"}, {\"date\": \"February 12, 2025\", \"amount\": \"₹37,32,505\", \"reason\": \"Non-compliance with foreign exchange management regulations, including delayed reporting of downstream investment and non-compliance with pricing guidelines during equity stake acquisition\"}]"
+      ],
+      "references": [
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q==",
+          "fields": [
+            "Common Equity Tier 1 (CET1) Ratio %",
+            "Tier 1 Capital Ratio %",
+            "Total Capital Adequacy Ratio (CAR) %",
+            "Risk-Weighted Assets (RWA) (₹ crores)",
+            "RWA Growth % YoY",
+            "Net Stable Funding Ratio (NSFR) %",
+            "Domestic Systemically Important Bank (D-SIB) Status",
+            "RBI Penalties/Observations (if any)"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkCUlgX5T2uQsmK3-v4cCMRJuSG0NEbZgv5fA9F0q78lrZeZLcWB0I7jUVl7NyFQ4zYKOmKml-q_rbdF1RmQDNA6XeGO60D1DeKR3Fcrz3m-CTVT6HCHJuAQOvJ87dT5eyLA6zTtSOCSivMELvtDKsCuPps3sZbeQYI1b5Vtva5od281HqeXW_e3fA0GOkCtnRz8BEjL6I0MrkFszo6ctseP5YOzQfqFquOhhbNi_i3fJni41gwIjQ0Pvg-TG9fbAp2mcaTe-SGHhBkESuxXoGhVqN1kXAeo8hK9Br0TIy09Qp68xPEigSr_ZJOQEUTzE=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IVjcTjNhbDvkdFsIXeA3AyIHtnu5N0OyGoIHxY-OIDiE_XiGvFdN9VgPJZ91ajDmb3UhOfaBne0MktSV3oWM_nRWehyQvNsJoxi6zVG5lxu4a-PK0vT2Im7fF6WGYcFsFzHtPJ4UTrzBuOgcGybFUKoCeF760GG_SEw5I8NJ6ajsUwFr8ji1Zd_kLQqQMapYEpag9zEy356AT5bH5_NtopRahemCcvUADwEKERnM_s1FGGxVNeFDZMpKMLk5dEJvMoPKNC5LVSVgjtcZQ9XKo5QMA0XadN7kvrl5Xl4OTCQ9paftPT6fzGzgMUenoe3fvXikQUvwu1SbV1W71bBWJBOPeKekIz-Wy9J3cwKlUhg2sy_BBvjNwgM6fa4B4wWAXhc2PQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Capital Adequacy & Regulatory Compliance",
+      "confidence": "high",
+      "completeness": 0.889,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Leverage Ratio %"
+      ],
+      "reasoning": {
+        "overall_score": 85,
+        "pe_analyst": "This data directly informs the bank's financial health and ability to absorb losses, making it crucial for assessing investment risk and potential returns, thus increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Strong capital ratios and regulatory compliance are essential for any potential M&A or financing deal, making this information a key factor in deciding whether to pitch or pursue a live deal.",
+        "credit_analyst": "The provided ratios (CET1, Tier 1, Total CAR, Leverage) and RWA growth are critical for assessing creditworthiness and identifying potential regulatory risks or compliance issues that could impact repayment ability, thus strongly influencing the decision to pursue underwriting research.",
+        "consultant": "Understanding the bank's capital adequacy and regulatory standing provides context for potential operational improvements or strategic advisory, but doesn't directly dictate a pursue/pass decision without more specific operational data."
+      }
+    },
+    {
+      "heading": "Key Regulatory Ratios & Compliance",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Common Equity Tier 1 (CET1) Ratio %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "14.38%"
+            },
+            {
+              "period": "March 31, 2026",
+              "type": "Consolidated",
+              "value": "14.45%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Tier 1 Capital Ratio %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "14.78%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Capital Adequacy Ratio (CAR) %",
+          "value": [
+            {
+              "period": "March 31, 2026",
+              "type": "Standalone",
+              "value": "16.42%"
+            },
+            {
+              "period": "March 31, 2026",
+              "type": "Consolidated",
+              "value": "16.41%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Risk-Weighted Assets (RWA) (₹ crores)",
+          "value": "₹13,58,532 crores",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "RWA Growth % YoY",
+          "value": "17% YoY",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Net Stable Funding Ratio (NSFR) %",
+          "value": "113%",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Domestic Systemically Important Bank (D-SIB) Status",
+          "value": "Not a D-SIB",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "RBI Penalties/Observations (if any)",
+          "value": [
+            {
+              "date": "April 29, 2025",
+              "amount": "₹29.60 lakh",
+              "reason": "Non-compliance with directions on 'Un-authorized Operation of Internal / Office Accounts'"
+            },
+            {
+              "date": "February 12, 2025",
+              "amount": "₹37,32,505",
+              "reason": "Non-compliance with foreign exchange management regulations, including delayed reporting of downstream investment and non-compliance with pricing guidelines during equity stake acquisition"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Common Equity Tier 1 (CET1) Ratio %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"14.38%\"}, {\"period\": \"March 31, 2026\", \"type\": \"Consolidated\", \"value\": \"14.45%\"}]",
+        "Tier 1 Capital Ratio %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"14.78%\"}]",
+        "Total Capital Adequacy Ratio (CAR) %: [{\"period\": \"March 31, 2026\", \"type\": \"Standalone\", \"value\": \"16.42%\"}, {\"period\": \"March 31, 2026\", \"type\": \"Consolidated\", \"value\": \"16.41%\"}]",
+        "Risk-Weighted Assets (RWA) (₹ crores): ₹13,58,532 crores",
+        "RWA Growth % YoY: 17% YoY",
+        "Net Stable Funding Ratio (NSFR) %: 113%",
+        "Domestic Systemically Important Bank (D-SIB) Status: Not a D-SIB",
+        "RBI Penalties/Observations (if any): [{\"date\": \"April 29, 2025\", \"amount\": \"₹29.60 lakh\", \"reason\": \"Non-compliance with directions on 'Un-authorized Operation of Internal / Office Accounts'\"}, {\"date\": \"February 12, 2025\", \"amount\": \"₹37,32,505\", \"reason\": \"Non-compliance with foreign exchange management regulations, including delayed reporting of downstream investment and non-compliance with pricing guidelines during equity stake acquisition\"}]"
+      ],
+      "references": [
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFB_8RAk311nKamP5uDFMT0vE_AqVI8Zp98se6uIghX4IrpIRQJOvNhlxKndPtN8PwG_Lfsfa8oMPmZaktnhDCbemzhQDsGw_-5t0RYUL2ifITSQJlGUo0hlOdUZHRQ_XjBJXvYj_nfoawD1fPZH2rp_-erqIAy8n19hn37Q==",
+          "fields": [
+            "Common Equity Tier 1 (CET1) Ratio %",
+            "Tier 1 Capital Ratio %",
+            "Total Capital Adequacy Ratio (CAR) %",
+            "Risk-Weighted Assets (RWA) (₹ crores)",
+            "RWA Growth % YoY",
+            "Net Stable Funding Ratio (NSFR) %",
+            "Domestic Systemically Important Bank (D-SIB) Status",
+            "RBI Penalties/Observations (if any)"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkCUlgX5T2uQsmK3-v4cCMRJuSG0NEbZgv5fA9F0q78lrZeZLcWB0I7jUVl7NyFQ4zYKOmKml-q_rbdF1RmQDNA6XeGO60D1DeKR3Fcrz3m-CTVT6HCHJuAQOvJ87dT5eyLA6zTtSOCSivMELvtDKsCuPps3sZbeQYI1b5Vtva5od281HqeXW_e3fA0GOkCtnRz8BEjL6I0MrkFszo6ctseP5YOzQfqFquOhhbNi_i3fJni41gwIjQ0Pvg-TG9fbAp2mcaTe-SGHhBkESuxXoGhVqN1kXAeo8hK9Br0TIy09Qp68xPEigSr_ZJOQEUTzE=",
+          "fields": []
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IVjcTjNhbDvkdFsIXeA3AyIHtnu5N0OyGoIHxY-OIDiE_XiGvFdN9VgPJZ91ajDmb3UhOfaBne0MktSV3oWM_nRWehyQvNsJoxi6zVG5lxu4a-PK0vT2Im7fF6WGYcFsFzHtPJ4UTrzBuOgcGybFUKoCeF760GG_SEw5I8NJ6ajsUwFr8ji1Zd_kLQqQMapYEpag9zEy356AT5bH5_NtopRahemCcvUADwEKERnM_s1FGGxVNeFDZMpKMLk5dEJvMoPKNC5LVSVgjtcZQ9XKo5QMA0XadN7kvrl5Xl4OTCQ9paftPT6fzGzgMUenoe3fvXikQUvwu1SbV1W71bBWJBOPeKekIz-Wy9J3cwKlUhg2sy_BBvjNwgM6fa4B4wWAXhc2PQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Capital Adequacy & Regulatory Compliance",
+      "confidence": "high",
+      "completeness": 0.889,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Leverage Ratio %"
+      ],
+      "reasoning": {
+        "overall_score": 85,
+        "pe_analyst": "This data directly informs the bank's financial health and ability to absorb losses, making it crucial for assessing investment risk and potential returns, thus increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Strong capital ratios and regulatory compliance are essential for any potential M&A or financing deal, making this information a key factor in deciding whether to pitch or pursue a live deal.",
+        "credit_analyst": "The provided ratios (CET1, Tier 1, Total CAR, Leverage) and RWA growth are critical for assessing creditworthiness and identifying potential regulatory risks or compliance issues that could impact repayment ability, thus strongly influencing the decision to pursue underwriting research.",
+        "consultant": "Understanding the bank's capital adequacy and regulatory standing provides context for potential operational improvements or strategic advisory, but doesn't directly dictate a pursue/pass decision without more specific operational data."
+      }
+    },
+    {
+      "heading": "Asset Quality Trends & Segment Breakdown",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Gross Non-Performing Assets (GNPA) % (Consolidated)",
+          "value": "1.23% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Net Non-Performing Assets (NNPA) % (Consolidated)",
+          "value": "0.37% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Slippages (quarterly, in ₹ crores)",
+          "value": [
+            {
+              "type": "Gross Slippages",
+              "period": "Q4 FY26",
+              "value": "₹4,709 crores"
+            },
+            {
+              "type": "Net Slippages",
+              "period": "Q4 FY26",
+              "value": "₹815 crores",
+              "note": "adjusted for recoveries from written-off pool"
+            },
+            {
+              "type": "Segmental Gross Slippages - Retail",
+              "period": "Q4 FY26",
+              "value": "₹4,098 crores"
+            },
+            {
+              "type": "Segmental Gross Slippages - CBG",
+              "period": "Q4 FY26",
+              "value": "₹297 crores"
+            },
+            {
+              "type": "Segmental Gross Slippages - WBCG (Wholesale Banking and Corporate Group)",
+              "period": "Q4 FY26",
+              "value": "₹314 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Write-offs (quarterly, in ₹ crores)",
+          "value": "₹3,096 crores for Q4 FY26",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Recoveries (quarterly, in ₹ crores)",
+          "value": [
+            {
+              "type": "Recoveries from written-off accounts",
+              "period": "Q4 FY26",
+              "value": "₹1,197 crores"
+            },
+            {
+              "type": "Recoveries and upgrades from NPAs",
+              "period": "Q4 FY26",
+              "value": "₹2,696 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Provision Coverage Ratio (PCR) %",
+          "value": "70% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Gross Non-Performing Assets (GNPA) % (Consolidated): 1.23% as of March 31, 2026",
+        "Net Non-Performing Assets (NNPA) % (Consolidated): 0.37% as of March 31, 2026",
+        "Slippages (quarterly, in ₹ crores): [{\"type\": \"Gross Slippages\", \"period\": \"Q4 FY26\", \"value\": \"₹4,709 crores\"}, {\"type\": \"Net Slippages\", \"period\": \"Q4 FY26\", \"value\": \"₹815 crores\", \"note\": \"adjusted for recoveries from written-off pool\"}, {\"type\": \"Segmental Gross Slippages - Retail\", \"period\": \"Q4 FY26\", \"value\": \"₹4,098 crores\"}, {\"type\": \"Segmental Gross Slippages - CBG\", \"period\": \"Q4 FY26\", \"value\": \"₹297 crores\"}, {\"type\": \"Segmental Gross Slippages - WBCG (Wholesale Banking and Corporate Group)\", \"period\": \"Q4 FY26\", \"value\": \"₹314 crores\"}]",
+        "Write-offs (quarterly, in ₹ crores): ₹3,096 crores for Q4 FY26",
+        "Recoveries (quarterly, in ₹ crores): [{\"type\": \"Recoveries from written-off accounts\", \"period\": \"Q4 FY26\", \"value\": \"₹1,197 crores\"}, {\"type\": \"Recoveries and upgrades from NPAs\", \"period\": \"Q4 FY26\", \"value\": \"₹2,696 crores\"}]",
+        "Provision Coverage Ratio (PCR) %: 70% as of March 31, 2026"
+      ],
+      "references": [
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA=",
+          "fields": [
+            "Gross Non-Performing Assets (GNPA) % (Consolidated)",
+            "Net Non-Performing Assets (NNPA) % (Consolidated)",
+            "Slippages (quarterly, in ₹ crores)",
+            "Write-offs (quarterly, in ₹ crores)",
+            "Recoveries (quarterly, in ₹ crores)",
+            "Provision Coverage Ratio (PCR) %"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO7Fuch4Ywx1720nqRljfwSzmZrEbbT-Ba1OcwZ-9zCDBCI-SWLWtzyL5__YNgVIx52qJ_w3u67PdpzEeQ-Fic-2Iogg58uaiQlIaEQo5YFVrktvqaR_H3kBJwtdnnOOSjMe42he4e9q9GkJYZcz8RGcqcKOuKzHlTQrJPnP1D-PR3RdTeHPzRIWF9xDOIbV4wAEHAm3-1RoJXvwK7OJsqIhEwNorJqIhSe6Fp4vZuLs25KFeQbjnEyfGlJzw3ZffNpo_zGvJBvBVVG4zNHuub",
+          "fields": []
+        }
+      ],
+      "domain_name": "Asset Quality & Risk Management",
+      "confidence": "high",
+      "completeness": 0.6,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "GNPA % by Retail Loans",
+        "GNPA % by Corporate Loans",
+        "GNPA % by SME Loans",
+        "Special Mention Accounts (SMA-2) % of Advances"
+      ],
+      "reasoning": {
+        "overall_score": 66,
+        "pe_analyst": "This data directly informs the PE analyst's assessment of the bank's credit risk and operational efficiency, potentially leading to deeper diligence on risk mitigation strategies if trends are concerning or improving.",
+        "banker": "Null",
+        "credit_analyst": "The detailed breakdown of GNPA, NNPA, slippages, write-offs, and PCR provides critical information for the credit analyst to assess the bank's creditworthiness and underwriting standards, influencing a decision to pursue deeper underwriting analysis.",
+        "consultant": "Null"
+      }
+    },
+    {
+      "heading": "Provisioning & Write-offs",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Gross Non-Performing Assets (GNPA) % (Consolidated)",
+          "value": "1.23% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Net Non-Performing Assets (NNPA) % (Consolidated)",
+          "value": "0.37% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Slippages (quarterly, in ₹ crores)",
+          "value": [
+            {
+              "type": "Gross Slippages",
+              "period": "Q4 FY26",
+              "value": "₹4,709 crores"
+            },
+            {
+              "type": "Net Slippages",
+              "period": "Q4 FY26",
+              "value": "₹815 crores",
+              "note": "adjusted for recoveries from written-off pool"
+            },
+            {
+              "type": "Segmental Gross Slippages - Retail",
+              "period": "Q4 FY26",
+              "value": "₹4,098 crores"
+            },
+            {
+              "type": "Segmental Gross Slippages - CBG",
+              "period": "Q4 FY26",
+              "value": "₹297 crores"
+            },
+            {
+              "type": "Segmental Gross Slippages - WBCG (Wholesale Banking and Corporate Group)",
+              "period": "Q4 FY26",
+              "value": "₹314 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Write-offs (quarterly, in ₹ crores)",
+          "value": "₹3,096 crores for Q4 FY26",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Recoveries (quarterly, in ₹ crores)",
+          "value": [
+            {
+              "type": "Recoveries from written-off accounts",
+              "period": "Q4 FY26",
+              "value": "₹1,197 crores"
+            },
+            {
+              "type": "Recoveries and upgrades from NPAs",
+              "period": "Q4 FY26",
+              "value": "₹2,696 crores"
+            }
+          ],
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Provision Coverage Ratio (PCR) %",
+          "value": "70% as of March 31, 2026",
+          "sources": [
+            {
+              "name": "axis.bank.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Gross Non-Performing Assets (GNPA) % (Consolidated): 1.23% as of March 31, 2026",
+        "Net Non-Performing Assets (NNPA) % (Consolidated): 0.37% as of March 31, 2026",
+        "Slippages (quarterly, in ₹ crores): [{\"type\": \"Gross Slippages\", \"period\": \"Q4 FY26\", \"value\": \"₹4,709 crores\"}, {\"type\": \"Net Slippages\", \"period\": \"Q4 FY26\", \"value\": \"₹815 crores\", \"note\": \"adjusted for recoveries from written-off pool\"}, {\"type\": \"Segmental Gross Slippages - Retail\", \"period\": \"Q4 FY26\", \"value\": \"₹4,098 crores\"}, {\"type\": \"Segmental Gross Slippages - CBG\", \"period\": \"Q4 FY26\", \"value\": \"₹297 crores\"}, {\"type\": \"Segmental Gross Slippages - WBCG (Wholesale Banking and Corporate Group)\", \"period\": \"Q4 FY26\", \"value\": \"₹314 crores\"}]",
+        "Write-offs (quarterly, in ₹ crores): ₹3,096 crores for Q4 FY26",
+        "Recoveries (quarterly, in ₹ crores): [{\"type\": \"Recoveries from written-off accounts\", \"period\": \"Q4 FY26\", \"value\": \"₹1,197 crores\"}, {\"type\": \"Recoveries and upgrades from NPAs\", \"period\": \"Q4 FY26\", \"value\": \"₹2,696 crores\"}]",
+        "Provision Coverage Ratio (PCR) %: 70% as of March 31, 2026"
+      ],
+      "references": [
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhCOUnYc0tu7S9P_B9SfADbS52Fr7RGb2CgnXqGzQ3ho38BVB_mlCr2IHNSqbgTx5EtNhdwgNKaIa-WrHp5m-IadhXWsKlO3fw3BOo9q_FHy0qSaIpXqGAGBBRAgN-rWavYo1gZb0MjoTDJ-xREGWC3JGfYXdj0Z5-1XGcJQO2cketWOAlsPK3vKFD5BjndpIjVq_kTPvt_HWK78yqjNJXXD6P__h9U18E_tvC15pWxc7m_ibSwmK5dOU_hkyuu7qtU-9kBM8ljlEerAoua0U1Ju8qAjLUC7HHOvtB4KtdPrSBh7X0ErJrHAPP5XRrK0BZFvAaz_gaE5IH02hheg-c9n6fLjhuf-pMJGtpImBPYqYHn_0Eazr2jA=",
+          "fields": [
+            "Gross Non-Performing Assets (GNPA) % (Consolidated)",
+            "Net Non-Performing Assets (NNPA) % (Consolidated)",
+            "Slippages (quarterly, in ₹ crores)",
+            "Write-offs (quarterly, in ₹ crores)",
+            "Recoveries (quarterly, in ₹ crores)",
+            "Provision Coverage Ratio (PCR) %"
+          ]
+        },
+        {
+          "name": "axis.bank.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO7Fuch4Ywx1720nqRljfwSzmZrEbbT-Ba1OcwZ-9zCDBCI-SWLWtzyL5__YNgVIx52qJ_w3u67PdpzEeQ-Fic-2Iogg58uaiQlIaEQo5YFVrktvqaR_H3kBJwtdnnOOSjMe42he4e9q9GkJYZcz8RGcqcKOuKzHlTQrJPnP1D-PR3RdTeHPzRIWF9xDOIbV4wAEHAm3-1RoJXvwK7OJsqIhEwNorJqIhSe6Fp4vZuLs25KFeQbjnEyfGlJzw3ZffNpo_zGvJBvBVVG4zNHuub",
+          "fields": []
+        }
+      ],
+      "domain_name": "Asset Quality & Risk Management",
+      "confidence": "high",
+      "completeness": 0.6,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "GNPA % by Retail Loans",
+        "GNPA % by Corporate Loans",
+        "GNPA % by SME Loans",
+        "Special Mention Accounts (SMA-2) % of Advances"
+      ],
+      "reasoning": {
+        "overall_score": 66,
+        "pe_analyst": "This data directly informs the PE analyst's assessment of the bank's credit risk and operational efficiency, potentially leading to deeper diligence on risk mitigation strategies if trends are concerning or improving.",
+        "banker": "Null",
+        "credit_analyst": "The detailed breakdown of GNPA, NNPA, slippages, write-offs, and PCR provides critical information for the credit analyst to assess the bank's creditworthiness and underwriting standards, influencing a decision to pursue deeper underwriting analysis.",
+        "consultant": "Null"
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 38
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.01574,
+    "domain_research_usd": 0.125418,
+    "accuracy_verify_usd": 0.0,
+    "actual_total_usd": 0.141158,
+    "actual_calls": 17,
+    "elapsed_seconds": 151.6,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.031355,
+      "estimated_generic_domains_usd": 0.188127,
+      "estimated_synthesis_usd": 0.125418,
+      "estimated_total_usd": 0.454703
+    }
+  }
+}

@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Embio Limited — One-Pager</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', sans-serif; font-size: 10.5px;
+       color: #1A2332; background: #fff; line-height: 1.5; }
+
+/* ===== Layout & Grid ===== */
+.page { max-width: 1320px; margin: 0 auto; background: #fff; }
+
+.hdr { display: flex; justify-content: space-between; align-items: flex-start;
+       padding: 16px 26px; border-bottom: 1px solid #E5E8EE; }
+.hdr-name { font-size: 22px; font-weight: 600; color: #1A2332; }
+.hdr-sub { font-size: 10.5px; color: #5A6878; margin-top: 2px; }
+.kelp { font-size: 9px; font-weight: 600; color: #3C9E41; text-transform: uppercase;
+        letter-spacing: 0.07em; }
+
+.body { display: grid; grid-template-columns: 1.85fr 1fr; }
+.col-l { padding: 14px 20px; border-right: 1px solid #E5E8EE; }
+.col-r { padding: 14px 20px; background: #FAFAFA; }
+
+/* ===== Sections & Typography ===== */
+.sec { margin-bottom: 22px; }
+.sec-h { font-size: 12.5px; font-weight: 700; color: #1A2332;
+         border-bottom: 1.5px solid #1A2332; padding-bottom: 5px; margin-bottom: 8px;
+         display: flex; align-items: center; justify-content: space-between; gap: 6px; }
+.sec-h span.tagwrap { display:flex; gap:4px; }
+
+.tag { display: inline-block; font-size: 8px; font-weight: 500; text-transform: uppercase;
+       letter-spacing: 0.07em; padding: 2px 6px; border-radius: 100px; }
+.tag.tg { background: #F1EFE8; color: #5F5E5A; }
+.tag.tp { background: #EAF3FF; color: #185FA5; }
+
+.body-text { font-size: 11px; line-height: 1.6; color: #1A2332; }
+
+/* ===== Tables ===== */
+table { width: 100%; border-collapse: collapse; font-size: 10px; }
+th { background: #F7F8FA; color: #5A6878; font-size: 9.5px; font-weight: 600;
+     text-align: right; padding: 4px 6px; border-bottom: 0.5px solid #E5E8EE; }
+th:first-child { text-align: left; }
+td { padding: 4px 6px; text-align: right; border-bottom: 0.5px solid #E5E8EE; font-size: 10px; }
+td:first-child { text-align: left; font-weight: 500; }
+tr:nth-child(even) td { background: #FCFCFC; }
+tr.tot td { font-weight: 700; background: #F7F8FA; border-top: 1px solid #E5E8EE; }
+tr.hl td { background: #F0F6F0; }
+td.up { color: #2A7A30; }
+td.dn { color: #C0392B; }
+td.nu { color: #8A9AB0; }
+td.la { text-align: left; }
+td.sm { font-size: 9.5px; }
+
+/* ===== Lists & Bullets ===== */
+ul { list-style: none; padding: 0; margin: 0; }
+li { font-size: 10.5px; position: relative; padding-left: 12px; margin-bottom: 3px; line-height: 1.45; }
+li::before { content: "\2022"; position: absolute; left: 0; color: #3C9E41; }
+
+/* ===== Pills & Badges ===== */
+.pill { display: inline-block; font-size: 9px; padding: 1px 6px; border-radius: 100px;
+        margin: 1px 2px; font-weight: 500; }
+.pg { background: #EAF3DE; color: #27500A; }
+.pr { background: #FCEBEB; color: #791F1F; }
+.pa { background: #FAEEDA; color: #633806; }
+.pb { background: #EAF3FF; color: #185FA5; }
+.pn { background: #F1EFE8; color: #5F5E5A; }
+
+/* ===== Detail Rows ===== */
+.dr { display: flex; gap: 5px; padding: 2px 0; border-bottom: 0.5px solid #E5E8EE; align-items: flex-start; }
+.dr:last-child { border-bottom: none; }
+.dl { width: 82px; flex-shrink: 0; color: #5A6878; font-weight: 500; font-size: 9.5px; }
+.dv { flex: 1; color: #1A2332; font-size: 10px; }
+
+/* ===== Flag Rows ===== */
+.fl { display: flex; gap: 6px; padding: 3px 0; border-bottom: 0.5px solid #E5E8EE; align-items: flex-start; }
+.fl:last-child { border-bottom: none; }
+.fi { width: 14px; height: 14px; border-radius: 2px; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 9px; font-weight: 600; margin-top:1px; }
+.fig { background: #EAF3DE; color: #27500A; }
+.fia { background: #FAEEDA; color: #854F0B; }
+.fir { background: #FCEBEB; color: #A32D2D; }
+.ft-title { font-weight: 600; font-size: 10px; color: #1A2332; }
+.ft-detail { font-size: 9.5px; color: #5A6878; line-height: 1.4; margin-top:1px; }
+
+/* ===== Stats & Numbers ===== */
+.stats { display: flex; gap: 5px; }
+.st { flex: 1; padding: 5px; border: 0.5px solid #E5E8EE; border-radius: 3px; text-align: left; }
+.sv { font-size: 13px; font-weight: 600; color: #1A2332; }
+.sl { font-size: 8.5px; color: #5A6878; margin-top: 1px; }
+.ss { font-size: 8.5px; margin-top: 1px; }
+
+/* ===== Semantic Colors ===== */
+.green { color: #2A7A30; }
+.red { color: #C0392B; }
+.blue { color: #1E5FA8; }
+.amber { color: #854F0B; }
+
+/* ===== Grid Layouts ===== */
+.g2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.g3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; }
+
+/* ===== SWOT Grid ===== */
+.swot { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.sw { padding: 7px 9px; border-radius: 3px; }
+.sw.s { background: #EAF3DE; }
+.sw.w { background: #FCEBEB; }
+.sw.o { background: #EAF3FF; }
+.sw.t { background: #FAEEDA; }
+.sw-h { font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+.sw.s .sw-h { color: #27500A; }
+.sw.w .sw-h { color: #A32D2D; }
+.sw.o .sw-h { color: #185FA5; }
+.sw.t .sw-h { color: #854F0B; }
+.sw li { font-size: 9.5px; padding-left: 10px; margin-bottom: 3px; line-height: 1.4; }
+.sw li::before { content: "\2022"; }
+.sw.s li { color: #3B6D11; }
+.sw.w li { color: #A32D2D; }
+.sw.o li { color: #185FA5; }
+.sw.t li { color: #854F0B; }
+
+/* ===== CSS Bars ===== */
+.br { display: flex; align-items: center; gap: 5px; margin-bottom: 3px; }
+.bn { font-size: 9.5px; color: #5A6878; width: 150px; text-align: right; flex-shrink: 0; }
+.bt { flex: 1; height: 8px; background: #F0F2F5; border-radius: 1px; overflow: hidden; }
+.bf { height: 100%; border-radius: 1px; background: #2C4A7C; }
+.bf.green { background: #3C9E41; }
+.bv { font-size: 9.5px; font-weight: 500; width: 56px; text-align: right; flex-shrink: 0; }
+
+/* ===== Rating Boxes ===== */
+.rbox { display: flex; gap: 6px; }
+.rb { flex: 1; border: 0.5px solid #E5E8EE; border-radius: 3px; padding: 5px 8px; text-align: center; }
+.rv { font-size: 14px; font-weight: 600; color: #1A2332; }
+
+/* ===== News Items ===== */
+.ni { padding: 3.5px 0; border-bottom: 0.5px solid #E5E8EE; }
+.ni:last-child { border-bottom: none; }
+.nd { font-size: 8.5px; color: #8A9AB0; margin-bottom: 1px; }
+.nt { color: #1A2332; font-weight: 500; line-height: 1.35; font-size: 10px; }
+.ns { font-size: 8.5px; color: #8A9AB0; margin-top: 1px; }
+
+/* ===== Milestones & Timelines ===== */
+.ms { display: flex; gap: 8px; padding: 4px 0; border-bottom: 0.5px solid #E5E8EE; }
+.ms:last-child { border-bottom: none; }
+.md { color: #5A6878; width: 56px; flex-shrink: 0; font-weight: 600; font-size: 9.5px; }
+.ms-body { flex:1; }
+.ms-evt { font-size: 10px; font-weight: 500; color: #1A2332; line-height:1.35; }
+.ms-detail { font-size: 9.5px; color: #8A9AB0; margin-top: 1px; line-height: 1.35; }
+
+/* ===== Deals Timeline ===== */
+.deal { display: flex; gap: 8px; padding: 4px 0; border-bottom: 0.5px solid #E5E8EE; }
+.deal:last-child { border-bottom: none; }
+.dd { color: #5A6878; width: 56px; flex-shrink: 0; font-weight: 600; font-size: 9.5px; }
+
+/* ===== Catalysts Timeline ===== */
+.cat { display: flex; gap: 8px; padding: 4px 0; border-bottom: 0.5px solid #E5E8EE; }
+.cat:last-child { border-bottom: none; }
+.cd { color: #3C9E41; font-weight: 600; width: 76px; flex-shrink: 0; font-size: 9.5px; }
+
+/* ===== Utility / Alerts ===== */
+.note { font-size: 9px; color: #8A9AB0; margin-top: 3px; font-style: italic; }
+.nalert { font-size: 9.5px; padding: 4px 7px; border-radius: 3px; margin-top: 4px; }
+.na { background: #FAEEDA; color: #633806; }
+.nb { background: #EAF3FF; color: #185FA5; }
+.ng { background: #EAF3DE; color: #27500A; }
+
+/* ===== Management ===== */
+.mgmt { padding: 4px 0; border-bottom: 0.5px solid #E5E8EE; }
+.mgmt:last-child { border-bottom: none; }
+.mn { font-size: 10.5px; font-weight: 500; color: #1A2332; }
+.mt { font-size: 9.5px; color: #5A6878; font-weight:500; margin-top:1px;}
+.mb { font-size: 9.5px; color: #8A9AB0; line-height: 1.45; margin-top: 1px; }
+
+/* ===== Investment Thesis ===== */
+.thesis { padding: 7px 10px; border-left: 2.5px solid #3C9E41; background: #F5FBF5;
+          border-radius: 0 3px 3px 0; margin-top: 6px; }
+.th { font-size: 9px; font-weight: 600; color: #27500A; margin-bottom: 4px; }
+
+/* ===== Footer ===== */
+.ftr { border-top: 0.5px solid #E5E8EE; padding: 6px 26px; display: flex;
+       justify-content: space-between; background: #FAFAFA; }
+.fl-t { font-size: 8.5px; color: #8A9AB0; max-width: 900px; }
+.fr-t { font-size: 8.5px; color: #8A9AB0; font-weight: 600; white-space:nowrap; }
+
+/* ===== Custom additions ===== */
+.stats-strip { display: flex; gap: 8px; padding: 14px 26px; border-bottom: 1px solid #E5E8EE; background:#FAFAFA; }
+.src { font-size: 9px; color: #8A9AB0; margin-top: 6px; line-height:1.4; }
+.sub-h { font-size: 9.5px; font-weight: 700; color: #5A6878; text-transform: uppercase;
+         letter-spacing: 0.05em; margin-bottom: 5px; }
+.chart-wrap { height: 165px; position: relative; }
+.chart-title { font-size: 9.5px; font-weight: 600; color: #5A6878; margin-bottom: 4px; }
+.thesis-item { margin-bottom: 6px; }
+.thesis-item:last-child { margin-bottom: 0; }
+.thesis-lbl { font-weight: 700; color: #27500A; }
+.cpills { display: flex; flex-wrap: wrap; gap: 4px; }
+.peer { padding: 4px 0; border-bottom: 0.5px solid #E5E8EE; }
+.peer:last-child { border-bottom: none; }
+.peer-name { font-size: 10px; font-weight: 600; color: #1A2332; }
+.peer-focus { font-size: 9.5px; color: #8A9AB0; line-height: 1.4; margin-top: 1px; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="hdr">
+    <div>
+      <div class="hdr-name">Embio Limited</div>
+      <div class="hdr-sub">Active Pharmaceutical Ingredients (APIs) &mdash; Controlled Substances, Chiral Intermediates &amp; CDMO &nbsp;&middot;&nbsp; HQ: Mumbai, Maharashtra, India &nbsp;&middot;&nbsp; Founded 1986 &nbsp;&middot;&nbsp; CIN U24110MH1986PLC038680</div>
+      <div style="margin-top:5px;">
+        <span class="pill pn">Private</span>
+        <span class="pill pb">PE-Backed &mdash; True North (Fund VII), ~25% (Jun 2026)</span>
+        <span class="pill pg">Schedule-1/2 Controlled-Substance APIs</span>
+        <span class="pill pa">~600 Employees</span>
+        <span class="pill pa">Exports to ~80 Countries</span>
+      </div>
+    </div>
+    <div style="text-align:right;">
+      <div class="kelp">Kelp Research &mdash; Company One-Pager</div>
+      <div class="hdr-sub">Generated 11 Jun 2026</div>
+      <div class="hdr-sub">Sector: Pharma &mdash; Controlled-Substance APIs &amp; CDMO</div>
+    </div>
+  </div>
+
+  <!-- KEY STATS STRIP -->
+  <div class="stats-strip">
+    <div class="st">
+      <div class="sv">INR 272.85 Cr</div>
+      <div class="sl">Revenue, FY2025</div>
+      <div class="ss green">&#9650; +50.5% YoY</div>
+    </div>
+    <div class="st">
+      <div class="sv">INR 69.16 Cr</div>
+      <div class="sl">PBILDT / EBITDA, FY2025</div>
+      <div class="ss green">&#9650; +266.4% YoY</div>
+    </div>
+    <div class="st">
+      <div class="sv">INR 39.05 Cr</div>
+      <div class="sl">PAT, FY2025</div>
+      <div class="ss green">&#9650; +773.6% YoY</div>
+    </div>
+    <div class="st">
+      <div class="sv">25.35%</div>
+      <div class="sl">PBILDT Margin, FY2025</div>
+      <div class="ss green">&#9650; +14.9pp YoY</div>
+    </div>
+    <div class="st">
+      <div class="sv">28.46x</div>
+      <div class="sl">Interest Coverage, FY2025</div>
+      <div class="ss green">&#9650; vs 8.82x (FY2024)</div>
+    </div>
+    <div class="st">
+      <div class="sv">BBB+ / Stable</div>
+      <div class="sl">Credit Rating (CARE)</div>
+      <div class="ss green">&#9650; Upgraded from A-/Negative (FY2023)</div>
+    </div>
+  </div>
+
+  <!-- BODY -->
+  <div class="body">
+
+    <!-- LEFT COLUMN -->
+    <div class="col-l">
+
+      <!-- BUSINESS DESCRIPTION -->
+      <div class="sec">
+        <div class="sec-h">Business Description</div>
+        <div class="body-text">Embio Limited, founded in 1986 and headquartered in Mumbai, manufactures complex active pharmaceutical ingredients (APIs), advanced intermediates and specialty chemicals through fermentation-based biotransformation and chiral chemistry at USFDA/WHO-GMP-approved facilities in Mahad (Maharashtra) and Dahej (Gujarat), exporting to roughly 80 countries. Its key differentiator is a leadership position in licensed Schedule-1/Schedule-2 controlled-substance APIs (ephedrine, pseudoephedrine, norephedrine and lisdexamfetamine intermediates), reinforced by a ~US$50 million growth-equity investment for a ~25% minority stake from private equity firm True North announced in June 2026.</div>
+        <div class="src">Source: Embio Limited &mdash; official website &amp; About Us (embio.co.in)</div>
+      </div>
+
+      <!-- PRODUCTS & SERVICES (bullets, below Business Description) -->
+      <div class="sec">
+        <div class="sec-h">Products &amp; Services</div>
+        <ul>
+          <li>Manufactures Active Pharmaceutical Ingredients (APIs), advanced intermediates and specialty chemicals for pharmaceutical, nutraceutical, food, cosmetic and crop-protection customers</li>
+          <li>Core licensed Schedule-1/Schedule-2 controlled-substance portfolio &mdash; ephedrine, pseudoephedrine and norephedrine salts &mdash; an estimated 55&ndash;60% of revenue, used mainly as decongestants</li>
+          <li>Chiral intermediates supplied for anti-retroviral and anti-obesity drugs</li>
+          <li>Diversifying into Lisdexamfetamine / Lisdexamfetamine Dimesylate (ADHD), Methadone HCl, Oxyfedrine HCl, Selegiline HCl, Buprenorphine Base/HCl and Cannabidiols</li>
+          <li>Contract Development &amp; Manufacturing Organisation (CDMO) services from the new Dahej, Gujarat facility</li>
+        </ul>
+        <div class="src">Source: Embio Limited &mdash; official website; CARE Ratings press release, Oct 10 2025; PharmaCompass API manufacturer profile</div>
+      </div>
+
+      <!-- INVESTMENT THESIS -->
+      <div class="sec">
+        <div class="sec-h">Investment Thesis</div>
+        <div class="thesis">
+          <div class="thesis-item"><span class="thesis-lbl">Defensible.</span> One of a small number of global manufacturers licensed to produce Schedule-1/Schedule-2 controlled-substance APIs (ephedrine, pseudoephedrine, norephedrine, lisdexamfetamine intermediates) at USFDA/WHO-GMP-approved scale &mdash; a regulatory and technical barrier that is difficult for new entrants to replicate.</div>
+          <div class="thesis-item"><span class="thesis-lbl">Why now.</span> FY2025 marked a sharp inflection &mdash; revenue rose 50.5% YoY to INR 272.85 Cr and PBILDT margin more than doubled to 25.35% (from 10.43% in FY2024), while CARE Ratings enhanced Embio's bank facility cover to INR 98.85 Cr (from INR 50.10 Cr) in October 2025.</div>
+          <div class="thesis-item"><span class="thesis-lbl">Why ahead.</span> True North (Fund VII) committed ~US$50 million for a ~25% minority stake in June 2026 &mdash; its first pharma investment from the fund &mdash; to fund a INR 315 crore Phase-1 expansion at Dahej, Gujarat for backward integration into Lisdexamfetamine Dimesylate and a new dedicated CDMO unit, positioning Embio to participate in the broader 'China Plus One' CDMO outsourcing wave.</div>
+        </div>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025; DealStreetAsia &mdash; True North picks minority stake in Embio</div>
+      </div>
+
+      <!-- RISK FLAGS (kept together with Investment Thesis) -->
+      <div class="sec">
+        <div class="sec-h">Risk Flags</div>
+        <div class="fl">
+          <div class="fi fia">!</div>
+          <div><div class="ft-title">Concentrated controlled-substance portfolio</div>
+          <div class="ft-detail">Ephedrine/pseudoephedrine/norephedrine salts are an estimated 55&ndash;60% of revenue; top-5 customer concentration was 29.44% in FY2023.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fig">&#10003;</div>
+          <div><div class="ft-title">Credit profile strengthening</div>
+          <div class="ft-detail">CARE upgraded the long-term rating from A-/Negative (Sep 2022) to BBB+/Stable (Sep 2023), reaffirmed through Oct 2025 with rated facilities enhanced to INR 98.85 Cr.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fia">!</div>
+          <div><div class="ft-title">Large debt-funded capex programme</div>
+          <div class="ft-detail">Phase-1 Dahej expansion of INR 315 crore (~2x FY2025 net worth) carries execution and funding risk.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fia">!</div>
+          <div><div class="ft-title">History of operational disruption</div>
+          <div class="ft-detail">A bio-digester malfunction cut FY2024 revenue by an estimated INR 30&ndash;35 crore.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fig">&#10003;</div>
+          <div><div class="ft-title">Sharp FY2025 turnaround</div>
+          <div class="ft-detail">Revenue grew 50.5% YoY to INR 272.85 Cr, PBILDT margin more than doubled to 25.35%, and interest coverage rose to 28.46x.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fia">!</div>
+          <div><div class="ft-title">Working-capital intensive operations</div>
+          <div class="ft-detail">Operating cycle of 116 days in FY2025, down from 172 days in FY2024 but still elevated versus the 80-day positive rating trigger.</div></div>
+        </div>
+        <div class="fl">
+          <div class="fi fia">!</div>
+          <div><div class="ft-title">Regulatory exposure on controlled substances</div>
+          <div class="ft-detail">Global tightening of pseudoephedrine/decongestant regulations (e.g. US Combat Methamphetamine Epidemic Act) could affect demand for core products.</div></div>
+        </div>
+        <div class="src">Source: CARE Ratings press releases (Sep 2023, Sep 2024, Oct 2025); DataHorizzon Research &mdash; Ephedrine market size</div>
+      </div>
+
+      <!-- FINANCIAL PERFORMANCE -->
+      <div class="sec">
+        <div class="sec-h">Financial Performance <span class="tagwrap"><span class="tag tp">Standalone</span></span></div>
+        <div class="chart-title">Revenue, PBILDT/EBITDA &amp; PAT (INR Cr)</div>
+        <div class="chart-wrap"><canvas id="pnlChart" width="760" height="165"></canvas></div>
+        <table style="margin-top:10px;">
+          <thead>
+            <tr><th class="la">INR Cr</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="la">Revenue</td><td>154.11</td><td>207.88</td><td>180.95</td><td>272.85</td></tr>
+            <tr class="hl"><td class="la">PBILDT / EBITDA</td><td>12.31</td><td>16.96</td><td>18.88</td><td>69.16</td></tr>
+            <tr class="hl"><td class="la">PAT</td><td>2.70</td><td>2.57</td><td>4.47</td><td>39.05</td></tr>
+          </tbody>
+        </table>
+        <div class="src">Scope: Embio Limited (CIN U24110MH1986PLC038680), standalone financials per CARE Ratings press releases (Sep 2023, Sep 2024, Oct 2025); PBILDT used as EBITDA proxy. Note: CARE vintages disagree on FY2023 &mdash; the Sep 2023 release reported TOI of INR 202.79 Cr / PBILDT margin 5.85%, restated by the Sep 2024 release to INR 207.88 Cr / 8.16%; restated figures used here.</div>
+      </div>
+
+      <!-- MARGIN TREND & KEY METRICS -->
+      <div class="sec">
+        <div class="sec-h">Margin Trend &amp; Key Metrics <span class="tagwrap"><span class="tag tp">Standalone</span></span></div>
+        <div class="g2">
+          <div>
+            <div class="chart-title">PBILDT &amp; PAT Margin (%)</div>
+            <div class="chart-wrap"><canvas id="marginChart" width="380" height="165"></canvas></div>
+          </div>
+          <div>
+            <div class="chart-title">Key Ratios &mdash; FY2025</div>
+            <div class="rbox">
+              <div class="rb">
+                <div class="rv">28.46x</div>
+                <div class="sl">Interest Coverage</div>
+              </div>
+              <div class="rb">
+                <div class="rv">0.11x</div>
+                <div class="sl">Overall Gearing (D/E)</div>
+              </div>
+            </div>
+            <div class="rbox" style="margin-top:6px;">
+              <div class="rb">
+                <div class="rv">116 days</div>
+                <div class="sl">Operating Cycle (FY2025)</div>
+              </div>
+              <div class="rb">
+                <div class="rv">2.42x</div>
+                <div class="sl">Current Ratio (FY2023)</div>
+              </div>
+            </div>
+            <table style="margin-top:8px;">
+              <thead><tr><th class="la">% (PBILDT/PAT margin)</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th></tr></thead>
+              <tbody>
+                <tr><td class="la">PBILDT Margin</td><td>7.99</td><td>8.16</td><td>10.43</td><td>25.35</td></tr>
+                <tr><td class="la">PAT Margin</td><td>1.75</td><td>1.24</td><td>2.47</td><td>14.31</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="src">ROE: <span class="pill pn">Not Available</span>. Current ratio not disclosed for FY2025 (FY2023 value shown). Source: CARE Ratings press releases (Sep 2023, Sep 2024, Oct 2025).</div>
+      </div>
+
+      <!-- REVENUE BY GEOGRAPHY & PRODUCT SEGMENT -->
+      <div class="sec">
+        <div class="sec-h">Revenue by Geography &amp; Product Segment <span class="tagwrap"><span class="tag tp">FY2025</span></span></div>
+        <div class="g2">
+          <div>
+            <div class="sub-h">By Geography</div>
+            <div class="br">
+              <div class="bn">Exports (~80 countries)</div>
+              <div class="bt"><div class="bf" style="width:85%; background:#2E86AB;"></div></div>
+              <div class="bv">85%</div>
+            </div>
+            <div class="br">
+              <div class="bn">Domestic (India)</div>
+              <div class="bt"><div class="bf" style="width:15%; background:#A23B72;"></div></div>
+              <div class="bv">15%</div>
+            </div>
+          </div>
+          <div>
+            <div class="sub-h">By Product Segment</div>
+            <div class="br">
+              <div class="bn">Ephedrine / Pseudoephedrine / Norephedrine salts</div>
+              <div class="bt"><div class="bf" style="width:57.5%; background:#2E86AB;"></div></div>
+              <div class="bv">55&ndash;60%</div>
+            </div>
+            <div class="br">
+              <div class="bn">Lisdexamfetamine intermediates &amp; other APIs</div>
+              <div class="bt"><div class="bf" style="width:42.5%; background:#F18F01;"></div></div>
+              <div class="bv">40&ndash;45%</div>
+            </div>
+          </div>
+        </div>
+        <div class="src">Geography: CARE Ratings press release, Oct 10 2025 (exports ~85% of FY2025 operating income, vs ~76% FY2024). Product segment: qualitative range from CARE Ratings narrative commentary, not a precisely disclosed split &mdash; the 40&ndash;45% figure is a derived complement.</div>
+      </div>
+
+      <!-- WORKING CAPITAL ANALYSIS -->
+      <div class="sec">
+        <div class="sec-h">Working Capital Analysis <span class="tagwrap"><span class="tag tp">Standalone</span></span></div>
+        <div class="br">
+          <div class="bn">FY2023</div>
+          <div class="bt"><div class="bf" style="width:100%;"></div></div>
+          <div class="bv">198 days</div>
+        </div>
+        <div class="br">
+          <div class="bn">FY2024</div>
+          <div class="bt"><div class="bf" style="width:86.9%;"></div></div>
+          <div class="bv">172 days</div>
+        </div>
+        <div class="br">
+          <div class="bn">FY2025</div>
+          <div class="bt"><div class="bf green" style="width:58.6%;"></div></div>
+          <div class="bv">116 days</div>
+        </div>
+        <div class="note">CARE Ratings positive rating trigger: operating cycle below ~80 days. FY2025's 116-day cycle is down sharply from 172 days (FY2024) but remains above this trigger.</div>
+        <div class="src">Source: CARE Ratings press releases (Sep 2023: ~78-day collection + ~120-day inventory; Sep 2024: 172 days; Oct 2025: 116 days)</div>
+      </div>
+
+      <!-- CHANNEL MIX & DISTRIBUTION -->
+      <div class="sec">
+        <div class="sec-h">Channel Mix &amp; Distribution</div>
+        <div class="body-text">Embio sells APIs and intermediates on a B2B basis to pharmaceutical formulators and innovator companies (including long-standing customer Sun Pharmaceutical Industries Ltd) across ~80 countries, with ~85% of FY2025 revenue from exports.</div>
+        <div class="dr" style="margin-top:6px;">
+          <div class="dl">Channel</div>
+          <div class="dv">Direct B2B sales to pharmaceutical / nutraceutical / specialty-chemical manufacturers; regulated-market focus</div>
+        </div>
+        <div class="dr">
+          <div class="dl">Top-5 Concentration</div>
+          <div class="dv">29.44% of revenue (FY2023, CARE Ratings)</div>
+        </div>
+        <div class="src">Source: CARE Ratings press releases (Sep 29 2023, Oct 10 2025)</div>
+      </div>
+
+      <!-- SWOT -->
+      <div class="sec">
+        <div class="sec-h">SWOT</div>
+        <div class="swot">
+          <div class="sw s">
+            <div class="sw-h">Strengths</div>
+            <ul>
+              <li>One of a small number of global manufacturers licensed for Schedule-1/Schedule-2 controlled-substance APIs (ephedrine, pseudoephedrine, norephedrine, lisdexamfetamine intermediates)</li>
+              <li>Experienced management with 30+ years in the industry, led by MD Devesh Malladi and Chairman Emeritus M.H. Avadhani</li>
+              <li>USFDA/WHO-GMP/PMDA/KFDA/COFEPRIS-approved facilities; ~85% export revenue (FY2025) across ~80 countries</li>
+              <li>Sharp FY2025 turnaround: revenue +50.5% to INR 272.85 Cr and PBILDT margin more than doubled to 25.35%, backed by a ~US$50m (June 2026) growth-equity investment from True North</li>
+            </ul>
+          </div>
+          <div class="sw w">
+            <div class="sw-h">Weaknesses</div>
+            <ul>
+              <li>Moderate operational scale (FY2025 revenue of INR 272.85 Cr is just below the &#8377;300 Cr positive rating trigger)</li>
+              <li>Concentrated product portfolio &mdash; ephedrine/pseudoephedrine/norephedrine salts are an estimated 55&ndash;60% of revenue</li>
+              <li>Working-capital intensive operations (116-day operating cycle in FY2025, though down from 172 days in FY2024)</li>
+              <li>History of operational disruption &mdash; a bio-digester malfunction cut FY2024 revenue by an estimated INR 30&ndash;35 crore</li>
+            </ul>
+          </div>
+          <div class="sw o">
+            <div class="sw-h">Opportunities</div>
+            <ul>
+              <li>Global controlled-substance API market projected to grow from USD 14.9bn (2026) to USD 27.9bn (2033), a 9.4% CAGR</li>
+              <li>Small-molecule API CDMO market projected to grow from USD 46.59bn (2025) to USD 80.74bn (2033), a 7.28% CAGR</li>
+              <li>Backward integration into Lisdexamfetamine Dimesylate (ADHD) intermediates leveraging existing expertise</li>
+              <li>New dedicated CDMO unit at Dahej to capture 'China Plus One' outsourcing demand alongside larger Indian CDMO peers</li>
+            </ul>
+          </div>
+          <div class="sw t">
+            <div class="sw-h">Threats</div>
+            <ul>
+              <li>Execution and funding risk on the INR 315 crore Phase-1 Dahej capex (~2x FY2025 net worth)</li>
+              <li>FX and crude-oil-linked raw material price volatility, given ~85% export revenue</li>
+              <li>Tightening global regulation of pseudoephedrine/decongestant products (e.g. US Combat Methamphetamine Epidemic Act) could pressure core-product demand</li>
+              <li>Competition from larger, faster-growing, better-capitalised Indian CDMOs (Anthem Biosciences, Sai Life Sciences, Neuland Labs, Laurus Labs) amid a sector-wide 'pharma supercycle'</li>
+            </ul>
+          </div>
+        </div>
+        <div class="src">Source: CARE Ratings press releases (Sep 2024, Oct 2025); Precedence Research &mdash; API CDMO market size</div>
+      </div>
+
+      <!-- MANUFACTURING FACILITIES & CAPACITY -->
+      <div class="sec">
+        <div class="sec-h">Manufacturing Facilities &amp; Capacity</div>
+        <ul>
+          <li>Mahad, Maharashtra (original plant): USFDA, WHO-GMP, PMDA, KFDA &amp; COFEPRIS approved; ~740 MT/annum installed capacity (CARE Ratings, Sep 2024)</li>
+          <li>Dahej, Gujarat (new CDMO facility): first manufacturing block operationalized in 2025; fermentation capacity up to 40KL across one 10KL, one 20KL and nine 40KL fermenters</li>
+          <li>Embio Research Center dedicated to process R&amp;D</li>
+          <li>Facilities support exports to ~80 countries</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press releases (Sep 27 2024, Oct 10 2025); Embio Limited &mdash; Dahej facility</div>
+      </div>
+
+      <!-- CONTROLLED-SUBSTANCE PRODUCT PORTFOLIO -->
+      <div class="sec">
+        <div class="sec-h">Controlled-Substance Product Portfolio</div>
+        <ul>
+          <li>Core controlled-substance APIs &mdash; ephedrine, pseudoephedrine and norephedrine salts &mdash; an estimated 55&ndash;60% of FY2025 revenue, used mainly as decongestants</li>
+          <li>Growth product: Lisdexamfetamine / Lisdexamfetamine Dimesylate (ADHD), with planned backward integration into intermediates</li>
+          <li>Other APIs: Methadone HCl, Oxyfedrine HCl, Selegiline HCl, Buprenorphine Base/HCl, Cannabidiols</li>
+          <li>Licensed to manufacture Schedule-1 and Schedule-2 controlled substances</li>
+          <li>~23 products listed across APIs, excipients and intermediates (PharmaCompass)</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025; PharmaCompass &mdash; Embio Limited API manufacturer profile</div>
+      </div>
+
+      <!-- TECHNOLOGY PLATFORM & R&D -->
+      <div class="sec">
+        <div class="sec-h">Technology Platform &amp; R&amp;D</div>
+        <ul>
+          <li>30+ years of experience in bacterial, fungal and Category-1 GMO bio-transformation</li>
+          <li>Synthetic biology and precision fermentation platform underpins complex API manufacturing</li>
+          <li>Core competencies in chiral chemistry and catalytic hydrogenation</li>
+          <li>Dedicated Embio Research Center for process development and new-molecule R&amp;D</li>
+          <li>Part of True North's ~US$50m (June 2026) growth capital is earmarked for R&amp;D investment and talent acquisition</li>
+        </ul>
+        <div class="src">Source: Embio Limited &mdash; official website; BioSpectrum India &mdash; True North partners with Embio</div>
+      </div>
+
+      <!-- EXPORT MIX & CUSTOMER CONCENTRATION -->
+      <div class="sec">
+        <div class="sec-h">Export Mix &amp; Customer Concentration</div>
+        <ul>
+          <li>Exports were ~85% of total operating income in FY2025 (vs ~76% in FY2024 and ~82% in FY2023) &mdash; CARE Ratings</li>
+          <li>Products sold to ~80 countries globally</li>
+          <li>Top-5 customer concentration: 29.44% of revenue (FY2023, CARE Ratings)</li>
+          <li>Long-standing relationship with Sun Pharmaceutical Industries Ltd among other regulated-market customers</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press releases (Sep 29 2023, Sep 27 2024, Oct 10 2025)</div>
+      </div>
+
+      <!-- MARKET SIZE -->
+      <div class="sec">
+        <div class="sec-h">Market Size</div>
+        <table>
+          <thead><tr><th class="la">Market</th><th class="la">Region</th><th>Size</th><th>CAGR</th></tr></thead>
+          <tbody>
+            <tr><td class="la">Controlled Substance APIs</td><td class="la sm">Global</td><td>USD 14.9bn (2026)</td><td class="sm">9.4% (2026&ndash;2033, to USD 27.9bn)</td></tr>
+            <tr><td class="la">Small Molecule API CDMO</td><td class="la sm">Global</td><td>USD 46.59bn (2025)</td><td class="sm">7.28% (2026&ndash;2033, to USD 80.74bn)</td></tr>
+            <tr><td class="la">API CDMO (all modalities)</td><td class="la sm">Global</td><td>USD 116.77bn (2025)</td><td class="sm">7.90% (2025&ndash;2034, to USD 231.48bn)</td></tr>
+            <tr><td class="la">Ephedrine API</td><td class="la sm">Global</td><td>USD 1.2&ndash;1.35bn (2023/24)</td><td class="sm">4.1&ndash;4.5% (to USD 1.8&ndash;1.92bn by 2032/33)</td></tr>
+          </tbody>
+        </table>
+        <div class="note">Market size and CAGR figures vary by 2&ndash;3x across providers depending on scope definitions (e.g. USD 14.9bn vs USD 116.77bn vs USD 46.59bn for overlapping but differently-scoped 'API/CDMO' markets). Cross-check with a single primary research provider before use in valuation work.</div>
+        <div class="src">Source: Persistence Market Research; Grand View Research; Precedence Research; DataHorizzon Research</div>
+      </div>
+
+      <!-- RECENT NEWS -->
+      <div class="sec">
+        <div class="sec-h">Recent News</div>
+        <div class="ni">
+          <div class="nd">2026-06-04</div>
+          <div class="nt">Cyril Amarchand Mangaldas advises True North on ~25% / ~US$50m investment in Embio Limited</div>
+          <div class="ns">Source: SCC Online</div>
+        </div>
+        <div class="ni">
+          <div class="nd">2025-10-10</div>
+          <div class="nt">CARE Ratings reaffirms Embio's CARE BBB+/Stable rating and enhances bank facilities to INR 98.85 crore</div>
+          <div class="ns">Source: CARE Ratings</div>
+        </div>
+        <div class="ni">
+          <div class="nd">2025</div>
+          <div class="nt">Embio operationalizes its first manufacturing block at the new Dahej, Gujarat CDMO facility</div>
+          <div class="ns">Source: CARE Ratings (Oct 2025 press release)</div>
+        </div>
+        <div class="ni">
+          <div class="nd">2024-09-27</div>
+          <div class="nt">CARE Ratings reaffirms BBB+/Stable after FY24 revenue dipped ~13% due to a bio-digester malfunction</div>
+          <div class="ns">Source: CARE Ratings</div>
+        </div>
+        <div class="ni">
+          <div class="nd">2023-09-29</div>
+          <div class="nt">CARE Ratings upgrades Embio's long-term rating from CARE A-/Negative to CARE BBB+/Stable</div>
+          <div class="ns">Source: CARE Ratings</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- RIGHT COLUMN -->
+    <div class="col-r">
+
+      <!-- DETAILS -->
+      <div class="sec">
+        <div class="sec-h">Details</div>
+        <div class="dr"><div class="dl">Founded</div><div class="dv">1986 (Mumbai, India)</div></div>
+        <div class="dr"><div class="dl">HQ</div><div class="dv">Mumbai, Maharashtra, India</div></div>
+        <div class="dr"><div class="dl">CIN</div><div class="dv">U24110MH1986PLC038680</div></div>
+        <div class="dr"><div class="dl">Plant Locations</div><div class="dv">Mahad, Maharashtra (USFDA/WHO-GMP-approved); Dahej, Gujarat (new CDMO facility, first block operational 2025)</div></div>
+        <div class="dr"><div class="dl">Type</div><div class="dv">Private, promoter-led; PE minority investor (True North Fund VII, since June 2026)</div></div>
+        <div class="dr"><div class="dl">Employees</div><div class="dv">~600&ndash;648 (FY2024&ndash;FY2025, third-party aggregators)</div></div>
+        <div class="dr"><div class="dl">Website</div><div class="dv">embio.co.in</div></div>
+        <div class="src">Source: Tofler &mdash; Embio Limited corporate filings; Embio Limited &mdash; official website</div>
+      </div>
+
+      <!-- OWNERSHIP & SHAREHOLDERS -->
+      <div class="sec">
+        <div class="sec-h">Ownership &amp; Shareholders</div>
+        <div class="dr"><div class="dl">Type</div><div class="dv">Private, promoter-led with PE minority investor (True North Fund VII, since June 2026)</div></div>
+        <div class="dr"><div class="dl">Promoter Group</div><div class="dv">Devesh Malladi, M.H. Avadhani &amp; family/associates &mdash; <span class="pill pg">92.83%</span> (FY2024, pre-investment)</div></div>
+        <div class="dr"><div class="dl">True North</div><div class="dv">Fund VII &mdash; <span class="pill pb">~25%</span> minority stake (acquired June 2026)</div></div>
+        <div class="dr"><div class="dl">Public &amp; Other</div><div class="dv">~7.17% (FY2024)</div></div>
+        <div class="dr"><div class="dl">Pledge %</div><div class="dv"><span class="pill pn">Not Available</span></div></div>
+        <div class="dr">
+          <div class="dl">History</div>
+          <div class="dv">Founded 1986 in Mumbai; remained closely held by the Malladi/Avadhani promoter group (92.83% as of FY2024) until True North (Fund VII) acquired a ~25% minority growth-equity stake for ~US$50 million in June 2026 &mdash; True North's first pharma investment from that fund.</div>
+        </div>
+        <div class="src">Source: The Company Check &mdash; Embio Limited; DealStreetAsia &mdash; True North picks minority stake in Embio. Post-transaction shareholding pattern not yet reflected in public filings.</div>
+      </div>
+
+      <!-- DEALS & TRANSACTIONS -->
+      <div class="sec">
+        <div class="sec-h">Deals &amp; Transactions</div>
+        <div class="deal">
+          <div class="dd">2026-06</div>
+          <div class="ms-body">
+            <div class="ms-evt">True North (Fund VII) acquires ~25% minority growth-equity stake for ~US$50 million (~INR 400 crore)</div>
+            <div class="ms-detail">True North's first pharma investment from Fund VII. Avendus Capital and Khaitan &amp; Co advised Embio; Cyril Amarchand Mangaldas advised True North.</div>
+          </div>
+        </div>
+        <div class="deal">
+          <div class="dd">2025-10-10</div>
+          <div class="ms-body">
+            <div class="ms-evt">CARE Ratings enhances rated bank facility cover to INR 98.85 crore</div>
+            <div class="ms-detail">Up from INR 50.10 crore, while reaffirming CARE BBB+/Stable &mdash; supports funding for the Dahej expansion.</div>
+          </div>
+        </div>
+        <div class="src">Source: SCC Online &mdash; Cyril Amarchand Mangaldas advises True North on Embio investment; CARE Ratings press release, Oct 10 2025; Avendus Capital newsroom</div>
+      </div>
+
+      <!-- CREDIT RATINGS -->
+      <div class="sec">
+        <div class="sec-h">Credit Ratings <span class="tagwrap"><span class="tag tg">CARE Ratings</span></span></div>
+        <div class="rbox">
+          <div class="rb">
+            <div class="rv">CARE BBB+</div>
+            <div class="sl">Long-Term &mdash; Stable</div>
+          </div>
+          <div class="rb">
+            <div class="rv">CARE A2</div>
+            <div class="sl">Short-Term</div>
+          </div>
+        </div>
+        <table style="margin-top:8px;">
+          <thead><tr><th class="la">Date</th><th class="la">Rating</th><th class="la">Outlook</th></tr></thead>
+          <tbody>
+            <tr><td class="la sm">2022-09-02</td><td class="la sm">CARE A- / CARE A2+</td><td class="la sm dn">Negative</td></tr>
+            <tr><td class="la sm">2023-09-29</td><td class="la sm">CARE BBB+ / CARE A2</td><td class="la sm up">Stable (upgraded)</td></tr>
+            <tr><td class="la sm">2024-09-27</td><td class="la sm">CARE BBB+ / CARE A2</td><td class="la sm">Stable (reaffirmed)</td></tr>
+            <tr class="hl"><td class="la sm">2025-10-10</td><td class="la sm">CARE BBB+ / CARE A2</td><td class="la sm">Stable (reaffirmed; LT facilities enhanced to Rs.98.85 Cr)</td></tr>
+          </tbody>
+        </table>
+        <div class="src">Source: CARE Ratings press releases (Sep 29 2023, Sep 27 2024, Oct 10 2025)</div>
+      </div>
+
+      <!-- CAPITAL STRUCTURE & DEBT METRICS TREND -->
+      <div class="sec">
+        <div class="sec-h">Capital Structure &amp; Debt Metrics Trend</div>
+        <table>
+          <thead><tr><th class="la">Year</th><th>Gearing</th><th>Interest Cover</th><th>TD/GCA</th></tr></thead>
+          <tbody>
+            <tr><td class="la">FY2022</td><td>0.17x</td><td>15.01x</td><td><span class="pill pn">N/A</span></td></tr>
+            <tr><td class="la">FY2023</td><td>0.22x</td><td>5.25x</td><td>2.88x</td></tr>
+            <tr><td class="la">FY2024</td><td>0.16x</td><td>8.82x</td><td>1.81x</td></tr>
+            <tr class="hl"><td class="la">FY2025</td><td>0.11x</td><td>28.46x</td><td>0.51x</td></tr>
+          </tbody>
+        </table>
+        <div class="src">Source: CARE Ratings press releases (Sep 29 2023, Sep 27 2024, Oct 10 2025)</div>
+      </div>
+
+      <!-- KEY CATALYSTS -->
+      <div class="sec">
+        <div class="sec-h">Key Catalysts</div>
+        <div class="cat">
+          <div class="cd">FY2026&ndash;28</div>
+          <div class="ms-body"><div class="ms-evt">Execution and commissioning of Phase-1 Dahej capex (INR 315 crore)</div></div>
+        </div>
+        <div class="cat">
+          <div class="cd">2026 onwards</div>
+          <div class="ms-body"><div class="ms-evt">Deployment of True North's ~US$50m growth capital across R&amp;D, talent and capacity</div></div>
+        </div>
+        <div class="cat">
+          <div class="cd">FY2026&ndash;27</div>
+          <div class="ms-body"><div class="ms-evt">Ramp-up of new dedicated CDMO unit and backward integration into Lisdexamfetamine Dimesylate</div></div>
+        </div>
+        <div class="cat">
+          <div class="cd">Ongoing</div>
+          <div class="ms-body"><div class="ms-evt">Potential CARE rating upgrade if revenue scale sustains above INR 300 crore (FY2025: INR 272.85 Cr)</div></div>
+        </div>
+        <div class="cat">
+          <div class="cd">2027-01-31</div>
+          <div class="ms-body"><div class="ms-evt">Maturity of existing CARE BBB+ rated INR 15.10 crore term loan</div></div>
+        </div>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025; DealStreetAsia &mdash; True North picks minority stake in Embio</div>
+      </div>
+
+      <!-- KEY MILESTONES -->
+      <div class="sec">
+        <div class="sec-h">Key Milestones</div>
+        <div class="ms">
+          <div class="md">1986</div>
+          <div class="ms-body"><div class="ms-evt">Embio Limited incorporated in Mumbai (CIN U24110MH1986PLC038680)</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2022-09</div>
+          <div class="ms-body"><div class="ms-evt">CARE rates long-term bank facilities CARE A-; Negative amid scale/profitability pressure</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2023-09</div>
+          <div class="ms-body"><div class="ms-evt">CARE upgrades long-term rating to CARE BBB+; Stable</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2024</div>
+          <div class="ms-body"><div class="ms-evt">FY2024 revenue falls ~13% to INR 180.95 Cr after a bio-digester malfunction cuts output by an estimated INR 30&ndash;35 Cr</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2025</div>
+          <div class="ms-body"><div class="ms-evt">First manufacturing block operationalized at the new Dahej, Gujarat facility</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2025-10</div>
+          <div class="ms-body"><div class="ms-evt">FY2025 revenue rebounds 50.5% to INR 272.85 Cr; PBILDT margin more than doubles to 25.35%; CARE enhances rated facilities to INR 98.85 Cr</div></div>
+        </div>
+        <div class="ms">
+          <div class="md">2026-06</div>
+          <div class="ms-body"><div class="ms-evt">True North (Fund VII) invests ~US$50m for a ~25% minority stake to fund Dahej Phase-1 expansion and CDMO scale-up</div></div>
+        </div>
+        <div class="src">Source: CARE Ratings press releases (Sep 2023, Sep 2024, Oct 2025); SCC Online &mdash; True North investment in Embio</div>
+      </div>
+
+      <!-- FUTURE PLAN -->
+      <div class="sec">
+        <div class="sec-h">Future Plan</div>
+        <ul>
+          <li>Execute Phase 1 of the Dahej, Gujarat expansion at an estimated cost of INR 315 crore over 2&ndash;3 years (CARE Ratings, Oct 2025)</li>
+          <li>Fund Phase 1 via INR 150 crore term loan, INR 65 crore BIRAC grant and the balance through internal accruals</li>
+          <li>Backward-integrate into Lisdexamfetamine Dimesylate intermediates to capture ADHD API growth</li>
+          <li>Establish a dedicated Contract Development and Manufacturing Organisation (CDMO) unit at Dahej</li>
+          <li>Deploy ~US$50 million in growth capital from True North (June 2026) toward R&amp;D, talent acquisition and capacity expansion</li>
+          <li>Scale the CDMO business to diversify revenue beyond the core ephedrine/pseudoephedrine/norephedrine portfolio</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025; BioSpectrum India &mdash; True North partners with Embio</div>
+      </div>
+
+      <!-- LEADERSHIP -->
+      <div class="sec">
+        <div class="sec-h">Leadership</div>
+        <div class="mgmt">
+          <div class="mn">Devesh Malladi</div>
+          <div class="mt">Managing Director</div>
+          <div class="mb">With the company since inception; pharmacy graduate (Delhi University) and M.Tech (Andhra University); has driven strategy across marketing, operations, finance, R&amp;D and projects.</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">R.K. (Rajendra) Prabhu</div>
+          <div class="mt">Executive Director &amp; CFO</div>
+          <div class="mb">Chartered Accountant and law graduate with 25+ years of experience in finance and the pharmaceutical industry.</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">Ajit T. Vaswani</div>
+          <div class="mt">Chairman</div>
+          <div class="mb">60+ years in business and industry; previously Deputy CEO of Metal Box of India and Director &amp; Senior VP at Glaxo India.</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">M.H. Avadhani</div>
+          <div class="mt">Chairman Emeritus</div>
+          <div class="mb">Chemical engineer who led Embio for over 25 years, with 60+ years' experience across pharmaceuticals, specialty chemicals and agrochemicals.</div>
+        </div>
+        <div class="src">Source: Embio Limited &mdash; About Us</div>
+      </div>
+
+      <!-- BOARD MEMBERS -->
+      <div class="sec">
+        <div class="sec-h">Board Members</div>
+        <div class="mgmt">
+          <div class="mn">Ajit Tekchand Vaswani</div>
+          <div class="mb">Chairman / Non-Executive Director (DIN 00057953)</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">Devesh Malladi</div>
+          <div class="mb">Managing Director (DIN 00025221)</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">Madhusudan Rao Garimella</div>
+          <div class="mb">Director (DIN 00267548)</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">Kasthuri Rangan</div>
+          <div class="mb">Director (DIN 00373554)</div>
+        </div>
+        <div class="mgmt">
+          <div class="mn">Aadya Malladi</div>
+          <div class="mb">Director</div>
+        </div>
+        <div class="src">Source: Tofler &mdash; Embio Limited corporate filings</div>
+      </div>
+
+      <!-- GLOBAL PRESENCE -->
+      <div class="sec">
+        <div class="sec-h">Global Presence</div>
+        <ul>
+          <li>India &mdash; HQ Mumbai; manufacturing at Mahad (Maharashtra) and Dahej (Gujarat)</li>
+          <li>Exports to ~80 countries across regulated and emerging markets</li>
+        </ul>
+        <div class="dr" style="margin-top:6px;"><div class="dl">Revenue Mix</div><div class="dv">Exports ~85% / Domestic ~15% (FY2025, CARE Ratings)</div></div>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025; Embio Limited &mdash; official website</div>
+      </div>
+
+      <!-- REGULATORY APPROVALS & CERTIFICATIONS -->
+      <div class="sec">
+        <div class="sec-h">Regulatory Approvals &amp; Certifications</div>
+        <div class="cpills">
+          <span class="pill pb">USFDA (Mahad)</span>
+          <span class="pill pb">WHO-GMP</span>
+          <span class="pill pb">PMDA (Japan)</span>
+          <span class="pill pb">KFDA (South Korea)</span>
+          <span class="pill pb">COFEPRIS (Mexico)</span>
+          <span class="pill pg">Indian narcotics licenses (Schedule-1/2)</span>
+        </div>
+        <div class="src">Source: Embio Limited &mdash; official website</div>
+      </div>
+
+      <!-- CAPACITY EXPANSION & CAPEX PLAN -->
+      <div class="sec">
+        <div class="sec-h">Capacity Expansion &amp; Capex Plan</div>
+        <ul>
+          <li>Two-phase capacity expansion at Dahej, Gujarat; total cost ~2x FY2025 net worth</li>
+          <li>Phase 1 cost: INR 315 crore over 2&ndash;3 years (CARE Ratings, Oct 2025)</li>
+          <li>Phase 1 funding: INR 150 crore term loan + INR 65 crore BIRAC grant + balance via internal accruals</li>
+          <li>Objectives: backward integration for Lisdexamfetamine Dimesylate intermediates and a dedicated CDMO unit</li>
+          <li>First Dahej manufacturing block already operationalized (2025) ahead of Phase 1</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press release, Oct 10 2025</div>
+      </div>
+
+      <!-- RAW MATERIAL & FX RISK EXPOSURE -->
+      <div class="sec">
+        <div class="sec-h">Raw Material &amp; FX Risk Exposure</div>
+        <ul>
+          <li>Profitability historically sensitive to crude-oil-linked raw material price movements (CARE Ratings)</li>
+          <li>~85% export revenue (FY2025) creates meaningful FX exposure to USD/EUR vs INR</li>
+          <li>FY2023 PBILDT margin was reported between 5.85% and 8.16% across CARE Ratings vintages (restated), reflecting raw-material cost inflation impact that year</li>
+          <li>FY2024 revenue was reduced by an estimated INR 30&ndash;35 crore due to a bio-digester malfunction, illustrating operational/utility risk</li>
+        </ul>
+        <div class="src">Source: CARE Ratings press releases (Sep 29 2023, Sep 27 2024, Oct 10 2025)</div>
+      </div>
+
+      <!-- PEERS COMPARISON -->
+      <div class="sec">
+        <div class="sec-h">Peers Comparison</div>
+        <div class="peer">
+          <div class="peer-name">Anthem Biosciences</div>
+          <div class="peer-focus">~INR 1,800 Cr revenue (FY2025) &middot; ~43.4% EBITDA margin (FY2025) &mdash; fermentation-based CRDMO; listed FY2025</div>
+        </div>
+        <div class="peer">
+          <div class="peer-name">Sai Life Sciences</div>
+          <div class="peer-focus">INR 496 Cr revenue (Q1 FY26) &middot; ~25% EBITDA margin (Q1 FY26) &mdash; integrated CDMO for innovator pharma companies</div>
+        </div>
+        <div class="peer">
+          <div class="peer-name">Neuland Laboratories</div>
+          <div class="peer-focus">INR 789 Cr revenue (Q4 FY26) &middot; 40.5% EBITDA margin (Q4 FY26) &mdash; API and CDMO manufacturer, Hyderabad</div>
+        </div>
+        <div class="peer">
+          <div class="peer-name">Cohance Lifesciences <span class="pill pn">formerly Suven Pharma</span></div>
+          <div class="peer-focus">Revenue / EBITDA margin: <span class="pill pn">N/A</span> &mdash; CDMO with ADC and oligonucleotide capabilities</div>
+        </div>
+        <div class="peer">
+          <div class="peer-name">Cambrex</div>
+          <div class="peer-focus">~US$717.6 million revenue &mdash; global CDMO with DEA licenses for Schedule II&ndash;IV controlled substances</div>
+        </div>
+        <div class="peer">
+          <div class="peer-name">Laurus Labs</div>
+          <div class="peer-focus">Revenue / EBITDA margin: <span class="pill pn">N/A</span> &mdash; Hyderabad-based API, generic formulations and CDMO player; one of India's largest pharma CDMOs</div>
+        </div>
+        <div class="src">Source: India Infoline; Sai Life Sciences Q1 FY26 release; Business Today (Neuland Q4 FY26 coverage); Tracxn &mdash; Cambrex; Laurus Labs</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="ftr">
+    <div class="fl-t">Confidence: Medium &mdash; Corporate identity (CIN, incorporation date, registered office), board composition, the credit-rating trajectory and the FY2025 financial rebound are well corroborated by CARE Ratings press releases and Tofler/CompanyCheck filings data. The June 2026 True North investment is corroborated by multiple legal/deal-advisory press releases, though the exact deal value and post-transaction shareholding are not yet in public filings. FY2023 figures show a restatement discrepancy across CARE vintages (see Financial Performance note). Employee count, product-segment split and market-size figures vary by source &mdash; confirm with management before use in valuation work.</div>
+    <div class="fr-t">EMBIO LIMITED &mdash; ONE-PAGER &mdash; KELP RESEARCH</div>
+  </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  Chart.defaults.font.family = 'Inter';
+  Chart.defaults.font.size = 9;
+  Chart.defaults.color = '#8A9AB0';
+
+  var years = ['FY2022','FY2023','FY2024','FY2025'];
+  var palette = ['#2C4A7C','#3C9E41','#E8A838','#8A9AB0','#C0392B','#185FA5'];
+
+  // Financial performance: Revenue, PBILDT/EBITDA, PAT
+  new Chart(document.getElementById('pnlChart'), {
+    type: 'bar',
+    data: {
+      labels: years,
+      datasets: [
+        { label: 'Revenue', data: [154.11,207.88,180.95,272.85], backgroundColor: palette[0], borderRadius: 2 },
+        { label: 'PBILDT / EBITDA', data: [12.31,16.96,18.88,69.16], backgroundColor: palette[1], borderRadius: 2 },
+        { label: 'PAT', data: [2.70,2.57,4.47,39.05], backgroundColor: palette[2], borderRadius: 2 }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: true, position: 'bottom', labels: { boxWidth: 8, padding: 8 } } },
+      scales: {
+        x: { grid: { color: '#F0F2F5' } },
+        y: { grid: { color: '#F0F2F5' }, ticks: { callback: function(v){ return v.toLocaleString(); } } }
+      }
+    }
+  });
+
+  // Margin trend: PBILDT margin vs PAT margin
+  new Chart(document.getElementById('marginChart'), {
+    type: 'line',
+    data: {
+      labels: years,
+      datasets: [
+        { label: 'PBILDT Margin %', data: [7.99,8.16,10.43,25.35], borderColor: palette[1], backgroundColor: palette[1], tension: 0.3, pointRadius: 3 },
+        { label: 'PAT Margin %', data: [1.75,1.24,2.47,14.31], borderColor: palette[5], backgroundColor: palette[5], tension: 0.3, pointRadius: 3 }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: true, position: 'bottom', labels: { boxWidth: 8, padding: 8 } } },
+      scales: {
+        x: { grid: { color: '#F0F2F5' } },
+        y: { grid: { color: '#F0F2F5' }, ticks: { callback: function(v){ return v + '%'; } } }
+      }
+    }
+  });
+});
+</script>
+</body>
+</html>

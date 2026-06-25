@@ -1,0 +1,23 @@
+# Secrets — NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+
+# Local scratch / runtime
+scratchpad/
+*.log
+_junk_output/
+archive/
+
+# Runtime-written cost ledgers (recreated on the server; keep local spend private)
+cost_ledger.json
+API_EXPENSES.md

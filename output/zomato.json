@@ -1,0 +1,2904 @@
+{
+  "metadata": {
+    "company_name": "Zomato",
+    "sources": [
+      {
+        "name": "investor presentations and annual reports",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofCGdTs3BTAa3Zh7yGPcLaylNHxc9ICIGhmSZppUSz4AP01UwNrHn-I681N9kGZxnmeWWFxNC7sezKardylIRD55liHw3AB6hOukBxcOQEDe5yBunMdsgjOmExRlXiLGGUB83Vef4Ume9hw0dfyHG8ArHavstY3DY2bWsZR719nR7TyUY",
+        "accessed_at": "2026-06-22T12:59:03.127051",
+        "field_attributions": [
+          "5-year revenue",
+          "EBITDA",
+          "currency",
+          "units"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW8tDMLXs2YTNpvXB2saAetOK7i5MedUKHXQGx0PRH4eniiYHBlEKnttnqkHjUsLTZFGWcZ5iJ5d1G6YmzzYr8cN3HO4O3A4O-d5KsfzklF_OLjsd2BNIXUXaLOODy7DyaxnkraUqvVMpho6iGCV8uqe5WSS3OSspQ4a1XAbt-IEtCqa82oEHAP5ZGfEPvP0fwBPSpVd7AVBtqxoEgmLVV1niapH19MsR3HoS4",
+        "accessed_at": "2026-06-22T12:59:03.127146",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1lInEznW7Mnfqh7FoPTtJo-rg_hbxQVBlXIR6XDZkp5C0mvHKZssMaZSbNsm5pEiRsnMJRLxZVKsUBzW9hnvMCQemkd3oOFVQzLY_tLjxBTOEtNHyTb3TNwzOH8RnJLmyhnqaCX453iwxMBiU-Ng_0_MfHH3lVvl1HYWp9AgCIklahw==",
+        "accessed_at": "2026-06-22T12:59:03.127150",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHikupJzMBi4nQErH5AKSdD_G90FbpULTwqQCSw-_8DyYpVqQatyjKyQxmOyjKAjDHzrouh9nda2h2QI-rfCRiz0gu6fB6zqnj1IoCI_KSLpwYAmHXPihKRr1xUTuEjqY_ecAPXoCmz8AEOCjBTfui52w28mOHTuJrE170=",
+        "accessed_at": "2026-06-22T12:59:03.127154",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcmTvtSk3ghthK1Ail1Mvp-Fj4nwXy76R2h5NvJvVjvHhVVFibOeu5jURM7a0ayIyMB2IcKolJGCNIow52R1jVx9wD7OeSmXvvZWmieQO_ZdVf4jZ2mcI3TGIYC4vrI6zCyw=",
+        "accessed_at": "2026-06-22T12:59:34.229519",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX_OqhWbKTLE3e-NJLDILcD2cK1Z1Ao5TuNWPb63fZyBjruQOmwpRGEpsuBRY1QHHoB2uvI16wh0tyyi43bL2eGCbWV_vw0MBsu_Fr3OlmAic9NzfTc0dfzmWNRZ0gSxXEsPggQqlPjolBA1ZYlA==",
+        "accessed_at": "2026-06-22T12:59:34.229538",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYI8tfynmYD7kcpv4efpXChd2Z_PB3G_vZFwHr8ZFAL5queXUxRLYOoPO3S2YYX66cGZqfdhysUfVLnOh2nIX7FFwaF2_4FR1gyKg4Vk0inR3wjbXdhx5OKIp7ZU7Fvfho7RcRvQqDN1Xri2FXahJ2wTY7eGVj9TfGetyszHzsFP1Lf-pWjGY5BZxpXLmb",
+        "accessed_at": "2026-06-22T12:59:34.229541",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz9wItZHlJBjXPPnUJiQX6mOj_-8ecb18e56rsriIIutrZT8bfX5Pc-dVunz_tV_QocR3wanKz9QF_kmhZOSra6QkAHxjSFKRoHfYq2wZhBNXkssgLCzHJ30h9uJgmeFelzAzL_0LB9SMTSjnL1ROB3Sl7ApEwMrPmDCRxwvP1MgRgqJAWY5HJ4sLK90dnHF0miD9wjNW9ZY__xjdZ2s_7WsADgaN1hjJx2Yh-_v6zNczuq0YIBaz6F6LArId9javwwcVcChmQp542mbRA6OB4eHqiUwPsmQ==",
+        "accessed_at": "2026-06-22T12:59:34.229544",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMdzxl7tmHFoiFzhzNroSq6cC2HifsbwlxpKYLxuyTJGZDmDiawGbijibh0uXAQonpfeih2ChJpnH3x0zQRDdf04Ijm1A2rvYHh0_4qAs9r2y8DuWnjGYWQAxO_X3q4U-sZrY3XfVLSB7_yI26RAOOiy-4FHDqnbFF1a89OEeDzfwHxwrHByN7QzFaueQ1WqIKsKWw5glmQ7TUsJYPPLQ1",
+        "accessed_at": "2026-06-22T12:59:34.229546",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1KK10avHd9Oa4bqvrZrAF7FMkKWS26G722mFusdjs84yV-jxmG_0PCv5Xv-2cd7obirNbKAj80Y3OGnQvVLgsIaB4LR2PtVzWt14WTY1OQ0pKRVwGkZbCsJVGHxYSjDqC48w-YphWILgxmuSzFK_vcQ==",
+        "accessed_at": "2026-06-22T12:59:34.229548",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkKeIGdX0XBSj2Zl7Zr9jDROP6Q0-PwoH5WfWd_2cAF-ZX4b2wUl1qHsbaKs-_df0_PToZbrU-tFg047gzc9chKLUehdlRs8DKPM84lzUlwj23QsTmcOCADfxWEsLmduSUMRaKxTU4O2Bh",
+        "accessed_at": "2026-06-22T12:59:34.229550",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfWYDWzKk-UO5Qhp-pj2qgWACcUGNSpDDhhqEr4LA6zZYxFKDhFH-qbgORldwkRDftjQUEoYp3yKY2uQhY_ts95dtzOEtp_m4oHQfggmyv8zrwzQR5nHrJF91bo2hu_8AseGOBmtNC0UnnLvFkwId_HTZeURa-jn_a99y5nogiHVoHmCaRzv81Qt1KXzNbMjtYlqTfiJXHvISx_Mo2yrcy8w=",
+        "accessed_at": "2026-06-22T12:59:34.229552",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmY_LJG6t20mAGiLR60MVBXIRpWQgnnHr9q5u-bV-6EM0Pb8OZ9xrVgKCjEqR9A8msKmTEUH5ZTXjhsDZnVUkXXzgtBW9iRnOVOhVsvyoagE0H19HybLPt5Ba50fZ-ngQZXqqRG7jqgaF3Ll8JVGRmx5ICUAH9uL83rMCTvJVVlk7_8t3mtI7I2-Ul3_58",
+        "accessed_at": "2026-06-22T12:59:34.229553",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElIwI_TPuJgal-QAQbMCH98YB7Fv-ot1I-egJhrqIGX43j_cidBsHM_u6b6xirFqjQ8NfsjnPCBBvp3_IldddFaVq5tYBYBXgjHwO3GEkYjRA98kPCOX_2L6gqBUhf9DnVaJdbbVvLrpTfIQ5jFCHTEFFzBOH-aWWVes8CZvZgpi6ubNa-T8RYOF35k0ouzCcHayslrStEVaNx8NAZKflUbW-K8kDe_QCI1400HXLkJYQ=",
+        "accessed_at": "2026-06-22T12:59:34.229556",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoSnyB9He2jKeS7lwlhKyjo2gHa_qA8I_ihVoYKXxWkVvdkq23du44Jr3a0lbrKPZUNB4a74oFjFgp7wRp5pw_iuIxTir6HjuU3SYzZCKPR3Sk-xL4yDjEIfd1VJpOBg7AFjcH6qnQIZTMDewULdFNc-2JiAZRdYDIJ4zFecPBOsrF9LtRNNbrLujkHO0=",
+        "accessed_at": "2026-06-22T12:59:34.229557",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOKvGM40bz2zbgzmwtjvlVLcUB1viXdmABhycSdlfhg170otI_fYjLmwoRSpfOHhXO1iNZyLvDJ0IMthI28DfTzOozLEzYu-i-lpCXb18M_joCERQ2GzOvRYYP8jri0t4JImN9YWXo6L3Y-t2XExsVny0TzPxtFso12emBK7zCWONMBlGkPv4W1dESq6o=",
+        "accessed_at": "2026-06-22T12:59:34.229559",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiwZfpG-XQR4mvPOIdlP5Dn6ZRi2hYgR1vZDNhOqjjoyzqWiiSUaoApLQn9LQNgFHoWtiQ0t5k4XXBiLfheSO1bMyF6HHsNNzrCpcZtNdX7VRLl_n7bJ-4Fz6rNsRwR2tHxksEyCKIAYxDvZg=",
+        "accessed_at": "2026-06-22T12:59:34.229562",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwHXhZ540jdAxE_fniOzpDEr1Z3yd9PV356gsq_Lh2lbGvjI3GvDb8V-6Km7Jzef6m64rknw6sY1bt1vlsaf2N3ZYZ1EnMBoJlrGl-RqL80w45np9Yl72DsU3LWvY7KWiYaj5TKoyYCW_wsFlAmUw_kGiB36rI11g9pQbEaYjA",
+        "accessed_at": "2026-06-22T12:59:34.229564",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvR725U967sO4SoIbpR00KnIjM11Hj9C_I9hdWuoumaIFQ51OJ03zLlBMZRSzYfSj7MI2oDJyztWJPbOrASdexIr7zQpIUibA3i8usMglc3DGiKEEpUJcvW4El_EdRHjH7KmewUkYiOrYCtIAM4dxgDxlSPZOEdsU0434R24O6m5XQhVdtNvGlFrNdvx9noEiTRU-ivU4LcVIEEqmEm7IXbS5ELMsPeZ1RbgdO",
+        "accessed_at": "2026-06-22T12:59:34.229571",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnA_dhgy9TsvNi49XJ0RDDzbmQwdXLHmWihVKVpdqBHAPb5tE5_V6Au3GC7v-r3aNLSJNbjH_cqyt9fTFJaBbQa8xA_ysSw_tgnb72Hb_L8otYKVssT_xm2lknsSkX",
+        "accessed_at": "2026-06-22T12:59:34.229574",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRYvobgYlHYriFeycGVpt6lTArsip-oLQE3B6cCLUw7Cgj1lug1G3x8fRbXQJ0iZoodINAqR9Uez-CY94IY737I7Hdh_4iYTHksXC0gjrODTyfKMrlAN8-AMjvQvOSUrBnGjJ4sU59CuWrAjKDeRGCSkCP6cmqz8Ae_IKig3ueiUd_xwfpTWbukdpJWexn",
+        "accessed_at": "2026-06-22T12:59:34.229576",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqn84OHKvonvF3rAZ0vPvhuPVg-eZLxOvou6QEOyTJJt_xGH6oJTHdR9QnFQ40AgFGtktX7QggZZbWEJXjINdUlfdmB3FqoRl4nQZczblE91Mjt9ubS7PmgRhvhJs76eRwsZw6gSoupngGk3IYPAam-JtjNlKxUWOzyGpR1ZYIJNONpZR0bDDGfjGgQy-BI-1LlBdxMvlUZLLCVyG0EqtBPMTawam8rEduGEEZZ3n66tJIoM52GA==",
+        "accessed_at": "2026-06-22T12:59:34.229579",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgkj8PleOUyuXfhc5Wy7v3OCJQZAXvVOP2HnL242gTm8FssmpGLDtgnTa77Ylx3TEhBybyConnf19F_F6Nv-oM4HhjUla6tbK_NBURCAG0tEB2juXSvHNtD_m5iTWarrrxvDWq9g==",
+        "accessed_at": "2026-06-22T12:59:34.229581",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWVvY4neEoibIaqAjhP1rPcGbytj4LQO1oB4kNf0VbQ0PQGLI5pa442nZPWj4eKwGmLlhV5u6OjwIWxj3gqI2RKGU9DVqwn6uCDcKCc5oyLx2UchF_RhlBhql5mGarI-CesaBnvYawmhepBBi1-YMnDH8ZvQ==",
+        "accessed_at": "2026-06-22T12:59:34.229582",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwRY03aKRhzUlcTjykuuzx0ETpZ1TTMyDnXhjbE8oh8Oer9pmYU03RUGgH7WNz1EiUu7dLXw-pPjXU4Tyd5BO6D-jJC_0Y05sRhKTbythSgKgLYE4ckbc0ISa6E0rbflZXQxtr061liY50AyNBtH_60RoK-R6EuoGfeKSd8N2cLsBVLqFA1RqQdzyKGMsfzzKBokuEAqg4snRwHw-9FRmNWukDM-St",
+        "accessed_at": "2026-06-22T12:59:34.229584",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEElLnmy51pU4moG5SO1cAFIIUTIzmj5jMaop1AfCLeNm2vy5eVq0cAcGl6vAPcz1z_LFJpWvYAPw8mL8JHzrqvq_Sd8DUghPa4lwgiHbfu0afuIZf9zNqy0c7iuhH8YRJjnMxfomw6iPbp_yKIGfV47ooP8D9dpefiAoQrwwlMfZae0YiNUY86xoRreGjtVCc2cPm_s5klogPeyUwMH0Vxb4idPDdrZFFNDfWqmRmq8BDfAAyR1XM4m3TlBO8q5nTEORtUBzJZHw==",
+        "accessed_at": "2026-06-22T12:59:34.229586",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGanjzaqIrDOat-Ik0prI-xSRFCjuKtG_l5gVqi5D0d4atPwcpOQ-FzlXxTq5-5YCxdl3cWRFM2YAaTZMRZ7FHe3zDMZmu4s3KqtqBakhz_GANw8ijmF4URPuE73dxwrcC6ZRt-CeYGZh-EBkbZxadTZ-j-7YxluNDEa14H4eS3lwFKq0K9sPsEaTlv5OV83lslKXud-T2VraiITDXJvqDIjdmgk63Fi8GVKziUJe7GQXSFLr_I80At3jG_kxE7R7Y8VoY01u_fp5MCEs=",
+        "accessed_at": "2026-06-22T12:59:34.229589",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGuLyuWhl8yQjSNJwbEC9k1KLeiHU4VEg-dyv0Uj5qpHZMJgVm9FWbB7USYsmUqNa75RKEdXtbzKsoRMzmnPaxKxxLSFSUXSwePiF19b-g9tMvaZLeW6JtzxPzchFAJD1YCNjd2SsIHFAOQ0ZO4dLMWGfanPnZD_K8jfGWMRLje5bdlq9GamFOdMUG361tvrWMuPzcofA=",
+        "accessed_at": "2026-06-22T12:59:34.229591",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHukIRafR_MPtRbdCKMId1Tf2Ch7hmgmplGWeL45AvhNnPFWB601whKUBFQVKx-XDG_IedNJDsWkxVCRCHgJzVmgK1opgZYDakbk8GVwXoD2UCi9Zi4SNbjJGLgeeCrYrKrbtSq8JAXt33kUY9QDMk9jKmG2-wOX2XSi7G5p3as3oCJrKH7k_PFRNM=",
+        "accessed_at": "2026-06-22T12:59:34.229593",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkwqqcZYQBBufTKRiJTQaqauTOJbnGugHY0HzYdHvqPwHGsHSMano4QgQUhqJaitnoGvi2CBmeb516WH0QeZA6mOBzeELSrqW3bX4UuSiOelEd_zWIDp3nLGT-xEiJhoe6FfWiLGcPB-Z85cmOmxbI0UFriXVMrkmxumlugPTyZFCfW31mJP7BoBydPrjjqRBXHvbRbLzYQnbZaowEzSjbc4XzJt_uQ6e2VMhtoQ3D",
+        "accessed_at": "2026-06-22T12:59:34.229596",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbg4lzvOh947Kxa0IQViVsvfr6gGCHQnqT-nyTwXkYsTOZt3XwsWjLHLgUSVUeAhUBuB0rxOkmR-iX_N1xvXU217DAK9gkGFHBGz_REAWaiOllCb-SdxeYWLbH4kkx25lZH2tsBtb_0flsYMuXCUV7REM7WYwzI2BrWdr-r5_1Bf3bYLkH8RDn6ob_JABIq2YKTl7HxyZ2yk2DyodBTgRdwOizfR1lE89vw6lx",
+        "accessed_at": "2026-06-22T12:59:34.229599",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYCWifDabvqixEFqPbPyXim0UXIxyvxJOhXbfbfMqtFX_MKf-z1XJ7uj1AihUafpx4VDbECj5W9_FODP9DjpAXgyJTXAePXJEUl6a1i05cemowqY500L6K13RdqgD1oMn-79VUzoxQxJuiam-pGtu-wWM39qcLZ5OsW-kXLEBB_H8TXsEISr-sXZF3ShZXGKCGw6_Bx8BWy6HOZ81WY5fntpKoVocMn5GytkXdaE06Ze176ZpgYvlX3wpgJ7mQBkvBTQ==",
+        "accessed_at": "2026-06-22T12:59:34.229601",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_PPR7Bn-GW2cTGnoRcSiM6gFln-7sRiCIX3-smgSZ_O0VOzQ9rdwVLDM5c_S8aC20TkWj4N478INvwpJYcwrIgDKN1hgXo3WjbpodS3vzulfTgaF67r59TiZWRZRnh-fcUuMH19uWJQ2o0GTZbGoyil7TnmiZgaddT5RfArYGfKyScjsYUFCcYm-bLfqhOAWy9758e1xQdFObokHzU-NAZUKzVI-qaqLJfds3gYF3jCwo7xMksInZdFq9ElMKOfLvwfhwVFQzS0Em4lH-LEUC_mvoDTna0KpQl8DTJGsW3J_9",
+        "accessed_at": "2026-06-22T12:59:34.229604",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgPm__adSwD5kR7iJPHj9Ts06ufMBtTyKJ_EI5uLJNDf3sJA_xuYveJxMUEQ_tjPr4NhB93u31UgoKJQuxTUsJxVAfdt0oGcES1EqJSF4ogBlxTHS0lcSfYaI9Kd8uevv5a79g8jDfve3LFAKxXiw2-B6hdU4JRQKHGY4DG_QM6N9q5WVeX2zn8srYfgXe37s_cC4CJ10voGyGtA==",
+        "accessed_at": "2026-06-22T12:59:34.229606",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU2WnRDmsaSnEOv_QAC7wK6jTXIN_EP1O4EOExMyuvlqmCUciW3X_JhpGQmrR2FRLl4s-oQQ187bxEOXgKchEgygEF2ZRQqofdRBIcxRS6UkA5qF76ePgz1otwiMR_DeucG7wgn6XANTfWsVC4ZshrMoHlK_47waYyJ4_dvqbndIypuvOJRHXuUyt_RXhWAmEhMl_Q5Wu2sTG3LLYex7FChq-4aAFbeQ290_n_G5-cE3l1n7dBGkLzkJ1I_5DlqNvG3M6xEm4TbqKliaT_BHXVhD5iJD7CVw==",
+        "accessed_at": "2026-06-22T12:59:34.229608",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNJCBPS7BEu4JSH1y12LyElI5L95Eo3TsT312n2xkjkk9cvEeGhX8MuOYcwRrt4yEyL-geaUAEcDpM_kVT_KtYAI_nuf_es_3FhTqEpUY1E_59xebYG79ruUguN_PIIhvdkn1fiPIfNGVKzCwfqxhGDtZ2siMPNt0=",
+        "accessed_at": "2026-06-22T12:59:34.229610",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ojdMoJC0vPv-7yF1tLpnnw_hzqKm02Z_89_vKfcttaBV0qh7IpYEqeGVJwk39WS71DC-tJFGMZMcKkYTeHl9JkUtLBk5rNUSSBLfRBCNVN_LosuxiRbN58SUCrojdSEpCHIWWCyhhlr55mo=",
+        "accessed_at": "2026-06-22T12:59:34.229612",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEt7dk5ReWimzNsZbjPEcOwprjtrK6oK4nXLXcHBhkZa5-yEhpI2kK0XUlpTB_tk6TyXQB5ogi237sv0HP3SL64P7v1Z9joESDRuWUSVsDhyGKjDAF0Pm-03TT_Fsv9oX-TcFCDKIvwAVtkTaZ1gPs5WzxEX596HkQZrJtnPc_bf6BerYRakNeNKtuKT7CgfuSOvEvcyD30awhrXnPn5mi5qv9YTc-lZpIWcXlALRFse4m8LTbqJE1Rc7S56vX67losyXijN3QiL0vFueJg==",
+        "accessed_at": "2026-06-22T12:59:34.229614",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX9sA-GvcL4ALbhumvLVcAEuda9pbU6DcQVHJ0bxJo1oZzD9wgE46pYNHvVVurWM7PKmO3-Sd2GREf1c3HyppnuVB5HKByAD9IQgjVfII6S1OoujI5JJQfxqtcd8LjUl1QPu29kuCnh3kee_Q04K6nk-udw5lUWMULTtc9_gy390YjHW-huDOf7Xor9LL3dTmkLZLN0tnPoGH37E2Qx5goBN-9hOiDldpJkXoqD2TDLUolBgoFetURaw==",
+        "accessed_at": "2026-06-22T12:59:34.229617",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeYQ9jQIsgbbxQ9J6Muj-8AVtO_R4j2gW1JgylVNNt8a-bM98Qwo6EG6OS_GN5uyn539PLT4ZGSZrKePKBuNT2aKeny0nF6N8aBk0Yeai2IuljHmgoKLaH9RyuCoopdQSmDXY3Cba8_TRyOS6XFYq4q1BlqZD_JWnsqQsx8a2yzJYhuLyuUe3eJN6xIYCp",
+        "accessed_at": "2026-06-22T13:00:13.978788",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz5U_0fAyixoiHrD7fTAWE7vQ11du8ESAADzyOYrtrkxPd-qCZeGamhbduigI9_ixKMftH6N8qF2cwwMjuDUs8qpEwpmrFpeZLMpxQUJj84tH_8z0GR5Wgs99Zbaynord4-l4nHkXQS7Wg3xYtp9zQCqgTo3ttwkhf__jsfqefjoF07iTRHGyd9ogAQ-GhF4r8mP4=",
+        "accessed_at": "2026-06-22T13:00:13.978802",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ukNZ3qhN8J_9iEhTygSbdDIg__lkEaY-0OaN6jHobx-7zDjKzfi-IsNiSM2og6d4IdxqXfudSYH-H2xhEW9eQkGeQpa5PN8HQD4KRpdPgIoVfifVMfrByYLFxyUrOKBdLT0EZGCy5_pyiJXSkpJuaV-qTZbum6OXCPXdv2TrZajKiiw3gACbFO9Q49WwlE0x",
+        "accessed_at": "2026-06-22T13:00:13.978805",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkhuiLzTJSAOhB1ZjuwLLdjuwyWnibk6cn_31Ga2FQWzwheApBN5GgrfEQB15bEfFx8YJoy3ZyyQ80I95BWW6wcha8hjHFLYuR0CI9gDxGlEqo72IQybBpYoiFzCft_Cw-mwa9LraZGxJpEcmU20EQg77wmCfbAcFnh80vybA4eZS6ilK3",
+        "accessed_at": "2026-06-22T13:00:13.978807",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF266vW8bWyPsMpZ6Qna82GjQxbNGklBXVR5ZLxk1cPEEtH37EqnTFRvzEa5zI_ygpBd5Rkx0e4v5KZlQWZ51DfsB-iRAMkeaBMSh5suEU2cWU7nPtDfvZsnQO8aMVWkk_WgZwTrGhbwo-ggxceHavVB1YN1U_RxFLY8VYXQBrKKGYBX-67AxarzYuL6A==",
+        "accessed_at": "2026-06-22T13:00:13.978809",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsiiE04qLa_HWo8Uz6Sk8xJXznj3U6ufUYqFCYtB0-RgtPJNyQS_j6Y-ozzvM-lwI-sYvguMILm7LHMhZJ-CcaBDAV5UjyeIoGlBT_9xa5Yli-Rv0XUsNteCWUUjYBNkQcic1PB9ytjGbSYco=",
+        "accessed_at": "2026-06-22T13:00:13.978812",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpvvREIFL4zySQ8i3UrbtpeEEqMV55WzkPyP7bkWWq2o9L6g32GaNb40EIjRqUwB-TjJNNZdnJ8XjpORrUB2wjp1TzxePb7W1ktxW2BdzPf-OJdwY9ctJ4iFdGYa3qPLZUZD82W2brfK3WubizcX-N0Ch2lWdTW6LRB2sMl4P2eZW1OYfxno20WzcsK4cX5qjmAdBhojZmCLET9-ZVyGkpcny2Uoa97Q==",
+        "accessed_at": "2026-06-22T13:00:13.978814",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZfnkDInXEmyQtzXXrnEiejyNQQMZiti5_vM96xfwZ-yFAXapljes0Kd7jWziG8OmmjCu-hIEekvdPQNvt4qvka97UbrOsnFUDJwDXDp5GybPg8iluNF_P06mTdeBb_3CHtLCqv1oUoHfr9kZPElrhpZCfGpYOoDjwcHrurbdXwtbHkTjnLXhEJIcCPAb3_hcjJGEBmDCfczgFYrJfC7iVm2GB_9AuQMyXTNZrfSO6fvhweilPtNfqTpGa_IalL5ItBcBKz-dstw5x9zQT_rhFUfgfm4ixckhW47w-YGuPOW5ZYpYPoho9QOcLau2y7eX6aQ00",
+        "accessed_at": "2026-06-22T13:00:13.978816",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOaXYwKpqapIENs-wudUS33nNCd-QAkOsdtxeSTkbuMOxLegLIXdLl4aKk3QUSZFSe48jSTKrzCbKv2JHW3YSmRLGbtmAiB6vkWZM7bNYuINGzRVh_Zrc8TvLvM8LuET-BJ_N8oTuffoZ3r9XSPhU3db0zA10BqDwTUwVr7hEOjiY6JdoxlZ70kt99y_K9JrByklg38QH6-uppD533QVLpZHG-tsP5LE2MXlPzB5SE",
+        "accessed_at": "2026-06-22T13:00:13.978818",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISNuuC4l0gw2btYoJ8YSCB_pwVIBd9kTdF0knSOYjv4w71dAHz19kHX1Hdy2M1psQwVsD4ApqV2s27VfPIPLrtZH9hJrbiRIS3Y8cJqPNATLTrjdkuG5iSXBTklE74fxJ7VWEwQUyPcx-VfvfOrvPRcMw8aVSYVKvfUguHfCetSBFU8-AULd_rw1yCSN9LioZvXVAW0ueRcpPjn86uZ7d6M20d9PqJVD3aaKOnqumk9geS8iFGoe4uDbbedpOfd0XlqQW2eaHCSPfG11Pp2viuLuDdmx3RzwcQSpwVyge70opKmFlucGZ89O2Ka3sGxLer-JiXrbqqJYL419ci0g=",
+        "accessed_at": "2026-06-22T13:00:13.978820",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAVxqDwjkAlhbpGNv-d--xXUgffcSNhWDBfKFnyW84nbZ8dEYuEbHE9SVZuLwAd8Lr1wrWml4zxuHs-PALEVRykBGBZaowI0Um91V7dRwb2TxXthkNBwu4-51xNiidlASGj-pPMaNgJ67rU3lGI0Gt3YliFLeptSJRyCrsGR1YWIqPRorR9t5LKeElS2vDSttlq2EP",
+        "accessed_at": "2026-06-22T13:00:13.978822",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOzHFxDYTUKfFqzccnYLKqf3xCmZZP9ZdXLg0WiZeQkExwCxIuNmCt0HOqItIcsBn4Zd2zIUgjSaI8KJbCnaQg5I7e8GzmmTHHdyHrRcuiCQlLW3__WiWsx7GbGAs_DiLIB247Pjwqgsyj5NMp",
+        "accessed_at": "2026-06-22T13:00:13.978825",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8irjOmesUCUhoptcW2m0Cx0hkEAF7gsQAPWBCdD_LcX9oRx8_kMgnNEzhUAoaamnrPKP08FcHPNUyXkb9ipyJKRc24r24IMFEYAO0vkJDfwLxJ-9LrbZpC9jlm723VG3l2Vp-5CMN-lJN6X3jiRgzTYPDdEw96jRILiD0eZDpWrlDznKvTMmBIf0l4Vj3G8QcA==",
+        "accessed_at": "2026-06-22T13:00:13.978827",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEK3P9-k3EBNBX7sJlMGooxsRJT30Kr8gtWLLhLLoRc6aisVG6gCt4aZiJQCy-Jc_HnPgO81kGZAnlX2aScUyKjAoMCn9Pbcnktoc8xI-5x85vnGedw-Uh4XRQFZwcUB6shxzlvvHF9-3s4o5ZQE5e389YXdK2Czzbgpfeoc0BrEiocqlhnnY09MlNF1EaaHkvjtIUG8nocLT6gIJuJ7Qi5QdQUS-8flH9Dw==",
+        "accessed_at": "2026-06-22T13:00:13.978829",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFomCNHgDngcdpM_fTSoUAd3KhH-ZwffJKLwEYuuf81PMUAuY16M4nYNyDHVDsk0kor563YXJ6WX1RIlOhv5HROLDVzc_JlHMaL2wLLViGF46vg5kk_qEPzqke1HLStybWyR5C-lS9sZku-BUBmVIlDcEjzQTI4tlGNHaPVUTdaCjyci4ypcXhSZc1fEGY9ej-Pybkgg_3oYSIKNnPjbvq5pmObrKnSOawnUeQOx5LW4tgEUFdVsjDzDq9iEEGRhI48stJoOw==",
+        "accessed_at": "2026-06-22T13:00:13.978831",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSvJIhw9bp9b2iGoEo3sTjNFd8hqeKmW49EY9zG9tgKn_g5I2djCzqtUGgO4scx3mRwjnWPiK8G6fFmjV7CnepxKj-xTBRVgd2PAaF_HO2C5EkYhtVeDTN2aPP4QVPeqbPP6oziLPHhIDs45CcUsumYSiuYTeqzTEam2Mjw4oYys4FROYVHeK9NjaS2TCIjdOB59n2_-WZ4z-_a3GPWbgp8tDzJlFAJ8zIRUwiKmXhGxg1gD9q7PMHmOnks7e1GI3g",
+        "accessed_at": "2026-06-22T13:00:13.978833",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Qll3oPA_ZlY_WPcgCraznfARe5q2Z2WGFyi0YnuN3i_bDhcl31ZSapEsBJ7RHgPxRDQSD8KZ2SZt4w1ndjfr7fblfRmb6KWyShED0ZdxbPfnAxyp2Ak-c2cu6fRt2DN6U0RsppMLahf0aY5WjkgISJM5gx5-_BGzpEzbWj5jNzaryR4uhfLECnwlzPudZuXRcM61X7iosBMQpI238sQbSzE=",
+        "accessed_at": "2026-06-22T13:00:13.978835",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpXdmohybuCGGTjPFfmds7Lk9R02Uy17t1dk-MDImsPHVnn-b4BTY97R5hrk8LAHh3eMrHPtKr7NCwkuV7OTBz8TGFI4LBBm6_oYIJohqqW4IgG5r27Dl0_9TasQrRFqafb-zsnvhyr5jHyJHLUeYWHsWIIdlJsk6Bby-ITg6jrZM6mnMG5sBUYerWosaQaksYp2Qk7YbdLSsX",
+        "accessed_at": "2026-06-22T13:00:13.978838",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiOjJBfiWGp1Nzytf3Izozgg1KZzLIcfm-TKWx5FAMc6guFMmq_8k9CbTvTJDMZ2qtRaIkv9SG7D-kn2eilSdLYCJfKahwHK2Jj8Ydl3TExnsYh-rU7iPDErKdxCG2rMSIsejplRRkcYCamVL59pywQsg8wInx-O-7By60H8_AXVI5sdmhgrP_VV9OsHljgrSZpS0JzBLnfwNMYwwTVlZAkI02hQVHKdxDJdA0cdxEi-4LYAKbCrHakH-ZoEeIS8aKVceTRTY=",
+        "accessed_at": "2026-06-22T13:00:13.978840",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUxOq9yIXyiwULRoFkep9Qu8kQs_IlGf6edvdfqKYlXPuIAFybaQMifKbAXpWCMFninLs6DvkfNjKpMxPcch4mYWEhNCeshS8XAyVQZZ6Knmublk_moSJD4Y_XtmRwpXtFwOq8A5kwb9uTXJVw0-3wiTi1W0FJEfY7krDebxntR7h1hb_kxu7A-wCT2qP7OVO9pg==",
+        "accessed_at": "2026-06-22T13:00:13.978842",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3UzPP83QTn4LM9sZ8HZHYkyWgBCrUZJjriARnsyhPYHFdZ96Qh4749i461MObOqEdgyRHo8ksly8MEQ9oGqCHG1deyTkC6S4ooBilioxSmLB7-1pj2tGHWr6URYYyIRHxwb_IDqbv-MgLQt9Jta1A3ELFppBLXhdCSDrh3QEPqmWrK1I5qsrySVH-QgVaExv_H6o=",
+        "accessed_at": "2026-06-22T13:01:11.468918",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_oVqD7zTDuOhLfHVXZjmTLP8e3nMtkBp22CW0Rna5p7JTaY1LoEGz_0iceDdVhPY__UtoXKCq1I7KOdWJyn5pT_qVym8q80M_68nve3Ln8ekycFD4x7E6hWw76Z3vN2JH02QGgVcaRVwkxddGvJFJ67jlB3GduMsZUPletxGRqUSjGOm6MBo6hViPkvSN",
+        "accessed_at": "2026-06-22T13:01:11.468956",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBMxCswoBo8HxKHrEKL2O25-IevHMGH_9NecJ5-BP23PIFT6aholVuq67AgH7vTCEcWk2Qry-RL3XbXhCgsab5csCgU3-8CQu_2-uoixbLicuNS6A5UHysmOl7KZZEijlwMYWAtQnapngu8Gwr7ehSP7UiXDNwfe1S-ZHIC7OuW5VqLq3Ti8wzLUA=",
+        "accessed_at": "2026-06-22T13:01:11.468959",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCfklhr6eP7-du4jMBJ20mtDaJWKmNRWToA1kcVxd-YZ72D7jWlJrjQtjycCDFxSLJOemkQedl4cvLtVByg2dyoaYYvCSsVsFqW33tFiKsq44XhEQwbhI7p8Oc2SDCGDQ_QT1DvqzzPJb2",
+        "accessed_at": "2026-06-22T13:01:11.468961",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_ftQpzfuyS41KpKEpFkFSSQy6nsWa4OwoZy-1nSOZVRon_m4XKuHWXwSDt3zEoZlOFJ4rpX755qvSWlsVlVLB6vYAt_8okAjknt0JjJYJmHy1sOcWmhVnDcY6haWRCwK5665s9CnwSPIokEolSHTYZLJD-5jla8lqvdEKjdiLk9G66gglwyforUTeOn8cIB1P6zvNPb1dJrikgFgpKq_IQChVgqKzvx-qiFLqAURHPct1pMrIngA7J_OtSC0q_ssVdN9Y-JRbJn3",
+        "accessed_at": "2026-06-22T13:01:11.468964",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8w9mX0GRTW7pfe2QKMFpgAVhZu2_2XPMUzTTOG6yUqOklx5itbF1yJI4YaFRLlUxGYPJx0fXkZWxuJ746GbWYOOqP-rhPPuDPcocIUoxmp1zf-CIIJwPB9qf3zdFAgXcjhPvsu30=",
+        "accessed_at": "2026-06-22T13:01:11.468967",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTl3g1War6MAwMuJFQgRpFCNTczMJk_r8_9GEe7orPQAmowSNE_brzm9HuL-qR_elpdM-5d2nyMttfXFs8FzOq9wt_2oVfZz5fBh0aYPFcvEIDDpMLUTOXJ_831BITwfUecV5SRjlac22YTKJGUfroT1BKTt1cCd5bypem8LhqnLxgIGgfaWaAnDNswr8=",
+        "accessed_at": "2026-06-22T13:01:11.468969",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR4M2RG0NJ6CQ8A5L0pqPiUsKheXPhBrhTfTliSAMIQyCdYTewCjFYGmSBIsB7G5JIqQT6N1-Y3l2QjazXlM8NqFUIyaZ5wbpY0Q0ulPQrUut8z0-QafaXIPoNO-eGS7kvSQ6pEKx0SqRbGFNgmVhYxR35hAdi-6GnfJm-aospiM6SblUHyhXjdn0V12tviee1reQaOx57cbLzbZRVsgebVziHuk3iK4et",
+        "accessed_at": "2026-06-22T13:01:11.468971",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZRj5xiIP7qt7w9Z972nfEbpsLvGlggyTg06262M3CxjKcVT1VcB4xHMooxaeyIGySvm1LAXr6IB3Q7D8NHgyTp6C1CxKfpIBHDKHp4nuTxcCKAC5LUNH62x0vih3SMPiqT9ZI",
+        "accessed_at": "2026-06-22T13:01:11.468974",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn9kcLkQYjhzx269lovfZYn8AfpsCvWGGnWJXmt-S5COsNLpfZgCBjT-vyera8bC2DfApY31UU_rHgDQ0PDk7SFjTLfIIyPGKzqrVXKqSRrBXi1l1QnzOLBKFv465XJWSX5a3e0kV4lESvMR_Q9R4SMpSmoFn_dQufy8Xr-Oa7dglmro51oSTnMyot_yC99grQ8Yn1OmToc0xrksYLzmL04b_rJj8yyJhIX7MeK24lE1UkQBA__w==",
+        "accessed_at": "2026-06-22T13:01:11.468976",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXGgSbjVgt2X-hj-_vXkK5V9QoTRLk5lReYMruclZ-A9UioUihw0Z1jy2JQQo6d48K7Y1AwOl7tsxc08tTMWXEuA7ooLQ3GvmKbjH0uogvZMtaJtvUlPZQ1blgrqu4HAvFLD1PyrOHZ3vVVt9ozjzpmBwyT3b7tRf54QRHoiDBajmWJAMZWwkIkSSJxzr3y0f5CyI=",
+        "accessed_at": "2026-06-22T13:01:11.468978",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2cNdehjISyTdC8ylDIyoNSv0y1j-yNKEKCeXMylEbEB9z572Owt6Um2fdfqNSYAZjDbo82xS_9y1Nmko1tktfOXZl5S6snyVMqWou5_83tfZeMRB7nvD7W2ffKJ50GKidprdeunFUsVTUW5n7RyRiaGwucS8hxtUjYT8z0GxAm1C8iko3km5zMMY6VtE2hZC1M0xmCPrqg_uXBORkK2PJuQ7EKZ_ot4x5yC1knnuGwgh-0leKsLLGRLjVUgFnAmyjYvE=",
+        "accessed_at": "2026-06-22T13:01:11.468980",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqfiK2_F6T78wgkhgvrj4iLHdD3f0RBaChA-WFvdC0jZmwFJpIa7Av-5YM4JjbaHs7EBDdPD39Vc_kydG93xLYO50bB1DjMa9Gngxw56hLq-CtSO4MK8RZ82CpfoK1kfeuolQ3Vs5X3fVmU6d2EyaUv4Za_pj8XIVVFLqm8fCMsn4qH7VAa62BZ7btkuD07UXNno1K0CmTmT-eUWQ9XP5spaAVFZzpMG2BscsEP9ZtgGhafVTvf93bbbBeWoAOvpau_4fR0zLMf-H7_do=",
+        "accessed_at": "2026-06-22T13:01:11.468983",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnUmbtUe9-Rav900FonBrffVUvXKsWISje7eG5VzBJ0Fo3bj2BkwaSdjzG43k5UYfC_uJXz1WzAWqfog5wTjlFDnsexYFFUy9oJdNhnJzIj890voXy6-legxifIirVjeBhHMCV8NLI-vOiq8sKNeSd564Fy7XKTqOAUAkTSNSRQH5OOPqqqDLR_fPUsiMqEIUq8Q==",
+        "accessed_at": "2026-06-22T13:01:11.468985",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1kmerL640aVbRyGXJnc_vD2nYNLkio6DehLeU4GxSqzkJmfmYhN2tZUX4C2yduj3sFLAyShiPrHCvHDpqh22p4sNIRZySWZyicGKky0-gHL_QGJmz6XUxMCxQINpA8GnVG32lgybNbOY=",
+        "accessed_at": "2026-06-22T13:01:11.468987",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtTbpEgofTfcbHw3dgx3e3GCy_sxSaW3r7AfGXe3pTV9Jf-IWG_Gfy7XtUCHENNttGijmJK3Vb6HMelkrtsqOP82O29CKqsM_xP0qHcBveCr2NhWHYtRJ_mu11E65N-UBwWfYQR0xbtLdES0AJTlFdoWCuLDcRMWtwM5KBrafcW1ptXw==",
+        "accessed_at": "2026-06-22T13:01:41.917535",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXGjMptCZEUR_RPVtU-5JeJEjsIm67btBhij3qolUoWq9Kvuo-fel4UwAuvQsmMvX2zH0h4OUI8l5fUt7H9tGQq7STWHzEbQZsFXULK_-pXEI3Uvr4f8kGXZA03VVrgsuZITnPzh_4cEOQUaz0nbCpsFEjMcfAj0LJDfPxRZIlHhn82BWJTS_scLuy",
+        "accessed_at": "2026-06-22T13:01:41.917578",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjbeQ7Yl5YGQC34dgOQB-DhBJg1ZAxJ-pd8_xaZp7PGw7aZoTI1RaBWanVnkbRlVyVxP77gkndtpoDwFEteaLAS9rIaS3QzBL6POwAnC5sh9Xu5GWRjoWAe7MmvrRzcS764D5WqYknRlojct9eU3yLWTSNneuu84k08ZeD2MIe2e77VoGNXCOcE9j036HtvvInuDnseOWV",
+        "accessed_at": "2026-06-22T13:01:41.917582",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETS7JUbze2NrUI6hstM9K0VxaV3SxgzftzLGiLLGCgIp_xwXnkLxkaEeEcUrS9wgW0lMTa4usgeKs3WqKVP5rrT1Ekofwhi5B2lq6PGsMTwofeqXS4uAYfAST1Dfm-JNlfKpo8cqAsJh8BUeBG1SrFf_0VCiQccxNxAzIjDSXbgk0fzfE3amyngRfVRTnN0LmianevPA==",
+        "accessed_at": "2026-06-22T13:01:41.917586",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezy3aVlCsSI9_rN4wgv3LRgZv-RKbIxm87GSEthla5IBK2nLr0SJYYSHNegkf4yKpx9WSPkROXL0MfSq78Vp6M7GoBuUxXe6xW4hptA0Ga6MTgZCV9XJfxyEIIM2v3rtIBE3VgVKsBrWXeEQNMZu8-yDBK-rTnqTkSNuRUeIoxIewuU7vmmdy1aVw546PceAGDDFa1-q7-DIrs6a1pdJddoLVmw==",
+        "accessed_at": "2026-06-22T13:01:41.917589",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBL8__qj-aN5S9mxEy1UkCLNjUHRoIIr3PH158u1rcuMQn2ZFcFYKttBifzUX_Q1fazQKvkQ9lKK5THGZYPEmdnzhuwG3_PZTzZ6Q5UzpJiqi2URpWJc_FKFO5RNyA4dxA0_x8sARSBhpr-sqo8MtiBwQmcDkM4xPwSJUY0SCmuLNx5WfItZ98IkkjTeoP0zfjg6Zebsm3h5SkTrXbr1zBu5MWtuNCUiC6c6hPTTYJ1cHVu_lIxM2YZQXu_JG8DapvjavjVZVFZWMPjE=",
+        "accessed_at": "2026-06-22T13:01:41.917593",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJGRzYKhRr-4R8_TF7Ix4kNzUH3tmN1YMnDaaprtXVoTY5XT60HAy_wEPXkBgDCii4B2iMvzNMmd-1m9hOCWQ1Z2aJkqlPrGn0D3c-wzwU47bX_Nx-v04mL2CuIP3FlyuD-TsziVq2yq9PyxpsLe0GU3ssyoO8uFgT5wOndR0mbxWPoSxGI3cqONKMsVGfWg==",
+        "accessed_at": "2026-06-22T13:01:41.917597",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4m2B2iPuxapqA0HM4e-5LbP8OVEMRDI_GFxKUikMyr5I0xHa62PehDEqIR1elDaUSN3eV9KGAO5kvDyFkd0vr8cRhkhWgf4Y4-KE2jsZUwLRrlNoRNsVAaqcZGtIMLLWvUicJv-nVdqeTD7clcZjr2KGb3TDl9WLvArRy",
+        "accessed_at": "2026-06-22T13:01:41.917600",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYGv4qeSfkrWnXOtNMp1YrAMv8MoImv4W7aYOAr8dHLpyTjFZr-qtHr8bewjJ4nUQCrsMXaIUxKQuPLMeN0rxPgqOAmL_WiFUudCdv0VyXaniQXJiVsVlgspm07k5uT7Wf-v6TZa8TMZBq321OBMbHerd8w4vj7Y04fw==",
+        "accessed_at": "2026-06-22T13:01:41.917604",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZIVBCBWfaSUR3CObhoM1mfV6cZ0PYRTqcMxds6Po8hP8CWL-TRV23CxpXVauOzZJ8G7M1E1saGbSPmbDFeWoTHX28swTnW07CQGU5zDWWxdxXmQecyC1ZJ6KtfIFZhwowZ6tezqb2lmUjXKvzwEWE3cwlNlIBFKv15kyzVWuDgOnQlQ==",
+        "accessed_at": "2026-06-22T13:02:21.850616",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOibWwyMWiMHwaOxV6f5WUEAQPhnYd4ujUFfPnqCJP_HpYdtPwGngLFJhZfu81Efp-H8cZ5sIFBGIPV3ZB0JMzwU61s05e9dxBsc3-SYfPVbIWAmxPgqyXj8WHal4H_fcCMVOdm1n7bKVBRB5Dm0jpWw==",
+        "accessed_at": "2026-06-22T13:02:21.850623",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED0028sgHI_Pm5pfzfEOhdktG_QRtrX9VtdekGZavBNULbwOsDJTtoKMxooW6OmO84fS9rCyA92ZPS5Azj8OTYJ5zCuu7Zf1rBJMOSKZkNOCEWbGMbqP-nZgaoYCUx6LXe1xJV6rkMJ3qLaHaCbPnKOZA-RexfNcvtiMS4pUck2UNap7tnFMC-AViDIP8=",
+        "accessed_at": "2026-06-22T13:02:21.850625",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZaGSA-LvDoutI5wOOZzoDIWiVVv5HWX-vN79AkSjTuvet56YZrqobAj41MmICaI019VdWYk_kOfSHmUvFWR1fiSL-uUkGacLT3NxTwtZ_DrSD6vBGo_ELp54zn5DE1-Up85EzmFp18Kv84aFFWbI23CloZsvsAd4E_4CTx8QG-ubtkak=",
+        "accessed_at": "2026-06-22T13:02:21.850626",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYuqReczH_b2P3YM3iIGnGo0bHbb7hw_xCmD8MY1fo0ojQkXEk132jiDrjHcqXSnxwlpt5MfTDlmhIDfugnOuiqRseETkQlQtoJZ43IRDtEwnuP6VTTkZcu0Iz2RzwKd-AAy5tkh5wr9c=",
+        "accessed_at": "2026-06-22T13:02:21.850627",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAuZVgm_btqlMIuqpLXZq7-CwdnCPvp2p-1Cx2Uf68dCxs0h6DBujw5nI7bwaY6MC-JFQSuslwjoJnlGWQ6ypEv8K9DEYWRzLvs80E86DlD5t7XZpHvQBTP7W7-H3kgHImmooeFswizCaSArUdjCxkZRRWZoMShYW4y2CE1aF2GaimON7jseuEzyME4gk97LicJrK8JEK7stpO67dY85WQ",
+        "accessed_at": "2026-06-22T13:02:21.850628",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBAgZRhvGWpSqbpaas8Oq4LrN5EAXdA_y-TNO2j7pt4BQg-itlfRujqmysJrGNGQx-UIGkX783JH31_qbvqM8kg0UWiB5pFzZCJurBHshMQfHKYZ24Snwsdh_Qe3MZJfewAEfoOMsM8tcJK_ijxlOyc50eqN6UQlKh5H3pyGWAWgOgJWG4rvQEE9l-3RHkWn2DSOjaEP8hViT0Hh_-lRLyXjBMe9E8VzFraEqo",
+        "accessed_at": "2026-06-22T13:02:21.850630",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvr8nwuwMb4fKKOApAHbsC24Xm0EehHQUzDtcUGtJZpuelTQtedY5f2i0iL2ea585a04Cx_wzMKGx-GSjMYg-BkXzCksCdR8iTvslfkf_Yj1iNyqeYtnsiYrzVhfogO-TIY1YFlpTCV9xIN9Qk2ZEEtRMtA9aTqbWfUmcCdr9194BxS4ZFjA==",
+        "accessed_at": "2026-06-22T13:02:21.850631",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWaiLZGj9gUcisC6tU0fJ84x5f-I99_Q39L450SaLL1whls0U0Bts8DIP-Z6FMWhnfVYxnTJbp5wvkECuNyC-8TUAF1ZVI-BOGDBdycGvcGOnI8RUVbnM5ehz3KgUIIej0IpOyCc-9kTKK_FfDvaCHfrPtw9n979ZuPJtOn4-sLiibYvxMHcgCDqhDBJJoC2vVTA==",
+        "accessed_at": "2026-06-22T13:02:21.850632",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVgLl5hTrqtVaiWZeQeC172F16br_aeZFZSy82Ub39PbFLpHo414kykHn6QTGnnCP5BR18jqnQzvwLH9jdIv3gaXloEgvYuFaIGtWxDuPN1odmnN1p_YVIx3OAVtELwo1A-HzprmEmWoobLmhQA9Y0ubEzt6-tjMwTrI4LSxXr-ao=",
+        "accessed_at": "2026-06-22T13:02:21.850633",
+        "field_attributions": []
+      },
+      {
+        "name": "A report from June 2022",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV1h3ZA8xMYfrub91BkszOy7DC_3gIjXJgBHzLengC3uH3ZpLm5zJpygpzGVy0CMOL94GysYQIi70S66Wuo04GpTFsFUV7cAS1HFVYO25uM4JHwxEIoZykvq2z0uDMOVuItIYhkh0I0gJVBSiq67_odZvbRY19UNgAhIt8uDZxuAXii8N3CHdLGx81SwBYHoLzJ8LisFULWIMtEGEOPZm9HeETS4AVP7h70MMypt6aaUszbZX7NK2IyAXPiQ==",
+        "accessed_at": "2026-06-22T13:02:46.313015",
+        "field_attributions": [
+          "Rider churn rate"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtFufZnL4k-4AkITdBoN7Hiy1omFeaPonTSf6UgGIMHrhX-RcVBuQp1gYdSAmi3zYOfBuMGfD9vaT1jsAoJzo8Rq1WkG1xRE5DrZmZ3tJxH9SQn2a0k218ublLra9ouhJ8dp4-NfNXDYDeNYB9kA5Kr6wQzDlnnKarda0Otnefdk7srOvow4h8r5oV",
+        "accessed_at": "2026-06-22T13:02:46.313030",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhRWOTl-UY4bpP9LMBBYaRacOzz5Bi9Xum2_kH5k8SM4fD-Bx1az8fqUmoquBxLIL2YX_KnxGlX6NZb1IrFXVjX9lrDnuEmqyLWkx00WDmQ-rYlOJ9boD4JhKDIESTHH4BqjCgBlPy4QIUt_tfM-iicM-x70P2N0cyH4h_M1CpOOYr8zyQ9crsWw==",
+        "accessed_at": "2026-06-22T13:02:46.313033",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1oGFnZkiyvhC8EhiW0U4hBN_7O7BUtABD6DgJzXqtj8e04-B2QrJqLW1OV1_eA6W5hs6j3l2MRiY4btWj_MvSHIJmJzGA3nq9zQrfuybtaNWJ02pYDfAOhkJAUtiGfcqektUYb8nMMw==",
+        "accessed_at": "2026-06-22T13:02:46.313036",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmiNuEqqLBiBWk9-wk9cpGv6exe47fpQBL_5_nRWOU7jrS3e6hf4JJlrIbrURIRcI3IGDWaav_8A9cSN5L_kjqdI56TcOSNkCk0P27eFI6P_2DKmYs8uv61WzuxWRroDUVUCTRB6J8Y96vmj3ZIA87MZXIIdQ6QKkMj4rGJ3FAANlp6Wddrmgy6pMOFgISra-vfg==",
+        "accessed_at": "2026-06-22T13:02:46.313037",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLPN0_gs8fAtSmmq73x3J61s4MG_3FuXFkz8muk3YnLUgumHn_3mwIHFV44BIUKSEMkZry8LyqW5lDsPikqi_z4O4xAKMYFSvRorz1Oz9RXRDXbElim90uQKEDh5N9bhUuXT96rtBIaGz2B8Ba9I6v9RisUNWaqBNQRWSCKawOio24jOZVqtCFz7HLQkv9hLKERjUpbFXtSs=",
+        "accessed_at": "2026-06-22T13:02:46.313039",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJ2bI2DlKsmypKCg-NZwaGuIv1SK800EjkVFmSg1Z-vPaBeGkF9oJDJjkZekq2BPRU4bXVTnfW2ccDIZYfTBQ1th-dV-6VX8czLpquiRMjn2ER-O_9StYBI0_8Deb8JZg792r74Mr4hgvX7EbdRMJL5fAenFOuZE=",
+        "accessed_at": "2026-06-22T13:03:04.936444",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhkS-3Vyp6I4M4IsFbm6brzA3VXfSRZZ8IU5Qgi8EalTG7on_ImZrEVy0Ro6sAxm2cDsx760MFSmOZX_g0Quq22XJFl0958BfTLncNQqZprbkMJkVV4E_RxsyDOeIgT8_vDleQmfSh5qnGueqd6OFWU4jvaSkoXu4R9dHRCURf-Y4-Mki2Z4KcGVj4KP_MP-IBxA==",
+        "accessed_at": "2026-06-22T13:03:04.936459",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmZb1bIqK4CzWSr6uvLS_jAdgHtw8pCoX1I3GV9f1paJYkY5IHNrHSLqjV4WSMev10Ye83RQJ1-ukX1GFiOs8OTyuSWi50ZFE8RAeEFgU77nnG8pmgqQmWXYvyfQCCfnkVjt5ydChkZ2JJevotkllBuMOzybqOMWaGyM0t-KKh5xfPJA_OnnsSyxaSIAcUZvs4HpnV_olbpHPdst81Sesm",
+        "accessed_at": "2026-06-22T13:03:04.936462",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUudiHZpl3xHalJqvGNgQvj-lbNv96pcTra_B40xPOu2idZUr9DcuLf956Wb5TcSOT_3EnyXgpOfyLGyZyWQ4UD0D7jFQCmeSrNhRHcM0DmJjGuSIswjkgiH1h2cgRmZhqUXDPdlP8uyJ5YhPi4GVPRVI09lTBBjv1pynHqxOIqFyjEn_s2lCJbnC6Yd4OQexlnim1D1Eezzk0L1yeS4SHQSmSx9xyfhMSabn61FvOFLCkdxjAUywNkzM=",
+        "accessed_at": "2026-06-22T13:03:04.936465",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1UlFTrAugKIxoDyeBqt7a6XVp-1n0xE60YHmUSSd1ptweP-qRYVyhoAPr0YU3RQOsX1AikjlFr32IUmPdEmOjZ9uLO2Yac3sxMVo6uNOr6apCwytMBdzRMz2OOJd0Yr7ppvaoZXzGdQ==",
+        "accessed_at": "2026-06-22T13:03:04.936468",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzOk5AXLz-njqVNesFHMzuw9t0VGLjqvyYOOhS9uXszjf-hslwmsFvHbaMDXXuI1SlJDRDxYViZ84F1IIla42MklsEfqS-uB-3sbCjqmzOcEb9nRbAYaRldrHM5CmeHPrX8gZttAljo-sarVYtc66twsvxcg2MhYK1S46uQ5rDhDrC-LqfAIzDvBy1AzE=",
+        "accessed_at": "2026-06-22T13:03:04.936471",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQC28liEWmZaOeatUYkjtGTAj8JN6TPQEF3CslYj_jjHplhXzAsUtiKi-fTJBxRqox6_YTd-ZGDzzcffJ6-cjpxBGdSeiYQnVujNrtUPjJk_uAGjSeEGEzlkWF5PJQg-8uB1a0KR2a3i8VUxsLuYDElS4yRl_ym4Hj0S8=",
+        "accessed_at": "2026-06-22T13:03:04.936473",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEty3ZFEWbfkl3IfVcEPjoWFbcdIhOZNYIWeHwgNPod2HC49fTQR4bYyJGSrvcEH9ffRSIf2kaO_7qR_21dLACa7p6CYlcUXTFX9O62EpoGFSaeQqY-H4HVfCC8fW9MFFMuztksR3fAySSdbWIDdm_z3Y7pcnGZTu6mlKd_ez69cIYQFned4d8=",
+        "accessed_at": "2026-06-22T13:03:04.936476",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuVk_QPIKqa5AAUs9Lqmm7rjg_GbjsvcY8m4tq_XRooryJhOfbs1fVrg81JInXF4_Yh3IEwla7frDA7xUq0Vl1Q-ZykOQaf3i5xH0lqyTknjmqoxSB7KmymejPLK9zHKWDqEE7QUA=",
+        "accessed_at": "2026-06-22T13:03:04.936478",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE10SzHudXO4yfnb7nREdfFKizUl1t_gqBxEC3h0iIazmjr3dkKyJT0d3JWFHESvk1qjy1WTlQ6EtYZNEBux59IppRyJM-P-qBgKR7kK8ZI2W9Ez9coVre2d9DEhBTufKFBEVguMK82Z2ifwWmjMqjatAICzORGEzU1UWmJshqpP0iARFjjKNU2Hc0DmonH",
+        "accessed_at": "2026-06-22T13:03:04.936481",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhC6_1iivB13sJtD60g4-ysIEmGcMpV9q2Q3ICoBJxyPy_JRIdArc2MJVNrPSVridDPQsKfp7RFi-aaEEwSDwDVS6-yHeSYvLCnRY6CZW4VtMkeQs7s6zWvNabif-DtbDWhx8_Doitz6Uqn6RRRoJ448sVvcKjJaYsSGySTGgtSmrffqF89BjVIjFD",
+        "accessed_at": "2026-06-22T13:03:04.936484",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxUR-L_qJdEl1bl3hPu32TfSV5LXUVvEtUNDqygrRWhAemi3ii1ot4gvUaPAbug9jxbXPP_ZSy6Tx0pZkTtiyvJCf7NtWOqNC-9Qn-x0Vg7f6iTdEPhC2x-oxj5DngpVwcBX2en304XRrqz6kv9uzW12kvPPL6OPYoTG_V3juBKTfRYKNF8X6T1jze3hwqmo1CdSl1T0Rh0MeFcAOOj3O0Fk4Z4fS_YKQbC7KaTg==",
+        "accessed_at": "2026-06-22T13:03:04.936486",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdFYINp76VlZ4nnXIN01N66LPSq4ktxL3pUGR_THO6oNsDIKSpO9_S9jKZqvjMwaAvocGPQTAKl7zSE6CzMoSahjLadpnlMYTQbcsDK-dd4MDwbkOrQPXWMWzil0Ym1Q5_om9m_liqr1zD8WVzTMw5",
+        "accessed_at": "2026-06-22T13:03:48.647893",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGysVs0OO4m0Kboi11ydSFuinnzQtH1xvBCYOjL66gHNiw12zQFI280OCwuPhDVcxxVhQVOBIE1d-A7QupQNWcfqcS0tyNF8QqlAlxaHkpSyiqvza-P4iNpYeIwXDfqeE4qXeqao-UYfYEyqBvu3G6ZypokXlg4QjURvlcBuvkt615fYfOqYJb77KpKvA==",
+        "accessed_at": "2026-06-22T13:03:48.647923",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK7ImlY6Trn4imSG9EVKt5qwQUN5KBEREsobaUjO4a-sfw-Gli6XtmV6DRCTf5yMb0SLVtEY2wpj_x6XX455wITY0JerqOOIRVBLDhF1C84lMGSWC7AhwHZ62ws-w3BIbvUpGmiF6ycccHLfWUfuZ1ZQ==",
+        "accessed_at": "2026-06-22T13:03:48.647927",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcJ6Kk3WKisSWNj2e1O9bO-kYd56fULv1AKkhJOIg72t9VqB6fUx6gBqNvfEcqTyApMPIb5Q_B134aOOJNs_haVGpksKQwUGnKfcQdqGQOAAzCEJQnMF5VA6aOVmlwmUsT32v0n7aQkRDmlvRJxVuqlUvJLWs_BKOGZb8ry2hRcUggOvOvzoRGjnf3lfXIyoSBI6w9uvNb0f7HWI8-otk=",
+        "accessed_at": "2026-06-22T13:03:48.647931",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXA2XBuTS4_95F5sqv6h_l8Z0iKi4DFddL3u29qSvv0hjExRkijFkYkDXGz0mVTQUVL05GdPnfLaxyeKwdef0ZJoeV226vG7FC_zUXwqz3Ruy0z3maeThkGvWhwB9zJN7eTRYTPXyO3q2UbEatz5re0FgZ5hjBa8gx8XNDro9YD0=",
+        "accessed_at": "2026-06-22T13:03:48.647934",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGj27A7CGQnaJiC2_kJjxHzhcNq8s4c8qN08XteP2B5zfJALn7IJetBX5b79EPnYOu6tEMuDXjogtORju47nGWEzJBGQudyClu-K0AOoCZzc4Pyhie1WDa5d3F43oWGHFxY4R63xBbG7YYk2uaEq1Sy3VDw3U0yeD2RDtOw9MC1H8e8DyrZIi8ZT5Z4DgqGB_h",
+        "accessed_at": "2026-06-22T13:03:48.647938",
+        "field_attributions": []
+      },
+      {
+        "name": "company reports 2025",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFchqyjcWB-APy5b6TU4wr71xN0USoK9UAL-aO6KAgOx4IfpgW7PUBkqLZXI6bhOetZxuWZViFmppGafAF1FPAZHyaF6OrFPXEZibhwKqBYc7S19sU4NBe3NYGWGH-ZZhUPeKtphYAQCMLhJRY9I1pftVgkRHQ_QMV2jiekJCthqT0=",
+        "accessed_at": "2026-06-22T13:04:14.744889",
+        "field_attributions": [
+          "AI/ML integration in logistics/personalization"
+        ]
+      },
+      {
+        "name": "Glassdoor",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHun2n2HzqTuIoGk3SMogLiQY6kGzr4sBT8RkZkkjJj4iuPT6iRveAK9xwaBOIGogTZ_rSno3vyj9nnIOf7YRCI8Y1K5w1xr14LdVUfbl0DU5ow5HtDxpwvo1sKRr0r1UhtQ2SQAr1nXqWFTslEvP1_6f9GC2cb3ADnG_ImmF6Y4UHUVq3DEDLlk__yhCc7HPBvKnp-fWvw-XXelJS7c2W5",
+        "accessed_at": "2026-06-22T13:04:14.744906",
+        "field_attributions": [
+          "Tech talent acquisition/retention metrics"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb06xnaZxhOjoVlsbT2iEBWe_o8RHUVz3Dn_J9JihBVrJUusNcAbLT5eVxXHxm9ZYsAqOuUK9DpThEWdW-8fYsi80vZoV2KRbOh33UJuBcxcTFLHG_ldgAuypOT5U9NEOEdbTPUp61WLj7rr4jW4lfbKH2L_UPyEqC_4rSnLOmhwy0tOKm5p_8zQ5sK4sN2-qvAi_rjA1g7wuZPjVoX6r_",
+        "accessed_at": "2026-06-22T13:04:14.744910",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFodNfFwmHqY2TTgSS2rdkoEaRRH7egst1b3tAtOsnPsCm92q7xWbZryaM7i5_RTiDESBsXZ0ErLeN_sKQY25ob41mnGQaSYFaD_NWfLO6fABgXMlnCIdXx7Z_eZEUd0vk6SZtKyjSBdx9MI5SSy5srrbJW2T9kthix1WqpTxSyhUnc_ogTCbz29Cf2Ymnqkvc_q7czuNTeWcdWnlupKDD",
+        "accessed_at": "2026-06-22T13:04:14.744913",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdTMmLD-RwikCXt2Lto7E-62hW-Bh2OANisacBSzmVvo_bGZifWlSixBJcOr4k0QNC6dJx9NOpjfir9DC6usG_aQo5YTxKPdPSDoK7h7HhLi6nc04FpoNMRq-sDM7jmehL-RN9QUmiipcrkrXuGijXbCQ1ccIYrA8SRUN47y7lYv1L7pBnJgW8vZJctCJma849XwtrxZEtqr-aW7sylbFe",
+        "accessed_at": "2026-06-22T13:04:14.744915",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0MFyZCzWytyMgjFnCMWdswNXhQr_7gjWJf6WrbGkwR10E4hT-zc_Q_TVDQWvsEZarDN6MbTL3fLhFsHWDAw1O6vf4sWoVL7jB7mueh3Qp4lYfHX0o9_9ZGzxhGSwdzlkiPjzJhEeMCVF-163XptME5C467w7ET1sflW5To_dmMEsDq6tsuw58Chs9Wrp-DLmYi8U64zvKTBMWTizxHuom",
+        "accessed_at": "2026-06-22T13:04:14.744917",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESTknDX5QVT6wvr7O6rI1jLWDq657eDoVcR3hknzCCZafNIn6Tq15zAQfO9HCe6tX7ryU77FOla4jxdbRhogJAwwf1wtJnpYJp7xsuXFqp2ptqR0TA2QpDbb348BrWeWVU5Wgn8Thxmf-ynRmAfw2Z3b1f4XGYZy2PdyRW1-2IRntm0Zx70VDjRrRLaSygOunmQbOkgdUNNA==",
+        "accessed_at": "2026-06-22T13:04:14.744920",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL6sxf2XTFbwM_jmcK4-WhQoaZQQfANGoqBGEFl9lfy4qx1nedJ1vjhRNeb3Y5ETsmcdSVCvxI4XlNuZesH03AZcEWeTXSFwSd9u1OgFzZEa0jGrOi-uPJOqHQ-diMHI3gbolCfZAfh5i7HFT71H_LTac53-TE3fgKtMTn0ws-VYzrAv210gNwJFuG2BW71AEn9kL_nX3W",
+        "accessed_at": "2026-06-22T13:04:14.744922",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlTuG6--UB1yNw4in3KCwI2rj-v9qbOfQrfPx5O2JKgCNVFv7EVN5-2Y8lnJmH3wn5fFE5Q4bDTZaVWHzjTbBQdk24Z2mZry2sbEU91Rb9flWIUBmdpmmEn8F0FQG97T5Zebr4nhnRxFPPMAxbXX0AaS0pZu3cimRYu38PkRJulJYhka8NRkOSi_1R5iHKm2ZiGuqBIFMDc5byGbIDWnb3",
+        "accessed_at": "2026-06-22T13:04:14.744924",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2cVfVpYvEAV_WUsukMTH4UPkwvU-X7SjjYpFfA0IxRZzBPAxy0mnWhtbLxbf22cqRXcb-yH7iD3v5pfSGArefk1GMnTMUwL_1Ei7b8tkY3somKk9PyWTfKtTirdNAdXHN9Zlt2OQ1ybZk6BxATekGfrURuhyiS1WrfitjVQ==",
+        "accessed_at": "2026-06-22T13:04:14.744926",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlMaecW7lAHIMMUVYn-8Kh0ILFKA6_ek8DyyGR5JscvNdTaoQT1Ddvv0xWzHrzyM9Sr5pGLZe_8RKU-JrTx8yFXLuW6pjeaN_9nP0ttK2QMss1gGUfRNyCfvs6mFmDt4t0B9E8cOSkIMD1X1cw6JLvb9upnj5gJ5egEbzfREDbKML5wRJhI083xhvC0sQcshS3uYXwybZyeSD2VwrjI-WFmKf_rlclN2UA",
+        "accessed_at": "2026-06-22T13:04:14.744928",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4g1DcgZPfOrn-m56qmzxjhgMp8wir3BhPjxgJcEgbfLBxt4lEKwCFtYuH6yEAwkegWpBKF8-Y4wr0O2wMmZMy1TQ3ylG9Ygc9D4apzZWncwO_een1vuOk4bmC8F8ZiLh1Pjee3qwnDBaKzY593oDSI0LHXjeFOjJaX0X-vauOTiJymdMvYQvqsnj9ABGP2TdHuVQxUWS0BlrMepSi",
+        "accessed_at": "2026-06-22T13:04:14.744930",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQQ45_OHW57_z6NmlSVVEL0dzGLYJK7HwP9gnR0DzNv038PRVdOy0vS_i7L-RnzbyqxAdSaiDCzUpZJCm5w1PskTyE_ODLWzsYEf9mHpNuyNtFSfip2LdWZ91mK72JDUzcopTzyI66GfG-HTA1uNbAXB3TUy-lDpvoXSzv5KZTc5Ll5u1ebItwzy1poOYI_epwmtig4bKwCXLeObS2FZ5VtruJJE5goUxs",
+        "accessed_at": "2026-06-22T13:04:14.744932",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYS5IqUh1l0Z2s2gG7TO4kXblANykzWRbKyy2Jp2QNa4Dj40tkP4kzf5sazozmoHoxWZQh91A4U5NKGalD1xOfIHlplrUV29aztLtfGQMReha9AA8Qo0IQjzZM_kTcGFP7Tejqk0k=",
+        "accessed_at": "2026-06-22T13:04:14.744935",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOsLiLy5xaloQ09wDdLsuNUf6B2JdlLO10vTxCnX92rUzTqTBAoYhKBjmQiQu0HjPHbFLEVoVeTak7xBh9w_5x0z2VG-EKlss_1PYa32jKtrse4kMl64_km3oM8yKGfFcpXSAtH4pgpxtyzfjpk6ENAgHHdjPVvCUfXKHteUwI5d41y9QwyhiGRw==",
+        "accessed_at": "2026-06-22T13:04:14.744937",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrgujeDjsQPLUbtrXG8I_gcj7OJZqvh2qnF6kaSeZeVvSku5l7tgBcHP9Lk9B2S46X0SZtAl1-Lub7tHy_TyMQx6UddjNxUocGZSOVHgOPFQmW8uw2vntEVdcxI46pfUJVxBsBsnsSaZJwCX4HsmvTJIADerARaOpyiRB1viZ1nVYMm6jkiEFqUVDYHXUMLFuk",
+        "accessed_at": "2026-06-22T13:04:14.744939",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdK_6UZ9YJXLdQE9WJr_JNURCZF6w6qgcsGDUvwmdxvSFPp1wO0gw2kn_FaxhRFPBnSlY4CeRTPPvt4JhUygHeisp31m-qaC9rjMo3H0R3ZuQtMaWKNf9NpImU_ApmxEI6e1ZqES7x3xrK-h4r9cD8CsgsgmiS5H0uwTBkQo6EIYJQEkUb50PLzcktOeoCWyPCsOzudqg=",
+        "accessed_at": "2026-06-22T13:04:14.744941",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2WVAnFGgWB6BJvhY2RreHmsSOMHROANOSV852sVsRK76dcDtq4FAAJsHDGjBVspToQKLPtbnWsWmgQNCFgiVFSZCNIubdjwSn9OhoGM0knhxpfDbW_2qXueqGTBuQoul0ZH2wS1speK1ZSnPoHp8oP_BULOjoPecKGUMaXq5V-3yE3T82sTbHkZogn2d1r45u87La2TuGV5S1",
+        "accessed_at": "2026-06-22T13:04:14.744943",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDYNXl-49SdyLVhv14VvUSl-bnlGYUmEYHlN3othHiq6inFjyXNaImShzbsWpeQRrEO6OPGywf149udW4siN9RhVhd5Oen64DZ7oZf3AqpwV7sStxV2ZEltsgHBSJw8NIcV60CVXW4Ic3aBvWKuJajtrj7Zusz1FsLxRHkV9Mla9grbpNoc2mkK_QZ6HOmLJwXPS9tdC1zHISgtdM11gZg_GiPa7AGOHrQtGky-5gtJI_0Wzb2QQYz9_gp3epoEZMoks6dgbuzcu1_iRRBI9QfleA1AMgQN2oPwkYtkwXYUn68Hqd3hslYNVWaOV_aGQId",
+        "accessed_at": "2026-06-22T13:04:14.744946",
+        "field_attributions": []
+      },
+      {
+        "name": "Reuters",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlE0p0ad4Jv5aX5RjsaRkxsvktcklAM53oFWK17yWn_sS9yZC1PWn87NyyjVRGCp7t1xTKF_z635XlLMMsun0R0BNvBhq9xXdwI86-yPXs7c_hPdw50CaQ76JgeF96aw02EFOF1He7rqal9t0OsMbSjMtXwWshAY79ucH9I6wF_gXt8VaA9XRVZYdj2w==",
+        "accessed_at": "2026-06-22T13:04:45.348004",
+        "field_attributions": [
+          "Quick commerce market share"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg5LqKhQwK1gM_YY2oOYj63_Kwj25V_0IswU64YXNbId3rU-POSvPG2EcsK7RVXSH68qDcZI_gyt4j1iZrBkhtNXHzeW0TnOjkOqjN6YhrC2g4mcdtaSHyLFXQoKgqYfvz245sP3hdTQ1RRXwwPFXhn7CcR3wm-nzhjZzL-Y824g==",
+        "accessed_at": "2026-06-22T13:04:45.348021",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElV4MR-aJewmYCCJk982-5yXSSsdlF5gSlVb6IhOxBk3RYsO86RTQRWTfHjns1Kd8u3HQff-0fEJ8iFX7NeF1yH0CWhUr_OA5_uEnK2AQEiVT8e0Af-9MPf6QakkRklSDk3tx9qgI2k8r7yZfbH1HCv21IApvbQ23Vide6mFo8nPYJ13Rv82kgmpRhM_umop0KL5x1Z7VD5qUR7UtPUrVI_0KFPWM0JCjK-8TOk8B9yOMUsewFfQA4RczOpuc=",
+        "accessed_at": "2026-06-22T13:04:45.348024",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Y77i5dYChUjA7cR3yjOeg4F2tUb_7Q-iEfuNJ-bmXBCQxpGQ4KJEEZLaH4RBCZ2RGzHXpcx9JlR8t-DAvOIc7cyRPoS7rT2SvaYyvYrjoYyjfhcPAUyHc2TrtbsTmUJq3AOo0WG6fJNt3og_xmgFNLh-SaU5wGf7fB8NrIGdJJ8aBT7ncKND",
+        "accessed_at": "2026-06-22T13:04:45.348027",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbmx1KNCBnyHFfSTiulUIQVo3SkJIm18pHY3j8mZVQBl7IMxbP1mQlVt1jsj9u04qUXXOpPvxQdwFNeTAQIjAPu2P7rDdeKqLTayO3AFIeYAu7ooaUXhU21H8lUnZi8d9iOF1BYeeCgZkfbxLve5o_TftY7Xjo1a-m6dW_YZrTllFf2WTOpWCJdJ34-8XPIWimKYom2CALVXQ=",
+        "accessed_at": "2026-06-22T13:04:45.348029",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH08dH5Hq6VCiHjDeQX6R2xldmXUw9B_nD2CmZRYJHd_GiA3oAl9ddBIEs8UJ_J_C_AxnmRyqM5zRgGGmQkUEiKAzuKOrUFKaHAC5X1FpWLpC8-n216mlEqvKHP1K7iTk4cBTwc6TtGgDm5Iv08WyCi3hT7Wn6eVQh5GGzQpBraHmc=",
+        "accessed_at": "2026-06-22T13:04:45.348031",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlSuAX13sy3Cnxo879ixL6CdSKymq_TroXN6-SiYXo0LnHpw4QQCcFZaflKvVwhzAHNx5D36O9OQdEXBBBa4q2XzDbMTkmRnDTQzCPdbmSfkgPhulA5G0gkchwlCfZs0Q5s8W_Y1vsXM35ZTmnfnEzLAV0Mq7SrYi0MqrSBIPk-4wtzYaRewep-HLiRyUl9wn8Fm4NqId_rq64XnlTz_kwuHc3NdDI0M290J8fCYBx8BNOw9Yx2eC8nS57Eer5cbB_oSbbho5Nk_qPXOm_d0PYOUFSVD127gkbchBmVLmb52yAoPb5jx_Jctf1FTqzgnA3XXW01Y0=",
+        "accessed_at": "2026-06-22T13:04:45.348033",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbbD6cSqjM2RNSSWXuLC191erXBm7dohcpev4gW0OCrssJsCcqu7EOiYRpnWbicmRM23Ff4xN7rPhsdllzGGICWBcUKyE73y3ori3UmiZr0tbJVoefFHM6RmEY2z6jrvnUD0cJjqGcvA==",
+        "accessed_at": "2026-06-22T13:04:45.348036",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhWw3zIhr0B1thk4XI23NFYqxsINJ6za3togAuP8s4gwbVwVeUd-RyAVky0dBLZXS_gTWwmcLD5dHl4e_4Z6_lYJwu1a8a-RT9g_QPxKorPZP89KYisXFwVxlOKLKwSIQkPc2PS7jZKOkTv1CE6lSDhQ4=",
+        "accessed_at": "2026-06-22T13:04:45.348038",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8su8hjsIeznpSzUGSlQ-_y6JiO033UcT-vX_Q6gemdP8ZHhZGkVVbB__XGYQFNP-1My1lVla4BSTl_Z4L1ir-F-L0VK2vHrp2LIZuwhVlQqHL8m5QJAtnF-6jOmcDTLw6e5RTqrgxpYFawKoz",
+        "accessed_at": "2026-06-22T13:04:45.348040",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-boAqn2CGmjFmNdIQa82q4_1ZgX09ayAvzeVs3BnL19glEXtNhUoCwW-6-FcJDxN1qiVMzFM3bQ9-YzPponYpsbU-ai20BVyVnSF8SAUw7D9MRELYbfrClPTDV9KGxS7BuIC4njwA3tLyNUXUjnWA2NEuqn4Y6cx5S_S4tqXSWObsu6r4cZpuVxImxOMo4uIKE6ZjkMAiG0YLZZdt0Wim-ReaoHbA3OLkaQ==",
+        "accessed_at": "2026-06-22T13:04:45.348042",
+        "field_attributions": []
+      },
+      {
+        "name": "JM Financial Institutional Securities analysis (November 2025), Hindustan Times (November 2025), The Economic Times (November 2025), Business Model Explained (January 2026)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl6XVKkH-FJ1J26_8iUY_6q4u1VQTsWHNRXSkCc8o01lsFI7ZmMAf0M983FJmII3eHIGC_4PfEsFtrZV1I2tPtpd72zeL7AXQVzAIIry0pLa76KpgVvQhbq8iTGyCrg_9ytbJ7ELpt4fN-hO61exu7R2blvmAb5sn4Ez0OSRcS6JwpheyfrOVEFMl4wIBcciszYJM2EsLR8h5zqTmGHlTrUK9KUhFSv9j0bLhtTYTuOr5m4cs0tmhRiItJK9qYSpM9DAunbCcL__yTQhwRjA686tMKk1jl",
+        "accessed_at": "2026-06-22T13:05:23.577343",
+        "field_attributions": [
+          "Impact of gig worker regulations (e.g., minimum wage, benefits) on cost structure"
+        ]
+      },
+      {
+        "name": "Inc42 (February 2019), Velco Legal India (March 2026), Legal Corner (January 2026), ClearTax (April 2025), Legal Hub India (Undated)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEestv2UktRCoQXrcE9svtzfxVv5RiJHMPh31MUHYuxyIqei_x2d9SjY0r7iZCtnNkcYqP1L3yS6MqDmchkaRAUI9llcMPt32lWhB9NmYw-yEzaY9B136az0PtLPsSDLqjz-LHludghiVSO-jJvsp1DWS6jh4Q4LrTq5bhMuZZWaJk_rY9SGr09GoVr9Sq_nxZhnq6KrlGQo1SZbxrBrcfNqrL5RqM=",
+        "accessed_at": "2026-06-22T13:05:23.577373",
+        "field_attributions": [
+          "Food safety compliance rates"
+        ]
+      },
+      {
+        "name": "Velco Legal India (March 2026), Legal Corner (January 2026), ClearTax (April 2025), Legal Hub India (Undated)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ckafOBYaBDSK6tBU-qRRcQTtp0HWreDl9jY0nx4pFHrIhbG6cdGGiWUflpaMt58qQNNReu7dKRYCRmatCeN4HjHSaTnIvRQ9QkFK_ddWQLxNyr3YCo1QTwBlcJwBlQyXbI5k4ohTuacXYjymVAEn47KZEd_Tojmla2lSk1X30KphKwrBccdKnHY21YDAxIhQiXHweE2e1UpAXwkeZxLlZZgEbqKI5-KNIVe0wzvr5l_H1onoF4Noqwp6aQsyDCncgiDHUzT3f3gO9A==",
+        "accessed_at": "2026-06-22T13:05:23.577377",
+        "field_attributions": [
+          "Local government licensing requirements"
+        ]
+      },
+      {
+        "name": "Business and Human Rights Centre (April 2020), ResearchGate (May 2026), Vintage Legal (October 2024), Damodaram Sanjivyya National Law University (December 2025), B&B Associates LLP (Undated)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6VxMl_EC9HizR3iH7BYxUthg-rayb78Q3C-_HSjgBPW87QeeqakiIVriR4F-zPdDw3vwFH9dR9X5DvxQ14NLDNVK4coHzPyjlFoD3OVJQqr72HVItth_qslLZnuHH3pq3fjHxkNAVJucWUgzOko34MTl_zejMeizXnAIC9HVzTUny7n_oTrxN",
+        "accessed_at": "2026-06-22T13:05:23.577380",
+        "field_attributions": [
+          "Platform liability for delivery partners"
+        ]
+      },
+      {
+        "name": "Digital Policy Alert (January 2022), Economic Times Legal (November 2024), The New Indian Express (November 2024), Social Samosa (March 2025), CCLE (Undated)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH42UjHSGIGacT3yLBoFIVbAAn3NO7F9lLYgXi7983EOUjIMIqToWPH95zaO9enVasbZBRtPPGG13NdbI566ql8eJKWzzpS9vwbp4tdUs1-FGAdB5NUTgb1itxeXq-2Y6aXz-7G-EZKnhcUKVctZ7IZ4AJ94vo5xAVHq57AFW6yiEyLwMoyVw==",
+        "accessed_at": "2026-06-22T13:05:23.577384",
+        "field_attributions": [
+          "Status of anti-competitive investigations"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzgRg8Wn6qk42tRFjy07iyBPCGYcfDTOJBJRnJo2pOWy9AfP07HV7HOQx470SffHD3zc12aL3w8s6JOkqwsMyGjdLyAIeF96Ucx4LB93JtfdY5_buPid7si6tUgpX8RX2t6W2m-JEc--_atPgcdjZJlTf8Zu5gi5bxbCUHug==",
+        "accessed_at": "2026-06-22T13:05:23.577387",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2wYVGbNqu5YPIJdlj1hGqt4aE6yhAByQ1PTPFxjdULz17h_DAiZfwsm1OD9_0trp07OiB1wBhJu8ypWv21OQfhOCWJp3bXIg-zItWejMbu3-Vm3YxxI3kMBe9QgE7LPzFyLulTSCmE8TaYA==",
+        "accessed_at": "2026-06-22T13:05:23.577390",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUKiT1WfW9YagcP26S229zwnfZnEbDJ4DinibVdt2xzU414jlpOQEJuOfKAa0a7FVbpJfrXou5kLkEy_AR-8um7WL4YQg27dNlhFlRRFbs60E3mmGtVpAdfILuC2Xt3lBXQHwCg32uig==",
+        "accessed_at": "2026-06-22T13:05:23.577394",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUM7o3cPvF2vfFCuw0bJ0Xbf1Nul7jM_C8El_gfWSo8z77rPhtCSrjv3MEmt9srieo24YrEcY1yUMOPlPxmxyvYwFkB0jpihN9HOyh3pYyh0nHz1uiAGvRhuIzeka4Z2ACxlbAhQVJCO68ioKgpFIrhPFSwhXzBvPy1PgYtA==",
+        "accessed_at": "2026-06-22T13:05:23.577397",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVhneARWYi5Vfptb76_nE44qzwKr4tqTKs34ggjDyXOinKl023Z6wDmbfwmPI7vjhIyUrX9AWJ9kdkkjbkezDSDVsJKn6KxMv762CZXE2Xq6JGJhx8lD3X4INSHR6ooID6p8K2vBFVXXEASl1k6JnvcSKKIbUxIPHt2Uc6leOuFXxU-hsHxGR4A1L-8ynclfHkxjF8TPjrrYnzwtEpvOgmsBzLSDEx597lTKuA3rvc5BwN_JSq",
+        "accessed_at": "2026-06-22T13:05:23.577401",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-2LYGD-iattm59-7it26CcofAIqBAGyl_xctFuhoLKFSuY4JvjFff6x4X-dWtHRepF6VfkJe9bMLgvxBFIIGmj0Z0AQVqjFh8sgnx41q6vWz2grZrT4J7FdhpamXwe-gsgsGmh3XK1HZBXkH8rRENloaj4qJcjwzT6uMNGEn2z6JJQvIoIFsC7gvpWk1KsQuJcQBZ-fiivw5Zo6Mud-1ViejrUgAYAExnXV9WPnd0",
+        "accessed_at": "2026-06-22T13:05:23.577404",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG08x4E_qZzUOF8-vdYmnvMCLfgP5ekQQbNZVe1vzy0sxGL95K5-dYVPf_bvS1QknQ1fP4O6jaacgNcIlPfZFsUMHBmVQEbMewlDpHNTElHjMPrB6zh8l7lTmU2z3dMwwG20lBU_-GUv6ypaGORXl1ymWYR6Y-ihpOuxJCBNg2ZRoaNMVDw5e0Oa6R75tGR6ZC2Pvv67rzcLA53TzZaAmHGD0v__1pevxy4cdz8vD8UGH1dDNuPrdBdilzeGbF9lo6IzPwPLMe_V3IEFpK9eZA2sKRRrRJaO6WVHiGFf9jQ0mSpVh1fu5Gtk3jJcZk-iAKR",
+        "accessed_at": "2026-06-22T13:05:23.577407",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Otm7NR4FvOCmDqM1aJgSSkiAuXnWMkdZJJwYVYtYzN7e4YHxwvWE6FWfTaTc3Yn0r5IO_WxECH97jN-3wwuM6VvneStJvZgHW_dwjmyWel0wRPEXxqhUGutNPNwjun1leQxBswYbUBJVdTzaeOH3NQu6-7W_Ixx29sFjivkKcnLZ8j2uCrjKOZYlqhcp7K55w78cgM_oZc6SiHmK4JiKlg==",
+        "accessed_at": "2026-06-22T13:05:23.577410",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbJCZ0zAv-0xSaB1dUd-U1xEsNJUmjDQJoe8W619W8eoV1X58z20JrscGBpddWod8TPClVjPnYYkgnv7PSy_sfqBkbQbWzk0yPkkZ2Kb9BJAmg5F7MgsCFut_jHAnFPu3Ye-aMAWe4dxXY5Y6Gn1DqPaYsrt92SEbNC8edu51E39pZNq6WnVOEnueq",
+        "accessed_at": "2026-06-22T13:05:23.577413",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpFH5Z-ablphrxVSE2m7W-GhhRNRzHROS3sPmBZRL8tFVHPJoLc01ffjHo2swLqaFDQcOW1SU_cRARAX5smKUC_5YyLAC-ZxzLqNFTyxBChEwM3kCq8Vftxjzd-5USYFNbKy21hZf4jmeJK6B1lXl1SSnklAyB98z6Vvv_MnSlpEdOLra3mrvrwH3PNX8OTB_JbJfOPyJBWgczKIY0hRdr_PM=",
+        "accessed_at": "2026-06-22T13:05:23.577416",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Zxmpr_d9COdXDO4HILtGEUMMmzdo0jVyUZDgpl4BHyKWB_A2RPdzR1PSjz1mPJzHHbOrOG2zV4oqrOOg796tgE4Q3xD3RM_kr-iu1aurckVWkbT_GpEgNs2Us8jCoQS_-W7jDUfP_JQe_tXyTGFpXCbtkgp2vKR5BgdjB_1FM2-vj60ej83GqkcX",
+        "accessed_at": "2026-06-22T13:05:23.577419",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI2n3rOzB9tz78HAnxlUB-8SnbnI1HoVSas83-jl21zr3sENL8fJu5MloZCWH6ebkwkqkkIojiqissKV8hD4Ud6wLMLyHTo3ReKXIQ1TQLZLszosSdaajPu6IRFQ2jmGTvlG9w_IqEDX6mZvD6RRJTN3pxOsSgTp7O54lKDAEPqIoPAXIh5t92HQbHfddFIpPwoWfPsQ53pLg=",
+        "accessed_at": "2026-06-22T13:05:23.577423",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDtOeUeOOivue_kcq4Pjv2zrL32kxhe4gZiXC1vtxhrh2mPcLu_MibpXYRgJqhfcurzw1v0MrDbYQE8EVzYXQB_mG_MB0hYu_koD0eXyUbGne9dmElGUr5EYzLeh1ROkkURBtmozeGUax-N4x7m9VzwgRuaZPi0k0d3C_0x4mTb7M_BxqqtErPIEY8G_H3w25X-9rZ0BUh9a7hDEd0yu-mUWkOTYtLGLJPO5el59s=",
+        "accessed_at": "2026-06-22T13:05:23.577427",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvqbZnMcCD7Gva24EifEpvhUn73Um-FXY6rsI95KM32378WCAV4CGj90U5fvQ8bzYnCx31txYRcwnUxpXG783GuTDo3Ch1ATkHP89mcusG1CiIwzYE8OWi7KsfqCDTmMX34BBQCn_6vI4PC7Y-ErXdqau02bNGdudVebdNFdcXXJBhyGtU7Rm5t2_bsM5I3GSyWrJ5wEA6YEzHkbjA",
+        "accessed_at": "2026-06-22T13:05:23.577431",
+        "field_attributions": []
+      }
+    ],
+    "sections_total": 37,
+    "sections_populated": 28,
+    "sections_partial": 4,
+    "sections_unavailable": 5,
+    "validation_report": {
+      "unit_issues": [
+        "customer acquisition & retention economics: mixes INR Crore, INR Lakh",
+        "network/footprint: mixes INR Crore, INR Lakh",
+        "brand/IP/licensing: mixes INR Crore, INR Lakh",
+        "Key milestones: mixes INR Crore, INR Lakh",
+        "Awards & certifications: mixes INR Crore, INR Lakh"
+      ],
+      "date_issues": [
+        "SWOT: mixes FYxx and FYxxxx date forms",
+        "Credit ratings: mixes FYxx and FYxxxx date forms"
+      ],
+      "missing_citations": [],
+      "completeness_actions": [],
+      "swot_alignment": {
+        "checked": true,
+        "unsupported": []
+      }
+    }
+  },
+  "company_header": {
+    "name": "Zomato",
+    "sector": "Tech",
+    "ticker": "NSE: ETERNAL, BSE: 543320",
+    "cin": "L93030DL2010PLC198141",
+    "founded": "2008 (as FoodieBay)",
+    "listed_status": "Public (listed July 23, 2021)",
+    "hq": "Gurugram, Haryana, India"
+  },
+  "sections": [
+    {
+      "section_name": "Business description",
+      "column": "left",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "prose",
+      "content": {
+        "text": "Indian food-delivery and quick-commerce platform — online restaurant aggregator and hyperlocal food delivery, plus Blinkit (quick commerce), District (going-out) and Hyperpure (B2B restaurant supplies).",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Investment thesis",
+      "column": "left",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "prose",
+      "content": {
+        "thesis": [
+          {
+            "heading": "Competitive Moat",
+            "text": "Zomato's defensibility is rooted in its leading market position within India's online food delivery and quick commerce sectors. It services over 300,000 restaurants and engages over 25 million monthly transacting users. The market's duopoly structure in food delivery, coupled with Blinkit's strong market share in quick commerce, creates significant barriers to entry for new competitors. Further diversification into B2B supplies (Hyperpure) enhances its ecosystem."
+          },
+          {
+            "heading": "Current Story",
+            "text": "Zomato has demonstrated a significant financial turnaround, transitioning to profitability with a substantial increase in EBITDA from ₹42 crore in FY2024 to ₹637 crore in FY2025. This performance is underpinned by robust revenue growth, reaching ₹20,243 crore in FY2025, up from ₹12,114 crore in FY2024, indicating successful execution and operational leverage."
+          },
+          {
+            "heading": "Forward Opportunity",
+            "text": "Zomato is well-positioned to capitalize on the high-growth Indian market. The India Online Food Delivery Market is projected at USD 45.15 billion in 2024 with a 22–23% CAGR through 2030, while the India Quick Commerce Market is estimated at USD 5.3 billion in 2025 with a 42.02% CAGR (2026-2034). Key catalysts include continued expansion into Tier 2 and Tier 3 cities and leveraging technology and AI for enhanced operational efficiency and customer experience."
+          }
+        ],
+        "confidence": "high",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Key stats bar",
+      "column": "left",
+      "order_in_column": 2,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "stat_grid",
+      "content": {
+        "data": {
+          "5-year revenue": {
+            "FY2025": "₹20,243 crore",
+            "FY2024": "₹12,114 crore",
+            "FY2023": "₹7,079 crore",
+            "FY2022": "Not found",
+            "FY2021": "Not found",
+            "FY2020": "₹2,774.9 crore"
+          },
+          "EBITDA": {
+            "FY2025": "₹637 crore",
+            "FY2024": "₹42 crore"
+          },
+          "PAT": "Not Available",
+          "EBITDA margin": "Not Available",
+          "PAT margin": "Not Available",
+          "interest coverage": "Not Available",
+          "debt/EBITDA": "Not Available",
+          "operating cycle": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.235,
+        "status": "partial"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "Financial performance chart",
+      "column": "left",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "5-year revenue": {
+            "FY2025": "₹20,243 crore",
+            "FY2024": "₹12,114 crore",
+            "FY2023": "₹7,079 crore",
+            "FY2022": "Not found",
+            "FY2021": "Not found",
+            "FY2020": "₹2,774.9 crore"
+          },
+          "EBITDA": {
+            "FY2025": "₹637 crore",
+            "FY2024": "₹42 crore"
+          },
+          "PAT": "Not Available",
+          "EBITDA margin": "Not Available",
+          "PAT margin": "Not Available",
+          "debt/EBITDA": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.235,
+        "status": "partial"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "Margin trend & key metrics",
+      "column": "left",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "EBITDA margin": "Not Available",
+          "PAT margin": "Not Available",
+          "ROE": "Not Available",
+          "ROCE": "Not Available",
+          "debt/equity": "Not Available",
+          "interest coverage": "Not Available",
+          "debt/EBITDA": "Not Available",
+          "current ratio": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.235,
+        "status": "unavailable"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "customer acquisition & retention economics",
+      "column": "left",
+      "order_in_column": 5,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Average Order Value (AOV)": "₹568 in Q1 2023; 5% year-on-year (YoY) growth in Q4 FY24; INR 1,500 for its B2B supplies business (Hyperpure)",
+          "Customer acquisition cost (CAC)": "Not Available",
+          "Customer lifetime value (LTV)": "Not Available",
+          "Monthly active users (MAU)": "80 million as of March 2023; average monthly transacting user base for food delivery grew 8% year-on-year to 18.4 million in FY24",
+          "Average orders per MAU": "Average monthly order frequency grew 7% year-on-year in Q4 FY24",
+          "Restaurant/store churn rate": "Not Available",
+          "Commission rates (restaurant/store side)": "Typically ranges from 15-25%, with rates often between 20-25% in metro cities; overall commission can potentially go as high as 45% with additional fees",
+          "Merchant acquisition cost": "Not Available",
+          "Restaurant/store density per serviceable area": "Not Available",
+          "Zomato Gold/Pro subscriber count": "3.8 million (38 lakh) members by November 2023; 7.4 million subscribers as of March 31, 2024"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "section_name": "network/footprint & unit economics",
+      "column": "left",
+      "order_in_column": 6,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Delivery cost per order": "Zomato incurred approximately INR 52 per delivery, while customers paid around INR 21 per delivery, as of June 2022.",
+          "Average delivery time": "The average delivery time for Blinkit improved to 12.5 minutes in March 2024.",
+          "Rider utilization rate": "Not Available",
+          "Rider churn rate": "A report from June 2022 indicated rising attrition among Blinkit riders due to a shift from a salaried model to a per-order incentive model, but a specific churn rate was not provided.",
+          "Active rider count": "Not Available",
+          "Order fulfillment rate": "Blinkit reported an order accuracy (fulfillment) rate of 99%+ in March 2024.",
+          "Last-mile delivery cost as % of AOV": "Not Available",
+          "Dark store density/coverage (for Blinkit)": "As of March 2026, Blinkit operates over 2,000+ Micro-Fulfillment Centers (dark stores). In Q4 FY24, Blinkit's total store count was 526. Zomato aimed to reach 1,000 Blinkit stores by the end of FY25. As of Q4 FY26, the total store count for Blinkit was 2,243 stores."
+        },
+        "confidence": "high",
+        "completeness": 0.625,
+        "status": "populated"
+      },
+      "citations": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "section_name": "Revenue by product segment",
+      "column": "left",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "top 5-8 peers with revenue + EBITDA margin + focus": [
+            {
+              "name": "Swiggy",
+              "revenue": "₹11,247 crore (FY24), ₹152,268 million (FY25)",
+              "ebitda_margin": "-0.2% (FY24) for Food Delivery Adjusted EBITDA, 3.3% of Gross Order Value (GOV) (Q4 FY26) for Food Delivery Adjusted EBITDA",
+              "focus": "Food delivery, quick commerce (Instamart), and ultra-fast logistics (Swiggy Bolt). Aims for overall profitability between December 2025 and June 2026."
+            },
+            {
+              "name": "Zepto",
+              "revenue": "₹22,624 crore (FY26) Operating Revenue",
+              "ebitda_margin": "-15.3% (Q4 FY26), improved from -37.5% (Q4 FY25). Adjusted EBITDA Loss: ₹5,042 crore (FY26).",
+              "focus": "Quick commerce with an \"Every Day Low Pricing\" (EDLP) strategy, prioritizing frequency and affordability."
+            },
+            {
+              "name": "Amazon Fresh (India)",
+              "revenue": "Sales Growth: 40% year-on-year (YoY) during the first two days of its Great Indian Festival sale (likely 2025). 50% YoY growth in the second half of 2024 compared to the same period in 2023.",
+              "ebitda_margin": "Not explicitly disclosed for India operations. Amazon's advertising business globally has gross margins well north of 70%. In quick commerce, Amazon Fresh competes with VC-funded giants who may operate at a loss to gain market share.",
+              "focus": "Grocery delivery, expanding its presence to over 270 cities in India."
+            }
+          ],
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market": "India Online Food Delivery Market",
+              "tam": "USD 45.15 billion (2024)",
+              "cagr": "22–23% (through 2030)"
+            },
+            {
+              "market": "India Quick Commerce Market",
+              "tam": "USD 5.3 Billion (2025)",
+              "cagr": "42.02% (2026-2034), projected to reach USD 134.1 Billion by 2034"
+            },
+            {
+              "market": "India Food Service Market (Overall)",
+              "tam": "USD 80 billion (2024)",
+              "cagr": "10-11% (to reach $144-152 billion by 2030)"
+            },
+            {
+              "market": "India B2B for Food in Foodservice Market",
+              "tam": "USD 152.96 billion (2025)",
+              "cagr": "8.7% (2025-2026), projected to reach $229.04 billion in 2030 at a CAGR of 8.3%"
+            }
+          ],
+          "full product list": [
+            {
+              "name": "Food Delivery",
+              "description": "An online platform for customers to search, discover, order food, and have it delivered from local restaurants. This includes features like restaurant discovery, menus, user reviews, and recommendations."
+            },
+            {
+              "name": "Quick Commerce (Blinkit)",
+              "description": "Rapid delivery (typically under 15 minutes) of products across various categories such as fresh produce, staples, electronics, beauty, and general merchandise."
+            },
+            {
+              "name": "Going-out (formerly Dining-out) & Ticketing (District)",
+              "description": "This segment enables discovery and transactions for dining out, as well as ticketing for events, movies, concerts, and outdoor entertainment."
+            },
+            {
+              "name": "B2B Supplies (Hyperpure)",
+              "description": "A business-to-business service that supplies quality food ingredients and other products directly to restaurants, sourcing from farmers and manufacturers."
+            }
+          ],
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2C": {
+              "model": "Business-to-Consumer",
+              "description": "Central to its food delivery and quick commerce (Blinkit) services, directly connecting urban dwellers (aged 18-45, including working professionals, students, and tech-savvy individuals) with restaurants and quick commerce stores. Primarily operates on a digital-first approach through its mobile application and website."
+            },
+            "B2B": {
+              "model": "Business-to-Business",
+              "description": "The Hyperpure division provides B2B supply chain solutions to the HoReCa (Hotel/Restaurant/Cafe) industry, offering kitchen supplies and supply chain management."
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "type": "Consumers",
+              "details": "Over 25 million monthly transacting users utilize the app for food discovery and ordering."
+            },
+            {
+              "type": "Restaurant Partners",
+              "details": "Zomato services over 300,000 restaurants."
+            },
+            {
+              "type": "Delivery Partners",
+              "details": "More than 500,000 delivery partners earn their livelihood through Zomato."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "section_name": "Working capital analysis",
+      "column": "left",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "current ratio": "Not Available",
+          "debtor days": "Not Available",
+          "inventory days": "Not Available",
+          "payable days": "Not Available",
+          "operating cycle": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.235,
+        "status": "unavailable"
+      },
+      "citations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "section_name": "technology/digital/D2C",
+      "column": "left",
+      "order_in_column": 9,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "App store ratings & reviews": {
+            "Google Play Store": "4.7 stars out of 5, based on 13 million reviews",
+            "Apple App Store": "Generally positive reviews, with users describing the app as 'excellent and reliable,' 'very fast and no lag,' and offering 'reasonable price and good coverage.' Some negative feedback mentions 'fraud,' 'products missing expired food,' 'horrible customer service,' and 'too much spam notifications.'",
+            "Period": "Current as of June 2026, with individual reviews dating back several years"
+          },
+          "Feature release cadence": {
+            "Methodology": "Agile methodology, specifically Scrum, involving 'time-boxed sprint cycles' and 'incremental software development.'",
+            "Frequency": "Continuous and iterative release process driven by feedback; precise sprint duration not explicitly stated."
+          },
+          "R&D spend as % of revenue": "Not Available",
+          "User interface (UI)/user experience (UX) metrics (e.g., conversion rates, bounce rates)": {
+            "App Engagement": "35% increase",
+            "Click-Through Rates (CTR)": "28% higher",
+            "Orders per User per Month": "22% increase",
+            "Period": "April 2026",
+            "App Framework Design": "Designed for an 'excellent user interface experience,' featuring an 'intuitive design and visual appeal together with convenient navigation' and a 'minimalistic and usable design.'"
+          },
+          "AI/ML integration in logistics/personalization": {
+            "Personalized Recommendations": "AI algorithms analyze user history, location, time, and preferences to suggest restaurants and dishes, leading to a 35% increase in app engagement and a 22% increase in orders per user per month.",
+            "Logistics Optimization": "Real-time AI routes riders, predicts traffic and delays using historical data, and optimizes rider allocation for over 500,000 delivery partners, reducing delivery times to 10-15 minutes in key areas.",
+            "Delivery Time Prediction (ETA)": "AI models analyze historical delivery data and real-time traffic conditions for accurate ETAs, continuously improving accuracy.",
+            "Customer Support": "AI agents handle queries, refunds, and escalations, resolving up to 70% of issues without human intervention.",
+            "Menu Management": "AI scans and optimizes restaurant menus using OCR and analyzes food images for better recommendations.",
+            "Dynamic Pricing and Demand Forecasting": "AI optimizes pricing and promotions based on demand, user behavior, and competitor pricing, helping to maximize revenue during peak times.",
+            "Fraud Detection": "AI is used to detect fraudulent activities like fake reviews and orders.",
+            "Generative AI": "Utilized for hyper-personalized campaigns, synthetic content, and ad creatives.",
+            "Impact": "AI investments have boosted user retention to 70-80% and cut operational costs by 20-30%.",
+            "Period": "Primarily 2025-2026"
+          },
+          "Tech talent acquisition/retention metrics": {
+            "Quantifiable Metrics": "Not found",
+            "Employee Satisfaction": "Glassdoor ratings indicate 'decent overall employee satisfaction levels.'",
+            "Retention Strategies": "Continuous training and development, employee well-being policies (strong parental leave and health benefits), an open-door policy, and encouragement of innovation.",
+            "Recruitment Strategy": "CEO Deepinder Goyal has stated a preference against hiring active job seekers, emphasizing building a strong employer brand and investing in employee development. Entry-level recruitment includes a written examination, a technical interview, and a final HR interview.",
+            "Period": "Information from 2021 and January 2024"
+          }
+        },
+        "confidence": "high",
+        "completeness": 0.833,
+        "status": "populated"
+      },
+      "citations": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ]
+    },
+    {
+      "section_name": "operations/supply-chain/manufacturing",
+      "column": "left",
+      "order_in_column": 10,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Delivery cost per order": "Zomato incurred approximately INR 52 per delivery, while customers paid around INR 21 per delivery, as of June 2022.",
+          "Average delivery time": "The average delivery time for Blinkit improved to 12.5 minutes in March 2024.",
+          "Rider utilization rate": "Not Available",
+          "Rider churn rate": "A report from June 2022 indicated rising attrition among Blinkit riders due to a shift from a salaried model to a per-order incentive model, but a specific churn rate was not provided.",
+          "Active rider count": "Not Available",
+          "Order fulfillment rate": "Blinkit reported an order accuracy (fulfillment) rate of 99%+ in March 2024.",
+          "Last-mile delivery cost as % of AOV": "Not Available",
+          "Dark store density/coverage (for Blinkit)": "As of March 2026, Blinkit operates over 2,000+ Micro-Fulfillment Centers (dark stores). In Q4 FY24, Blinkit's total store count was 526. Zomato aimed to reach 1,000 Blinkit stores by the end of FY25. As of Q4 FY26, the total store count for Blinkit was 2,243 stores."
+        },
+        "confidence": "high",
+        "completeness": 0.625,
+        "status": "populated"
+      },
+      "citations": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "section_name": "Market size",
+      "column": "left",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market": "India Online Food Delivery Market",
+              "tam": "USD 45.15 billion (2024)",
+              "cagr": "22–23% (through 2030)"
+            },
+            {
+              "market": "India Quick Commerce Market",
+              "tam": "USD 5.3 Billion (2025)",
+              "cagr": "42.02% (2026-2034), projected to reach USD 134.1 Billion by 2034"
+            },
+            {
+              "market": "India Food Service Market (Overall)",
+              "tam": "USD 80 billion (2024)",
+              "cagr": "10-11% (to reach $144-152 billion by 2030)"
+            },
+            {
+              "market": "India B2B for Food in Foodservice Market",
+              "tam": "USD 152.96 billion (2025)",
+              "cagr": "8.7% (2025-2026), projected to reach $229.04 billion in 2030 at a CAGR of 8.3%"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "section_name": "Shareholders & promoters",
+      "column": "left",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "promoter %": "0% (as of March 2026)",
+          "institutional %": {
+            "Foreign Institutional Investors (FIIs)": "32.61% (March 2026)",
+            "Domestic Institutional Investors (DIIs)": "7.07% (March 2026)",
+            "Mutual Funds": "28.91% (March 2026)",
+            "Other Domestic Institutions": "7.07% (March 2026)",
+            "Insurance companies": "3.83% (March 2026)"
+          },
+          "retail %": "31.41% (March 2026)",
+          "individual promoters": [
+            {
+              "name": "Deepinder Goyal",
+              "role": "Co-Founder of Zomato and currently Vice Chairman & Director of Eternal Limited (formerly Zomato Limited) (effective February 1, 2026)",
+              "shareholding": "approximately 4.19% as an individual shareholder as of July 2025"
+            },
+            {
+              "name": "Pankaj Chaddah",
+              "role": "Co-founder of Zomato"
+            },
+            {
+              "name": "Gunjan Patidar",
+              "role": "Former Co-Founder and CTO"
+            },
+            {
+              "name": "Akriti Chopra",
+              "role": "Former Co-Founder"
+            },
+            {
+              "name": "Mohit Gupta",
+              "role": "Former Co-Founder"
+            },
+            {
+              "name": "Gaurav Gupta",
+              "role": "Co-Founder"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "value-added or tech-enabled services",
+      "column": "left",
+      "order_in_column": 13,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Ad revenue as % of total revenue": "20%",
+          "Subscription revenue (Zomato Gold/Pro) as % of total": "2%",
+          "Overall take rate": "18.5%",
+          "Take rate by segment (food delivery, quick commerce)": {
+            "food delivery": "20% to 25%",
+            "quick commerce": "19.1%"
+          },
+          "Revenue from Hyperpure (B2B)": "INR 3,172 crore",
+          "Revenue from District (going-out)": "INR 258 crore",
+          "Attach rate of value-added services (e.g., premium listings, software for restaurants)": "Not Available"
+        },
+        "confidence": "high",
+        "completeness": 0.857,
+        "status": "populated"
+      },
+      "citations": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "section_name": "Products & services",
+      "column": "left",
+      "order_in_column": 14,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "full product list": [
+            {
+              "name": "Food Delivery",
+              "description": "An online platform for customers to search, discover, order food, and have it delivered from local restaurants. This includes features like restaurant discovery, menus, user reviews, and recommendations."
+            },
+            {
+              "name": "Quick Commerce (Blinkit)",
+              "description": "Rapid delivery (typically under 15 minutes) of products across various categories such as fresh produce, staples, electronics, beauty, and general merchandise."
+            },
+            {
+              "name": "Going-out (formerly Dining-out) & Ticketing (District)",
+              "description": "This segment enables discovery and transactions for dining out, as well as ticketing for events, movies, concerts, and outdoor entertainment."
+            },
+            {
+              "name": "B2B Supplies (Hyperpure)",
+              "description": "A business-to-business service that supplies quality food ingredients and other products directly to restaurants, sourcing from farmers and manufacturers."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "section_name": "Recent news",
+      "column": "left",
+      "order_in_column": 15,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "5 most recent news items (date, headline, source URL)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "unavailable"
+      },
+      "citations": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "section_name": "product/category mix",
+      "column": "left",
+      "order_in_column": 16,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Ad revenue as % of total revenue": "20%",
+          "Subscription revenue (Zomato Gold/Pro) as % of total": "2%",
+          "Overall take rate": "18.5%",
+          "Take rate by segment (food delivery, quick commerce)": {
+            "food delivery": "20% to 25%",
+            "quick commerce": "19.1%"
+          },
+          "Revenue from Hyperpure (B2B)": "INR 3,172 crore",
+          "Revenue from District (going-out)": "INR 258 crore",
+          "Attach rate of value-added services (e.g., premium listings, software for restaurants)": "Not Available"
+        },
+        "confidence": "high",
+        "completeness": 0.857,
+        "status": "populated"
+      },
+      "citations": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "section_name": "Revenue by geography",
+      "column": "left",
+      "order_in_column": 17,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "revenue split by region with % (and growth if available)": "Not Available. A recent, explicit revenue split by region with percentages and growth is not available in Zomato's latest annual reports or investor presentations for FY23 or FY24. Older data from May 2016 indicated India and the UAE contributed 45% and 20% of Zomato's revenues respectively, but this information is outdated. The 'Going-out' segment, which includes operations in both India and the UAE, reported a revenue of INR 258 crore in FY24, marking a 51% year-on-year growth from INR 171 crore in FY23; however, a further split of this revenue between India and the UAE is not disclosed.",
+          "key regional approvals/certifications": {
+            "India": [
+              "FSSAI (Food Safety and Standards Authority of India) license (Zomato's license number: 10019064001810)"
+            ],
+            "United Arab Emirates (UAE)": [
+              "HACCP (Hazard Analysis and Critical Control Points) Certification",
+              "ISO 22000 Food Safety Management",
+              "Basic Food Safety Training and Person in Charge Certification"
+            ]
+          },
+          "regional revenue trend": "Zomato's overall revenue has shown strong growth, primarily driven by its operations in India. In FY24 (year ended March 31, 2024), total revenue was INR 12,995 crore (up 66.5% from FY23), operating revenue was INR 12,114 crore (up 71.1% from FY23), and adjusted revenue was INR 13,545 crore (up 56% year-on-year from INR 8,693 crore in FY23). The company achieved profitability for the first time in FY24, reporting a net profit of INR 351 crore, a significant turnaround from a loss of INR 971 crore in FY23. This growth is attributed to the strong performance across its key business segments (food delivery, quick commerce, going-out services, and B2B supplies), all of which are predominantly India-centric."
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "section_name": "expansion/international",
+      "column": "left",
+      "order_in_column": 18,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Blinkit Gross Order Value (GOV)": "₹11,821 crore for Q1 FY26 (April-June 2025); ₹4,850 crore for Q4 FY26 (January-March 2026)",
+          "Number of dark stores": "2,243 stores as of Q4 FY26 (March 2026)",
+          "Dark store profitability (unit economics)": "Achieved Adjusted EBITDA positive at the unit level in March 2024; Reported an Adjusted EBITDA profit of ₹4 crore in Q3 FY26 (October-December 2025); Reported an Adjusted EBITDA profit of ₹37 crore in Q4 FY26 (January-March 2026); Long-term margin guidance for quick commerce is 4-5% of GOV; Implied margin for quick commerce over the next three to four years is estimated to be around 3-3.5%",
+          "Average delivery time for quick commerce": "Typically under 10 minutes; Delivery windows are generally 10-30 minutes",
+          "Product assortment breadth/depth": "Offers 30,000+ SKUs as of March 2026; In some locations, Blinkit offers up to 25,000 different SKUs (as of Q1 FY25); Maintained an average of 20,010 products listed daily between May 14 and June 5, 2025; Stocks 6,000 to 10,000 SKUs per dark store as of September 2025",
+          "Inventory turnover": "Not Available",
+          "Quick commerce market share": "Over 50% market share as of September 2025; Approximately 45% market share by Gross Order Value (GOV) by Q4 FY25; 48% share at the start of 2026",
+          "Average order value (Blinkit)": "Net AOV around ₹525 in Q4 FY26 (January-March 2026); Pushed its average order value above ₹650 as of September 2025"
+        },
+        "confidence": "high",
+        "completeness": 0.875,
+        "status": "populated"
+      },
+      "citations": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146
+      ]
+    },
+    {
+      "section_name": "network/footprint",
+      "column": "left",
+      "order_in_column": 19,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Average Order Value (AOV)": "₹568 in Q1 2023; 5% year-on-year (YoY) growth in Q4 FY24; INR 1,500 for its B2B supplies business (Hyperpure)",
+          "Customer acquisition cost (CAC)": "Not Available",
+          "Customer lifetime value (LTV)": "Not Available",
+          "Monthly active users (MAU)": "80 million as of March 2023; average monthly transacting user base for food delivery grew 8% year-on-year to 18.4 million in FY24",
+          "Average orders per MAU": "Average monthly order frequency grew 7% year-on-year in Q4 FY24",
+          "Restaurant/store churn rate": "Not Available",
+          "Commission rates (restaurant/store side)": "Typically ranges from 15-25%, with rates often between 20-25% in metro cities; overall commission can potentially go as high as 45% with additional fees",
+          "Merchant acquisition cost": "Not Available",
+          "Restaurant/store density per serviceable area": "Not Available",
+          "Zomato Gold/Pro subscriber count": "3.8 million (38 lakh) members by November 2023; 7.4 million subscribers as of March 31, 2024"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "section_name": "Channel mix & distribution",
+      "column": "left",
+      "order_in_column": 20,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2C": {
+              "model": "Business-to-Consumer",
+              "description": "Central to its food delivery and quick commerce (Blinkit) services, directly connecting urban dwellers (aged 18-45, including working professionals, students, and tech-savvy individuals) with restaurants and quick commerce stores. Primarily operates on a digital-first approach through its mobile application and website."
+            },
+            "B2B": {
+              "model": "Business-to-Business",
+              "description": "The Hyperpure division provides B2B supply chain solutions to the HoReCa (Hotel/Restaurant/Cafe) industry, offering kitchen supplies and supply chain management."
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "type": "Consumers",
+              "details": "Over 25 million monthly transacting users utilize the app for food discovery and ordering."
+            },
+            {
+              "type": "Restaurant Partners",
+              "details": "Zomato services over 300,000 restaurants."
+            },
+            {
+              "type": "Delivery Partners",
+              "details": "More than 500,000 delivery partners earn their livelihood through Zomato."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "section_name": "SWOT",
+      "column": "left",
+      "order_in_column": 21,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "swot_grid",
+      "content": {
+        "strengths": [
+          "Demonstrated significant revenue growth, with operating revenue increasing by 71.1% from FY23 to ₹12,114 crore in FY24.",
+          "Achieved positive EBITDA of ₹42 crore in FY2024, with a projected increase to ₹637 crore in FY2025."
+        ],
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "brand/IP/licensing",
+      "column": "left",
+      "order_in_column": 22,
+      "section_tag": "Sector",
+      "section_tag_label": "Tech",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Average Order Value (AOV)": "₹568 in Q1 2023; 5% year-on-year (YoY) growth in Q4 FY24; INR 1,500 for its B2B supplies business (Hyperpure)",
+          "Customer acquisition cost (CAC)": "Not Available",
+          "Customer lifetime value (LTV)": "Not Available",
+          "Monthly active users (MAU)": "80 million as of March 2023; average monthly transacting user base for food delivery grew 8% year-on-year to 18.4 million in FY24",
+          "Average orders per MAU": "Average monthly order frequency grew 7% year-on-year in Q4 FY24",
+          "Restaurant/store churn rate": "Not Available",
+          "Commission rates (restaurant/store side)": "Typically ranges from 15-25%, with rates often between 20-25% in metro cities; overall commission can potentially go as high as 45% with additional fees",
+          "Merchant acquisition cost": "Not Available",
+          "Restaurant/store density per serviceable area": "Not Available",
+          "Zomato Gold/Pro subscriber count": "3.8 million (38 lakh) members by November 2023; 7.4 million subscribers as of March 31, 2024"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "section_name": "Details",
+      "column": "right",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Not Available",
+          "paid-up capital": {
+            "Zomato Private Limited": "₹4,23,39,84,748 (as of January 2021)",
+            "Zomato Payments Private Limited": "₹59,46,52,150 (₹59.47 Crore) (as of June 2026)"
+          },
+          "authorized capital": {
+            "Zomato Private Limited": "₹5,35,23,29,341 (as of January 2021)",
+            "Zomato Payments Private Limited": "₹1,00,00,00,000 (₹100 Crore) (as of June 2026)"
+          },
+          "auditor name": "Deloitte Haskins & Sells LLP"
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "Credit ratings",
+      "column": "right",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "current LT and ST credit ratings + agency + outlook": {
+            "LT credit rating": "No outstanding debt, no LT credit rating obtained",
+            "ST credit rating": "No outstanding debt, no ST credit rating obtained",
+            "agency": "CARE, CRISIL, ICRA, or India Ratings (not obtained from)",
+            "outlook": "Not Available"
+          },
+          "4-year rating history": "Not found, as the company has no outstanding debt and thus no credit ratings have been obtained.",
+          "key positive/negative triggers": {
+            "positive triggers": [
+              "Strong Market Positioning and Diversified Offerings: Zomato holds a leading position in the Indian food delivery market and has successfully diversified its business into quick commerce (Blinkit), dining out (District), and B2B supplies (Hyperpure).",
+              "Growth in Quick Commerce (Blinkit): Blinkit, Zomato's quick commerce arm, is demonstrating significant growth in gross order value and is anticipated to be a key driver of execution variance.",
+              "Return to Profitability: Zomato achieved a net profit of ₹351 crore in FY2024, a notable turnaround from a net loss of ₹971 crore in FY2023.",
+              "Improving Unit Economics: The core food delivery business is showing improving contribution margins and stable cash flows.",
+              "Robust Balance Sheet: Recent capital raises have strengthened Zomato's financial position.",
+              "Ambitious Expansion Plans: The company aims to expand its Blinkit store network significantly, targeting 1,000 stores by March 2025 and 2,000 by December 2025.",
+              "Innovation and Enhanced Customer Experience: Zomato has introduced new initiatives such as \"veg only\" and \"large order\" fleets, along with \"delivery on priority,\" to improve customer experience and explore new monetization avenues."
+            ],
+            "negative triggers": [
+              "Intense Competition: The food delivery sector operates as a duopoly, and the quick commerce segment also faces significant competitive pressures.",
+              "High Valuation: Zomato's stock is considered to be trading at a high valuation (419x P/E), implying that substantial future growth is already factored into its current price.",
+              "Profitability Pressure from New Investments: Increased investments in Blinkit's infrastructure and higher employee expenses have led to a decline in consolidated Adjusted EBITDA in Q4 FY25.",
+              "Thin Margins and Credit Risks in Hyperpure: The Hyperpure B2B supply business operates with thin margins and carries inherent credit risks.",
+              "Slowdown in Discretionary Spending: A broader economic slowdown impacting discretionary consumer spending could negatively affect Zomato's business."
+            ]
+          }
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "section_name": "Key catalysts",
+      "column": "right",
+      "order_in_column": 2,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "3-6 upcoming catalysts (date, event, materiality)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "unavailable"
+      },
+      "citations": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "section_name": "Future plan",
+      "column": "right",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "targets": [
+          {
+            "target": "Achieve ₹20,243 crore in revenue",
+            "timeline": "FY2025"
+          },
+          {
+            "target": "Achieve ₹637 crore in EBITDA",
+            "timeline": "FY2025"
+          }
+        ],
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Deals & transactions",
+      "column": "right",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "M&A and funding history (date, description, amount)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "unavailable"
+      },
+      "citations": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "section_name": "Peers comparison",
+      "column": "right",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "top 5-8 peers with revenue + EBITDA margin + focus": [
+            {
+              "name": "Swiggy",
+              "revenue": "₹11,247 crore (FY24), ₹152,268 million (FY25)",
+              "ebitda_margin": "-0.2% (FY24) for Food Delivery Adjusted EBITDA, 3.3% of Gross Order Value (GOV) (Q4 FY26) for Food Delivery Adjusted EBITDA",
+              "focus": "Food delivery, quick commerce (Instamart), and ultra-fast logistics (Swiggy Bolt). Aims for overall profitability between December 2025 and June 2026."
+            },
+            {
+              "name": "Zepto",
+              "revenue": "₹22,624 crore (FY26) Operating Revenue",
+              "ebitda_margin": "-15.3% (Q4 FY26), improved from -37.5% (Q4 FY25). Adjusted EBITDA Loss: ₹5,042 crore (FY26).",
+              "focus": "Quick commerce with an \"Every Day Low Pricing\" (EDLP) strategy, prioritizing frequency and affordability."
+            },
+            {
+              "name": "Amazon Fresh (India)",
+              "revenue": "Sales Growth: 40% year-on-year (YoY) during the first two days of its Great Indian Festival sale (likely 2025). 50% YoY growth in the second half of 2024 compared to the same period in 2023.",
+              "ebitda_margin": "Not explicitly disclosed for India operations. Amazon's advertising business globally has gross margins well north of 70%. In quick commerce, Amazon Fresh competes with VC-funded giants who may operate at a loss to gain market share.",
+              "focus": "Grocery delivery, expanding its presence to over 270 cities in India."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "section_name": "Leadership",
+      "column": "right",
+      "order_in_column": 6,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "executives + backgrounds": [
+            {
+              "name": "Deepinder Goyal",
+              "role": "Founder & CEO (until February 1, 2026, then Vice Chairman & Director)",
+              "background": "Graduated from IIT Delhi (2000–2005) and worked at Bain & Company (2006–2009) before co-founding Zomato."
+            },
+            {
+              "name": "Albinder Singh Dhindsa",
+              "role": "Chief Executive Officer and Key Managerial Personnel (effective February 1, 2026)",
+              "background": "Previously the CEO of Blinkit."
+            },
+            {
+              "name": "Akshant Goyal",
+              "role": "Chief Financial Officer (since April 2017)",
+              "background": "Holds a Commerce degree from Delhi University and has over 15 years of experience in finance, previously leading Corporate Development at Zomato and working at EY."
+            },
+            {
+              "name": "Rahul Ganjoo",
+              "role": "Chief Operating Officer, Food Delivery (since March 2023)",
+              "background": "Graduated from XLRI Jamshedpur (MBA) and NIT Trichy (B. Tech Mechanical) and was a consultant at McKinsey & Company."
+            },
+            {
+              "name": "Namrata Sinha",
+              "role": "Chief Marketing Officer (appointed January 2024)",
+              "background": "Holds an MBA in Marketing from the Indian School of Business and previously worked for Procter & Gamble, Swiggy, and Myntra."
+            },
+            {
+              "name": "Ganesh Krishnan",
+              "role": "Chief Technology Officer (since 2022, joined Zomato in 2015)",
+              "background": "Alumnus of IIT Bombay (B. Tech Computer Science) and IIM Calcutta (PGDM), with prior technology roles at Goldman Sachs."
+            },
+            {
+              "name": "Namita Gupta",
+              "role": "Chief People Officer (since May 2022)",
+              "background": "Alumnus of Tata Institute of Social Sciences and ISB, she previously worked for Accenture in talent management."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "Ownership",
+      "column": "right",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Not Available",
+          "promoter %": "0% (as of March 2026)",
+          "institutional %": {
+            "Foreign Institutional Investors (FIIs)": "32.61% (March 2026)",
+            "Domestic Institutional Investors (DIIs)": "7.07% (March 2026)",
+            "Mutual Funds": "28.91% (March 2026)",
+            "Other Domestic Institutions": "7.07% (March 2026)",
+            "Insurance companies": "3.83% (March 2026)"
+          },
+          "retail %": "31.41% (March 2026)",
+          "pledge %": "Not Available",
+          "paid-up capital": {
+            "Zomato Private Limited": "₹4,23,39,84,748 (as of January 2021)",
+            "Zomato Payments Private Limited": "₹59,46,52,150 (₹59.47 Crore) (as of June 2026)"
+          },
+          "authorized capital": {
+            "Zomato Private Limited": "₹5,35,23,29,341 (as of January 2021)",
+            "Zomato Payments Private Limited": "₹1,00,00,00,000 (₹100 Crore) (as of June 2026)"
+          },
+          "individual promoters": [
+            {
+              "name": "Deepinder Goyal",
+              "role": "Co-Founder of Zomato and currently Vice Chairman & Director of Eternal Limited (formerly Zomato Limited) (effective February 1, 2026)",
+              "shareholding": "approximately 4.19% as an individual shareholder as of July 2025"
+            },
+            {
+              "name": "Pankaj Chaddah",
+              "role": "Co-founder of Zomato"
+            },
+            {
+              "name": "Gunjan Patidar",
+              "role": "Former Co-Founder and CTO"
+            },
+            {
+              "name": "Akriti Chopra",
+              "role": "Former Co-Founder"
+            },
+            {
+              "name": "Mohit Gupta",
+              "role": "Former Co-Founder"
+            },
+            {
+              "name": "Gaurav Gupta",
+              "role": "Co-Founder"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "Risk flags",
+      "column": "right",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "4-7 risk flags with severity (red/amber/green) + one-line description": [
+            {
+              "severity": "Red",
+              "description": "Intense Competition and Market Share Volatility. The food delivery and quick commerce markets are highly competitive, with a duopoly structure in food delivery. This can lead to aggressive pricing, marketing wars, and potential erosion of market share or profitability."
+            },
+            {
+              "severity": "Red",
+              "description": "High Valuation and Investor Expectations. The stock's high P/E ratio (419x) indicates that significant future growth is already priced in, making it vulnerable to any shortfall in performance or changes in investor sentiment."
+            },
+            {
+              "severity": "Amber",
+              "description": "Profitability Impact from New Business Investments. While strategic, heavy investments in expanding quick commerce (Blinkit) and other new ventures can initially dilute overall profitability and adjusted EBITDA margins."
+            },
+            {
+              "severity": "Amber",
+              "description": "Customer Dissatisfaction and Brand Reputation. Reports indicate escalating consumer dissatisfaction concerning refund failures, delivery inefficiencies, opaque pricing, food safety, and app usability, which can harm brand reputation and customer loyalty."
+            },
+            {
+              "severity": "Amber",
+              "description": "Thin Margins and Credit Risks in B2B Segment (Hyperpure). The Hyperpure business, while growing, operates with inherently thin margins and is exposed to credit risks from restaurant partners."
+            },
+            {
+              "severity": "Green",
+              "description": "Regulatory and Policy Changes. Changes in government regulations or policies related to online food delivery, quick commerce, or gig economy workers could impact operational costs and business models."
+            },
+            {
+              "severity": "Green",
+              "description": "Economic Slowdown and Discretionary Spending. A general economic downturn or a significant reduction in consumer discretionary spending could lead to lower order volumes and average order values."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "section_name": "Board members",
+      "column": "right",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "board members + roles": [
+            {
+              "name": "Deepinder Goyal",
+              "role": "Vice Chairman & Director (effective February 1, 2026)"
+            },
+            {
+              "name": "Sanjeev Bikhchandani",
+              "role": "Board member"
+            },
+            {
+              "name": "Sutapa Banerjee",
+              "role": "Independent Board Member"
+            },
+            {
+              "name": "Aparna Popat",
+              "role": "Independent Board Member"
+            },
+            {
+              "name": "Namita Gupta",
+              "role": "Independent Board Member"
+            },
+            {
+              "name": "Kaushik Dutta",
+              "role": "Independent Board Member"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "Key milestones",
+      "column": "right",
+      "order_in_column": 10,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "corporate milestones": [
+            {
+              "date": "2008",
+              "description": "Zomato was founded by Deepinder Goyal and Pankaj Chaddah."
+            },
+            {
+              "date": "November 2014",
+              "description": "The company had expanded its operations to over 100 cities across 18 countries."
+            },
+            {
+              "date": "November 2014",
+              "description": "Zomato acquired several international companies, including MenuMania (New Zealand), Lunchtime (Czech Republic), Obedovat (Slovakia), and Gastronauci (Poland)."
+            },
+            {
+              "date": "June 2015",
+              "description": "Zomato acquired Urbanspoon."
+            },
+            {
+              "date": "September 2015",
+              "description": "Zomato invested in Indian local delivery specialists Pickingo and Grab."
+            },
+            {
+              "date": "July 23, 2021",
+              "description": "Zomato made its stock market debut, becoming the first Indian unicorn to go public. Its shares listed at ₹115 on the BSE and ₹116 on the NSE, representing a 51% and 53% premium, respectively, over the issue price of ₹76. The company's market capitalization surpassed ₹1 lakh crore on its listing day."
+            },
+            {
+              "date": "Q1 FY23-24 (August 30, 2023)",
+              "description": "Zomato reported its first-ever quarterly consolidated net profit of ₹2 crore."
+            },
+            {
+              "date": "Q4 FY23-24 (March 2024)",
+              "description": "The company reported a consolidated net profit of ₹175 crore."
+            },
+            {
+              "date": "December 23, 2024",
+              "description": "Zomato became the first Indian startup to be included in the Bombay Stock Exchange (BSE) Sensex 30 index, replacing JSW Steel Limited."
+            },
+            {
+              "date": "Q4 FY26 (March 2026)",
+              "description": "Zomato's net profit surged by 346% year-on-year to ₹174 crore, primarily driven by the rapid growth of its quick commerce unit, Blinkit. Total revenue for the quarter increased by 196% year-on-year to ₹17,292 crore."
+            }
+          ]
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "partial"
+      },
+      "citations": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "section_name": "Compliance & ESG",
+      "column": "right",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "auditor name": "Deloitte Haskins & Sells LLP",
+          "litigation status": [
+            {
+              "case": "Insolvency Plea (Nona Lifestyle)",
+              "status": "The National Company Law Tribunal (NCLT) ruled in favor of Zomato, dismissing an insolvency plea filed by B2B apparel manufacturer Nona Lifestyle over alleged unpaid dues of ₹1.64 crore (April 3, 2025). Zomato denied the allegations, citing a pre-existing contractual dispute."
+            },
+            {
+              "case": "Anti-competitive Practices (NRAI)",
+              "status": "The Delhi High Court issued a notice to the Competition Commission of India (CCI) and Zomato on a plea filed by the National Restaurant Association of India (NRAI) challenging its exclusion from a 'confidentiality ring' in an ongoing antitrust probe (April 21, 2025). The NRAI accused Zomato and Swiggy of anti-competitive conduct, including mandating their delivery services, concealing customer data, imposing high commissions, and favoring their own cloud kitchens."
+            },
+            {
+              "case": "Consumer Dispute (Momos Order)",
+              "status": "The District Consumer Disputes Redressal Commission in Dharwad, Karnataka, ordered Zomato to pay ₹50,000 as compensation for mental stress and ₹10,000 for legal expenses to a customer who did not receive a momos order placed in August 2023 (July 15, 2024)."
+            }
+          ],
+          "RPT flags": "Not Available",
+          "contingent liabilities": "Not Available",
+          "ESG initiatives": [
+            "Inclusion in FTSE4Good Index Series in January 2025.",
+            "Unveiled sustainability goals for 2030 in January 2024, aiming for net-zero emissions across its food delivery value chain by 2033, supporting 300,000 restaurant businesses, empowering 1 million gig workers, and providing 300 million nutritious meals to underprivileged communities.",
+            "Aims to reduce last-mile delivery emissions by 70% on a per km basis by FY30 from a base year of FY22, with a commitment to facilitate 100% EV-based deliveries by 2030.",
+            "Implemented 'Climate Aware Delivery' program requiring customers to opt-in for plastic cutlery, aiming to reduce plastic waste by up to 2 million kilograms annually.",
+            "Launched 'Low Plastic Packaging' filter in December 2024 to help users find restaurants using sustainable alternatives.",
+            "Runs a voluntary program to recycle plastic waste, having recycled approximately 45,000 MT of plastic waste since FY23.",
+            "Established the Feeding Foundation, which provided over 65 million meals during COVID-19 and aims to alleviate hunger.",
+            "Implements energy conservation initiatives like 'Turn It Off' and prioritizes LED lighting in corporate offices.",
+            "Promotes reusable cutlery and a 'Bring Your Own Bottle (BYOB)' program in offices, along with waste segregation training for employees."
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.733,
+        "status": "populated"
+      },
+      "citations": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "section_name": "Global presence",
+      "column": "right",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "country count": 2,
+          "key regional approvals/certifications": {
+            "India": [
+              "FSSAI (Food Safety and Standards Authority of India) license (Zomato's license number: 10019064001810)"
+            ],
+            "United Arab Emirates (UAE)": [
+              "HACCP (Hazard Analysis and Critical Control Points) Certification",
+              "ISO 22000 Food Safety Management",
+              "Basic Food Safety Training and Person in Charge Certification"
+            ]
+          }
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "section_name": "Awards & certifications",
+      "column": "right",
+      "order_in_column": 13,
+      "section_tag": "Generic",
+      "section_tag_label": "Generic",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "M&A and funding history (date, description, amount)": "Not Available",
+          "corporate milestones": [
+            {
+              "date": "2008",
+              "description": "Zomato was founded by Deepinder Goyal and Pankaj Chaddah."
+            },
+            {
+              "date": "November 2014",
+              "description": "The company had expanded its operations to over 100 cities across 18 countries."
+            },
+            {
+              "date": "November 2014",
+              "description": "Zomato acquired several international companies, including MenuMania (New Zealand), Lunchtime (Czech Republic), Obedovat (Slovakia), and Gastronauci (Poland)."
+            },
+            {
+              "date": "June 2015",
+              "description": "Zomato acquired Urbanspoon."
+            },
+            {
+              "date": "September 2015",
+              "description": "Zomato invested in Indian local delivery specialists Pickingo and Grab."
+            },
+            {
+              "date": "July 23, 2021",
+              "description": "Zomato made its stock market debut, becoming the first Indian unicorn to go public. Its shares listed at ₹115 on the BSE and ₹116 on the NSE, representing a 51% and 53% premium, respectively, over the issue price of ₹76. The company's market capitalization surpassed ₹1 lakh crore on its listing day."
+            },
+            {
+              "date": "Q1 FY23-24 (August 30, 2023)",
+              "description": "Zomato reported its first-ever quarterly consolidated net profit of ₹2 crore."
+            },
+            {
+              "date": "Q4 FY23-24 (March 2024)",
+              "description": "The company reported a consolidated net profit of ₹175 crore."
+            },
+            {
+              "date": "December 23, 2024",
+              "description": "Zomato became the first Indian startup to be included in the Bombay Stock Exchange (BSE) Sensex 30 index, replacing JSW Steel Limited."
+            },
+            {
+              "date": "Q4 FY26 (March 2026)",
+              "description": "Zomato's net profit surged by 346% year-on-year to ₹174 crore, primarily driven by the rapid growth of its quick commerce unit, Blinkit. Total revenue for the quarter increased by 196% year-on-year to ₹17,292 crore."
+            }
+          ],
+          "5 most recent news items (date, headline, source URL)": "Not Available",
+          "3-6 upcoming catalysts (date, event, materiality)": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.25,
+        "status": "partial"
+      },
+      "citations": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    }
+  ]
+}

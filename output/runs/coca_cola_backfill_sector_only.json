@@ -1,0 +1,171 @@
+{
+  "company_name": "Coca-Cola",
+  "resolved_subsector": "global non-alcoholic ready-to-drink (NARTD) beverage company with an asset-light concentrate/syrup sales model",
+  "sections": [
+    {
+      "heading": "Category Unit Case Volume Growth",
+      "content_type": "chart",
+      "bullets": [
+        "Unit case volume growth by category (Sparkling Soft Drinks, Water, Sports Drinks, Coffee, Tea, Juice/Dairy/Plant-based): [{\"period\": \"Q1 2026\", \"overall_growth\": \"3%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks\", \"growth\": \"2%\"}, {\"name\": \"Trademark Coca-Cola\", \"growth\": \"2%\"}, {\"name\": \"Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Diet Coke/Coca-Cola Light\", \"growth\": \"6%\"}, {\"name\": \"Sparkling flavors\", \"growth\": \"3%\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Gained value share (specific volume growth not detailed)\"}]}, {\"period\": \"Q4 2025\", \"overall_growth\": \"1%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks - Trademark Coca-Cola\", \"growth\": \"Growth\"}, {\"name\": \"Sparkling Soft Drinks - Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Sparkling Soft Drinks - Diet Coke/Coca-Cola Light\", \"growth\": \"Improved 2%\"}, {\"name\": \"Sparkling Soft Drinks - Sparkling flavors\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Growth\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Down 3%\"}]}, {\"period\": \"Full Year 2025\", \"overall_growth\": \"Even\", \"categories\": []}]",
+        "NARTD value share (%) by key sub-category (e.g., carbonated soft drinks, bottled water, energy drinks) in top 5 markets: {\"Q1 2026\": \"Gained value share in total nonalcoholic ready-to-drink (NARTD) beverages, led by share gains in Trademark Coca-Cola, sparkling flavors, and water, sports, coffee and tea. Specific market share percentages by sub-category in top 5 markets were not found.\", \"Q4 2025\": \"Gained global value share in the total NARTD beverages category.\", \"Full Year 2025\": \"Gained value share in total NARTD beverages.\", \"General Market Share\": \"Over 40% of the global non-alcoholic beverage market.\", \"Carbonated Soft Drinks Market Share\": \"Approximately 40% of the global CSD market.\"}",
+        "Number of 'master brands' vs. total brands (historical trend): {\"Master Brands\": \"30 billion-dollar brands (as of March 2026)\", \"Total Brands\": \"Over 500 brands\", \"Historical Trend\": \"The company aims to expand its portfolio of billion-dollar brands. Non-sparkling beverage categories nearly doubled retail value over the decade.\"}",
+        "Revenue contribution from new/acquired categories (e.g., Costa Coffee, BodyArmor): {\"Fairlife\": \"A $1 billion+ brand (as of February 2026).\", \"BODYARMOR\": \"A non-cash impairment charge of $960 million related to the BODYARMOR trademark was reported in Q4 2025. Specific revenue contribution not found.\", \"Costa Coffee\": \"Acquired in 2019 for $4.9 billion. Specific revenue contribution not found.\"}",
+        "New product launch count and success rate by category: {\"New Product Launches\": [{\"period\": \"Q1 2026\", \"details\": \"New products like Coca-Cola Cherry Float, Diet Coke Cherry, and POWERADE Power Water contributed strongly to revenue growth.\"}, {\"period\": \"2026 Outlook\", \"details\": \"The company intends to introduce at least five new beverages globally within 2026, including enhanced hydration drinks and plant-based options.\"}], \"Success Rate\": \"Streamlined portfolio and disciplined innovation have tripled success rates versus 2019 (as of March 2026). An absolute success rate percentage was not found.\"}",
+        "Innovation pipeline focus areas: [\"Consumer-centric innovation, leveraging data and predictive insights to anticipate needs and deliver relevant products and experiences.\", \"Innovation must pair with affordability, digital engagement, and distribution, including mini cans.\", \"Products like Coca-Cola Zero Zero target demand for caffeine-free evening consumption.\", \"Value-Added Dairy and Alcohol Ready-to-Drink (ARTD).\", \"Health-conscious and functional beverages, including low-sugar products.\", \"Reducing time to market for innovative beverages, ideally within 12 months of conception.\", \"Securing partnerships with biotechnology firms and ingredient suppliers for unique formulations.\", \"Addressing shifting preferences for low-sugar products and the boom in weight-loss drugs.\", \"Expanding digital capabilities, with over 60% of customers digitized and increased use of advanced analytics.\"]"
+      ],
+      "domain_name": "Total Beverage Portfolio Performance & Diversification",
+      "confidence": "high",
+      "completeness": 0.857,
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "Re-evaluate Coca-Cola's growth potential and valuation based on category-specific volume trends, market share shifts, and the success of portfolio diversification into higher-growth segments like coffee and sports drinks.",
+        "banker": "Adjust pitch strategy to highlight Coca-Cola's successful diversification and brand portfolio management as key strengths for potential M&A or financing opportunities, or conversely, identify areas of underperformance for strategic review.",
+        "credit_analyst": "Assess the impact of portfolio diversification and brand streamlining on Coca-Cola's revenue stability and future cash flow generation, particularly concerning the performance of new and acquired categories.",
+        "consultant": "Advise Coca-Cola on optimizing resource allocation across its diverse beverage categories, identifying underperforming brands for divestiture or revitalization, and prioritizing innovation efforts based on category growth and market share trends."
+      }
+    },
+    {
+      "heading": "NARTD Value Share Gains",
+      "content_type": "table",
+      "bullets": [
+        "Unit case volume growth by category (Sparkling Soft Drinks, Water, Sports Drinks, Coffee, Tea, Juice/Dairy/Plant-based): [{\"period\": \"Q1 2026\", \"overall_growth\": \"3%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks\", \"growth\": \"2%\"}, {\"name\": \"Trademark Coca-Cola\", \"growth\": \"2%\"}, {\"name\": \"Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Diet Coke/Coca-Cola Light\", \"growth\": \"6%\"}, {\"name\": \"Sparkling flavors\", \"growth\": \"3%\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Gained value share (specific volume growth not detailed)\"}]}, {\"period\": \"Q4 2025\", \"overall_growth\": \"1%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks - Trademark Coca-Cola\", \"growth\": \"Growth\"}, {\"name\": \"Sparkling Soft Drinks - Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Sparkling Soft Drinks - Diet Coke/Coca-Cola Light\", \"growth\": \"Improved 2%\"}, {\"name\": \"Sparkling Soft Drinks - Sparkling flavors\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Growth\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Down 3%\"}]}, {\"period\": \"Full Year 2025\", \"overall_growth\": \"Even\", \"categories\": []}]",
+        "NARTD value share (%) by key sub-category (e.g., carbonated soft drinks, bottled water, energy drinks) in top 5 markets: {\"Q1 2026\": \"Gained value share in total nonalcoholic ready-to-drink (NARTD) beverages, led by share gains in Trademark Coca-Cola, sparkling flavors, and water, sports, coffee and tea. Specific market share percentages by sub-category in top 5 markets were not found.\", \"Q4 2025\": \"Gained global value share in the total NARTD beverages category.\", \"Full Year 2025\": \"Gained value share in total NARTD beverages.\", \"General Market Share\": \"Over 40% of the global non-alcoholic beverage market.\", \"Carbonated Soft Drinks Market Share\": \"Approximately 40% of the global CSD market.\"}",
+        "Number of 'master brands' vs. total brands (historical trend): {\"Master Brands\": \"30 billion-dollar brands (as of March 2026)\", \"Total Brands\": \"Over 500 brands\", \"Historical Trend\": \"The company aims to expand its portfolio of billion-dollar brands. Non-sparkling beverage categories nearly doubled retail value over the decade.\"}",
+        "Revenue contribution from new/acquired categories (e.g., Costa Coffee, BodyArmor): {\"Fairlife\": \"A $1 billion+ brand (as of February 2026).\", \"BODYARMOR\": \"A non-cash impairment charge of $960 million related to the BODYARMOR trademark was reported in Q4 2025. Specific revenue contribution not found.\", \"Costa Coffee\": \"Acquired in 2019 for $4.9 billion. Specific revenue contribution not found.\"}",
+        "New product launch count and success rate by category: {\"New Product Launches\": [{\"period\": \"Q1 2026\", \"details\": \"New products like Coca-Cola Cherry Float, Diet Coke Cherry, and POWERADE Power Water contributed strongly to revenue growth.\"}, {\"period\": \"2026 Outlook\", \"details\": \"The company intends to introduce at least five new beverages globally within 2026, including enhanced hydration drinks and plant-based options.\"}], \"Success Rate\": \"Streamlined portfolio and disciplined innovation have tripled success rates versus 2019 (as of March 2026). An absolute success rate percentage was not found.\"}",
+        "Innovation pipeline focus areas: [\"Consumer-centric innovation, leveraging data and predictive insights to anticipate needs and deliver relevant products and experiences.\", \"Innovation must pair with affordability, digital engagement, and distribution, including mini cans.\", \"Products like Coca-Cola Zero Zero target demand for caffeine-free evening consumption.\", \"Value-Added Dairy and Alcohol Ready-to-Drink (ARTD).\", \"Health-conscious and functional beverages, including low-sugar products.\", \"Reducing time to market for innovative beverages, ideally within 12 months of conception.\", \"Securing partnerships with biotechnology firms and ingredient suppliers for unique formulations.\", \"Addressing shifting preferences for low-sugar products and the boom in weight-loss drugs.\", \"Expanding digital capabilities, with over 60% of customers digitized and increased use of advanced analytics.\"]"
+      ],
+      "domain_name": "Total Beverage Portfolio Performance & Diversification",
+      "confidence": "high",
+      "completeness": 0.857,
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "Re-evaluate Coca-Cola's growth potential and valuation based on category-specific volume trends, market share shifts, and the success of portfolio diversification into higher-growth segments like coffee and sports drinks.",
+        "banker": "Adjust pitch strategy to highlight Coca-Cola's successful diversification and brand portfolio management as key strengths for potential M&A or financing opportunities, or conversely, identify areas of underperformance for strategic review.",
+        "credit_analyst": "Assess the impact of portfolio diversification and brand streamlining on Coca-Cola's revenue stability and future cash flow generation, particularly concerning the performance of new and acquired categories.",
+        "consultant": "Advise Coca-Cola on optimizing resource allocation across its diverse beverage categories, identifying underperforming brands for divestiture or revitalization, and prioritizing innovation efforts based on category growth and market share trends."
+      }
+    },
+    {
+      "heading": "Brand Portfolio Streamlining Impact",
+      "content_type": "list",
+      "bullets": [
+        "Unit case volume growth by category (Sparkling Soft Drinks, Water, Sports Drinks, Coffee, Tea, Juice/Dairy/Plant-based): [{\"period\": \"Q1 2026\", \"overall_growth\": \"3%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks\", \"growth\": \"2%\"}, {\"name\": \"Trademark Coca-Cola\", \"growth\": \"2%\"}, {\"name\": \"Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Diet Coke/Coca-Cola Light\", \"growth\": \"6%\"}, {\"name\": \"Sparkling flavors\", \"growth\": \"3%\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Gained value share (specific volume growth not detailed)\"}]}, {\"period\": \"Q4 2025\", \"overall_growth\": \"1%\", \"categories\": [{\"name\": \"Sparkling Soft Drinks - Trademark Coca-Cola\", \"growth\": \"Growth\"}, {\"name\": \"Sparkling Soft Drinks - Coca-Cola Zero Sugar\", \"growth\": \"13%\"}, {\"name\": \"Sparkling Soft Drinks - Diet Coke/Coca-Cola Light\", \"growth\": \"Improved 2%\"}, {\"name\": \"Sparkling Soft Drinks - Sparkling flavors\", \"growth\": \"Declined 1%\"}, {\"name\": \"Water, Sports, Coffee, and Tea\", \"growth\": \"Growth\"}, {\"name\": \"Juice, Value-Added Dairy, and Plant-based beverages\", \"growth\": \"Down 3%\"}]}, {\"period\": \"Full Year 2025\", \"overall_growth\": \"Even\", \"categories\": []}]",
+        "NARTD value share (%) by key sub-category (e.g., carbonated soft drinks, bottled water, energy drinks) in top 5 markets: {\"Q1 2026\": \"Gained value share in total nonalcoholic ready-to-drink (NARTD) beverages, led by share gains in Trademark Coca-Cola, sparkling flavors, and water, sports, coffee and tea. Specific market share percentages by sub-category in top 5 markets were not found.\", \"Q4 2025\": \"Gained global value share in the total NARTD beverages category.\", \"Full Year 2025\": \"Gained value share in total NARTD beverages.\", \"General Market Share\": \"Over 40% of the global non-alcoholic beverage market.\", \"Carbonated Soft Drinks Market Share\": \"Approximately 40% of the global CSD market.\"}",
+        "Number of 'master brands' vs. total brands (historical trend): {\"Master Brands\": \"30 billion-dollar brands (as of March 2026)\", \"Total Brands\": \"Over 500 brands\", \"Historical Trend\": \"The company aims to expand its portfolio of billion-dollar brands. Non-sparkling beverage categories nearly doubled retail value over the decade.\"}",
+        "Revenue contribution from new/acquired categories (e.g., Costa Coffee, BodyArmor): {\"Fairlife\": \"A $1 billion+ brand (as of February 2026).\", \"BODYARMOR\": \"A non-cash impairment charge of $960 million related to the BODYARMOR trademark was reported in Q4 2025. Specific revenue contribution not found.\", \"Costa Coffee\": \"Acquired in 2019 for $4.9 billion. Specific revenue contribution not found.\"}",
+        "New product launch count and success rate by category: {\"New Product Launches\": [{\"period\": \"Q1 2026\", \"details\": \"New products like Coca-Cola Cherry Float, Diet Coke Cherry, and POWERADE Power Water contributed strongly to revenue growth.\"}, {\"period\": \"2026 Outlook\", \"details\": \"The company intends to introduce at least five new beverages globally within 2026, including enhanced hydration drinks and plant-based options.\"}], \"Success Rate\": \"Streamlined portfolio and disciplined innovation have tripled success rates versus 2019 (as of March 2026). An absolute success rate percentage was not found.\"}",
+        "Innovation pipeline focus areas: [\"Consumer-centric innovation, leveraging data and predictive insights to anticipate needs and deliver relevant products and experiences.\", \"Innovation must pair with affordability, digital engagement, and distribution, including mini cans.\", \"Products like Coca-Cola Zero Zero target demand for caffeine-free evening consumption.\", \"Value-Added Dairy and Alcohol Ready-to-Drink (ARTD).\", \"Health-conscious and functional beverages, including low-sugar products.\", \"Reducing time to market for innovative beverages, ideally within 12 months of conception.\", \"Securing partnerships with biotechnology firms and ingredient suppliers for unique formulations.\", \"Addressing shifting preferences for low-sugar products and the boom in weight-loss drugs.\", \"Expanding digital capabilities, with over 60% of customers digitized and increased use of advanced analytics.\"]"
+      ],
+      "domain_name": "Total Beverage Portfolio Performance & Diversification",
+      "confidence": "high",
+      "completeness": 0.857,
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "Re-evaluate Coca-Cola's growth potential and valuation based on category-specific volume trends, market share shifts, and the success of portfolio diversification into higher-growth segments like coffee and sports drinks.",
+        "banker": "Adjust pitch strategy to highlight Coca-Cola's successful diversification and brand portfolio management as key strengths for potential M&A or financing opportunities, or conversely, identify areas of underperformance for strategic review.",
+        "credit_analyst": "Assess the impact of portfolio diversification and brand streamlining on Coca-Cola's revenue stability and future cash flow generation, particularly concerning the performance of new and acquired categories.",
+        "consultant": "Advise Coca-Cola on optimizing resource allocation across its diverse beverage categories, identifying underperforming brands for divestiture or revitalization, and prioritizing innovation efforts based on category growth and market share trends."
+      }
+    },
+    {
+      "heading": "Bottling Partner Network & Investments",
+      "content_type": "table",
+      "bullets": [
+        "Equity investments in bottling partners (value, % stake): [{\"partner\": \"Coca-Cola Consolidated, Inc. (CCCI)\", \"percentage_stake\": \"7%\", \"as_of_date\": \"December 31, 2024\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola FEMSA (KOF)\", \"percentage_stake\": \"28%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola Europacific Partners (CCEP)\", \"percentage_stake\": \"Not Available\", \"as_of_date\": \"Not Available\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola Hellenic\", \"percentage_stake\": \"24%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola İçecek A. Ş.\", \"percentage_stake\": \"20%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}]",
+        "Revenue from concentrate sales (USD Mn): 28285.19",
+        "Revenue from finished product sales (USD Mn): 19655.81",
+        "Concentrate sales volume growth (%): 3",
+        "Price/mix contribution to organic revenue growth (%): 2",
+        "Bottler capex trends (USD Mn, if reported/estimated): [{\"amount\": 312.3, \"period\": \"Fiscal Year 2025 (actual)\", \"bottler\": \"Coca-Cola Consolidated\"}, {\"amount\": 300, \"period\": \"Fiscal Year 2026 (expected)\", \"bottler\": \"Coca-Cola Consolidated\"}]",
+        "Bottler operating margins (%, if reported/estimated): [{\"margin\": 12.9, \"type\": \"GAAP operating margin\", \"period\": \"Q1 2026\", \"bottler\": \"Coca-Cola Consolidated\"}, {\"margin\": 11.4, \"type\": \"Adjusted operating margin\", \"period\": \"Q1 2026\", \"bottler\": \"Coca-Cola Consolidated\"}]",
+        "Key bottler contract renewal dates/terms: [{\"bottler\": \"Coca-Cola FEMSA (KOF)\", \"agreements\": [{\"location\": \"Colombia\", \"renewal_date\": \"June 2034\"}, {\"location\": \"Costa Rica\", \"renewal_date\": \"September 2027\"}, {\"location\": \"Nicaragua\", \"renewal_date\": \"May 2026\"}, {\"location\": \"Panama\", \"renewal_date\": \"November 2034\"}, {\"location\": \"Uruguay\", \"renewal_date\": \"June 2028\"}], \"terms\": \"Renewal depends on factors such as full payment of fees, compliance with laws and obligations, and approval from local and/or federal water authorities.\"}, {\"bottler\": \"Coca-Cola Europacific Partners (CCEP)\", \"agreements\": [], \"terms\": \"Bottling agreements have a limited contractual life and no automatic renewal clause beyond an additional 10-year extension period. CCEP considers its TCCC bottling rights to be \\\"de facto perpetual in nature\\\" due to mutual interdependency, TCCC's vested interest in CCEP's success (including board representation), and a history of TCCC renewing or replacing agreements. CCEP believes there is no foreseeable limit to the period over which these intangible assets are expected to generate net cash inflows.\"}, {\"bottler\": \"United States Bottlers (e.g., Coca-Cola Consolidated, Inc.)\", \"agreements\": [], \"terms\": \"Certain Bottler's Agreements for Trademark Coca-Cola Beverages and other cola-flavored Company Trademark Beverages in the United States have no stated expiration date. Standard contracts for other sparkling beverage flavors and still beverages are of stated duration, subject to bottler renewal rights. These agreements are subject to termination by The Coca-Cola Company for nonperformance or specific events of default.\"}]"
+      ],
+      "domain_name": "Bottling System Economics & Capital Structure",
+      "confidence": "high",
+      "completeness": 0.889,
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Consider acquiring a minority stake in a high-performing Coca-Cola bottler if their operating margins are significantly above average and contract renewal terms are favorable, justifying a higher entry multiple.",
+        "banker": "Pitch Coca-Cola's bottling partners on refinancing existing debt or providing acquisition financing for consolidation opportunities, leveraging strong operating margins and predictable cash flows from concentrate sales.",
+        "credit_analyst": "Assess the creditworthiness of Coca-Cola's key bottling partners by analyzing their operating margins, capex trends, and the stability of concentrate pricing to determine default probability.",
+        "consultant": "Advise Coca-Cola on optimizing its capital structure within its bottling network by evaluating the ROI of equity investments versus direct bottler capex, and identifying opportunities to improve bottler operating margins."
+      }
+    },
+    {
+      "heading": "Concentrate Sales & Pricing Dynamics",
+      "content_type": "chart",
+      "bullets": [
+        "Equity investments in bottling partners (value, % stake): [{\"partner\": \"Coca-Cola Consolidated, Inc. (CCCI)\", \"percentage_stake\": \"7%\", \"as_of_date\": \"December 31, 2024\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola FEMSA (KOF)\", \"percentage_stake\": \"28%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola Europacific Partners (CCEP)\", \"percentage_stake\": \"Not Available\", \"as_of_date\": \"Not Available\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola Hellenic\", \"percentage_stake\": \"24%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}, {\"partner\": \"Coca-Cola İçecek A. Ş.\", \"percentage_stake\": \"20%\", \"as_of_date\": \"December 31, 2015\", \"value_usd\": \"Not Available\"}]",
+        "Revenue from concentrate sales (USD Mn): 28285.19",
+        "Revenue from finished product sales (USD Mn): 19655.81",
+        "Concentrate sales volume growth (%): 3",
+        "Price/mix contribution to organic revenue growth (%): 2",
+        "Bottler capex trends (USD Mn, if reported/estimated): [{\"amount\": 312.3, \"period\": \"Fiscal Year 2025 (actual)\", \"bottler\": \"Coca-Cola Consolidated\"}, {\"amount\": 300, \"period\": \"Fiscal Year 2026 (expected)\", \"bottler\": \"Coca-Cola Consolidated\"}]",
+        "Bottler operating margins (%, if reported/estimated): [{\"margin\": 12.9, \"type\": \"GAAP operating margin\", \"period\": \"Q1 2026\", \"bottler\": \"Coca-Cola Consolidated\"}, {\"margin\": 11.4, \"type\": \"Adjusted operating margin\", \"period\": \"Q1 2026\", \"bottler\": \"Coca-Cola Consolidated\"}]",
+        "Key bottler contract renewal dates/terms: [{\"bottler\": \"Coca-Cola FEMSA (KOF)\", \"agreements\": [{\"location\": \"Colombia\", \"renewal_date\": \"June 2034\"}, {\"location\": \"Costa Rica\", \"renewal_date\": \"September 2027\"}, {\"location\": \"Nicaragua\", \"renewal_date\": \"May 2026\"}, {\"location\": \"Panama\", \"renewal_date\": \"November 2034\"}, {\"location\": \"Uruguay\", \"renewal_date\": \"June 2028\"}], \"terms\": \"Renewal depends on factors such as full payment of fees, compliance with laws and obligations, and approval from local and/or federal water authorities.\"}, {\"bottler\": \"Coca-Cola Europacific Partners (CCEP)\", \"agreements\": [], \"terms\": \"Bottling agreements have a limited contractual life and no automatic renewal clause beyond an additional 10-year extension period. CCEP considers its TCCC bottling rights to be \\\"de facto perpetual in nature\\\" due to mutual interdependency, TCCC's vested interest in CCEP's success (including board representation), and a history of TCCC renewing or replacing agreements. CCEP believes there is no foreseeable limit to the period over which these intangible assets are expected to generate net cash inflows.\"}, {\"bottler\": \"United States Bottlers (e.g., Coca-Cola Consolidated, Inc.)\", \"agreements\": [], \"terms\": \"Certain Bottler's Agreements for Trademark Coca-Cola Beverages and other cola-flavored Company Trademark Beverages in the United States have no stated expiration date. Standard contracts for other sparkling beverage flavors and still beverages are of stated duration, subject to bottler renewal rights. These agreements are subject to termination by The Coca-Cola Company for nonperformance or specific events of default.\"}]"
+      ],
+      "domain_name": "Bottling System Economics & Capital Structure",
+      "confidence": "high",
+      "completeness": 0.889,
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Consider acquiring a minority stake in a high-performing Coca-Cola bottler if their operating margins are significantly above average and contract renewal terms are favorable, justifying a higher entry multiple.",
+        "banker": "Pitch Coca-Cola's bottling partners on refinancing existing debt or providing acquisition financing for consolidation opportunities, leveraging strong operating margins and predictable cash flows from concentrate sales.",
+        "credit_analyst": "Assess the creditworthiness of Coca-Cola's key bottling partners by analyzing their operating margins, capex trends, and the stability of concentrate pricing to determine default probability.",
+        "consultant": "Advise Coca-Cola on optimizing its capital structure within its bottling network by evaluating the ROI of equity investments versus direct bottler capex, and identifying opportunities to improve bottler operating margins."
+      }
+    },
+    {
+      "heading": "Geographic Unit Case Volume & Share",
+      "content_type": "table",
+      "bullets": [
+        "Unit case volume growth by operating segment (e.g., Europe, Middle East & Africa; Latin America; Asia Pacific; North America): [{\"segment\": \"Global\", \"growth\": \"3%\", \"period\": \"Q1 2026\"}, {\"segment\": \"North America\", \"growth\": \"4%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Asia Pacific\", \"growth\": \"5%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Europe, Middle East & Africa (EMEA)\", \"growth\": \"2%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Latin America\", \"growth\": \"1%\", \"period\": \"Q1 2026\"}]",
+        "NARTD market share (%) by key country/region (e.g., China, India, Brazil, Mexico): Specific percentage market share data for Coca-Cola in the total NARTD market by key country (China, India, Brazil, Mexico) was not explicitly available in the retrieved public search results. However, the company gained value share in total nonalcoholic ready-to-drink (NARTD) beverages in Brazil and Argentina for the full year 2025 and in Q3 2025. In Q1 2026, value share in total NARTD beverages for the Asia Pacific market zone was even, with declines in India. Globally, Coca-Cola holds a 40% share of the global non-alcoholic beverage market."
+      ],
+      "domain_name": "Global Market Penetration & Growth Strategies",
+      "confidence": "medium",
+      "completeness": 0.333,
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Investigate potential acquisition targets or strategic partnerships in high-growth emerging markets identified by strong per capita consumption trends and increasing market share.",
+        "banker": "Develop pitch materials for Coca-Cola focusing on financing growth initiatives in emerging markets, leveraging data on distribution reach and local brand expansion.",
+        "credit_analyst": "Assess the creditworthiness of Coca-Cola by analyzing the stability and growth trajectory of its emerging market operations, particularly in relation to per capita consumption and market share.",
+        "consultant": "Advise Coca-Cola on optimizing distribution strategies and local brand portfolio expansion in emerging markets to capitalize on identified growth opportunities and competitive positioning."
+      }
+    },
+    {
+      "heading": "Emerging Market Per Capita Consumption",
+      "content_type": "chart",
+      "bullets": [
+        "Unit case volume growth by operating segment (e.g., Europe, Middle East & Africa; Latin America; Asia Pacific; North America): [{\"segment\": \"Global\", \"growth\": \"3%\", \"period\": \"Q1 2026\"}, {\"segment\": \"North America\", \"growth\": \"4%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Asia Pacific\", \"growth\": \"5%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Europe, Middle East & Africa (EMEA)\", \"growth\": \"2%\", \"period\": \"Q1 2026\"}, {\"segment\": \"Latin America\", \"growth\": \"1%\", \"period\": \"Q1 2026\"}]",
+        "NARTD market share (%) by key country/region (e.g., China, India, Brazil, Mexico): Specific percentage market share data for Coca-Cola in the total NARTD market by key country (China, India, Brazil, Mexico) was not explicitly available in the retrieved public search results. However, the company gained value share in total nonalcoholic ready-to-drink (NARTD) beverages in Brazil and Argentina for the full year 2025 and in Q3 2025. In Q1 2026, value share in total NARTD beverages for the Asia Pacific market zone was even, with declines in India. Globally, Coca-Cola holds a 40% share of the global non-alcoholic beverage market."
+      ],
+      "domain_name": "Global Market Penetration & Growth Strategies",
+      "confidence": "medium",
+      "completeness": 0.333,
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Investigate potential acquisition targets or strategic partnerships in high-growth emerging markets identified by strong per capita consumption trends and increasing market share.",
+        "banker": "Develop pitch materials for Coca-Cola focusing on financing growth initiatives in emerging markets, leveraging data on distribution reach and local brand expansion.",
+        "credit_analyst": "Assess the creditworthiness of Coca-Cola by analyzing the stability and growth trajectory of its emerging market operations, particularly in relation to per capita consumption and market share.",
+        "consultant": "Advise Coca-Cola on optimizing distribution strategies and local brand portfolio expansion in emerging markets to capitalize on identified growth opportunities and competitive positioning."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "cost": {
+    "phase1_sector_research_usd": 0.015036,
+    "domain_research_usd": 0.140872,
+    "actual_total_usd": 0.155908,
+    "actual_calls": 19,
+    "elapsed_seconds": 231.5,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.046957,
+      "estimated_generic_domains_usd": 0.281744,
+      "estimated_synthesis_usd": 0.187829,
+      "estimated_total_usd": 0.625481
+    }
+  }
+}

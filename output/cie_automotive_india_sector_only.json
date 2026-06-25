@@ -1,0 +1,1562 @@
+{
+  "company_name": "CIE Automotive India",
+  "generated_at": "20260624_224139",
+  "resolved_subsector": "Multi-technology Automotive Components Manufacturer (Auto Ancillaries) with EV Focus",
+  "sections": [
+    {
+      "heading": "Revenue by Vehicle Segment",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total)",
+          "value": [
+            {
+              "period": "Full Year CY2025",
+              "value": ">50% of total revenue (proxy - Light Vehicles segment)",
+              "note": "Light Vehicles segment includes Passenger Vehicles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Top 5 OEM customer revenue contribution (INR Mn, % of total)",
+          "value": [
+            {
+              "period": "Full Year CY2025",
+              "customer": "Largest customer (India)",
+              "value": "32% of India sales"
+            },
+            {
+              "period": "Full Year CY2025",
+              "customer": "Second largest customer (India)",
+              "value": "11% of India sales"
+            },
+            {
+              "period": "Full Year CY2025",
+              "customer": "Largest customer (Europe)",
+              "value": "~12-15% of Europe sales"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)",
+          "value": [
+            {
+              "period": "Q1 CY2026 (Jan-Mar 2026)",
+              "market": "India OEM",
+              "value_inr_mn": 16200,
+              "value_percent_of_consolidated": 63.78
+            },
+            {
+              "period": "Q1 CY2026 (Jan-Mar 2026)",
+              "market": "Europe OEM",
+              "value_inr_mn": 9200,
+              "value_percent_of_consolidated": 36.22
+            },
+            {
+              "period": "Full Year CY2025",
+              "market": "India OEM",
+              "value_inr_mn": 59370,
+              "value_percent_of_consolidated": 65.08
+            },
+            {
+              "period": "Full Year CY2025",
+              "market": "Europe OEM",
+              "value_inr_mn": 31853,
+              "value_percent_of_consolidated": 34.92
+            },
+            {
+              "period": "Full Year CY2024",
+              "market": "India OEM",
+              "value_percent_of_total": 68
+            },
+            {
+              "period": "Full Year CY2024",
+              "market": "Europe OEM",
+              "value_percent_of_total": 32
+            }
+          ],
+          "sources": [
+            {
+              "name": "marketscreener.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf2HpHPZfdKtwmfH-vdbS8w220cV9HtYRXtSl6ADUbtkeBE44figtzhup6kx9P3f0NQ_NeAZfpBm6RiXIWrjRyt1UVjLik-A55b9WO8PE4UgCamjgUO8OPKuWPc9TRAyZZEw7X3g27LSKkXLCKZQGFpOzGQb_k_9AzvIhR5CZ24xPU-C3uTcLTGjmO5CjP0kI-e7XDpO9d9VuY7kAMQJocEkgzhT5I8vMn"
+            },
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            },
+            {
+              "name": "icra.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total): [{\"period\": \"Full Year CY2025\", \"value\": \">50% of total revenue (proxy - Light Vehicles segment)\", \"note\": \"Light Vehicles segment includes Passenger Vehicles\"}]",
+        "Top 5 OEM customer revenue contribution (INR Mn, % of total): [{\"period\": \"Full Year CY2025\", \"customer\": \"Largest customer (India)\", \"value\": \"32% of India sales\"}, {\"period\": \"Full Year CY2025\", \"customer\": \"Second largest customer (India)\", \"value\": \"11% of India sales\"}, {\"period\": \"Full Year CY2025\", \"customer\": \"Largest customer (Europe)\", \"value\": \"~12-15% of Europe sales\"}]",
+        "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM): [{\"period\": \"Q1 CY2026 (Jan-Mar 2026)\", \"market\": \"India OEM\", \"value_inr_mn\": 16200, \"value_percent_of_consolidated\": 63.78}, {\"period\": \"Q1 CY2026 (Jan-Mar 2026)\", \"market\": \"Europe OEM\", \"value_inr_mn\": 9200, \"value_percent_of_consolidated\": 36.22}, {\"period\": \"Full Year CY2025\", \"market\": \"India OEM\", \"value_inr_mn\": 59370, \"value_percent_of_consolidated\": 65.08}, {\"period\": \"Full Year CY2025\", \"market\": \"Europe OEM\", \"value_inr_mn\": 31853, \"value_percent_of_consolidated\": 34.92}, {\"period\": \"Full Year CY2024\", \"market\": \"India OEM\", \"value_percent_of_total\": 68}, {\"period\": \"Full Year CY2024\", \"market\": \"Europe OEM\", \"value_percent_of_total\": 32}]"
+      ],
+      "references": [
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY=",
+          "fields": [
+            "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total)",
+            "Top 5 OEM customer revenue contribution (INR Mn, % of total)",
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf2HpHPZfdKtwmfH-vdbS8w220cV9HtYRXtSl6ADUbtkeBE44figtzhup6kx9P3f0NQ_NeAZfpBm6RiXIWrjRyt1UVjLik-A55b9WO8PE4UgCamjgUO8OPKuWPc9TRAyZZEw7X3g27LSKkXLCKZQGFpOzGQb_k_9AzvIhR5CZ24xPU-C3uTcLTGjmO5CjP0kI-e7XDpO9d9VuY7kAMQJocEkgzhT5I8vMn",
+          "fields": [
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "icra.in",
+          "url": null,
+          "fields": [
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK8TuhcOdoFMvMRcEbjYcWgIc1sy0MnmXNzNu6rhTCKFoQ0l1FcpQO61Jpt64EUWonjepg5Po3n6jlEiloQDHIKRur5LUuBUmSznQpKX_bzU_pENqhxOVJv3LpeSmMp_dDznipwGm5dx5fHJzcJOygdbJJT5mWFEODiSavCxI71YkYiBAmFxAQe6DxVjsZi1DGy7s8VHuIG_dhunWKqvE39tenUTINRRHgssNNJwJ7ZV7G2L-ui2X_0tYB_3oylYYACBM=",
+          "fields": []
+        },
+        {
+          "name": "icra.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHenI6uHuTh8DjZT7P43WVe-d0UJWtdlb57-Hu5Ww-SHlPu-drqqGX0LlsAm1lskbpFFloa5_0aP9Rb24OW0rKgCZ8EvX92QdeTI8j4zlppNdkm3omVNd448Lkig9EoAG0sv_FiIf8uSdyYGyatN5GwkI-eH55j",
+          "fields": []
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXsOflskWpjXSGt0IunagpyU1iDLKIoIcIQe34aDdTo8BFhjVyk0x06f7i9aQ-Af1_CyjQYlzl2xQOJXoO_pXb_VNURHqad8uEP6BzuXI1yFmLEm9vpzgppAElIGRstXDMboF5idMP7rC9jvKOUL23Biv58GWLrs4m9UgngNlRboSxcKELHFMmJPO3vdbhNVVeJAzVYZwikHuVZZo-jglg3f67xteLZ15",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtjsLI5T41G7TYD0ohFxA2iLmlafZOa690fizqJw2SWovELlpztDvVmFXJcKRm0bHsBRglCuvtEw2-lTEPAjth8lt3emjWZUnSc_FzWRF4WIIYaQNzTJ9_5bmfBpgklIDoMfOpf-UzRMRjirbWyLLZMO7SHjF66QMcNO14AOIi",
+          "fields": []
+        }
+      ],
+      "domain_name": "Automotive OEM & Platform Exposure",
+      "confidence": "medium",
+      "completeness": 0.429,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Revenue contribution by Commercial Vehicle segment (INR Mn, % of total)",
+        "Revenue contribution by Two-Wheeler segment (INR Mn, % of total)",
+        "Revenue contribution by Tractor/Off-Highway segment (INR Mn, % of total)",
+        "Number of new platform wins in current year"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "High concentration in passenger vehicles and a few key OEMs could indicate cyclicality risk, but new platform wins suggest growth potential, warranting deeper diligence.",
+        "banker": "Understanding OEM customer concentration and geographic end-market revenue is crucial for assessing deal feasibility and identifying potential M&A targets or financing needs.",
+        "credit_analyst": "Revenue concentration by vehicle segment and top customers directly impacts revenue stability and credit risk, requiring further analysis of customer contracts and market trends.",
+        "consultant": "The breakdown by vehicle segment and geographic end-market provides initial insights into market positioning and potential operational improvement areas, justifying further investigation."
+      }
+    },
+    {
+      "heading": "Key OEM Customer Concentration",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total)",
+          "value": [
+            {
+              "period": "Full Year CY2025",
+              "value": ">50% of total revenue (proxy - Light Vehicles segment)",
+              "note": "Light Vehicles segment includes Passenger Vehicles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Top 5 OEM customer revenue contribution (INR Mn, % of total)",
+          "value": [
+            {
+              "period": "Full Year CY2025",
+              "customer": "Largest customer (India)",
+              "value": "32% of India sales"
+            },
+            {
+              "period": "Full Year CY2025",
+              "customer": "Second largest customer (India)",
+              "value": "11% of India sales"
+            },
+            {
+              "period": "Full Year CY2025",
+              "customer": "Largest customer (Europe)",
+              "value": "~12-15% of Europe sales"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)",
+          "value": [
+            {
+              "period": "Q1 CY2026 (Jan-Mar 2026)",
+              "market": "India OEM",
+              "value_inr_mn": 16200,
+              "value_percent_of_consolidated": 63.78
+            },
+            {
+              "period": "Q1 CY2026 (Jan-Mar 2026)",
+              "market": "Europe OEM",
+              "value_inr_mn": 9200,
+              "value_percent_of_consolidated": 36.22
+            },
+            {
+              "period": "Full Year CY2025",
+              "market": "India OEM",
+              "value_inr_mn": 59370,
+              "value_percent_of_consolidated": 65.08
+            },
+            {
+              "period": "Full Year CY2025",
+              "market": "Europe OEM",
+              "value_inr_mn": 31853,
+              "value_percent_of_consolidated": 34.92
+            },
+            {
+              "period": "Full Year CY2024",
+              "market": "India OEM",
+              "value_percent_of_total": 68
+            },
+            {
+              "period": "Full Year CY2024",
+              "market": "Europe OEM",
+              "value_percent_of_total": 32
+            }
+          ],
+          "sources": [
+            {
+              "name": "marketscreener.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf2HpHPZfdKtwmfH-vdbS8w220cV9HtYRXtSl6ADUbtkeBE44figtzhup6kx9P3f0NQ_NeAZfpBm6RiXIWrjRyt1UVjLik-A55b9WO8PE4UgCamjgUO8OPKuWPc9TRAyZZEw7X3g27LSKkXLCKZQGFpOzGQb_k_9AzvIhR5CZ24xPU-C3uTcLTGjmO5CjP0kI-e7XDpO9d9VuY7kAMQJocEkgzhT5I8vMn"
+            },
+            {
+              "name": "alphastreet.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY="
+            },
+            {
+              "name": "icra.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total): [{\"period\": \"Full Year CY2025\", \"value\": \">50% of total revenue (proxy - Light Vehicles segment)\", \"note\": \"Light Vehicles segment includes Passenger Vehicles\"}]",
+        "Top 5 OEM customer revenue contribution (INR Mn, % of total): [{\"period\": \"Full Year CY2025\", \"customer\": \"Largest customer (India)\", \"value\": \"32% of India sales\"}, {\"period\": \"Full Year CY2025\", \"customer\": \"Second largest customer (India)\", \"value\": \"11% of India sales\"}, {\"period\": \"Full Year CY2025\", \"customer\": \"Largest customer (Europe)\", \"value\": \"~12-15% of Europe sales\"}]",
+        "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM): [{\"period\": \"Q1 CY2026 (Jan-Mar 2026)\", \"market\": \"India OEM\", \"value_inr_mn\": 16200, \"value_percent_of_consolidated\": 63.78}, {\"period\": \"Q1 CY2026 (Jan-Mar 2026)\", \"market\": \"Europe OEM\", \"value_inr_mn\": 9200, \"value_percent_of_consolidated\": 36.22}, {\"period\": \"Full Year CY2025\", \"market\": \"India OEM\", \"value_inr_mn\": 59370, \"value_percent_of_consolidated\": 65.08}, {\"period\": \"Full Year CY2025\", \"market\": \"Europe OEM\", \"value_inr_mn\": 31853, \"value_percent_of_consolidated\": 34.92}, {\"period\": \"Full Year CY2024\", \"market\": \"India OEM\", \"value_percent_of_total\": 68}, {\"period\": \"Full Year CY2024\", \"market\": \"Europe OEM\", \"value_percent_of_total\": 32}]"
+      ],
+      "references": [
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE4RSSB9FAk653rn3BVGuS3_TtQCQ0DkXHxuh-wks3whzNL7CnkHdGpQx4JUBdQexsUMNbZMhauUrSjQqRKcFs4po6LMFnFvLG_Das9eewFNa9kNYeCPxmhrWMfJpsAvhyhNgATa-jQSAFovs667yDpLxvdgwHrxgUrPXuIitTio5THCIaKNOBcxOyCtL4mtaaogVFw6urid3FHDfbZRtkFkv-z4mP_FE86rY=",
+          "fields": [
+            "Revenue contribution by Passenger Vehicle segment (INR Mn, % of total)",
+            "Top 5 OEM customer revenue contribution (INR Mn, % of total)",
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf2HpHPZfdKtwmfH-vdbS8w220cV9HtYRXtSl6ADUbtkeBE44figtzhup6kx9P3f0NQ_NeAZfpBm6RiXIWrjRyt1UVjLik-A55b9WO8PE4UgCamjgUO8OPKuWPc9TRAyZZEw7X3g27LSKkXLCKZQGFpOzGQb_k_9AzvIhR5CZ24xPU-C3uTcLTGjmO5CjP0kI-e7XDpO9d9VuY7kAMQJocEkgzhT5I8vMn",
+          "fields": [
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "icra.in",
+          "url": null,
+          "fields": [
+            "Revenue split by geographic end-market (e.g., India OEM, Europe OEM, North America OEM)"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK8TuhcOdoFMvMRcEbjYcWgIc1sy0MnmXNzNu6rhTCKFoQ0l1FcpQO61Jpt64EUWonjepg5Po3n6jlEiloQDHIKRur5LUuBUmSznQpKX_bzU_pENqhxOVJv3LpeSmMp_dDznipwGm5dx5fHJzcJOygdbJJT5mWFEODiSavCxI71YkYiBAmFxAQe6DxVjsZi1DGy7s8VHuIG_dhunWKqvE39tenUTINRRHgssNNJwJ7ZV7G2L-ui2X_0tYB_3oylYYACBM=",
+          "fields": []
+        },
+        {
+          "name": "icra.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHenI6uHuTh8DjZT7P43WVe-d0UJWtdlb57-Hu5Ww-SHlPu-drqqGX0LlsAm1lskbpFFloa5_0aP9Rb24OW0rKgCZ8EvX92QdeTI8j4zlppNdkm3omVNd448Lkig9EoAG0sv_FiIf8uSdyYGyatN5GwkI-eH55j",
+          "fields": []
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXsOflskWpjXSGt0IunagpyU1iDLKIoIcIQe34aDdTo8BFhjVyk0x06f7i9aQ-Af1_CyjQYlzl2xQOJXoO_pXb_VNURHqad8uEP6BzuXI1yFmLEm9vpzgppAElIGRstXDMboF5idMP7rC9jvKOUL23Biv58GWLrs4m9UgngNlRboSxcKELHFMmJPO3vdbhNVVeJAzVYZwikHuVZZo-jglg3f67xteLZ15",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtjsLI5T41G7TYD0ohFxA2iLmlafZOa690fizqJw2SWovELlpztDvVmFXJcKRm0bHsBRglCuvtEw2-lTEPAjth8lt3emjWZUnSc_FzWRF4WIIYaQNzTJ9_5bmfBpgklIDoMfOpf-UzRMRjirbWyLLZMO7SHjF66QMcNO14AOIi",
+          "fields": []
+        }
+      ],
+      "domain_name": "Automotive OEM & Platform Exposure",
+      "confidence": "medium",
+      "completeness": 0.429,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Revenue contribution by Commercial Vehicle segment (INR Mn, % of total)",
+        "Revenue contribution by Two-Wheeler segment (INR Mn, % of total)",
+        "Revenue contribution by Tractor/Off-Highway segment (INR Mn, % of total)",
+        "Number of new platform wins in current year"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "High concentration in passenger vehicles and a few key OEMs could indicate cyclicality risk, but new platform wins suggest growth potential, warranting deeper diligence.",
+        "banker": "Understanding OEM customer concentration and geographic end-market revenue is crucial for assessing deal feasibility and identifying potential M&A targets or financing needs.",
+        "credit_analyst": "Revenue concentration by vehicle segment and top customers directly impacts revenue stability and credit risk, requiring further analysis of customer contracts and market trends.",
+        "consultant": "The breakdown by vehicle segment and geographic end-market provides initial insights into market positioning and potential operational improvement areas, justifying further investigation."
+      }
+    },
+    {
+      "heading": "EV Component Order Book & Revenue Share",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Annualized new orders from EV programs (INR Mn, % of total new orders)",
+          "value": [
+            {
+              "period": "Q1 CY2026",
+              "value_inr_mn": 385,
+              "percent_of_total_new_orders": 11,
+              "note": "approximately"
+            },
+            {
+              "period": "CY2025",
+              "value_inr_mn": 870,
+              "percent_of_total_new_orders": 10,
+              "note": "for India operations"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex)",
+          "value": [
+            {
+              "period": "CY2026",
+              "value_inr_mn": "4000-5000",
+              "percent_of_total_capex": "Not Available",
+              "note": "total India Capex guidance, not solely for EV product development/manufacturing"
+            },
+            {
+              "period": "CY2024",
+              "value_inr_mn": 2100,
+              "percent_of_total_capex": "Not Available",
+              "note": "general growth capex, not explicitly stated as solely for EV product development/manufacturing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Share of BEV-related orders in European operations (%)",
+          "value": [
+            {
+              "period": "CY2022",
+              "value_percent": ">40",
+              "note": "of new forging orders from the Battery Electric Vehicle (BEV) market"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annualized new orders from EV programs (INR Mn, % of total new orders): [{\"period\": \"Q1 CY2026\", \"value_inr_mn\": 385, \"percent_of_total_new_orders\": 11, \"note\": \"approximately\"}, {\"period\": \"CY2025\", \"value_inr_mn\": 870, \"percent_of_total_new_orders\": 10, \"note\": \"for India operations\"}]",
+        "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex): [{\"period\": \"CY2026\", \"value_inr_mn\": \"4000-5000\", \"percent_of_total_capex\": \"Not Available\", \"note\": \"total India Capex guidance, not solely for EV product development/manufacturing\"}, {\"period\": \"CY2024\", \"value_inr_mn\": 2100, \"percent_of_total_capex\": \"Not Available\", \"note\": \"general growth capex, not explicitly stated as solely for EV product development/manufacturing\"}]",
+        "Share of BEV-related orders in European operations (%): [{\"period\": \"CY2022\", \"value_percent\": \">40\", \"note\": \"of new forging orders from the Battery Electric Vehicle (BEV) market\"}]"
+      ],
+      "references": [
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r",
+          "fields": [
+            "Annualized new orders from EV programs (INR Mn, % of total new orders)",
+            "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex)",
+            "Share of BEV-related orders in European operations (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo4cHBDzWYg51tHKmBOUnkBYwnUwr1E8RZ8FB95yUe3scWr6xqzyuwYHAqAAAgKuLw1b_x8sStpZEQqyASJLG4j8kXQ4wCNuQDmvNdeN59DQGhlgJ9HY9obUhD69HDq4PmRII1VG2wTUauU0QgSQwM8FmMUvo3rW87C2xF73rXHu8Me8N8FOW4tuZCNrjHGCiRn-NHFt4mTOL4FetVi7FfVDlnh4X_",
+          "fields": []
+        },
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkxuoPK5JbN5yYy8HyMBpY4AMKMRZRferCR7TGHxmx7tjlnBL-rCe04c-qSnuMe2YCkIWmDPnN6pM29kDGgfYRitF0zF5gzi47EG_ME5ZinR9ZYojpQAMTdqsk_cF4eN7dYFl5cDB453yCZHtLEMhbE1H6kiEXuXelx6_fkFGPLikHsoEkRwC4UgjfdzG2zH97yZlpipBerwfSXy_C7sg77v-96zuKCx3ayX0=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPHfvE1-V3_wRCLld2WJqEZPe1ppMdXW0p5bLWmmsA65YrCk6X7D3owzO0lhpeTxn9ku8UbSfWEmYI3nw2Uk_xG36KMSEVUzUmJ0qniBcxoGDlQOd0TopD6IvvVMJGS-GIyS3kZRypqusydXHf_xCGC1yYMtCBGLEWY2myA7eaGwrZ230Wj18HiPP2ERnBiY33cALoPKUkyxcv5VDVFiO36fjhZ6c=",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl8qieXc3B8ZlCKj90f611On5HEGaB98jT2JixdbX_kknUpsn_Y5jrnx4j2Snm7BWdYAHLMWQVCZdNHKcWHTTo0nn7NMks_TIAV9_OhtwexB3gNTMuNZ42c8LJ6sFVMvC0P9x4XQse46IVr4GQoPeY6DCp_GYdPw==",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8DDApcs1gvYEHCXyokW3j9DaCb-qMl3c9RIZk3FDANqJb1d7jZDRF8Ii8og5i1om_s9_C0nqxYhD5iDWbFRfFe_SFb06X2I8U_le3K5wa9CtwVWcyfcbbS80osUW7WJHfCgM1DbksyjihifuoS3iHbH1Z277gfTvUnOiA6HEnwU6niQXVILl5_24d6KqX-V1tfLNzsWdZ9Rs8wCfD6NHp3Q55sVwhvAapTUw99C0=",
+          "fields": []
+        }
+      ],
+      "domain_name": "EV Transition & Product Portfolio Adaptation",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Revenue from EV-specific components (current, INR Mn, % of total)",
+        "Projected revenue from EV-specific components (3-5 year outlook, INR Mn, % of total)",
+        "R&D spend on EV technologies (INR Mn, % of total R&D)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Significantly increases pursuit as the data directly quantifies the company's current and future exposure to the high-growth EV market, a key investment thesis driver.",
+        "banker": "Increases pursuit by providing concrete metrics on EV revenue streams and investment, which are crucial for assessing a company's strategic positioning and potential for M&A or capital raising.",
+        "credit_analyst": "Increases pursuit by offering insight into the company's strategic shift towards a growing market, potentially improving future cash flows and reducing long-term risk, though the capex/R&D figures warrant closer scrutiny for sustainability.",
+        "consultant": "Increases pursuit by providing quantifiable data on EV order book, revenue, and investment, enabling a more focused analysis of operational execution and competitive positioning within the EV supply chain."
+      }
+    },
+    {
+      "heading": "EV-Related Capex & R&D",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Annualized new orders from EV programs (INR Mn, % of total new orders)",
+          "value": [
+            {
+              "period": "Q1 CY2026",
+              "value_inr_mn": 385,
+              "percent_of_total_new_orders": 11,
+              "note": "approximately"
+            },
+            {
+              "period": "CY2025",
+              "value_inr_mn": 870,
+              "percent_of_total_new_orders": 10,
+              "note": "for India operations"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex)",
+          "value": [
+            {
+              "period": "CY2026",
+              "value_inr_mn": "4000-5000",
+              "percent_of_total_capex": "Not Available",
+              "note": "total India Capex guidance, not solely for EV product development/manufacturing"
+            },
+            {
+              "period": "CY2024",
+              "value_inr_mn": 2100,
+              "percent_of_total_capex": "Not Available",
+              "note": "general growth capex, not explicitly stated as solely for EV product development/manufacturing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Share of BEV-related orders in European operations (%)",
+          "value": [
+            {
+              "period": "CY2022",
+              "value_percent": ">40",
+              "note": "of new forging orders from the Battery Electric Vehicle (BEV) market"
+            }
+          ],
+          "sources": [
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annualized new orders from EV programs (INR Mn, % of total new orders): [{\"period\": \"Q1 CY2026\", \"value_inr_mn\": 385, \"percent_of_total_new_orders\": 11, \"note\": \"approximately\"}, {\"period\": \"CY2025\", \"value_inr_mn\": 870, \"percent_of_total_new_orders\": 10, \"note\": \"for India operations\"}]",
+        "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex): [{\"period\": \"CY2026\", \"value_inr_mn\": \"4000-5000\", \"percent_of_total_capex\": \"Not Available\", \"note\": \"total India Capex guidance, not solely for EV product development/manufacturing\"}, {\"period\": \"CY2024\", \"value_inr_mn\": 2100, \"percent_of_total_capex\": \"Not Available\", \"note\": \"general growth capex, not explicitly stated as solely for EV product development/manufacturing\"}]",
+        "Share of BEV-related orders in European operations (%): [{\"period\": \"CY2022\", \"value_percent\": \">40\", \"note\": \"of new forging orders from the Battery Electric Vehicle (BEV) market\"}]"
+      ],
+      "references": [
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7XqQlkfW-i9RfeeGiY15VXCBZ7zgyi0dwWeGFD1VDkwwAyWbbCHewau3FWYY1Fwoqf4upePVMYMeSl-KgPrWzo2AAxppEZ8qspFRsX2LJOlIKZgq0aIqTAbn_iz356JcVInB9fM6c-8d5py3fA0_6ViqL951YJ_2WfeNwm0r",
+          "fields": [
+            "Annualized new orders from EV programs (INR Mn, % of total new orders)",
+            "Capex allocated to EV product development/manufacturing (INR Mn, % of total capex)",
+            "Share of BEV-related orders in European operations (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo4cHBDzWYg51tHKmBOUnkBYwnUwr1E8RZ8FB95yUe3scWr6xqzyuwYHAqAAAgKuLw1b_x8sStpZEQqyASJLG4j8kXQ4wCNuQDmvNdeN59DQGhlgJ9HY9obUhD69HDq4PmRII1VG2wTUauU0QgSQwM8FmMUvo3rW87C2xF73rXHu8Me8N8FOW4tuZCNrjHGCiRn-NHFt4mTOL4FetVi7FfVDlnh4X_",
+          "fields": []
+        },
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkxuoPK5JbN5yYy8HyMBpY4AMKMRZRferCR7TGHxmx7tjlnBL-rCe04c-qSnuMe2YCkIWmDPnN6pM29kDGgfYRitF0zF5gzi47EG_ME5ZinR9ZYojpQAMTdqsk_cF4eN7dYFl5cDB453yCZHtLEMhbE1H6kiEXuXelx6_fkFGPLikHsoEkRwC4UgjfdzG2zH97yZlpipBerwfSXy_C7sg77v-96zuKCx3ayX0=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPHfvE1-V3_wRCLld2WJqEZPe1ppMdXW0p5bLWmmsA65YrCk6X7D3owzO0lhpeTxn9ku8UbSfWEmYI3nw2Uk_xG36KMSEVUzUmJ0qniBcxoGDlQOd0TopD6IvvVMJGS-GIyS3kZRypqusydXHf_xCGC1yYMtCBGLEWY2myA7eaGwrZ230Wj18HiPP2ERnBiY33cALoPKUkyxcv5VDVFiO36fjhZ6c=",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl8qieXc3B8ZlCKj90f611On5HEGaB98jT2JixdbX_kknUpsn_Y5jrnx4j2Snm7BWdYAHLMWQVCZdNHKcWHTTo0nn7NMks_TIAV9_OhtwexB3gNTMuNZ42c8LJ6sFVMvC0P9x4XQse46IVr4GQoPeY6DCp_GYdPw==",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8DDApcs1gvYEHCXyokW3j9DaCb-qMl3c9RIZk3FDANqJb1d7jZDRF8Ii8og5i1om_s9_C0nqxYhD5iDWbFRfFe_SFb06X2I8U_le3K5wa9CtwVWcyfcbbS80osUW7WJHfCgM1DbksyjihifuoS3iHbH1Z277gfTvUnOiA6HEnwU6niQXVILl5_24d6KqX-V1tfLNzsWdZ9Rs8wCfD6NHp3Q55sVwhvAapTUw99C0=",
+          "fields": []
+        }
+      ],
+      "domain_name": "EV Transition & Product Portfolio Adaptation",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Revenue from EV-specific components (current, INR Mn, % of total)",
+        "Projected revenue from EV-specific components (3-5 year outlook, INR Mn, % of total)",
+        "R&D spend on EV technologies (INR Mn, % of total R&D)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Significantly increases pursuit as the data directly quantifies the company's current and future exposure to the high-growth EV market, a key investment thesis driver.",
+        "banker": "Increases pursuit by providing concrete metrics on EV revenue streams and investment, which are crucial for assessing a company's strategic positioning and potential for M&A or capital raising.",
+        "credit_analyst": "Increases pursuit by offering insight into the company's strategic shift towards a growing market, potentially improving future cash flows and reducing long-term risk, though the capex/R&D figures warrant closer scrutiny for sustainability.",
+        "consultant": "Increases pursuit by providing quantifiable data on EV order book, revenue, and investment, enabling a more focused analysis of operational execution and competitive positioning within the EV supply chain."
+      }
+    },
+    {
+      "heading": "Manufacturing Facility Breakdown by Technology & Geography",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of Forging facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Casting facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Stamping facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Gear facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Composite facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Magnetic Product facilities (India, Europe, Mexico)",
+          "value": [
+            {
+              "region": "India",
+              "value": 7,
+              "note": "6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune"
+            },
+            {
+              "region": "Europe",
+              "value": "Not Available",
+              "note": "Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023"
+            },
+            {
+              "region": "Mexico",
+              "value": 1,
+              "note": "Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Forging facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]",
+        "Number of Casting facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]",
+        "Number of Stamping facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]",
+        "Number of Gear facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]",
+        "Number of Composite facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]",
+        "Number of Magnetic Product facilities (India, Europe, Mexico): [{\"region\": \"India\", \"value\": 7, \"note\": \"6 from Bill Forge (Bangalore, Coimbatore, Haridwar), 1 forging plant in Chakan, Pune\"}, {\"region\": \"Europe\", \"value\": \"Not Available\", \"note\": \"Operations through subsidiaries CIE Galfor S.A.U., CIE Legazpi S.A., UAB CIE LT Forge (as of Dec 31, 2025); Germany forging business divested in 2023\"}, {\"region\": \"Mexico\", \"value\": 1, \"note\": \"Bill Forge de Mexico, S DE RL DE CV in Celaya, moved from India reporting segment to European segment effective CY 2025\"}]"
+      ],
+      "references": [
+        {
+          "name": "cie-india.com",
+          "url": null,
+          "fields": [
+            "Number of Forging facilities (India, Europe, Mexico)",
+            "Number of Casting facilities (India, Europe, Mexico)",
+            "Number of Stamping facilities (India, Europe, Mexico)",
+            "Number of Gear facilities (India, Europe, Mexico)",
+            "Number of Composite facilities (India, Europe, Mexico)",
+            "Number of Magnetic Product facilities (India, Europe, Mexico)"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_y03GBXK1BNKiXReG4l622YxVOs3iVNl-2kx-E_95M_sIlf0gjjF5V7onKsooDsYgT43tNOUzKy8mOf2AKQl9OIbyoALsURIWll_-Dwc_YI63IKxYnVrh4a6KnHw5wRjamlzXJuOEiMAMrSVlQkexOMl7bkYfZ1ZGJZL-oqA3GNpVj-3LuMcsb8=",
+          "fields": [
+            "Number of Forging facilities (India, Europe, Mexico)",
+            "Number of Casting facilities (India, Europe, Mexico)",
+            "Number of Stamping facilities (India, Europe, Mexico)",
+            "Number of Gear facilities (India, Europe, Mexico)",
+            "Number of Composite facilities (India, Europe, Mexico)",
+            "Number of Magnetic Product facilities (India, Europe, Mexico)"
+          ]
+        },
+        {
+          "name": "icra.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdYbbzBL0srUhXepqDB2Pkrg5HHJmHpHAnzMboxz2q6AYgLPHQG7iMkaGA5H5Pg6B6Wy6dr6nEnk_NYRf1VaUr6VjRLEHKj93esPPs2UHwiZVD0t7WLM0h7EaOkBTaOQcaNj3xNvsgpvhFhmZnJkka8K-vtY0",
+          "fields": []
+        },
+        {
+          "name": "indiainfoline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrmcH2kS6mJQDXNY95-iB_Y2DozWSoVSjelOaZt7V3JG_-2mjoMxuJOROU91BVpqcAvpPaYBYvKMZClglDf3zWEqkai39_RS3lz_ovtmkJUhrj5JHfNaXDFALpef4y3ZupKoB-oZxXbmS0OMw2IPzPgnAK7JYOga_38K1mOcW2YLs=",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8WGssS42V6VkzVoQCDrcq1jrVVWV6eTIwQM3tpGIMWNND-Dm-t2CwZKxOx7u9qGRcF-58ZQ6TiZxr0Tf_UztCJ7M_HfaMPNsv0Cm2nrfUWPiJQE-tQrPD5jUjAzYDjWsGyWs_otJRf1tK-AhoBzE5gB_iXhIuOQ==",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Stx8uVFMaHww8UZYFHvN0JcX6RuCsvKCv-nwnihY0uR5SFMIbr9DeQnCTkVsvcm3oFtTG6WLsjIgKtUeGz4fR0BxSe-RDY5SfLlnS9yHx922Us_DdsE-AWJxU8EsWq5OyE2r",
+          "fields": []
+        },
+        {
+          "name": "trendlyne.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_c4FqcwOWznUqHPTREthmNRJhX7eIRbBzE0CSt1a2TpwTRFAsRgvYSajNyOFVisdKiA3e7_OVF7pnZVbDzNAI4Bak29c6C2PlzFkPgEAwz_-6LR_VymZ_7SK1Qb_4Gl-R45C0d0uS2SS59TXORCUmBrQz_hJ5xq3j5RsLPnh7jPPAsfc=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXT7nDTGHoajgWaxshmkiqsG1m0JLcPmuTmMIwnidliDTg8IKwnax17PiapiGkoSUQE5dScgqqgPiKRO7tld40M7J_OdBMWpYrtqDgFG0IdnWmmW_zUmnK-Nvh-V_TK23p2NhXLyQcslIWGdL8ZlrSu4RE3v-rwQEWKRA6VuYhEfHdd0CkFzLl2MAafB8UV7ozvU47rJRDjm91E8X-Blnjm38ESl1B3WDfbf_VZ4k=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjOmDOkqdtfsx1BhGd3LMzIXllPHoZHbQ-19uCJLkn9XtJpMKy4wFFswhJPuaVooQxmr2hpFmNekO_8uz49_Xi1YINHmAD1YmGY68pzQhEPrHiaIDWqqUzGzJrYid91iXUQm5m",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiAgPP9_2carR-bo2uqsz51hsktHDU37V1jRJWV-EmPpGJxa9zPmC8CajY_DF0VBHJCR09sVPws33L94L2OyfPC5Z15TYMAWcuJ71PL4hvdZWn-RO-Z0tMx29HCcmaZ7kiIZIUf61VjHEK6eHlMBJ74wugeACnGv2630rjwRka_L6eWzNCpUVbDpRC17w=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgfrcj_kIDvqbxFMwhb7X42SPft6GUIKpxQ-BgIEGFots-rbJVPWwQcInezVeui1nWmGAl6PZltxGv5HaVXmwv6tUDQpYDrvfkcfBP6Oy0phiLBzNCYgK5oh3GBbfQhAEJ9tqoKpEqUl701WOpAToDIRW01XuV52f2FnmsgLKipgouJgCe7OiOz2AiSSw9PjgKI3s=",
+          "fields": []
+        },
+        {
+          "name": "cieautomotive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOlAcM5usk-RR2Euq879X8PCGhUphpXeIc1netZfj7WgWVnehiUZFO5yK-Aj8kpq2MQCocTOfD7pcjwlidwzSkyR1QiZ0teGX6tm42Kad26BdJpu-NyBPMa2PKHLg8GBH-Vg7EdEhPcj4zFPZ1T0zi1qZhwdvoFkMW9T7j_89U0961psYMGSxBkYlzU7yt9MUf1YxrmlBtAP17hCFjWma9aMHqp9qs8Ac6xs1vJOevxS6l",
+          "fields": []
+        },
+        {
+          "name": "cieautomotive.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakhwGjj5mP4fA2cQjL0eRbiuCPqsBi-x2lZT2awkebhX3jN9pD_4esdnlnLB83Q5qk9FuP7ZObk2TxKPCuoOx5Hy-izgoo3wMyGKAFpoMnerysoj_-Y1Bn8Je4Wm5jcByEDC0j_yikcG88EOhzO9HJ-wb7UHs3bIfn3oKzU_SBI9pSA63IammKt-NwnumFbjD4n0vxlpTMlJGVev1rwXpNpgSKWt5d2oQRGvL9ETyO01BfNV0OOpiMiUIvPWiN_LBgxH3YNMVqlc=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Multi-Technology Manufacturing Footprint",
+      "confidence": "high",
+      "completeness": 0.75,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Total manufacturing footprint (sq. meters, if disclosed)",
+        "Key certifications held by facilities (e.g., IATF 16949)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms diversification across technologies and geographies, suggesting reduced single-point-of-failure risk and potential for cross-selling, thus increasing pursuit interest.",
+        "banker": "Highlights operational complexity and geographic spread, which could indicate opportunities for M&A advisory or financing related to facility expansion/consolidation, making it a potential pitch angle.",
+        "credit_analyst": "Provides insight into asset base diversification and operational spread, which is crucial for assessing business resilience and risk, potentially influencing the decision to underwrite.",
+        "consultant": "Offers a granular view of manufacturing capabilities and geographic presence, directly informing an assessment of operational efficiency, supply chain risks, and potential for optimization strategies."
+      }
+    },
+    {
+      "heading": "Raw Material & Energy Cost Structure",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Raw material cost as % of sales (current year, prior year)",
+          "value": [
+            {
+              "period": "CY2024",
+              "value": "50.89%"
+            },
+            {
+              "period": "CY2025",
+              "value": "Not Available",
+              "note": "Consolidated raw material cost for CY2025 not explicitly stated in relation to sales."
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key raw materials consumed (e.g., steel, aluminum, pig iron)",
+          "value": [
+            {
+              "material": "steel"
+            },
+            {
+              "material": "aluminum"
+            },
+            {
+              "material": "specialized polymers"
+            },
+            {
+              "material": "iron",
+              "note": "Implied from mentions of pig iron and melting scrap for castings."
+            }
+          ],
+          "sources": [
+            {
+              "name": "matrixbcg.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERaGNxHfRhXvYcYGZZeI01NEac6aQaRrFDb_mE7K9YRl9trZk23Twe8NyuvqRf5CJ5hX84mby2T74nIu0wLJpHlsWCiUPvhxrgmQarXBeIGtmnlgaZdh5a356ip8do4_1YXEJlXpAG8SJS0lZeQNUrB0UDD9W3lSEd"
+            },
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "nuvamawealth.com",
+              "url": null
+            },
+            {
+              "name": "tijorifinance.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG2tHZp-5p03gRV6n7UBxufet4XvVjOheW9qLAFbUwu-uQfUu7OiPnw49AMYJA7hIa_mp0x_7Os_MO4nAs6svyj0q2_Dwas-nB5epgu6DrsODu9FLgUk55o333ns-TMua8wQBHHh-VXNticG6bQVSIP8Y-Cd-hq4m-TeUQ-8KAIXY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Inventory days for raw materials",
+          "value": [
+            {
+              "period": "CY2023",
+              "value": "31 days",
+              "note": "Latest actual data"
+            },
+            {
+              "period": "CY2025E",
+              "value": "29 days",
+              "note": "Estimate from May 2024 report"
+            },
+            {
+              "period": "CY2024E",
+              "value": "28 days",
+              "note": "Estimate from May 2024 report"
+            },
+            {
+              "period": "CY2022",
+              "value": "34 days"
+            },
+            {
+              "period": "CY2021",
+              "value": "32 days"
+            }
+          ],
+          "sources": [
+            {
+              "name": "hdfcsec.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+          "value": "Pass-through of increased material inflation occurs, especially in the domestic business. However, it is often partial ('certain costs') and subject to delays, leading to margin compression. The ability to pass on raw material price escalation to OEMs can be limited.",
+          "sources": [
+            {
+              "name": "hdfcsec.com",
+              "url": null
+            },
+            {
+              "name": "tradebrains.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5"
+            },
+            {
+              "name": "valuepickr.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Qualitative description of contractual pass-through clauses with OEMs for energy costs",
+          "value": "In Europe, 'pain sharing agreements' are used to pass through large energy cost increases. Generally, certain energy costs can be passed on to customers, but with delays, leading to margin compression. However, the overall ability to pass on energy price escalation to OEMs can be limited.",
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUXdPLAWmTPXLJLjHlBeIxxsuMquPy4FXA-E8nywSMO0vhaO45uTfpU0J1EJizgljn7fejTVRrOf__96QE5awslOxI1xJWy7rYxvmolk2Kn2tZvjrMJTrj7MQFp6K8xokUjmiDCJggh30zX6ptn4xWHWbbCOvpux66_p7T8hgILyyjq4qWzu3GfEsdjyf_J7sdGIsU4s6hYVrxIkzr3FjTVQRd3kll112SbqlkJ_I="
+            },
+            {
+              "name": "tradebrains.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5"
+            },
+            {
+              "name": "valuepickr.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Raw material cost as % of sales (current year, prior year): [{\"period\": \"CY2024\", \"value\": \"50.89%\"}, {\"period\": \"CY2025\", \"value\": \"Not Available\", \"note\": \"Consolidated raw material cost for CY2025 not explicitly stated in relation to sales.\"}]",
+        "Key raw materials consumed (e.g., steel, aluminum, pig iron): [{\"material\": \"steel\"}, {\"material\": \"aluminum\"}, {\"material\": \"specialized polymers\"}, {\"material\": \"iron\", \"note\": \"Implied from mentions of pig iron and melting scrap for castings.\"}]",
+        "Inventory days for raw materials: [{\"period\": \"CY2023\", \"value\": \"31 days\", \"note\": \"Latest actual data\"}, {\"period\": \"CY2025E\", \"value\": \"29 days\", \"note\": \"Estimate from May 2024 report\"}, {\"period\": \"CY2024E\", \"value\": \"28 days\", \"note\": \"Estimate from May 2024 report\"}, {\"period\": \"CY2022\", \"value\": \"34 days\"}, {\"period\": \"CY2021\", \"value\": \"32 days\"}]",
+        "Qualitative description of contractual pass-through clauses with OEMs for raw materials: Pass-through of increased material inflation occurs, especially in the domestic business. However, it is often partial ('certain costs') and subject to delays, leading to margin compression. The ability to pass on raw material price escalation to OEMs can be limited.",
+        "Qualitative description of contractual pass-through clauses with OEMs for energy costs: In Europe, 'pain sharing agreements' are used to pass through large energy cost increases. Generally, certain energy costs can be passed on to customers, but with delays, leading to margin compression. However, the overall ability to pass on energy price escalation to OEMs can be limited."
+      ],
+      "references": [
+        {
+          "name": "cie-india.com",
+          "url": null,
+          "fields": [
+            "Raw material cost as % of sales (current year, prior year)",
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "matrixbcg.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERaGNxHfRhXvYcYGZZeI01NEac6aQaRrFDb_mE7K9YRl9trZk23Twe8NyuvqRf5CJ5hX84mby2T74nIu0wLJpHlsWCiUPvhxrgmQarXBeIGtmnlgaZdh5a356ip8do4_1YXEJlXpAG8SJS0lZeQNUrB0UDD9W3lSEd",
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "nuvamawealth.com",
+          "url": null,
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "tijorifinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG2tHZp-5p03gRV6n7UBxufet4XvVjOheW9qLAFbUwu-uQfUu7OiPnw49AMYJA7hIa_mp0x_7Os_MO4nAs6svyj0q2_Dwas-nB5epgu6DrsODu9FLgUk55o333ns-TMua8wQBHHh-VXNticG6bQVSIP8Y-Cd-hq4m-TeUQ-8KAIXY=",
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "hdfcsec.com",
+          "url": null,
+          "fields": [
+            "Inventory days for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5",
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "valuepickr.com",
+          "url": null,
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUXdPLAWmTPXLJLjHlBeIxxsuMquPy4FXA-E8nywSMO0vhaO45uTfpU0J1EJizgljn7fejTVRrOf__96QE5awslOxI1xJWy7rYxvmolk2Kn2tZvjrMJTrj7MQFp6K8xokUjmiDCJggh30zX6ptn4xWHWbbCOvpux66_p7T8hgILyyjq4qWzu3GfEsdjyf_J7sdGIsU4s6hYVrxIkzr3FjTVQRd3kll112SbqlkJ_I=",
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_W1JhZWbkw-gy67vPMVNNM3g2e1LjmsI_-rqZrs8u5BZlGp5q0HCF8KyG4N-aucgpzw0ZuBzyTsEncdHbWZ8CuGFfDStxV13Rnaw4nZSN_JayBQ2yWiWbWD-zaF1ydXBWWZ6kEuQL5qCQEt9Gd4kP8_D7YEamfSahyHP3Ay2-QIrXq62cY4T5_Wwl01iWHe3gJ_TvqBMQBvqaiMeENPvxIylUV22PSl0Y7ec_feoWpFQiLycFfu42UwIXaBlfWZRb5UZFwHxZbcvwkEXEOp-d18=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs_CVhi4FGsfDzk2qKAR1nvCBoo0itzV701mxlM6OfZ7YWxmh6-JncO1iFeW4Af1TVN014cBd5EX5g9MJv-skKzyECAygslR27e0ucUiCGhNQqAICTo1T8GyW3-BGHQLtbvWi00FVIZFfIxgRs1wlZT9242dcUxm8U1Gai4yOEvJ9vhzoayToorfy0QL3Uo9Bu3USu4ZZM08XgvaaFxsP1slgcv5qP317ZAEaYuLmix3JXOTs=",
+          "fields": []
+        },
+        {
+          "name": "finology.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiP3V2awYYyTMynd98nCnGBLddQAUvmLOIAgbC-aXSyonYgs6D_tNuYvIz4S3GIUpvPx6l-vNUGGioLksQpbJdatQw4vUdTv_XA5EewYXzD5bdGh5efzAaNgd3jvnrYRilfdG8UiM=",
+          "fields": []
+        },
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkGUqCEz9-HRoBW-QSaeJjWwQEx9S9-1R_mBtAmlAqzhLQ4nT-Y1JLpubDar3q83oELLqn_e3tZTrW3CWg3vpOI5UG7T5V7c5Enu0d6Vspd5rSgAkTgZR-oWAUvVL9AZc5smD0A8-68kBnTDL53kqM_gY5tpQLOp53TNGQ3AqXbreJyhjFQW3HKCSljqGbou86ACfminkKRFoaPzuXtMlPaDQV6OyL6oZspuQ=",
+          "fields": []
+        },
+        {
+          "name": "siam.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4jOOaV679eF4fGD7urUvzT7nIcJAQ4ZGSUEJpextfCju-3BERPBLJCG5xI5ymDidxJsmbXTWCSAQa90EJRHCmm7uYHhlgaAaEeJ_lfXDk0jeS5TRMNP2n9Qd3UC9fSnzglv5aDNRH5ApqdI9W0W-tjz3TyEWANtqjtRD3VGE6YdAf7vy8QkwCOCigGpuNvXCWR19erp0CaqrOMKPu9qWswWXYX9Qjup6EJXq9oIEuNaAB5S8WKq0HDIiM05o=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2hFkdv6PL6ST-d8AHLCo4V44vC5pv-liEQEawKrEqXY7ZcQKOyQR6biZr_hC4aRQ5iy_fjZ-Nd-AVAixrrwXhGLMocvBfVZX1ndnm9cMpMZEI600VP8S9v7ScCuPAtZZW_O6jaUBhN3IhYTdzPKxHHI9tdNRmmPZ76-6GNJM4ZHiJJ4kDmXucIuq4EsUy5MIBIPraCRmjJznsX559wPRolPoIbQQ=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw_76K9JIEDCk-K2rLOwpXtD0RJ5KzLSfuMvDLwbu6xynk_jj1woiLhQw2zkOr6C1JPO5ylxDge9EVUjdM5plzzZlpP6WaDrsLqbYbBh7UYYH_J2Aq3Q3xQq4enTWzcQPUFUe7q4IWCTcuENbDmvZfWPqZzQYkvWfwywLSdbiW5_lUve_YTwGlCERFZOTXEwnKLxyy-2oJ4-2berqp_WYeRfXCJED-inLJJvIDGNp15tYT2iHGkWE3wOSDYPU6aXgYF9MNrR6aJynraK2ro5gkrgbOSKNg1RAFQEJM2IqbuEACZMbnn7emuWU39w==",
+          "fields": []
+        },
+        {
+          "name": "valuepickr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo63Jmud2h9dbZmuKdyI9XiJ50sWM_eSU-94Y7jyqTKYe9FpSQkbKOlb3hTehi69pJRRvB7zsQnwj44XKZkW-ExzjkJZRZOMqoNYTgzlXG6e3_HLElY7dXQrAoGnvuv4elLFJWLdE7lSgUDyUkW1PRJpKJ7iIMFQhZePlYRo49b96Z5VtAD9EOy3TAUqoca3Bw6x_vQTPAGQHWI-9ZjipFjLZAKAioGQxnVag9kg==",
+          "fields": []
+        },
+        {
+          "name": "trendlyne.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJpAmstwsslpAxbjhWiVyGYks7E5Feaownd8y_-_Rgh3MiArcTNenVKCuLN_2UiWnJciu5m_RECwEshxnJDqLH_X0TYEtYrayzaL3MO48rF9rTHavMtzRMT3UUJArSVMTdr4_2A-W6POtNln6tIl6nN_K--cS3knskB7tpvfoekDsf4JbsMtqMxyRKyRCww==",
+          "fields": []
+        },
+        {
+          "name": "nuvamawealth.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTyAN3cSS4j2j0Y11b7F7_UJkze_ccxjaisERLS2S8nowxtGlIYAEJobnFbD7DrJwfDz2JSWEHYOntaLqDFNqkkQcTHvJ2-dCNJ2bJVPOj6VI_DynQamsIB1w-88FtRhzkJY6svFQMPF8u0ynDxWdg4lLGyq07fl5-ohWie0zhZkP3wK8TsFqn6Vc6E-2oNpmAux4X_pDalBPVmsIh1g==",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhFXAdpSX4MbQvXxi6Y77Ps3Ql34tV_tAekuSVAtf7ZV-ZWaqvKRbppPhPCY86t95mOkn2pyg9rgk8ke0OI9zmF6PAlKe5QZD6dAHM-HJ0R3YPAFGbMLnwu6mSHbD6sgV_HUQ7fJHSBCrwBk4-DYEie0rY",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKaWQnZ9sooPOF7VRFr0-P_KWty7gQl0ScGjm1AiG3v84mdPEGDJOdwN4hp61rdi6xpVu6GVTZYFE-rwIThhV5YxmceSc--BwH3sihwvfARrDbJ77QDt9RIw8hVn7wjCw9cqj0P_HfhtryFp7guUloaGsvIwHvPNmU0krt8eY4Uzvxt6BR6w8BQ5aIaKLJ4Pc9hG9VVX1TW6q-3hkeRpkCqMJ-90BqyvkrvOvNMBBLlrCrUtOmu6_v4KKNqZxei8wc5WL83A==",
+          "fields": []
+        },
+        {
+          "name": "hdfcsec.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98oGz7BseiAsq3ZAskhJiXOKdIo228Ttmm0V5sGTN7I7F2U1IXX3T9zTT1BIGsJFZ5dSognLYU6jmRxIxaScwpS4K4M4KT0dvkVEcQd4gaSHz1SsgfM4BqhnWf-8bNY62IvIzsERGN7bunUXPKOR9uBU4xDAZ8jounqYKXNyHzAyyo9IDh7zTeIHYrgZDqn9iczadi7uNReAK",
+          "fields": []
+        },
+        {
+          "name": "smart-investing.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETVPf1ip-ATNevGXL0Y-G64OZvslwvai94hl71S0hG-rfkIy3dUa1e1q0Qq7_wGNzGeV46kOIAPyp5w7VGPeUkiJ0g-RcmUft6wN_78DniClPSYQZSz_K0dWL2SaLigpcwx7mRWuSkpUBj2qh-dclgrjzPt4Q87Z37I7v2k5R6NbxvhwqpAz7v_4ydt7p57JPFOtrLFd1dL-fo",
+          "fields": []
+        }
+      ],
+      "domain_name": "Raw Material & Energy Cost Dynamics",
+      "confidence": "high",
+      "completeness": 0.714,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Energy cost as % of sales (current year, prior year)",
+        "Average lead time for price revisions with customers (months)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms the company's sensitivity to input costs and the effectiveness of its pass-through mechanisms, directly impacting margin stability and investment thesis viability.",
+        "banker": "Provides crucial data on cost structure and pricing power, informing the assessment of the company's financial health and potential for debt or equity financing.",
+        "credit_analyst": "Highlights potential margin volatility and the company's ability to manage input cost fluctuations, critical for evaluating credit risk and repayment capacity.",
+        "consultant": "Offers insights into operational levers for cost management and negotiation strategies with suppliers and OEMs, relevant for identifying efficiency improvement opportunities."
+      }
+    },
+    {
+      "heading": "Cost Pass-Through Mechanisms",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Raw material cost as % of sales (current year, prior year)",
+          "value": [
+            {
+              "period": "CY2024",
+              "value": "50.89%"
+            },
+            {
+              "period": "CY2025",
+              "value": "Not Available",
+              "note": "Consolidated raw material cost for CY2025 not explicitly stated in relation to sales."
+            }
+          ],
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key raw materials consumed (e.g., steel, aluminum, pig iron)",
+          "value": [
+            {
+              "material": "steel"
+            },
+            {
+              "material": "aluminum"
+            },
+            {
+              "material": "specialized polymers"
+            },
+            {
+              "material": "iron",
+              "note": "Implied from mentions of pig iron and melting scrap for castings."
+            }
+          ],
+          "sources": [
+            {
+              "name": "matrixbcg.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERaGNxHfRhXvYcYGZZeI01NEac6aQaRrFDb_mE7K9YRl9trZk23Twe8NyuvqRf5CJ5hX84mby2T74nIu0wLJpHlsWCiUPvhxrgmQarXBeIGtmnlgaZdh5a356ip8do4_1YXEJlXpAG8SJS0lZeQNUrB0UDD9W3lSEd"
+            },
+            {
+              "name": "cie-india.com",
+              "url": null
+            },
+            {
+              "name": "nuvamawealth.com",
+              "url": null
+            },
+            {
+              "name": "tijorifinance.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG2tHZp-5p03gRV6n7UBxufet4XvVjOheW9qLAFbUwu-uQfUu7OiPnw49AMYJA7hIa_mp0x_7Os_MO4nAs6svyj0q2_Dwas-nB5epgu6DrsODu9FLgUk55o333ns-TMua8wQBHHh-VXNticG6bQVSIP8Y-Cd-hq4m-TeUQ-8KAIXY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Inventory days for raw materials",
+          "value": [
+            {
+              "period": "CY2023",
+              "value": "31 days",
+              "note": "Latest actual data"
+            },
+            {
+              "period": "CY2025E",
+              "value": "29 days",
+              "note": "Estimate from May 2024 report"
+            },
+            {
+              "period": "CY2024E",
+              "value": "28 days",
+              "note": "Estimate from May 2024 report"
+            },
+            {
+              "period": "CY2022",
+              "value": "34 days"
+            },
+            {
+              "period": "CY2021",
+              "value": "32 days"
+            }
+          ],
+          "sources": [
+            {
+              "name": "hdfcsec.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+          "value": "Pass-through of increased material inflation occurs, especially in the domestic business. However, it is often partial ('certain costs') and subject to delays, leading to margin compression. The ability to pass on raw material price escalation to OEMs can be limited.",
+          "sources": [
+            {
+              "name": "hdfcsec.com",
+              "url": null
+            },
+            {
+              "name": "tradebrains.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5"
+            },
+            {
+              "name": "valuepickr.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Qualitative description of contractual pass-through clauses with OEMs for energy costs",
+          "value": "In Europe, 'pain sharing agreements' are used to pass through large energy cost increases. Generally, certain energy costs can be passed on to customers, but with delays, leading to margin compression. However, the overall ability to pass on energy price escalation to OEMs can be limited.",
+          "sources": [
+            {
+              "name": "cie-india.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUXdPLAWmTPXLJLjHlBeIxxsuMquPy4FXA-E8nywSMO0vhaO45uTfpU0J1EJizgljn7fejTVRrOf__96QE5awslOxI1xJWy7rYxvmolk2Kn2tZvjrMJTrj7MQFp6K8xokUjmiDCJggh30zX6ptn4xWHWbbCOvpux66_p7T8hgILyyjq4qWzu3GfEsdjyf_J7sdGIsU4s6hYVrxIkzr3FjTVQRd3kll112SbqlkJ_I="
+            },
+            {
+              "name": "tradebrains.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5"
+            },
+            {
+              "name": "valuepickr.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Raw material cost as % of sales (current year, prior year): [{\"period\": \"CY2024\", \"value\": \"50.89%\"}, {\"period\": \"CY2025\", \"value\": \"Not Available\", \"note\": \"Consolidated raw material cost for CY2025 not explicitly stated in relation to sales.\"}]",
+        "Key raw materials consumed (e.g., steel, aluminum, pig iron): [{\"material\": \"steel\"}, {\"material\": \"aluminum\"}, {\"material\": \"specialized polymers\"}, {\"material\": \"iron\", \"note\": \"Implied from mentions of pig iron and melting scrap for castings.\"}]",
+        "Inventory days for raw materials: [{\"period\": \"CY2023\", \"value\": \"31 days\", \"note\": \"Latest actual data\"}, {\"period\": \"CY2025E\", \"value\": \"29 days\", \"note\": \"Estimate from May 2024 report\"}, {\"period\": \"CY2024E\", \"value\": \"28 days\", \"note\": \"Estimate from May 2024 report\"}, {\"period\": \"CY2022\", \"value\": \"34 days\"}, {\"period\": \"CY2021\", \"value\": \"32 days\"}]",
+        "Qualitative description of contractual pass-through clauses with OEMs for raw materials: Pass-through of increased material inflation occurs, especially in the domestic business. However, it is often partial ('certain costs') and subject to delays, leading to margin compression. The ability to pass on raw material price escalation to OEMs can be limited.",
+        "Qualitative description of contractual pass-through clauses with OEMs for energy costs: In Europe, 'pain sharing agreements' are used to pass through large energy cost increases. Generally, certain energy costs can be passed on to customers, but with delays, leading to margin compression. However, the overall ability to pass on energy price escalation to OEMs can be limited."
+      ],
+      "references": [
+        {
+          "name": "cie-india.com",
+          "url": null,
+          "fields": [
+            "Raw material cost as % of sales (current year, prior year)",
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "matrixbcg.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERaGNxHfRhXvYcYGZZeI01NEac6aQaRrFDb_mE7K9YRl9trZk23Twe8NyuvqRf5CJ5hX84mby2T74nIu0wLJpHlsWCiUPvhxrgmQarXBeIGtmnlgaZdh5a356ip8do4_1YXEJlXpAG8SJS0lZeQNUrB0UDD9W3lSEd",
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "nuvamawealth.com",
+          "url": null,
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "tijorifinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG2tHZp-5p03gRV6n7UBxufet4XvVjOheW9qLAFbUwu-uQfUu7OiPnw49AMYJA7hIa_mp0x_7Os_MO4nAs6svyj0q2_Dwas-nB5epgu6DrsODu9FLgUk55o333ns-TMua8wQBHHh-VXNticG6bQVSIP8Y-Cd-hq4m-TeUQ-8KAIXY=",
+          "fields": [
+            "Key raw materials consumed (e.g., steel, aluminum, pig iron)"
+          ]
+        },
+        {
+          "name": "hdfcsec.com",
+          "url": null,
+          "fields": [
+            "Inventory days for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKaK_Gw8K7ve_GX_sTkWoyjIa4UP8fsE6I_vX17vYdfVjgeWKe7ykrD7FdtmduMPHD60ZALgoPhpPhioangEkVqAzUQdTDxTSPXgIercntluEOJogMdgA0JlylFKg3SmjqcoynBtbwOcQMcQpj83MdBqMFuPWM34AVXgKA7PAR4MBzQN3NiI7yuqXSIm__mRhs9yT4ZrGrfUrg2_wUfnHAnr7E0E5",
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "valuepickr.com",
+          "url": null,
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for raw materials",
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUXdPLAWmTPXLJLjHlBeIxxsuMquPy4FXA-E8nywSMO0vhaO45uTfpU0J1EJizgljn7fejTVRrOf__96QE5awslOxI1xJWy7rYxvmolk2Kn2tZvjrMJTrj7MQFp6K8xokUjmiDCJggh30zX6ptn4xWHWbbCOvpux66_p7T8hgILyyjq4qWzu3GfEsdjyf_J7sdGIsU4s6hYVrxIkzr3FjTVQRd3kll112SbqlkJ_I=",
+          "fields": [
+            "Qualitative description of contractual pass-through clauses with OEMs for energy costs"
+          ]
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_W1JhZWbkw-gy67vPMVNNM3g2e1LjmsI_-rqZrs8u5BZlGp5q0HCF8KyG4N-aucgpzw0ZuBzyTsEncdHbWZ8CuGFfDStxV13Rnaw4nZSN_JayBQ2yWiWbWD-zaF1ydXBWWZ6kEuQL5qCQEt9Gd4kP8_D7YEamfSahyHP3Ay2-QIrXq62cY4T5_Wwl01iWHe3gJ_TvqBMQBvqaiMeENPvxIylUV22PSl0Y7ec_feoWpFQiLycFfu42UwIXaBlfWZRb5UZFwHxZbcvwkEXEOp-d18=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs_CVhi4FGsfDzk2qKAR1nvCBoo0itzV701mxlM6OfZ7YWxmh6-JncO1iFeW4Af1TVN014cBd5EX5g9MJv-skKzyECAygslR27e0ucUiCGhNQqAICTo1T8GyW3-BGHQLtbvWi00FVIZFfIxgRs1wlZT9242dcUxm8U1Gai4yOEvJ9vhzoayToorfy0QL3Uo9Bu3USu4ZZM08XgvaaFxsP1slgcv5qP317ZAEaYuLmix3JXOTs=",
+          "fields": []
+        },
+        {
+          "name": "finology.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiP3V2awYYyTMynd98nCnGBLddQAUvmLOIAgbC-aXSyonYgs6D_tNuYvIz4S3GIUpvPx6l-vNUGGioLksQpbJdatQw4vUdTv_XA5EewYXzD5bdGh5efzAaNgd3jvnrYRilfdG8UiM=",
+          "fields": []
+        },
+        {
+          "name": "alphastreet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkGUqCEz9-HRoBW-QSaeJjWwQEx9S9-1R_mBtAmlAqzhLQ4nT-Y1JLpubDar3q83oELLqn_e3tZTrW3CWg3vpOI5UG7T5V7c5Enu0d6Vspd5rSgAkTgZR-oWAUvVL9AZc5smD0A8-68kBnTDL53kqM_gY5tpQLOp53TNGQ3AqXbreJyhjFQW3HKCSljqGbou86ACfminkKRFoaPzuXtMlPaDQV6OyL6oZspuQ=",
+          "fields": []
+        },
+        {
+          "name": "siam.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4jOOaV679eF4fGD7urUvzT7nIcJAQ4ZGSUEJpextfCju-3BERPBLJCG5xI5ymDidxJsmbXTWCSAQa90EJRHCmm7uYHhlgaAaEeJ_lfXDk0jeS5TRMNP2n9Qd3UC9fSnzglv5aDNRH5ApqdI9W0W-tjz3TyEWANtqjtRD3VGE6YdAf7vy8QkwCOCigGpuNvXCWR19erp0CaqrOMKPu9qWswWXYX9Qjup6EJXq9oIEuNaAB5S8WKq0HDIiM05o=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2hFkdv6PL6ST-d8AHLCo4V44vC5pv-liEQEawKrEqXY7ZcQKOyQR6biZr_hC4aRQ5iy_fjZ-Nd-AVAixrrwXhGLMocvBfVZX1ndnm9cMpMZEI600VP8S9v7ScCuPAtZZW_O6jaUBhN3IhYTdzPKxHHI9tdNRmmPZ76-6GNJM4ZHiJJ4kDmXucIuq4EsUy5MIBIPraCRmjJznsX559wPRolPoIbQQ=",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw_76K9JIEDCk-K2rLOwpXtD0RJ5KzLSfuMvDLwbu6xynk_jj1woiLhQw2zkOr6C1JPO5ylxDge9EVUjdM5plzzZlpP6WaDrsLqbYbBh7UYYH_J2Aq3Q3xQq4enTWzcQPUFUe7q4IWCTcuENbDmvZfWPqZzQYkvWfwywLSdbiW5_lUve_YTwGlCERFZOTXEwnKLxyy-2oJ4-2berqp_WYeRfXCJED-inLJJvIDGNp15tYT2iHGkWE3wOSDYPU6aXgYF9MNrR6aJynraK2ro5gkrgbOSKNg1RAFQEJM2IqbuEACZMbnn7emuWU39w==",
+          "fields": []
+        },
+        {
+          "name": "valuepickr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo63Jmud2h9dbZmuKdyI9XiJ50sWM_eSU-94Y7jyqTKYe9FpSQkbKOlb3hTehi69pJRRvB7zsQnwj44XKZkW-ExzjkJZRZOMqoNYTgzlXG6e3_HLElY7dXQrAoGnvuv4elLFJWLdE7lSgUDyUkW1PRJpKJ7iIMFQhZePlYRo49b96Z5VtAD9EOy3TAUqoca3Bw6x_vQTPAGQHWI-9ZjipFjLZAKAioGQxnVag9kg==",
+          "fields": []
+        },
+        {
+          "name": "trendlyne.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAJpAmstwsslpAxbjhWiVyGYks7E5Feaownd8y_-_Rgh3MiArcTNenVKCuLN_2UiWnJciu5m_RECwEshxnJDqLH_X0TYEtYrayzaL3MO48rF9rTHavMtzRMT3UUJArSVMTdr4_2A-W6POtNln6tIl6nN_K--cS3knskB7tpvfoekDsf4JbsMtqMxyRKyRCww==",
+          "fields": []
+        },
+        {
+          "name": "nuvamawealth.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTyAN3cSS4j2j0Y11b7F7_UJkze_ccxjaisERLS2S8nowxtGlIYAEJobnFbD7DrJwfDz2JSWEHYOntaLqDFNqkkQcTHvJ2-dCNJ2bJVPOj6VI_DynQamsIB1w-88FtRhzkJY6svFQMPF8u0ynDxWdg4lLGyq07fl5-ohWie0zhZkP3wK8TsFqn6Vc6E-2oNpmAux4X_pDalBPVmsIh1g==",
+          "fields": []
+        },
+        {
+          "name": "portersfiveforce.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhFXAdpSX4MbQvXxi6Y77Ps3Ql34tV_tAekuSVAtf7ZV-ZWaqvKRbppPhPCY86t95mOkn2pyg9rgk8ke0OI9zmF6PAlKe5QZD6dAHM-HJ0R3YPAFGbMLnwu6mSHbD6sgV_HUQ7fJHSBCrwBk4-DYEie0rY",
+          "fields": []
+        },
+        {
+          "name": "cie-india.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKaWQnZ9sooPOF7VRFr0-P_KWty7gQl0ScGjm1AiG3v84mdPEGDJOdwN4hp61rdi6xpVu6GVTZYFE-rwIThhV5YxmceSc--BwH3sihwvfARrDbJ77QDt9RIw8hVn7wjCw9cqj0P_HfhtryFp7guUloaGsvIwHvPNmU0krt8eY4Uzvxt6BR6w8BQ5aIaKLJ4Pc9hG9VVX1TW6q-3hkeRpkCqMJ-90BqyvkrvOvNMBBLlrCrUtOmu6_v4KKNqZxei8wc5WL83A==",
+          "fields": []
+        },
+        {
+          "name": "hdfcsec.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98oGz7BseiAsq3ZAskhJiXOKdIo228Ttmm0V5sGTN7I7F2U1IXX3T9zTT1BIGsJFZ5dSognLYU6jmRxIxaScwpS4K4M4KT0dvkVEcQd4gaSHz1SsgfM4BqhnWf-8bNY62IvIzsERGN7bunUXPKOR9uBU4xDAZ8jounqYKXNyHzAyyo9IDh7zTeIHYrgZDqn9iczadi7uNReAK",
+          "fields": []
+        },
+        {
+          "name": "smart-investing.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETVPf1ip-ATNevGXL0Y-G64OZvslwvai94hl71S0hG-rfkIy3dUa1e1q0Qq7_wGNzGeV46kOIAPyp5w7VGPeUkiJ0g-RcmUft6wN_78DniClPSYQZSz_K0dWL2SaLigpcwx7mRWuSkpUBj2qh-dclgrjzPt4Q87Z37I7v2k5R6NbxvhwqpAz7v_4ydt7p57JPFOtrLFd1dL-fo",
+          "fields": []
+        }
+      ],
+      "domain_name": "Raw Material & Energy Cost Dynamics",
+      "confidence": "high",
+      "completeness": 0.714,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Energy cost as % of sales (current year, prior year)",
+        "Average lead time for price revisions with customers (months)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms the company's sensitivity to input costs and the effectiveness of its pass-through mechanisms, directly impacting margin stability and investment thesis viability.",
+        "banker": "Provides crucial data on cost structure and pricing power, informing the assessment of the company's financial health and potential for debt or equity financing.",
+        "credit_analyst": "Highlights potential margin volatility and the company's ability to manage input cost fluctuations, critical for evaluating credit risk and repayment capacity.",
+        "consultant": "Offers insights into operational levers for cost management and negotiation strategies with suppliers and OEMs, relevant for identifying efficiency improvement opportunities."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 28
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.01762,
+    "domain_research_usd": 0.108818,
+    "accuracy_verify_usd": 0.0,
+    "actual_total_usd": 0.126438,
+    "actual_calls": 17,
+    "elapsed_seconds": 123.6,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.027204,
+      "estimated_generic_domains_usd": 0.163227,
+      "estimated_synthesis_usd": 0.108818,
+      "estimated_total_usd": 0.398483
+    }
+  }
+}

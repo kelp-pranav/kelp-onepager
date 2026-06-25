@@ -1,0 +1,3719 @@
+{
+  "metadata": {
+    "company_name": "Coca-Cola India",
+    "sources": [
+      {
+        "name": "Coca_Cola_India_Financials_Extract_V2.pdf",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfRKY0VRQu0qT0BwdBcSVrRRFOrnqrEO-Y48hbkqiopE7N4LLsJio59HXFn5AxaS3qnGVZZM0zVDXFQr0sRLUiVWep44-Fc3-8w9BjVrQ0i2Q6DnGCwGZlW-0RI9gsq1MRrIM099PnWnhlJWqcwu3O6yNPkf8rKqnJ3w==",
+        "accessed_at": "2026-06-23T14:28:35.600991",
+        "field_attributions": [
+          "5-year revenue",
+          "EBITDA",
+          "PAT",
+          "EBITDA margin",
+          "PAT margin",
+          "currency",
+          "units",
+          "current ratio"
+        ]
+      },
+      {
+        "name": "Company document",
+        "url": "https://www.google.com/search?q=time+in+India",
+        "accessed_at": "2026-06-23T14:28:35.601022",
+        "field_attributions": [
+          "ROE"
+        ]
+      },
+      {
+        "name": "Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETBcq32kAmjs237SkobmS3-xLE1K05prDgl61-GLS_27ct_TGFFpTvqIUq0JJ6Aj_eVlcgGbkX4QreAln2gyUTZI9xTSG7m4-r8Exh1uL6h0nj3Qb6hWnkGW8TqgOyIapr14Ee9EPYG7VoWwvhfKq7zOoa92vWXrFkCsClw0nLbnSFkBlHGcvuDtPgqhfqqBb8XxcCwIK8s5WriDZ85v4U5FGwydEx0MWkHMcR3byHB6UY3o9Nmzc=",
+        "accessed_at": "2026-06-23T14:28:36.711700",
+        "field_attributions": [
+          "company type (listed/unlisted/PE-backed)",
+          "promoter %",
+          "institutional %",
+          "retail %",
+          "paid-up capital",
+          "authorized capital",
+          "individual promoters",
+          "RPT flags"
+        ]
+      },
+      {
+        "name": "Directors as of June 20, 2024, and March 20, 2026, for Coca-Cola India Private Limited; roles are current for the India & Southwest Asia Operating Unit",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHp0W5OSoLqOhO6a1fLSYuu_6qAVSYW8Ryo1o6u-x5Avx1KmPgdOi9JGTzjrrNRg9DxiLLXYg_aQyHA91kUhEKfUoerLJCc7_muVHrJ0siLsMFff-Pf6Ti-mt9I-qfRU8T6qL56XSgSDm7FAORRs9-_yOmY2SqsLh8g15A7nnuhPRCMbI0gfu0SFo=",
+        "accessed_at": "2026-06-23T14:28:36.711727",
+        "field_attributions": [
+          "board members + roles"
+        ]
+      },
+      {
+        "name": "Coca-Cola India leadership page",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1WUQ4cJsF_oHkyRIhBDPhIOMhtwjGZZh7lr0yxQb0n5nyOtrZeJqgRjG-wC5qrwtWTAse-ytMsTph00J7h8KFISZaLskL0EH1SAtTnbBWLaXpHLC5h8Wlo2jwMZhYv8SoEZk7iXKDbkU2i5c8VVUTSgw_5SDcGb2q12QsrR5LJv4QkcAbxrMgw_yyXbfhGqJxS7dNCp-o2nNnRC7-w_PL2iCHpsEogNECEfUpo9EpXyp7",
+        "accessed_at": "2026-06-23T14:28:36.711731",
+        "field_attributions": [
+          "executives + backgrounds"
+        ]
+      },
+      {
+        "name": "Not Available",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyqGnVkzTmkGmC23egzPi6VzfcaaurK58d9dkZjQ1Z4FLW_x2q6dpM5aUhdihGD184qQvnaAfeRPXcNHnxAG1XQSx2BvCiwFnDG_KltOjQt6F_UlBf-xotCWemNlln6DY2TyIBHl4p5m-OsV-zasmHJoeN7FvGbpbZ-0aXuoK2tIlX5CIjGy7PS-qj6tdWWjolR2Y0qOKJnHajLn7m",
+        "accessed_at": "2026-06-23T14:28:36.711735",
+        "field_attributions": [
+          "auditor name",
+          "litigation status"
+        ]
+      },
+      {
+        "name": "Company document, 11",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWNw9P-X9vlEdc73MyNcc-xK243v_IZsNyhJlBpPHwQzU5lW5xTJT8r9tqf1f9cN0WPFrZQ7OtkDbYSQUofVOIyzElJxPZ7RK5HMbQZvyQ3rYhfjccr-dpDZoRhvaggaVx7foQYoEAYxwjWzUn96gE-xxeog7W4swZnnMPUYkf9oykDw5rGCgivqe4NPcq5ywvxmerAwbvyKz1XMIpIWVVAWOdgyhfqwKKluIpfcDn-79DtkFOcGQ=",
+        "accessed_at": "2026-06-23T14:28:36.711738",
+        "field_attributions": [
+          "ESG initiatives"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmWsf1CUFmArFBQylcway6y3g_uywjnGZhoJjTkXtWFH84bH4ELPzWRJmq1ALp84PGRMctAjEOf28oG6Gqbc8TiMzUfFGyqrR1_JytQUbwO7AGpWlJ8Fx8RH4mBZzAoq_KKyaiLo7LSYWB47_AZbVOvqf3vXDlnshheDM=",
+        "accessed_at": "2026-06-23T14:28:36.711742",
+        "field_attributions": []
+      },
+      {
+        "name": "Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71wIwmytrJUL6nkahMDROztNyB0ETFIcQCaSWaBYclUlQBUf7Ux_zZju5bis5BhFwGoWi62JEA2D8_eirWDQLBUIsJ9WqIDYVulpOWPaQVMU1-xdactJoYwm7q15LH84BdL6nRvzfy24CzucoVrk0_tzH27m_D16K0DfAaIvSuTw5UAGofLHtzdaJlwFe0t4uVAV2CKkcRGnBCIz8-92i3iDs5chqDuIv7AkfHzIodOMAsg==",
+        "accessed_at": "2026-06-23T14:29:09.212283",
+        "field_attributions": [
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)",
+          "full product list",
+          "channel breakdown (B2B/B2C, direct/distributor)",
+          "key customers if disclosed"
+        ]
+      },
+      {
+        "name": "IMARC Group, Research and Markets",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbLqyQsLFWdBKSM5chjT3XzAk-4oYw5KEIZz9074c1KxUZ3K0OuoQD_7p4AIX68reXxF3jrtJ5rQr8UuQpzs6cZNiKEHB2Ca12R6igegRjj6eW2yLiwofAqD3Spy1_zL9alAdB9OJNOsTD7ZKkjNM3ic5PCXSB7YyzjaegEbHhtcwJlMxl902A7qb2SC12zOIW750P-VBb0XvzFkhe1YBVC65WUxa3_IJlSN1p3WPHZQE=",
+        "accessed_at": "2026-06-23T14:29:09.212317",
+        "field_attributions": [
+          "3-5 market sizes (TAM with CAGR)"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwCO11AlKfMeLBDNgzapHp64aOcbIm2lsQuDDjKssB-ppANolrEgiNoulO1yQNLQPaGICHPlQP6NgoSFdZgFSv8Z_qsUk7iQJKXjn4BxvV1SWnfyWIDOlEHUfYGM-fLcusdthYO7rTKow2uWZ-E6uCC2eY_tuyyNCl6eiewfy0IbFNqGoSe-vmt7qQcjfPgMCG652UPzI2DU7YJgX5lLQUbnylerdbTSHc3uXVEOz1itt94GezY2ty_xPfCSYI9jxJLtKoGvfWiUu2ugT2qB7h",
+        "accessed_at": "2026-06-23T14:29:09.212322",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyO7Qa9TGlY6zb_6lVsaSBnO9FRwYN25YdcykLY9ctjpMVshB--9LUI_vPBXjdtHZhpbhp8sMYVxoITNaP6ApT0qbB7fwg2hph-KVLLCbzlxbAQcj4vV2YA5lxZQl8qx4j1BKmJVsKv8HceKqjQaUI8Cu5_6kd2eBbqX9W1JtjmXj5h3sWShfgy2WXKim-bke0oZbkh5Y_P47o7ytjeDEcWJ4hBigd9TGJKjjFiXum30YCiMYz2TERzY_iRKGTRfIgMZSaF4fBEIfH8qGxwL5mgOET0wuhASEassF9r_X4o4OOtXo-DEO-4CfVr2Q=",
+        "accessed_at": "2026-06-23T14:29:09.212327",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg2x0BiMAYTEwJSurkq5fLaluNT_OfiRrLNbcYDr5iJlqDL5iD1ou6Ueh0DPTJIzaIos9ehU8madx5j-7NYU1YJCe4mRCA4jZgKOdT9ZXsTbPNcn1TvhxwqiuRg0q7DM1D5W_CZoBLdlmRgsJpeWrEjdjZA_ehruv34dsvsEpmRkS9T-JIusNzPqnFRXDrW9HRWxE7DM83SA==",
+        "accessed_at": "2026-06-23T14:29:09.212331",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyZd5VUKZH9Rfkn3SCsVoTnjPccG98z0TdqL0M8MPRjdrq1uKS_k6KHURNU6gjdk_s4tUlLosAvcX90IymHka3k1pQPjkdy-Gd-51kPHJxkNUf1V_klfBSC552rJK4kiVgthv-fGQNCqJYqqX1zN_q6Ws3d-4TPr6ROx-uKzJ0IQDyOFR061M7SYJ8QILbqMSdCoWcZrWQgugyW0FLilsxXXr4wahUVesBM4dK8lCm_D7DZ3ACWFT8jw1uMSie4JF56jOVwhRwByVaoFw-HIP2OCeZ0Bdodu1vb1jV4D-IqlzjASqjdR1QbAA=",
+        "accessed_at": "2026-06-23T14:29:09.212335",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsjJVxgHHtAdb0bUWmUp91WnHXW3byC-477FGfUMd6sKKI3W9GF4XJ1KrlYmExKLdQqFS9GVYBM6EZGxokt8jg-BCBpsklQBWon3bis7cY0x3MK1rmSh3r4DSnC2KSmlxZnNgHOtrNrQ7QG1fabgDS3rnfZvtoLyknoVkTAin77S3ZHmoszKLC26v74ZPrD9-rvKuCCJE=",
+        "accessed_at": "2026-06-23T14:29:09.212339",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFDsXNDYp4CS_R3gHvpTrOd9yPwiJXIDGCmS_0EtnViu_WZpxtajwX8Nuyi6OYKr0iLWl-7w49veawL8vkEjvfQPHaLiawlQ-eWE65DxrPctoxzVkxmPw3PvytWfHTjEZb_KEA-hYJCwfNbEzZt2AxqTm6VNCQYRqsg7wYTpseR-oHtNfZXHmFMXl-UOHGaaVUllCIJ8zPgERLmCLrxOrtu4OWxW6uUsPqp9qjBCBarxc=",
+        "accessed_at": "2026-06-23T14:29:09.212342",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQVatvL0mZKGU4GCSNoWWYPVQp1wkQczg_3AZnbkrOvep4N2y_4eFacztvRNv8t3VYZjDQgEDs1tBxGDwl5DB8usXA70zlLfRIeGT-n4rV9Lfi7-b9xfj7oFw_J13GOVd-GpNMqGy2S4S_p6r_7qtPTYSg_n-q9bxWwbb3N0uv",
+        "accessed_at": "2026-06-23T14:29:09.212346",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjT8UHpztai0jFqvLnGg3AKBXrPf90e7J-BrWGmJefr6eE7An-ByGZr9UBoS6fvumBLLJKXvdJkR08f_ApTglL280NN9HHfFs_vy4VgBDJme7_pnxhKJ55KAQN3F5tiT6lcR9f0Zzp2_pBM2DQwj_bYNyhEy67e7Ipkf5loprzHuUxrisp5_A3974gJNYjlEspKDFOmJFTUA--W_aLT5o-tzzJwlfF8LOYna1yNaHl7DlLFZwxwV79",
+        "accessed_at": "2026-06-23T14:29:09.212350",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ka8rKG5OmjQ9KDZOqjuIC58GyR5Z6IuU3fBkhmnb-VDUkphw3JrFG354et8l3qcuhpRctLo8D6FToNQhH6slakC-zFZF18_cG2bpTzlGSKVAmBVJeWT0H0MaEomrIjvQRi3RNuySCbry1lXkX6cLUMv_pLAPzPnQ",
+        "accessed_at": "2026-06-23T14:29:09.212355",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmwngqKBVUhKIrFw1ioddUTiqRUvZFSZAa7JRsbLjhw1G7-CpGXaY0sRvmIrt68HkAz6MtBj3_RRcZV-xtM5-uHWOy2YitdF9U88QZjhZtF-jHm9PXn3xWlvNyCtRIVC52JePtt3YDIY_HX9h",
+        "accessed_at": "2026-06-23T14:29:09.212359",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgm5O6cohxlkdusDMsaf6c5jS7UhWcTZJ2b5cPPhDvRHwLtGxdFMcPKDJkLSE9z9Gslhb24mrp4wT73lN7y3hF6gCXQ7GmZghubjfIag8cpt4RqmxMfqPRpTo5rqUsCMI7tru7XnWLcWBNDlWw_iSRP-nu6uPQ6EW1N8NqRQDXQFf7z47UnA2wQVtNWw==",
+        "accessed_at": "2026-06-23T14:29:09.212363",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9N9ZvcGC-Q-SNruAW6zeoFyxhJDc_7Ar2qqUavLFSvQMUEOk7U3Ny76E6BUI43dsGLv4az0uH-XUD2H9xBJFBHrsfhbWt0zJSDQJzmShFpanGCa4w7uikMYYcmqSZkLuMv5z-SiU4bM5Vx9N4ZYc=",
+        "accessed_at": "2026-06-23T14:29:09.212367",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMpLP1AjJbif6U9X6hJiGoyToTb3axxlQxMsd_R8TsH_2c9C6itr5Fca65LiyI0eUf9WnzaOOrKdoWOXdtjAqxmVdj_GeTF7ucp2vqFhK0YOd814mO1WeeyzFMnaT6DhuEdkZtVKPN9OnP0FIw",
+        "accessed_at": "2026-06-23T14:29:09.212370",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_7UgbfYfaySskHS7TY_u4ftus5iL4Me13WldBWDsRJZTb-Toa5oy6Ut-LiPTUAM_VuF6dG-9g3FC3JfbDG0wEVgpj5cg5MszU1XgkLLFIqd4XmHncNF9lgJS2IgaWoTVrHq1rEQhp",
+        "accessed_at": "2026-06-23T14:29:09.212374",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmRUBq7CdxzENJgF1DJG7HUnQC48_zE_I4daD6ZPIQ7CnUiiPYX4PbFw697PVXWkPjRNCu0pgjkW2rEsxPyobOlUAvozLLKUt8KNB97nPk4M4B4czXEgimESYxiqQCWtkbDy89U5SJnNcVdhxbu8Rk4m0=",
+        "accessed_at": "2026-06-23T14:29:09.212378",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHr-sGAlAmiroOe47cq0SiNjFgc75KWlm43Y_kQcKJq-u-8zXSNeWL_t5q2zSP1OekK14Hx92C7SVE0go6sC2cj_8BWSt5Ep1XAmga_x_aB7rsihVnagE_rGkWgXveJ1KYcaJYMfzFiHyUBhYPa3-U1X-tY4CIMp4LiqrCtU_qelV",
+        "accessed_at": "2026-06-23T14:29:09.212382",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuagsr8_3q4tqk4pQvCga6pYS1laZwMIFKVrWw00XJkgavTKBKrKWs7CBg-uJzi42V-kmRRa2UtcElnbpJymMAeY2FRYPo11R3QHx23ANBtnOqK68pDRS85bBwhWdvc2JeYdQ8Pao=",
+        "accessed_at": "2026-06-23T14:29:09.212386",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrll24iIVVFkJOvNB8GaMNfF4CxF1JVfmb65BrRKL6c-J3Ki8IUHd7nATdUv3Mz9ejSQiW6gp-AQKoeGHCNJcCKlkX1XTP6oNJiPx8JaFIWrYvcQrzKEA=",
+        "accessed_at": "2026-06-23T14:29:09.212391",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3FU0u9Byk118dynoQYHjtZpKciak5KpoF5Jltgd53VlMz5RkuuFkaP2Nv6DQUCeRtsO9q-JLZa4fW-eC3v8inM_E2_CzHwfDDvY--aDchUPZK1ddVvfjQmblcJ3okA45C4_LOukOO",
+        "accessed_at": "2026-06-23T14:29:09.212395",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlMpfTEm8-i8Jg_HZGIxoY4HAwxu2WbPVSMDn-Z1fO3KzypumOAbKt7ifD2kJuKz4TnSdwIsHMSuqDXtsxlda-a5_NZHYYdNQl8MntvPMzqzDnMGNLfS6raHPZGFuvDFw=",
+        "accessed_at": "2026-06-23T14:29:09.212399",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi0qsOppn3MvPON9G8kUL3IpsOW0DeodxRYw-1c_MePIAbcGEvWkqtK0-mue4-SDzczQV8H6SXWco_yBg-yrIYa49VeiPRAUBK5CYfxEfyLoID3D5-bGzK2ZSECdRSErzqMCTADkIiYcaaLAwsnWMUzdzbqmlr2ZxOvNU3YlELe5MOkOjliBHYyNJnFG7dPUmZSqr5kpuqJ3B8cRsaZEFa9lZr5JpjVodihA3x",
+        "accessed_at": "2026-06-23T14:29:09.212403",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEal9cH2Ngt1Kc72hUhcFw3rB-ttH6uDS_dsk555pi_IL8dWVx0knVDMzcdRm8CjcxHLrJF32PtTKUqpeq8d7sJIvBWuemXt6FXj8bSCWqX-P7tte965d9MrEJaPdamQi5LQCzvi_ArVcfWvOxUuRVl2dlL0sC2W0AgnmMUThYW0zWr1KZEPSWUf4Pv0FN9wgsOsb8dIIDOmUTaVqreWArlGZmydwW96FkqVdhpSpzlcBs=",
+        "accessed_at": "2026-06-23T14:29:09.212407",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfBULYFj67Kh43Jj5rvIw2m86OtMSzM_H45pOQokR2AthRyyOF51Bt7U1J9EE7H9qlZEYNoF2JD5Nit7VkBnwWIaxhEJbS2_LBb4BYnjZGId7fhNoa8rOScS-8YnyX-JHaYlB7W_Fd4UvlAkXi",
+        "accessed_at": "2026-06-23T14:29:09.212411",
+        "field_attributions": []
+      },
+      {
+        "name": "Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Juq-DD_5ckow1pi1x0ZpxcB7aw6H9KGLqPGUO4muPCBnLqbG4TIsvjI2p1o_AbVT1LKnz0LeiNETeSkx-oZG6eq6fE4LnSd_QO-AhydxY4ce8YG8ZclH9CcYgQzFT2yopUPt4yyJN0ZVxhK0Ba7AWqPIY4CMqOfbow1jJbK6dG_cDaAC8GXQxInHXqcQyb2e3cBOLZEBI3mJzau9I3Ydxj5ZoZS7rVAI3BuzxakvBWCfd-rl2QxI7Gp-hvx7hZ0g",
+        "accessed_at": "2026-06-23T14:29:06.960383",
+        "field_attributions": [
+          "8-10 most recent news items — each with date, headline, source"
+        ]
+      },
+      {
+        "name": "Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAdQtBjr1T5Nc550EO-q9oBylnhZULvQu-C-CzuiRVnYV1yGuxqaHm4A-S46yI_AVDJIhQdpmhe9JVgD59oSXc1wQwW3vNX0k_Va_loD1XWkAHrDTYFdGyrgEQ9sxXmdj0nqMbDwhZcfPbCniiAJdcl28-UaRo7BMXexQwMUn-SDhK6IQSE3sJM4m_hHD6oUmLzTslI1B1bSBRxivDgki5_o426NYnMQc0be8OGedF-zyDSh6ERq16kHGFuhqTKzOn7J72EF60rtJ1Gmzn4AjvYd3Y67_Bci1q3xBS40HAmUuArWoLpchWkkLjHmbjpp_chm1b40Oour0lQ62xJMpNtNFhEENTHZwBCNbDhv7ZW6Z7BhVeY3GOtCubpx-aOQ5gFmE=",
+        "accessed_at": "2026-06-23T14:29:06.960413",
+        "field_attributions": [
+          "funding/investment rounds — each with date, round/stage, lead investors, amount raised",
+          "M&A and acquisitions — each with date, target, amount, strategic rationale",
+          "upcoming catalysts — each with date/quarter, event, materiality"
+        ]
+      },
+      {
+        "name": "Research report, Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlpT7WdTEZsrz_-rDUMP9G7FZEZnpyga5frCVJTB-7OYfAZ_YPQemAHnvJwU9jc-B-E8wF0JfAKUOk3rMaqXDOFlxOBBhB9hUsCapCScgUlnoYoJk2my2_dEvJEuUOO2qTV8sPezOKMWaVGhcxy4EMymgpQThUM1qwiVvLptvLYxekS2mLGPtyWvIki0jLmVH1QKV6hXg1wVMXADyw_J9kTjDcMOL96rFSsHGCt_Vg-yup9Qxj79aeJI2Vwe5gNYPKvuvjlUx83YXml0h6qyawaUf1isuqftH_VsPA1hiiJ_j0-xOfqunPBF13Vc4aYw==",
+        "accessed_at": "2026-06-23T14:29:06.960419",
+        "field_attributions": [
+          "corporate milestones — each with date and event, from founding to present"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ygjyzis88a9u_qxFyQe0xERCrGNtfjxiFnAfsL6Ijd7lQDwa_LlQAenxuJp8bLfFVEvS9C2oEmsQ4BxN2ue9gB7HWXdZeO5fEjz-WVETAQepMwhzYUARKXnn461yFpT2",
+        "accessed_at": "2026-06-23T14:29:06.960424",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuMWk26FloqKRwipS9fEcnTc6SyjNXI-qx9Xbbuwx7xkzizlk1EdnqcHTIcwTOY-HTG8t6NF4RRQ3x1RtRSsAbh6xmq6t22zq9s8Ts07ljt-z6kwtnrdtrQn4gQAEu9KSvQOx8QOzdP7f4nN5eIkZ5-PtqZRY=",
+        "accessed_at": "2026-06-23T14:29:06.960428",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG60MPi_RGJkqoJA3lHK1pIXOSNMZaE1tSktE1_eavRoVsvMVbbJzG8KVqS1Tt5qYAPiBAbmPgwYEzqp7LoeWV40Weqh0YwaP43vM8JW0qZzeZbkxmh4vXtr3-9wdBNEFW3SXSDFxqKOdwSil8=",
+        "accessed_at": "2026-06-23T14:29:06.960433",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2mIbHAqDHW_2B4gzS8wHXBdjVfqCRlSklhyAO08b-qYhWQREnzFfunlBt1Wj91nuB0SAtsgBOUBzfEVSgAdpiABpHe7gtgRUwuaXW0HL41VZvq18b7mgdRNp15yqUX6SEJDcSKxesnrkWTogLeJUKnxsK54PDhgW5tTVdLV565uhI3DvQtHj83upTk4WCY_lmcVozJSidQA==",
+        "accessed_at": "2026-06-23T14:29:06.960436",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIqteku39Z7JErThAFzqLHL7MXTQZ12UKpKOFKrys4ap8HdYS9C8M0PQjwhG0vKf0d7gNvFO3QEVqIm-UtA2nweQq0eDXaCj-L6leB6vjvVBAybx8PnbBgsCfajS_-UvhNpWdZWA4y0Oh4GaCUouKceAiFu0KknO0ZEbWsd98Gzr5fm8_CsuHDyYBBy_NmyGuBzf49Zud4SSr2lXX7I4--lpgwS3fjSqCxh_oGcVB9db5Ybjk5rW7zjRXQU4voMVgFCQ80xRnzr67a938nk7xW3dUtr3xf6FefHU7GCiBFXV2gLlhpCg4EN7ZtxTmE5mS_7ki-uK1qPHhJmfLGLynpGlS1FwdM8Yajb6qGoP5FEUfRp5NCmG1hq0ojMPJURo4C8Cc=",
+        "accessed_at": "2026-06-23T14:29:06.960440",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWPN7Uv5xxG5xNKsgff2e55nnIMacgbGAKorqGFWHhKB4F7vzQ536plij6j6JIVejnUqBahmSkYQHXkNDrWLeFGtla4FX-gjv5HlhaxLvWWXoX0jEbgm9v7EEhWP1QKtmdP7FQVCT6X4Io6SlY4JwQw2MU6w==",
+        "accessed_at": "2026-06-23T14:29:06.960444",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPS3ncwIXaC0WB1vRN6mQG1rvcFgkjzKUZ3Ey-H0EUK3uicjTYx5b8GDnfVzO4y4PEd8-4rSYkFmR2Y3XFXT8yBbLD6lOj3aFv1X76JQ6Fw3IaX-aNmtTv8g9Njboo2zJTuXHAhPDKNw==",
+        "accessed_at": "2026-06-23T14:29:06.960448",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-vYIHL2dH_CVscg01f1VxZoW9Z7Yf8nH5SDrAGIqN6r9S1o9X94aREKxN_b-aQaUA_NmZXKj0BLLH6Afo1b4O0mBg36OWOIu8AnLJH0jlFXPteqTLo5mJ5ebRvQdzuTT8RaELBlXWMOLD-CGwrGV40r_pH0ujP3w=",
+        "accessed_at": "2026-06-23T14:29:06.960453",
+        "field_attributions": []
+      },
+      {
+        "name": "Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGurL25wf2eIIUTAfjTxTa9CYfu8K-TKenQkubQpav9oQqVdIdn0TfCpfgk47ROxNynJ4-z9gdORtXwMEjSHu2jXXqvgwhCEWsQcZXIkrfpkNXmzqswOMdmnBQhm2r7UXOGoq1F1N0tg_M9QWf644Eo75Br7Zpu0RSLkQaJOwzFGSjj0qxZr2wuRNo9-q7xOio=",
+        "accessed_at": "2026-06-23T14:29:46.997555",
+        "field_attributions": [
+          "country count"
+        ]
+      },
+      {
+        "name": "Research report, Company document",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv7-oulWKto67Lz7uKHrlbG7riN_8Q9b8y7ktEeytA_rWKpiYsCxWnt5R2AhFCQtm3QqQGGvs9NxI56QWzgxCL2jVM-JVCxebKEw23gOnrhh12-vtrkxWqCUTwfX-bGWlyy-6XZVSAVX6Ge_Hwjxdb7jQSZFs8UBmp61PvI8008dKaLjzub9Up3eNN5GEzXqf3jw==",
+        "accessed_at": "2026-06-23T14:29:46.997584",
+        "field_attributions": [
+          "key regional approvals/certifications"
+        ]
+      },
+      {
+        "name": "Company document, Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGB19NOcs_GjFAhutyaBJv8tnnPWiyv55zQbd5F05POsfxUUlaD5Uhg9ydrd9OJnBIJdUFTd7FUpbihba7R3D1MKTaOzxNur5WoNUSJCi2Zxsd-NQENkBOBUxw7Iz3JzayMHS6VjgfX6TugvyECRRCQJaYBqi_jhzpxaTINpvoELTRAYoUPcHjKYyZcGkWMTB5YVRQYd7kiNCXg1JpQQA7DZy3gV2O8HqA7Ra4Fk16dgQXh8tFuEeIPoUrd1SvMT2xKZ2fEDVCJQ==",
+        "accessed_at": "2026-06-23T14:29:46.997589",
+        "field_attributions": [
+          "regional revenue trend"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF_gcU3E_iDQYc-_bMFDq6eMzs9Ubj-E1JdJ_chK3YnGmUD_Q0lRWO-IrVgxL-M1VCvzyBWqX0dZSCf2zz4MfIeN7Ey6ImwvqkLZj5mpvFMQ3Zm1QPnu8z1OynVH7Olq0jOM4vkmoe_y7Iu29dhbl77jkdph1X0eZuKjwrjqxzfL0HS_xi87biXKEz4DLY",
+        "accessed_at": "2026-06-23T14:29:46.997593",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIrvzxY22NPfW4OZyXFt3Big0hNZJdx1YfeGdPErohGIXRjSxnceGiEqNATTCgzjBER4klZHGH8jdNzCPt6VFOC94ukPo7E_DrmcTHO6uA2zEPsKb8YWwpTGoBtX9wp4vBHfSCG6yQMWAGKFnJYzIsNQ=",
+        "accessed_at": "2026-06-23T14:29:46.997597",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIH2OznFFJLlQa1RWpyz2wuP-VfvDd-t2aEnaI7JxqRpGm6UNY0Oe_Zgk85nA9I19wi2lY0aLt9qUP2vbBqv_6uPv3_bE-Q8dL85kvvhFYM44lv-p3zd84BAE03sX8tQEtas0AKOaT2J0c3lpPR5iGCmfvurPJ5QPc",
+        "accessed_at": "2026-06-23T14:29:46.997601",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRpoya8T9bb4lA1kucdsQlTRP7sQJYAt1wFM9GXAWWYHjOF4MYtgHlim72nyEXzEOsS1rF815PFgR-CSx00P1eidvhS5xufUIf5ZP44NY9RlG2MTd_wJnkU-483jG4mP6zbi2ryGyU4tG_VYUQEX2pr4k0yp3dAawdsuJfmEzhmJUSyVr4da5QDp-6ffqKiCvVc2zy1j0xwOtGFl2r9kRnQh8F3HpAsmKiENMepIJH5J4ZIq1UadKOP_KXa7CRUX2-yotzuMqDsS4aZunHLGSA4aK58rDtJ4iqooQF",
+        "accessed_at": "2026-06-23T14:29:46.997605",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVOpJBCr2pNnXyxBc_Cg_VejwA7SEKhIGJuu6c3hv3zJWLSQrRGBEoH6TCxrvx4tN_Siyl6kEIjCJFqkQoB0T9BEMfiQJPASXzFem-0bB-DZxFB6V1Cd873rHRgSnkLJKCHNnE2BV_etou7q3Pk-4xxAeOQoNxaMNGx7RwlhaWSgjbby2kFGXEQ57rrs1W-z1WLWYn6W7fZFlHkTvCxSGiNtQj9mJtv76wm0LeguOrOLY8NKJy9ljcjhQR-K6d-kW5U-yYC-Uv6RY5S30yxWFbtimzGlzOlMjavQ-RcvD2JPKuB6UiJeXW984=",
+        "accessed_at": "2026-06-23T14:29:46.997608",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYTLvG9Vd0IwpnQ8XttC9SlhvfUZyEFDGo-nEq7CD-YiieKGiWtwEkPMgjbMzBD4KhzsXAIBhWVN0F5bAQbKudW5mnQbcUaBztA5cKxodolpI2FhG05oidNwNvtHQ_s7qNTSNML7oPP7qcalOAIBxgTyRen7NAaDCaOQtMRSR6F76IyjwvthVAp7_xK3Q5ec-lkUZNT7_LDX2rQsV3AWhRpUZskG1oLlUe1dKnLpvCdgf3MIO-TVzS07ooIgQyb4Ccd8WU6bkYeztLHCk=",
+        "accessed_at": "2026-06-23T14:29:46.997612",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjJwJyRIUgS27DFzE0HWh0pXRLlTHWbbZUfkrPzzmg2ED2yJKM5t9Nhh4In_uzgPcVaF2Ug21YDf1-5DX8GiDHiH3vMiDybBlRVJwaZNDO6woE2xGUllkkZXcoJwpFMgIA5DV0PUZE8bj6BT9kn9llMC-V2wJVLCCh-iMFH_vmx2YvqqvOeBObO3GPKpArvfd5TjCKgpgAT3trdt3g3LN8SYj9qwEQbGnulqs=",
+        "accessed_at": "2026-06-23T14:29:46.997615",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmHKugs9UNXvmjb3F9M5Mb5rA__Iyb1bI3iEXL7DeRRw2PxFouTFr8vkb2QwSbJ6TNOxWbiflVg_DaRK6u-OrFAgI1CI5BKxfE07IjCNyAFB-ONcddFurHeyN6QUF3NYV9iO6WaBd8sjx_l9aZQLkVY2ECs30DLTnZHTuwWMGZmiL_h3RS6AI4Cx3uzAWGZYWI5l1VM3NOSJzh_W02qdcCHQ==",
+        "accessed_at": "2026-06-23T14:29:46.997620",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuVCdDjcSkb3JZhcLBx4RZzz3Ty2kYV9fuU5hoOA55ZEV-9Mw4B2TTizam1kCrjI5Gf_ZzLG6_e1rtiAQ-yAIJ24eMmeTKj7mTr4Q_lDaEoccOIQYMORJiOiFTxmWGIlDkYIUAoT6vOdngRl2HNpU=",
+        "accessed_at": "2026-06-23T14:29:46.997624",
+        "field_attributions": []
+      },
+      {
+        "name": "Business Wire (reporting on Hindustan Coca-Cola Holdings Pvt. Ltd.), Hindustan Coca-Cola Beverages (HCCB) official website",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtBmwII8Rk1s9rkyzSciJDBavHs7a5PCfgKGyj3-TUactq4Fim0mQscOeAPM7CzWSs2emlcS4eF57RiRnZLqYOZXFENdrD3-3YEkO9nXgIpQ2yt8ZK535Nu_s60u6WZKRS8B8xMWzfffCIlXjd6Iw8Lk9yWQWaI-aDRgI4mRG18NzedCNHldsZXTIte7DdxrP8_NS13qoH2gyLER77kBbzjswGfsReKVdTm1JrBJxvldy0foJBnngQgQO9NXTV1aDD-PT5ND1JML5i3tc7hxFb8V7TdQGEMVKcMb_qFf4FpivPebkK6KA4mNiVXLnEtFRwXg3oZMz0Bix1pnVRCl6zx0ix7VIxZ_YVPUhmlzLBw==",
+        "accessed_at": "2026-06-23T14:30:19.557506",
+        "field_attributions": [
+          "Number of direct distribution points"
+        ]
+      },
+      {
+        "name": "PR Newswire, The Times of India, Agro & Food Processing, The Economic Times",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELSce_Ml3M2rNpf0Nt7MbgbrGgw36AwcgrjbQJQ1iNaFjZoy1wzxX9w8z36MRavXAh05NMixyLTb4E31TePjAbUjNQ9ZrOZMtXheoGShfqCbD1WJ_uEwHUf-J4jRODW6edqA2ZuXnwCmHHg1SjHp0XPdq3Am6ZDByM1ZoMwMRrM9zAUOn5kfkzLAdf7Voa3cK7dS5jhHdfvx0wR2G0ay-lcfelLd85hXRNZUapieRj1GFhqFXQzrWgr11mBtz5VA==",
+        "accessed_at": "2026-06-23T14:30:19.557516",
+        "field_attributions": [
+          "Number of indirect distribution points (retailers)"
+        ]
+      },
+      {
+        "name": "The Times of India, Agro & Food Processing, The Economic Times",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE5CU1rYuQonVUGoVTWq9UD6WkJa2pDwk8CTTrDzESol7RM5sQs02L8HMdU4kRslpKjK4OtN3REQOsLxl6CmtlIrT0i3PWpYEGLrkPgs0l3blo6F1QhorbS8qKvV_Xe5mIsEznFx0vT1vMuSrbk-WAHNTMjQ67G7q1KkiNHP3DNaRcSza8kmM=",
+        "accessed_at": "2026-06-23T14:30:19.557518",
+        "field_attributions": [
+          "Distribution reach (% of rural vs. urban outlets covered)"
+        ]
+      },
+      {
+        "name": "Hindustan Coca-Cola Beverages (HCCB) blog",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkXF09eMnA0iyiIfZSroGa_d8cD8eoXMOwZfzu7pILnkVN1N17dBBnYY0ID_eQAbAxOYdkMNFIoziyIqxg_TTEkMQVGpXR7ydBVTr_eU2UuDuWyxfF2QiJrdJknvmgReJpf45u_apcaKxP6YF2gYVYQ7JOY4U-QkjbJWbQPaL9rrSy9oguTWR4zL3oKGk5oNcMnzzzpMTZor7Hr8TD-rD9Yv_QWqZ-RNrFVZ-P-7XoeQ==",
+        "accessed_at": "2026-06-23T14:30:19.557519",
+        "field_attributions": [
+          "Cold chain infrastructure investment (INR Crores)"
+        ]
+      },
+      {
+        "name": "Retail India News, KNN India",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmyAdOeE1upnh65R3eAgGX2c56AQTzknzGyPx5qs21py2cDJANDIUc7AMMSbd9EOj0fi8f3cgyGECI-w3mLZBfaOdYXlUmSzyqGbXCs2oBSFeERtN-KyJlkAOowh4T-0lpJWNglF7v0Q0bpmo=",
+        "accessed_at": "2026-06-23T14:30:19.557521",
+        "field_attributions": [
+          "Bottler capex (INR Crores)"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRKQCJbL6IoRTO3uNRvA7rRa1ynFhLQ0zIBiil5aXkOTjLD54_ZL1UcyP3r51-9yQQNwFP0aoFzn972g27GVM6MyxkI6N3u8jATHKPS4HdoNojvXDV1o3LGqd5VCV8DP4v2zyNA5RgWtjpxmaxb5b3LTa9HAXlex6QAez62Z4jpmnVavznlkwfSHAPy3C1fMK2qOfJGBT6-eAXeZ3I9lzXM1hJeL8btCphmdkRDdnB033u",
+        "accessed_at": "2026-06-23T14:30:19.557522",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAhuIWN5vv0UZwU_5_ZkdK-kqcB_a5qQojTwAPiHgoRYXKbyDg4DCXMTCyNBEyJAtGIVKhXxB-BbUOXMVMOrDspJrJmcyUOqLSJqjdXEr6xVqMen3ClBT_4j5DoRZuae1oMtk7CtewR9x_ukq4Y2CsUAd7C97TVPMnsHW2SfI90aNM5L7hi3n26-azZdeK2DFYPw4FQfwzQWkWN2YaxZFdFFII1QqvLwsQBpDgMwMHmtQWmi720ryZosZDsmAAVhjTzMq1tL5mnw0=",
+        "accessed_at": "2026-06-23T14:30:19.557524",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPLiShi0HAaiqXQkjqcBRSgY5fHgDEMfJQBecL70gmkmCE-v-HU-vcil0OHWMo5Nsu8tBDqMtnDZEaA8NkhY__Q56ryc5y92ozhYJqwgiKIRB3xV_K-2Jq-dcWmekBGEkgPDYTx3cFMr-9ZD3_GIEjgJe8JU5p1o_jCKOxcFFndQsesXS2KM0_oQmWwwaYemufr_FLlYCIXtwfXZbsl2O2DQ==",
+        "accessed_at": "2026-06-23T14:30:19.557525",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGufdlR2RsdKHjhyES6ARu9GqYa9lbJ1RnLcESlIfJ4SGBp411epYPKscfSQYfV4NlxRNcKAIHAaKg7QkkTQZIcradJ8qDLd__CT_xjYpfdIHy7-C4wIOOTd4U07hb1X8lvdCP_s4XYxRQXwgITOsRktGTnhnpUz65xB8QrWrvtp_9FmycfFnYWPA==",
+        "accessed_at": "2026-06-23T14:30:19.557526",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB0s4BHEb4HOosett8O6UfsjAmfhYB7D-Zvagvr09rlKRY8uLontC5BbGpDTVrPLZElFuM10c80Hy4h_SstIIJwBgPFNMIuSlJIskyzrC3E_dYwasUv_OQy6MdCEAoYQo8Dw7zgrhMUzWKrEuDz_Z1gZRc7tfL3jevVlPv9tIvohUgbInX0ZUuvsARyVALNWFXP2r5fm7xac2TV_k=",
+        "accessed_at": "2026-06-23T14:30:19.557528",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPgIF4ugMIcDEB-yl2t1kCI07CN-Lt6rM-__PsNZ4Tv1yKREQwRlUN5-7H05LSAhE2xWspDbwIiuitVpC8OjAqqeYP01oih6TZpuBQGklr-nhpf52KeMce_tYg3TU8IVHwls8AxWnso-4xq-KtvAeDwmi6_T_u8K7Q6g_YIxIXFCmvwvJq5QiA3WA5DBTs2LCz",
+        "accessed_at": "2026-06-23T14:30:19.557529",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYjYzMFblWj5f6zti38KKBYK-qQnAsTfSZ-jVPZ4ttheGqR37BLNDcSZ9UTQsyykhs2dPHUl7Pk_xCoIkni27O2v4u8BgyA7Z0WqXV-6k6eg2wQHIPOCFXc9KFGykxpAb_P4jOzdeBOyqNOFYzph0iKiY=",
+        "accessed_at": "2026-06-23T14:30:19.557530",
+        "field_attributions": []
+      },
+      {
+        "name": "Coca-Cola Investor Relations (FY25 Industry Value By Category for Asia Pacific, which includes India).",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfpmaYzzqc9M_qspmdC5Pem-DX1bEn8wvT-DDmOeWjN3XEhjVwtSwzyKR5d2Kz_slHokF68EL5yBZSxt6EJluq_HjgmR0QIz16vN2TrMQS4xkyyIxzeIYPEa6XN-cFKifu3hp6gBMdUt1CtRjkSk2voYBs2x-CGb_-Tradfp5evNndP3sPrNi_aWIP3Lh2A_Cx",
+        "accessed_at": "2026-06-23T14:30:56.114373",
+        "field_attributions": [
+          "Revenue contribution by beverage category (CSD, Juices, Water, Tea/Coffee) %"
+        ]
+      },
+      {
+        "name": "Coca-Cola India Research Findings (as of 23 Jun 2026)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU_kHf9RfT8wNotqskQm_tFe60_AyPDNDdjewQoz3pCyCh_5e3durVWhzIwkrMDnIi3Get0GSlT19bXzbA7-Upwbb9jMBh3BUeouuXDLk8TsMR_MCq4YC6-KGwPdvvOCW2ulALuQbjMyBQPmsxbXW-L9ma602s-4BLzMpkuAqAgXJr_yhm_hFzTJgCVYQWVEi7ZMlIBejCWKvZlOsgQWCm4puf3OXpcVSVkNB7V7aRJL2zY25AXxcekQ==",
+        "accessed_at": "2026-06-23T14:30:56.114406",
+        "field_attributions": [
+          "Market share by key product category (e.g., Cola, Orange, Mango Juice)",
+          "Average selling price (ASP) per liter/case (INR)",
+          "% of portfolio from 'health & wellness' segment",
+          "Growth rate of non-carbonated beverages"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYzqmSuysNQAUJt6HA6df0PORJxFk-jFoQS0VYJnnukK80mQ1JdsDPbb3qYWVJASYM_Yq1C1VyQmfFB1EYwO17iTWwoKlb-0-OhmbFuveMSnYY0mWGln-qahWW2sKzGl_wDil0wJYUXBfhcOZLbCXQHujp2LloWb10eH5dS38hGrVqdxLHVOAhDL3p_yFvn_pjLVtl_LHSlMRZuTy1VuXs32cuSdwpqloNIvIHIZu-JjHhhPP1fznt_1mLvd8-BRdoCvgsxmIxgARm_wqaCnCECFp6TqKf3nQsI117cknSFUCG8WLdZfAo09MJ6OVY",
+        "accessed_at": "2026-06-23T14:30:56.114413",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3EL3ymUocCWeHX62Lty5BsFlTbfIUJkvS-5mw6yOe84EHyWaKeTXnM2M-c3giwcXEUAV6e5AnWfmef69HcQOFtd1cqdzxaiU2X9nXErSXNSQQwmzqNm9si87Upz7WnVufAoCEQ6vCCkiynmvdDOFNJ0Rr7ZC7pxTA8my7ryQa0JER56oJA4FUuTGGv-Xk3ydyg==",
+        "accessed_at": "2026-06-23T14:30:56.114417",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwcGXgMLbnzrp-a8Gt-9fEryFwqUH8gCXD0SMbk7uN5C307ys7Wag8tp-MIMAGGWyiX32p_rPgu66qoEkEKEc8aTUFty3BGjDTRtVjCXMOCUK5rRgKgNk8s93Sf3-xfQ-7Sxf5yPbaveE5uFyOgtWhG_7onLC47FwhLVCwjTBvu9KiLJuh3tJ-Nz8WU-h-GfdBE-Og8s3OKbfOgrgisFAec3fgc7KPWxJNXsdnuItDIQZyH7mswsS5swc1jGg__YBM_H6jdVr1wmrLx95spfle6iM0f-jBps-9bEk=",
+        "accessed_at": "2026-06-23T14:30:56.114421",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIlrY8ygtwj6_2p_T6sO4hyn-BOLFXuwQEYM8vpFVMKucpjs7eKfxmOOpRzF7THopeBSDqo5yx8ZlGyHG4W8Iwb8TqA-G3B-Cpei1_SF2AhdSQ7Hn5krtXHf6Zf-otlKNCxbC5ivws2VM34zRs2-ztUJQJ8OSRwfSN1Lfb9vIRORLyZrtQKCGKUxdWW5-Y4js8Kw8smjOFm2p9zxFpSF7PmzwZyLNs8j3nrKae_cSJ-liXXLb20TNet94TZWZ",
+        "accessed_at": "2026-06-23T14:30:56.114425",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfigwF96w3BI9sF5GrbPPszqwRrIXVytJR9LAsXOtIft1ZkL1YktUuILyNbvGom6Cnk7DrpmFYbHMjqWRBFGBwBddb1ekfULzpcItZ4FXe0ycV30AsziY8P5ZsB6usFstCnugYbpASi3FNtc1WWDzsFgzS-BNdIl_e4Rt-trhzONhk_FJLFsmiidd7TQoTvLoU44aLhZp_om3ga5ugWKaloJHTxmX5KgtBdUHmFZlBimE7AIlr4mhGk3BQEDg=",
+        "accessed_at": "2026-06-23T14:30:56.114428",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgXmXd9qE80fBdWQwMd1KGz35dRHyV1FXH5V0nJRY0c5WoHw2N9khNb0tbojc_5YiDw3KhOPZZDqJANCdvvjQMfsLM9IWIrmjRNwWs48BQvRtYJPZ6k9-8oMmCH68PpMqPaEmaQyQT4DAXhPbG_-ptxAVSmSJq9tHlgmXVB-brmm3fOaWKIeBPJ1_Pel-1z4zTe3PrRLKFTunMZpArfyiNZYVrIMdUlPsos54j1A==",
+        "accessed_at": "2026-06-23T14:30:56.114432",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5jTrU9baov7VQsX8mrrcap-14mVK1MSAt96rqB0gH7zb61qynotXnmL42riTbzw8scazJRoaxP6LsXvG7QxsBD-rxqTZVrRv0zy9PR5G_ryy2tmoM0ehXioua7sNC-xPl7gWESlh9K-dir2Gl1vdu-A3lJsFSGXcocXQcye5DaG799DsF5TjcUx6rNobXmPksweC2Z9DiL8Bd72fPhcBkQmJdN8k3qg01ceQqJ-xY7BC2wbvbSx1pN-2M4qxO-stRGQrt0I61eg==",
+        "accessed_at": "2026-06-23T14:30:56.114436",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdfQSEl3UGY1SR0WHH3xfOFOd7V3gUViDzNctemYdDXoaRMyHl-vqh-4vyzhXF8swVLTIdzVOwbWPgea9ub-zPtsDE1EJ_4N25PYWHfDJZg32cT2PqfmyaxOsW_fjMm3WoKqfpt3Jvq79z5XkhRuNGFUJXuYyt_uS6HQJfzg==",
+        "accessed_at": "2026-06-23T14:30:56.114440",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4SY4pZ-fedbzqhrLOMwyLZ1B2BtcpYLZ-K4kjZYcG9PGwFMD9oPcIhPu5wRhUuWEiB62GIpZra-dzNdZ60f5Fwwt7Ngpf2Kq1WF44iE595J2LZIGyRfxor1BAaOddA6LZYnimIUzKaw==",
+        "accessed_at": "2026-06-23T14:30:56.114444",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTR8T_1CfTQk2Irj8AqNYOUD4DxFSsNBXTtwldA-i-_cgjgf_CCRSwmzeHUCt95Ii-7AQ8BsCWc0jDzCLRbCFZq31w9HQBI4_0re0wd93jUIpbVmtzZkFEox7ckicpR0p9MRi087nNT0q4JxwpbP1l6tydM0EcQ_LFRWKpR4LSEYsAbH8ac4XUyj4jUxofz9-UdU0=",
+        "accessed_at": "2026-06-23T14:30:56.114448",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8gR1o0JGK9zRs8MlaWOa4LTFeFZ5FgGWJ-Iy9aK3XM65d1Z9EaUzGSUv--C00BsBEu74UVmM-4AZBOc_hMkWXqmNcM_ep77iFSaQU_EkXior4FLurZ6A0JBbpqz802RhsvKSBVHy7xGWRzudPfX1TdoxI0ru7XlUpzleOowPpqKocujYe8-SGB4IT",
+        "accessed_at": "2026-06-23T14:30:56.114452",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu7Lm2RXlCWOdxg0C8yZnDGxvxHYPYGI46Z7BXbNk3UHGiydhd9E9LAVaO1tBMVNamLL97iYmtlMjdicl6JKu5KSeI3L-yHqBnnSGDWBDgjsfA0rJRvfdTl6U8FwAL4CDz1xdWBuzAgNWJzGcJtLIKh0xIpg5S7u5hpA==",
+        "accessed_at": "2026-06-23T14:30:56.114456",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6rF-oDKnNQcsJm0qxBwG5PvueMop5PTWVNoJJb0IwkpVYgQpHLgDmZKONIZCAUvnuWFp3IX1IIz42LnoGfx0sb3SO_dAVMi7v-om_ud8ZeAtwaps2lH2xvx4sfLC9jORKRzSBWZ8YApZgO2g2Th_a",
+        "accessed_at": "2026-06-23T14:30:56.114460",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHstSIMKf07Tam6dJ_b-c0-6gdUp_iut5fwRUjxCV0KEXODsaRix6Ieare3u1TONhwZ7c4rDZYaGpMxhgl3bs4iPEDyItykvSyYnXvys2jh8mOywrERuCQJAyTsMNSTzNGt8Fxb5W3OBfvtRe_jRQ==",
+        "accessed_at": "2026-06-23T14:30:56.114464",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSdzG-VZdudqR6rgcTYgiJH_gaCAjVEhWL91cytFzhKjoYIuRX2uBSrEgDSKIkc_4g906pXFHv4cTYzGdrFlZF7UTZ3UCP2W-Ny_XpxURRwjNUay-38Zhr99_xOtQbcSJAZmcDmo62mA1h0-QHXTszIj2VVk0talbGI-IyifcO5A03ZLpUXFO2-RtowcrIHC864fi5oqjKeVZDMK3BrNa1fQXPBU-myuMu8LG9C9oSX_j65tU6nTSmThDuWGLNVLMEBxTOsWE9sjM4pUB4blTJjqFpoT-V0X59Wo4BJg==",
+        "accessed_at": "2026-06-23T14:30:56.114468",
+        "field_attributions": []
+      },
+      {
+        "name": "Vertex AI Search (citing industry reports like ChemAnalyst, IMARC Group, PolymerTrack)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa2pI7m-UUlZsUgLByGKjQSH6xKIUDLZH-QQsq4BGfwiuUZJr28Pah5Paf67oQIb9CK1yh9tjiMr8EeluTHswtYnCYh9LZpLvRvGiNPJtCvm6g_pz51v9fPg_BFFQWDdkdmhdOmXPdTCKz15Ev_afqZ-sNRQ-JuDI=",
+        "accessed_at": "2026-06-23T14:31:05.440507",
+        "field_attributions": [
+          "PET resin price trends (YoY % change)"
+        ]
+      },
+      {
+        "name": "Trading Economics, YCharts, Macrotrends",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO2qEfwNvTF_tHd1V5ptei5Wm70QrWmS5eiWb2SQYfRbUj0Wed67EinWk4hZ1lkM-Con-JBQkoCVhXOS7q6Y54bVQmm6uOIWy6B-ngg9QiKeGlbQyZt5RJ_Q5u29ZXPY6T2PodLdjXGIPcFt-2YCTMOQrZ_j4XyqpMSPGNDhQtjAhdmQ==",
+        "accessed_at": "2026-06-23T14:31:05.440522",
+        "field_attributions": [
+          "Sugar prices (domestic/global, YoY % change)"
+        ]
+      },
+      {
+        "name": "Trading Economics, YCharts, Macrotrends, Packaging Insights",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDcypdXQBF8n6MkJCdXgAWE5B9ELjMa7sfchbLiQ8IKi2uJ83K1Lrj8AEGS7wbmFnMnHNPNFsY1wcgi1qPIhylXnvzo4bRCi2JGxE-Gxl7pP11InveeYiIJoH_WDYNKBYjedZD2qcn",
+        "accessed_at": "2026-06-23T14:31:05.440525",
+        "field_attributions": [
+          "Aluminum can price trends (YoY % change)"
+        ]
+      },
+      {
+        "name": "Finbox (for Coca-Cola Co), Scribd (for Coca-Cola India/HCCB)",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwfvwQcSEa37edeUpPIC4MhdrvwhC-3YzNxtoeVzaoyeIQ8VjgnqX1smNtUS5yKFLlUibKLB3vG1cVqVXQjJiR7yA8aV-Vj7VODFyv6NDEYLviGy4HKEpAcL10ZOvQzCxzDmn0SNWGHtS6u4gq3rQ=",
+        "accessed_at": "2026-06-23T14:31:05.440528",
+        "field_attributions": [
+          "Raw material inventory days"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHR2rO2V19MGl_JFArq0rWWptmAzuBOB0So3fxatIK39_deTHJskrxAX_9eibHeiAjiiuu2CEA5-ymCxWTw5Z0wLA_Jc4mo6KrYGjUu2B2UbrS3Ih6AgdaFsdkf8EjuV-98hGM3t8mc-DEJA==",
+        "accessed_at": "2026-06-23T14:31:05.440530",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd3T09ZCuXMym9bopo2TXzWhFWpogK0twPRW-zMBCo5bwd3JMqdFyAhvQz_uBTbsRmb_ZVw4Lc78AK3WI1Jr-hEoN2OdVE8sGiKiZEN-WWjWO_o9yRCJm4JJcBSisoP4uSbQ81jJBSZ4mO",
+        "accessed_at": "2026-06-23T14:31:05.440533",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWfJYorYXZGu9WsgfUXdj1gn6IJLKdM8UOe7rfIRVmjJCf2KNI_8Xvazue5o9dt7pCZwQz4162Vn3zZZ96B5m6v3d3StyoAiOqMkk3GeFWQFWVpetI2Dh1DdRCPCdad3tLOk3BRDT8hQ==",
+        "accessed_at": "2026-06-23T14:31:05.440535",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHitV0iqcRDhq9z3Lojq237GY1SrSmryCsbjSvCkZ0LhOVz66fC2haYYLDmUC7iG7iCIyDp6rzCzjSyTgVMHwJAM1lWMoJpCVywwFuZ4hXjs7xP-gEN1BXUXXFpj0uc_tsNw_rj1hrbvrjQBMjlLhx-OdU=",
+        "accessed_at": "2026-06-23T14:31:05.440537",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr-QwGZbNmEM4X9LIoKvg9zCpZxaVTgOdgBVT_VPK9AlVcI_wInouGJZpfn_1G4q5k2Dy7gfsIsNKWFzPlmgKPUDhrYxpb_GE_xwRnIM8Uwls9OwjnL2-Db2ZP-LkoHxV8gN-ikALePa_1s2ZoQRgoguW-EuvLxIy97UT4hhbiJkBmGrJEpw==",
+        "accessed_at": "2026-06-23T14:31:05.440540",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDNqnydx_nI2LOfAImyxfav4fOYFi82lnPrkZ3p1JEj8RoY5RZ2fjcZ-vTbL9tlpjJ2jS2vzK7AM2m4_mSF0NcQhox11lnV7beqEHuk8mlWTQztuGfzI_BmUeN-ygjbxoiJwNhp4JG81Nom8ZsRrX5-9s=",
+        "accessed_at": "2026-06-23T14:31:05.440542",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7X-gw4Aio_RLUW4YkV28zYIcU6pa00PYNHrYHPq3uQQCwIq7rcAaLNBQ7fnEETupuQrTiPvlG8RyXf8h072zpWAHtJhTCT2XDqOJqm3GsW1WDlZjyqTxkr3LakvVMht98OU7ENHHATtQPJODZ9XPjM4RMXxVy2PCZFGxKdJyZx6rpuZ0uO4vy",
+        "accessed_at": "2026-06-23T14:31:05.440544",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxLscf4OvWkfU-kVqxTSRUV6Xqoc9p12TlV8Yp-b-wKL5HczA7W5-eyue47nix91OVMNS6MgoIngelisGp4NCLuZA5SyTdtr9d1Co1YVZorDak_Zyr3q6",
+        "accessed_at": "2026-06-23T14:31:05.440546",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGCaDNOCWfZvQ57F4EGIbv4ZK7Icv03tcar_aPgST0oKGnMosWBos8aet1-R-nt1kSCnD0OeNyIKrWwmMMggFODttH_ISvCvsf9uYShj03sdmh7P1DaZj4bK08HdciQFCTGVfP6KjGf1MTYajhnEq8e64tGvkdH7gJbQ==",
+        "accessed_at": "2026-06-23T14:31:05.440548",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6xGHipED1C9VWMEO8fCpeFQukTEYgH4FHqD_goNzMMU5mNvjT3YeVbZ03OsfNS08-czzEhT5UKywbZSMBzlDRFIgC9g5ndbZ8Su74c-XtKfQrIX5OumDhJzDG-4spw2iLjXqDOH_a1CX8acg7YZ5gtzLGfzydjs3UYmZnU2GMDYNCHhXkko0HvefZ_4_JEEIqBJTEMgFVJInXxIro6g9CSi6NJIGl2qPx5XMnR8sGblewPa3_U-2zIIlmUJV2irMs_N8=",
+        "accessed_at": "2026-06-23T14:31:05.440550",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGe9yZUvLLAQsx-yK1Y6Jd3o_zBbJD-5iLK1z2gBKn2WP0DmnZ7t9dYdTEjycG_Ps0LC0bda_oCNWXZi_9ffZNZp2cYsJbRlH3wPUUQoL-V3-ErDiHFvjKgfy_oZGSUDpdKU6LTI0yX9F7KzQ6-O4oZ4Vmytcvgoh1JBaQH2xQykW_CkQuoclG2YocfjK6UovCrOtDgHkaI4gwPuuQMA==",
+        "accessed_at": "2026-06-23T14:31:05.440552",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpJxTZtbJfcmyQKAA14duJUYtoIzGUC3zbh_4ocMFS_7NXiyKR43B5ZRZilo9RXA6YEgsqTsm5BPVl2DxSWfGS7UZy7NREiCPurl4RxxUfD5eGZOygKcTTCCDkqqABUuEJgFrGGcMHpihl2qDCntoSAisVMehirHNKACIHrYaGqFxWl38baGiTSlxp9VLucmKqmT5VxanOuvc1EDsyQFIAk1LEpGT9JbayLcZrAcl0RZQYu-SPPv3u8EYkB8Epp8vTb8=",
+        "accessed_at": "2026-06-23T14:31:05.440554",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKG41PKAIotIP48PGhVc8_2U1CQ19KOSaqz50dkSqiLzEsok4FH-_i_vrTFnc8Tt8fMFBAnSv4V15f18dQthponMSkq7zh5BqpUhC50vxnADWbh0UTKpMjd_AnJfJovHhKeQH5fjDLbl5AL1ea1Uyu9HJHjFKAwozB-um3XuolNCnN_5z9LJ-dagalMFL7Jun8kXP7Nb3Fz_4PjNatdEAZWqoo0K4oPx7UFqpZ8U_j2MovO20D542xPr7flmOFNLj6x0LW7sKtXw13lK0qyPE=",
+        "accessed_at": "2026-06-23T14:31:05.440557",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSwePeolPjV8hoyTv0pJEvXWtzyP8Js-JBZ0bNlCY78uRq85gzBRrRiWtK5DzNteWWiR9F67NRxINcJo0DalIXpwiKpAqEbTa-9Nd6IepVyz3GI2juowcmIYmMQYrUioFiiULfyUMNf4lwNsxUDTLACEH9EXiERn9WF0OlIuIoaJDbSxuMLNk=",
+        "accessed_at": "2026-06-23T14:31:05.440559",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsZCgugnSEQBdV5INkb4y_aHWVdnT3-ezgY-C40RR4kEkc5NXx820ObaRUNg8ps1e9HHgz3YtbRXDUOKAzWEq7Zx4zBBKVtBRqnFXOeFRn9dDsyWtmdEttFmpY9C-ETVlvUnhlgdpGsCZh0HVxZv8rUfAlEv6zkwuUyQYK5EPY8gPsODvjfyQXfLmKMA==",
+        "accessed_at": "2026-06-23T14:31:05.440562",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmMEsbll8Wk1ihNnvbUsgqPGxth9xucypY-wKf5jvCw8MK_QHdRqxXct0g5c6x75x98h3V9tzK3W5OYGhxGT9rIUFwqjz-gpKAk2Mgh2wyk0Ooui3OBc=",
+        "accessed_at": "2026-06-23T14:31:05.440564",
+        "field_attributions": []
+      },
+      {
+        "name": "Not Available",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ2V7sM_WrZOBc5tZg4yz0rduywmKweDgqO1qcllibKmS2_c6X2CwUmhfOgtKfe9B2AeX0p0pF35DtgbV8sHqIUFRoqX00lpLgFlkuNay6YnjRd2hsYzGOio3yfnllReuyTpQ7XKgOE-2t2nW8n5w6XEGSbk44loUv_8hyvIk9WUQOLfD2Xmi3L4VN0kd7DNBXXdlGf4lrs9le9FdWfBLQ36zyFpiojcS5cY1QYSZu",
+        "accessed_at": "2026-06-23T14:31:53.665135",
+        "field_attributions": [
+          "Advertising & Sales Promotion (A&SP) spend as % of revenue",
+          "Brand equity scores (e.g., Interbrand, Brand Finance rankings for Indian brands)",
+          "Market share growth vs. A&SP growth"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ9rv3v9IdSKTATNBi5F94C0FzA6EFVT6BQ4a5fTu5PPTQfFe5mmhge8QDyGnFdb8cpZRrvrzXhNub38nA2kavd-sq-fPd32in9Czs_TDV55AR7cfKJxCu-i-wMxW4IhnfN5I80Ko7Iw2Mhc7v1DpigbO8sz4BXfQuDN2xC6EnSPqskbUEvVIFCPDDXP1W",
+        "accessed_at": "2026-06-23T14:31:53.665166",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx5Z5TEOI2bhBWqxDa_maVXyiHFqGQFsVHT02QM43nmmkxyept5Mg3wZfoPWb6ibdShQuENdzfshmNvoKnJ9T7PES5Stc8vG9lDB1M2Bn8hLiAv-oNhsZRy3iEbNv3U0KC4T0PsKCySMQaC1OS0ox9-JzJPYcg2aImHZpjiN-W56f8j08EytzYYZSJbyJLjgqhgzelwDhGDu0VIS8_hQtjThjiE0SF9FU9okeyaKOeL97AoaPv6oDR-yRn3Aef0sbG9vZ4EW-yMNNe0jC_au_d2K4=",
+        "accessed_at": "2026-06-23T14:31:53.665169",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXTihOTwsCXJ8mEUgGDvgXCLVXF2ewsW09CfZp1chF_frHaX8uGvdsR74fsFw6OvF5VEUIgztm2Qq5c-Qeek_pHMpiMsrXWUhqsZQ9RzGiFoepqxPReA-YepJd4X5tCjNivOOhmTCZeisac1df2JE_forhfIRXauvjgTsGAld2wQWu",
+        "accessed_at": "2026-06-23T14:31:53.665172",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc7je6dqdkEwcA9HevL3xBQ2vn5HaMw5eDIpt8EMTDGROsygQgJvbo6kJte-SlBeX4ZSVvYfvuTgj17beBuw56E4a7mUf-4wnrEu-gjeZiV8qs6sK4GPB7-QQL6DaJx0UqBWi9XdQYVi8HP_zDU7bjvhmpYEjJVcAU98Yx0wX-tWhdy4vM1nKW8X-mwb6dWFYEbNc8US3i4Cu04JrdKsB62q8clgy5",
+        "accessed_at": "2026-06-23T14:31:53.665176",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNbFNI83kWvPDFji4KjhfFWtwlpmQtf_6VJYLtNDhHeCq9VNY5P6z1c8oC-2vPFBYnjS67qTtcB0-ICLWKBXQQUpQ10tI9s5REFGs5-CzD9kDDBiIhDWzr9PgNK1pFYSqM7ctWXhLhcMs05LxemQ3nk2ST6_FqarOQEZ-DCby1x7XxDT8mZahRdpdpGvVOlk-R",
+        "accessed_at": "2026-06-23T14:31:53.665179",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUX-1ERREDX2plCAFtWNmPxYWs2aymg9LpCO_ckobwUlfuN17OYbqekhI6XMiEy9UKyuy6rwD9CFCunlS-rMyQQiXrWs50tj72QqRPYyIyz_Uw9JUnPNgHWxgEWpeTDJmCkRpYhwBD8KBzWLxQaBehleZLBd9tQZeXWggga8SzHzQkpWTgcyu6pVcWimUmAEIELBa4DIwKrIEngiARsBnU7m86HLPUz2gzT6W68zB2QOp9f3jOkDyLPJFPlCqxaJw=",
+        "accessed_at": "2026-06-23T14:31:53.665182",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_YbgNSo6tcLPRfF3acUbykCvq9Nlv8CQDJsW3jD1dLI-3Zz-4Bk7Fbw5gDXWN5oBp0M3o7oG1I-Lhsf4p-lpY7Q96YomMBanOM3-FRsmrIjejeQAkM0prLG8wnH1sxHsVf8RqfzSFOnd0C30VJ3W-5G7P_Bm0KfDpD1ZnfsJDWGTb0cAfN3Dw453nA9oQwy-aDrGut4Bjg4QOzHyH_e_eDMz5zw=",
+        "accessed_at": "2026-06-23T14:31:53.665185",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LJOH7JuhtZxnBqeqUIXF4fs5V-cuFUfO31uJ-Nb7Ygg8GX931YVDSW_oNEem73WJLaOrVUAYcPYAm2sNLOTKGgEYRAvVghFnWRHzaVcW4usjuHtPQn9lmQVZPeGaylLWn8-sp9S5yfJTN0Mowe3sRJwfEG8m",
+        "accessed_at": "2026-06-23T14:31:53.665188",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ72nDBPDy6YIDDJLc3ihOWZEtWkheoLQd-KQ-XccXKwQoIfxtMO46IdNHoT2jYCfqcYkd8EXvmUs4diFqRr7pVuH17lUTsemq03sqtVpDfJIuM_jcEMHo-jipzicb6q46iVYV72onvItaqZY1ZGVjppSrB9VbB4xgXd3EEi_ByqqIKvBJSLl8ZvPYkjQrxG12oLJZv115U6CQ7DID_9P2RMOoHwkzlEkNgDPr2w==",
+        "accessed_at": "2026-06-23T14:31:53.665191",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOFGKLeU8l5vAPFwQcg7r5GcGlIz2UslHy75nfvBcSGshilhnoT4L2QEHsXbX0OCZAR-1MZ_gFcT-zt96Ew4hM7E--UDLC8ChA2CtjobMDA7N5l810DtSMbvmfwFMHyc4ZugIiemurn7gM-eGNUSBfB9WjbdOrUz01cU3HG8184Bd479qM6PXeKoLte-es_aFOPncsDYuqedke422WRi9N38wJAMkRZsu7Y3ZilG8=",
+        "accessed_at": "2026-06-23T14:31:53.665195",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeSG798jHUYuV85eePtWvEAu19LKgqPPo5Ql5OQz6dktihVLZuujPsu4QknFnPmY0trrOdAv-yBj6NywmI7vg3rrmI-N6K0wEGbGzmb_4KPf63hmZ-pM1VxJJ4HFZDAAeap-MnvYCeS_0Pa0CoTXeu67A5Lk1J1JKXOkyzmjPdteY6dpPfNvQ4NK3cBnDlTgJX17lXEmKvNy3Mi-0UKQ5LYIQReBEGRwNvvEH465T0oeiaFL210-9K5MnZwbs5TCNi2Zptpg==",
+        "accessed_at": "2026-06-23T14:31:53.665198",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKl8gCZV3E3MIXg90WsAql56HorLtzajf-uwW-bNICwyD_GaaGpnFNpaV_XPhIB5LBQ18Pyraong0H_MmWXqk_bhC8kCZVHWwJ4gBFAeVVl3va6jorcnPyFsIjEGqTD2IPTEeZwirXeuHmtbHViM1BP7m_QaRJTXHDjHAsBIpMd9-Za70AOhkWqxyJTv4te_cOZThgGveHQdQTShaiweXVSQH-oHux8Dsx0xQvlxaD--AiFEWlpsV9qJIu6PpI",
+        "accessed_at": "2026-06-23T14:31:53.665202",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbV6FWuRq1uOTlVZDhMrj0OImOXLLXO3uqEKet_uVv9L7RxI2EVNW4xuKnKEeiOi9iihSyc4Ov-GB9RDWPgG8lIOC6-dbTWdYQj0J90o0LlDbrXjSKv-Do6YB5xSNqd4iJnAo80UJIrviTR9ZxT9V3hFqT55bi79kEbrkonf-YG1y-yDpG0wWsfDduC2vTC2PCRzcI2qYAJfEr5dyAPQKfPc2RxPj-0NaDpcE5l201z4wFwS1lfQ==",
+        "accessed_at": "2026-06-23T14:31:53.665205",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5p7PqsyO074NCqKytTHYOKyjP-GDpZ-r5fYHSNBba2upuXdaeHcxosqYlawHNQCw3GVDlLEE_IG9O0aW4psAJ5uVpAO-dIuOA2mLaxgxPxPu5PCu4XxnZcZr1le8uVQgr-pgasFNFbdaWn3vr-8XMs1wwibczJRHHsdMljg8SqMPTDsbyowpZ6_kXyGoW-97-YgPgWVl0gVrHHNdK-FO5mbOnlVUl",
+        "accessed_at": "2026-06-23T14:31:53.665209",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsF1U4P7QjZV3rYfdZ80HLpIqbQg4niBBAiO67AVOGBkqXQ-fBs-lvAR-UecyhxL9Us2JKPLdXl5b2ToRjP8ToX1rcWyWorxIC7i8t5ZMJyTY4E4IfaUcr4_lSq2PuPgXv_nY=",
+        "accessed_at": "2026-06-23T14:31:53.665212",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs7b7-4mESGU-FHgPk9ez3AxUmy9YFcGczh6NBln4pid-tW5sXAWsdD_kuGmS-7FfQ_exIMgJtJzuJWKirx6tKSG9JuuO_ojeDHBtjKLoa8ZhKr3-j6VzIJ85Tbz_xqE0gT4YM3X1I-OvXdA5YnIQrQXAgWkXsw6TzTP2Lbnjbmw_r1jWvGLzKkck8IZtN-xvasAah0WiUme-s2SdciKThtyhReINKLqwZZ9v7-k2VAFfSDoI4y5PdQNqXnFyQllCVfiL87w==",
+        "accessed_at": "2026-06-23T14:31:53.665216",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDD_v4lkCnLanCesuI7mXzqlYtjN5M4dK39AUomu6zvTl-yrqmFuJja31W0NF1Eqx0Y6cKZWq8H1BCSdv8dmZ9PJjoVa84UHSdHJGz6XVCzoTHL4K7GhHoh0iDqzK0RCBXx2F4s5BcAmG7Ei9blabP2hNmDzFkC1hGNWShQbCaGqK_5PLQUFqWIruSn54Yl2VIq8gl3uBM9tPmdMrFce-ASC5pLv9luWKHnlFPVEWEH9LtjaZ_kHIsnvTVRqXNBqM6upU0AZP4MOtNAg==",
+        "accessed_at": "2026-06-23T14:31:53.665220",
+        "field_attributions": []
+      },
+      {
+        "name": "The Coca-Cola Company 2025 Sustainability Update and 2024 Environmental Update",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4qx6rU8keFkv8ASv9lxI4IEw-SP2dICgufem6kU0F_7lCCUPb2hm7gNN-jToYfZ7w0JMUsdbg3d20bEpUm7EHpFOBRbTdqRmT-AV689jFQyb9bbslE-lXyFfnyIV2N7SAN0WxXaq8MJUUAuU3C9k8YTkhmTkTGXzx5cecGEOhLG-oBC9mp8oEj31yahQZYm934ujMUckSrKAzrReCP3dtX_bH5NwNuZvtpAB94EIaXjZbBd0RmWIF-iWW8nKe4OfP9HHRO5UXn0sWewl-X_MrSWa2",
+        "accessed_at": "2026-06-23T14:31:31.545840",
+        "field_attributions": [
+          "Water usage ratio (liters of water per liter of beverage produced)",
+          "Water replenishment rate (%)"
+        ]
+      },
+      {
+        "name": "HCCB (Hindustan Coca-Cola Beverages) Water Stewardship Program, and Spray Engineering Devices Ltd. (SED) press release",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaZK5caMis8Avn500XPf4QLjZjXXH-O-Hp-WoelwKbiea7or5sUna1SpIf6epuVSIBv6lWmyBqikY23tRo8iUrQVgpbUxfnVXDn3AILPVrLWkjF6ssTEJei8jgCk_eH5GuvKpw8CvlKng=",
+        "accessed_at": "2026-06-23T14:31:31.545872",
+        "field_attributions": [
+          "Wastewater treatment capacity utilization (%)"
+        ]
+      },
+      {
+        "name": "TheCSRUniverse article citing Anandana – The Coca-Cola India Foundation",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDyh7obMA2sZCx_94zT2sV7TQVOWSVM2E2Ai2tFOEUltWBuAYUuo4txAO7dJE7jrO92bUHBjrY4XOINT-8sFvWxVkVgdyla8aObRbN6-sqCUFXJLQx646V4oBFGgyuugrB2pi089NZy-ltHfH8BH5cspLUQ==",
+        "accessed_at": "2026-06-23T14:31:31.545876",
+        "field_attributions": [
+          "Number of community water projects"
+        ]
+      },
+      {
+        "name": "Oceana report, and The Coca-Cola Company communications",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc7s0LpQlDOKKaisr6KikgeCEd1FxUrMkLd0sBKulVzWXVT_p4kKYVPMLYSI0R2R3FMjjonWoOcAXyqmm77aOh52Qo-CZvb2Yjm8L_i8jKd3xONIKm-DZAm-fF_1q8fDHROu6AsfKGVXZWEQo5_TleNkDAUrUU0iRm93g_unX1rMWxu1CIP2Zu-_M8Hg-1ceqLLwL2FnY_JLsG_hhWzu9YSpX4EVfPrusJXg==",
+        "accessed_at": "2026-06-23T14:31:31.545881",
+        "field_attributions": [
+          "Plastic waste collection/recycling rate (%)"
+        ]
+      },
+      {
+        "name": "Coca-Cola HBC ESG Ranking",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy0_egdsgrNOrcg1XxxKfBtaG0tRNGE069V3UwVu3DWmsY50IGpeCoOESDLuEAi13sjnDuW3QGulpJvPKPv9L9CI-k4t3sMu9eBkwkYPutXUN_c6J7zSlKBbIvdBPmZKFgVDAuUQE6xwF_JIlg59Zh9L7-Yn8EtDHNsP3Lake9pXTnx_lIQG4t8rZWXCJEHeIZCEF2vJPY9lixo0ml7k3a-KHyNuTTmlK-Z4Ha",
+        "accessed_at": "2026-06-23T14:31:31.545884",
+        "field_attributions": [
+          "ESG rating (e.g., MSCI, Sustainalytics)"
+        ]
+      },
+      {
+        "name": "Central Pollution Control Board (CPCB) orders, reported by various news outlets",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnA25iRnd6_XqNE4-xL41k-JVhCLFfzjA862-BSEdSBvTlhTJSisDWjouSagqsRIOxb5POm6mMhg30Pk_axzTBBcwTuvoGfpDgo7IkP-9JMksR7dEqZeLaDqG81mDm1NzyzZzoKdDt0pMMxT14B6yhXzo4QkRfnQQLom03TbDdEGjjUH4ZsxYOaKX1ohCsE9ExQvk1t1sX6ZtIEgWnJKCR4RTztAAc3qg6k7ga92kkXebNrytE",
+        "accessed_at": "2026-06-23T14:31:31.545888",
+        "field_attributions": [
+          "Fines/penalties related to environmental non-compliance (INR Crores)"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJNRDBLmdDIPSz2nWmSeYVJUhG-9jPqkty1pa4MXGuVJzP8NJ9r-BkbhQNm_DYL8oCfW-cDtXvVLgvVUYEL1zwXFu3Vurrsf7fbJyzEp45Eg5aWpe7FGYfo2jFlK752VrAOfsjwI=",
+        "accessed_at": "2026-06-23T14:31:31.545892",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVWIV_5auBO9WTBqez3pD7q3z7vErXyN5W_lf7vrfzP4QUHf4MgwgmRLMs7ueyZ0iu0ZE88cNgE1rTQtYvvTxmBqk8q1QmUsFOgecMmuacQmZpnUFmdmVfaCIQw6lewRAz3MojDl6b4vNeQCRhAdGGMynmcj7uAjac0p72kwiRosRAvT0a",
+        "accessed_at": "2026-06-23T14:31:31.545896",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQjH4pj0rxylZriwEGpjVxD9uOCuzodvgqgAnRjTN61i2E6jt3ahqDVDqByLK4a9y5b8LljzdL7WKtRnUQejgZNZKE3yA9JzOvfyvAmkwdZJ5h9_EASmZICnDh_MMF-Jnv5CEs4IkZJ3zd0YKhthmc1fveIV-olRUFTWYSbNhlUSb--b4xXd0s-4P28dvovGhw56AtHbB4POVw4Ae5dUos6OWu1QB_rFvLrRM=",
+        "accessed_at": "2026-06-23T14:31:31.545899",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6DRzCH-P0fxeDo4nKRJddq09Pb4mnMttMOfZDGsCh5uDE1fg9Q3Lz2OvNeZrNQg_g0adBIOdJd_NfLiH-GqezpCJgn7h6snf_DUKw-hoiqg9ARCECXEsipns15SjIoyI2pKGO6Qo-RVMVfEJu9O7QHHGshUunehk5UfgdfIMff0TnsZdTT379weoaw9pHvEuOyNJqXQbjeB_6o_LZvWZXwYJBAM1bq6nf5MB7hQFkFLY3gKz6LEiQn7yPYNDT1TlPHP2uhh98iJP_trY_jVQ=",
+        "accessed_at": "2026-06-23T14:31:31.545903",
+        "field_attributions": []
+      },
+      {
+        "name": "Research report",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGNxhZmc5Lim_V1hnyRo9f-rFTrG_gX4pII_CW6-dAuQbuYVERJ7hCz16s3oX50Wk8FOYGjfmD1oXM6YGo1I2SSyCKTHj7fHRrrJpMFpRrQKO8E3_jBy1cxj6nzoTBxm5skYyL29hJrhn4Z8D5iBEZ74126POeJ8sW4A2iFPnV1YSgORnZYhHmDZOGXfXD8w7_rYqyAwunDrfDsbX7MQSSjc1M0Aex3D4v2v2p0SmYyQf2d5pkKVHo7cxv6YUd",
+        "accessed_at": "2026-06-23T14:32:19.362942",
+        "field_attributions": [
+          "Royalty paid as % of Net Sales/Revenue"
+        ]
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKsq5voX0O80pYEpxX8tYJmYtKyirp0YW-JhGdIxisSZrpNcN0Tv-Kd37YbCp1RupsRELrBKtfC3jykzYFHyWUrJNtFZuY6TWQ8MYyooEKntMAKEIWGV1AHNdxg2wN-cCqCK98r6JsbfDSe5_Pe0xAo8A2Lf19RujslalbjhSqAkUIPSs0Ql4ny891Lq6HEF0RsJPh2fyZv2vHo-ce69RlJSvZvKJs-ai-GIgZzpYNqoCBoFqKK4MazuV7TNPT9O7utifPlreCMHfUgk3gnH39AdVQA-0FyYrP",
+        "accessed_at": "2026-06-23T14:32:19.362957",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIUnoJhGNWr_q8yTGd86EiOtQQcmSiO5SxSBpKHzHLzuUYOn4sYWqpXRZa5iDP4Ts1v-wuZg6LLzjp8yOkoMk7IViXZKS7WWYx7nayaW44mHlQ6rRDWepp4GqKURoNfjCv75J8bmrICiPEQfnMgmcXXBFtjBDy8LIOGLI-07Hyvaimcw03mWqQNyTdFep23m_LqTNLIkCty-YoClRSLl70E5qDmQ==",
+        "accessed_at": "2026-06-23T14:32:19.362961",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdTgRNMXwOtpqkYA9g-Vlg4IhWcd-stMTHn1h4yUAiURhtbrwsEgKbvikexx66UuNVh1YB_cK8CA_83NNcTCb1EW8tTDioJrdjE5MhP7wewrY7v-sSYNn0AmGo-XoILUcRAPUROh2oemJdgc35Vm7mz8ibsVzrCnKbQyYpamBdaxbFSRJcrWujlOBR2W-3lC3fyYvaJhynQVZrM2DxlNZmPUqMVznl-tU522VZWGYfeFIQvyJPlL8=",
+        "accessed_at": "2026-06-23T14:32:19.362964",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjAjI0v9naORecDtHeDWRSQEDU1Zs7HoQP5mH6mqxl-rshtFP5y_naDACzEBaGu4GIs1oyd73Jrwtwt5CFCI-22D6hW05ZY9t83ZjOh4OSV6IHi7Y4nbs-RDfjQs3XHq2SDDqdnx6fVfjM21cyp5WPW2BhBVjI3KfARwgklII95HjjsMXXwpTEdtLjcBLRAT9VYvyVA0iNANXJO9MC3GEU6bRpAcjTUy3wSwphB8KboZZB",
+        "accessed_at": "2026-06-23T14:32:19.362967",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmWoTuWXHCylR0GJsJwucOHwIEdoKhpfw3xOSD3u7Y6YO2e8VcQHq06eNoOFpjJIgKhYzj7aakXB4XotAXVHhmPAHUn0BEu5iUdZ1h-L5oGPE23ichgM0JdiAfXzKeNhmINuoP5m76K8-torN0swtt0q7Mnep0-PoyAkNNgJo6k3kPTZA-wwv-RN_nMewSN5zM115Y2Jb2jbHFfrN2kg7kR1naDbGjmS7uD0G79_-_ow==",
+        "accessed_at": "2026-06-23T14:32:19.362970",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq-XTmK6Soek1zUgLOFPdx2Lagu1Ncj7bwjQafe1AI_XJWydo-YQZgZnm33YWXEkdssDktxyjIhnGg05b66nLNwIPPvogge7nd4WydPkr4C3gZeViUf_dbYpnwnxV1OLxAxdLfqvJVPM_9CY1Zzq-TWPCI-NRGsrKo-PY_wfnW1Ktszx_428Wi641BzqHw-tXsmfDzdDDCqAI4r7RylKSM1l4-4EJkZzwERW8fWeUAX24JyK4845J0Xmk=",
+        "accessed_at": "2026-06-23T14:32:19.362973",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbGX3cr2PSF9UjqUlogoStvaal_nagOYS9FYR0rceAoJkcAPo6nBTZUm6Ih8rmoouxX9KNxAC1LGenMX3hLgzz0uPzQs1brdi6vI9yEjX1V2lLq_DhTA1Nn2XxV4350cg_Vg02W2BSwczZdQUKn6cRdGsh3enW5B9RPMY=",
+        "accessed_at": "2026-06-23T14:32:19.362976",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCvXrGdRAgpZ6e1XoxJOABbcW77QXK1vU5svnAzS6U424QZqBH_27vVkcpyWgw0-eCMdxfj38Zc1D5cSwWvAyKdMTDCyPotE3-PYqJYBJZEwjRKks29hcBNU4DJYPVWpvK51zIZlzhBciD4vcc6qWL5L5edGXwsHxdB1AvJJYuu3zs4yC6ZiffYSH6iPa0fO5hSe0kBftlRWF_OX9llXti5Zp4CZDSxgTgIE4VydwalKoL",
+        "accessed_at": "2026-06-23T14:32:19.362979",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV7qTBy_iTcj9dgaMoqXfZ6BhHioyCsGPfiVtVHAatx49n5Dsk7hiQCzKa7F74MToUXeARJWXNL9IGEklCGm7JmP4CuEjV-u0y2BMyxLZlHEX3CtKfEXa-naZ5J24hXYxH_ikPW_MVFUlmr1Gb_5g=",
+        "accessed_at": "2026-06-23T14:32:19.362982",
+        "field_attributions": []
+      },
+      {
+        "name": "web search result",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExDaHFTgJlFQvMONNdlnTcn7bxKkHFduvTCH07iodXqrUKUfVtUTXfwbi5Fiso8sHQ2ftljPiP-X8zGNvx8ga6RC7anLW1gziCcvg2h4eRhq1rphfO1OBBqLqEAbv9bsN1cpwV2rC8pBDEZkNSEaYddq2D3e_nnouT1VSIbVuG61FEgsA69rc-DDJub1S4PtGSfur4JmmKgT0BcD7M8WlbrG95FkHdV0vUfTGvzZujHrmyXj-h3S3A22Im1zLcCcovaNNr_FCK94WmrZiMxNcEAHMxoRLtNFMs_eNS7d1wmsthzkvKKHf5XqNOD0VnA2cX3M90cY3QMphSQHqSeZo=",
+        "accessed_at": "2026-06-23T14:32:19.362984",
+        "field_attributions": []
+      }
+    ],
+    "documents_used": [
+      "Coca_Cola_India_Financials_Extract_V2.pdf"
+    ],
+    "sections_total": 34,
+    "sections_populated": 33,
+    "sections_partial": 1,
+    "sections_unavailable": 0,
+    "coverage": {
+      "not_applicable": [],
+      "gaps": [
+        {
+          "section": "Ownership/Funding/Cap-Table or IPO Status",
+          "why_it_matters": "Understanding the funding structure and ownership is crucial for assessing financial stability, potential dilution, and strategic direction, especially for a company involved in manufacturing and brand management which can be capital intensive."
+        },
+        {
+          "section": "Credit ratings",
+          "why_it_matters": "Credit ratings provide an independent assessment of the company's creditworthiness, which is important for understanding its financial risk and ability to access debt financing for expansion or operational needs in the manufacturing sector."
+        }
+      ],
+      "notes": "The company is in the non-alcoholic beverage manufacturing and brand management sector. Most sections are populated, indicating good coverage. However, 'Ownership/Funding/Cap-Table or IPO Status' is only partially populated, and 'Credit ratings' is unavailable. Both are important for a manufacturing and brand-focused business. 'Ownership/Funding/Cap-Table or IPO Status' is important for understanding the financial backing and strategic control of the company. 'Credit ratings' are relevant for assessing financial risk and access to debt, which can be significant for a manufacturing operation."
+    },
+    "sections_not_applicable": 0,
+    "validation_report": {
+      "unit_issues": [
+        "Revenue by product segment: mixes INR Crore, INR Lakh, USD",
+        "Channel mix & distribution: mixes INR Crore, INR Lakh"
+      ],
+      "date_issues": [
+        "SWOT: mixes FYxx and FYxxxx date forms"
+      ],
+      "missing_citations": [
+        "Risk flags"
+      ],
+      "implausible_numbers": [
+        "Corporate Structure (ESG): implausible 'Water replenishment rate (%)' = 157.0%",
+        "Key milestones: implausible 'corporate milestones — each with date and event, from founding to present' = 180.0%",
+        "Key milestones: implausible 'corporate milestones — each with date and event, from founding to present' = 400.0%",
+        "Key milestones: implausible 'corporate milestones — each with date and event, from founding to present' = 230.0%",
+        "Key milestones: implausible 'corporate milestones — each with date and event, from founding to present' = 400.0%",
+        "Awards & certifications: implausible 'corporate milestones — each with date and event, from founding to present' = 180.0%",
+        "Awards & certifications: implausible 'corporate milestones — each with date and event, from founding to present' = 400.0%",
+        "Awards & certifications: implausible 'corporate milestones — each with date and event, from founding to present' = 230.0%",
+        "Awards & certifications: implausible 'corporate milestones — each with date and event, from founding to present' = 400.0%"
+      ],
+      "fabricated_urls": [
+        "Customer Acquisition & Retention Economics: uncorroborated URL https://www.coca-colacompany.com/investors/growth-strategy"
+      ],
+      "completeness_actions": [],
+      "swot_alignment": {
+        "checked": true,
+        "unsupported": [
+          "[threats] Faces intense competition from peers like Varun Beverages (21.51% EBITDA margin, Q1 FY26) and PepsiCo India, contributing to a 10% decline in carbonated drinks market share in 2025."
+        ]
+      }
+    }
+  },
+  "company_header": {
+    "name": "Coca-Cola India",
+    "sector": "consumer",
+    "ticker": null,
+    "cin": "U15549PN1992FTC065522",
+    "founded": "1992 (Coca-Cola India Private Limited incorporation)",
+    "listed_status": "Private",
+    "hq": "Plot Nos. 1109- 1110 Village Pirangut, Taluka -Mulshi, Pirangut, Pune, Mulshi, Maharashtra, India, 412115"
+  },
+  "sections": [
+    {
+      "section_name": "Key stats bar",
+      "column": "left",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "stat_grid",
+      "content": {
+        "data": {
+          "5-year revenue": [
+            {
+              "year": "FY 2024-25",
+              "value": 504255.69
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 471338.36
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 452131.88
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 312129.31
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 229751.11
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 274154.53
+            }
+          ],
+          "EBITDA": [
+            {
+              "year": "FY 2024-25",
+              "value": 94185.49
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 67523.15
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 105948.34
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 72435.68
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 70702.22
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 94698.96
+            }
+          ],
+          "PAT": [
+            {
+              "year": "FY 2024-25",
+              "value": 61536.54
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 42017.26
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 72243.06
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 46035.03
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 44338.37
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 61914.16
+            }
+          ],
+          "EBITDA margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 94185.49
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 67523.15
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 105948.34
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 72435.68
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 70702.22
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 94698.96
+            }
+          ],
+          "PAT margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 61536.54
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 42017.26
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 72243.06
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 46035.03
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 44338.37
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 61914.16
+            }
+          ],
+          "interest coverage": "Not Available",
+          "debt/EBITDA": "Not Available",
+          "debt breakdown (secured/unsecured, short/long term) — try annual-report notes / rating rationale before NA": "Not Available",
+          "operating cycle": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1
+      ]
+    },
+    {
+      "section_name": "Business description",
+      "column": "left",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "prose",
+      "content": {
+        "text": "Coca-Cola India Private Limited, a wholly-owned subsidiary of The Coca-Cola Company, USA, is a leading player in India's non-alcoholic beverage market. Incorporated in 1992, it primarily focuses on brand building, concentrate manufacturing, and marketing for a diverse portfolio including carbonated soft drinks (Coca-Cola, Thums Up, Sprite), juices (Maaza, Minute Maid), and water (Kinley). The company operates through a system that includes its largest bottling partner, Hindustan Coca-Cola Beverages Pvt Ltd (HCCBPL), which handles manufacturing, packaging, and distribution across a vast network of over a million retail outlets.",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Brand/IP/Licensing",
+      "column": "left",
+      "order_in_column": 2,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "Revenue contribution by beverage category (CSD, Juices, Water, Tea/Coffee) %": {
+            "CSD": ">50%",
+            "Juices": "~5%",
+            "Water": "Not Available",
+            "Tea/Coffee": "Not Available"
+          },
+          "New product launch frequency (per year)": "Not Available",
+          "Market share by key product category (e.g., Cola, Orange, Mango Juice)": [
+            {
+              "category": "Diet and Light Category",
+              "share": "71%",
+              "period": "FY25",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Cola",
+              "details": "Thums Up is India's first billion-dollar beverage brand and is globally ranked top in Indian cola sales",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Mango Drink",
+              "details": "Maaza remains the mango drink category leader",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Carbonated Soft Drinks (Youth Segment)",
+              "details": "Sprite is the fastest-growing carbonated drink among Indian youth",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ],
+          "Average selling price (ASP) per liter/case (INR)": [
+            {
+              "product": "Powerade",
+              "volume": "250 ml",
+              "price_per_unit_INR": 20,
+              "price_per_liter_INR": 80,
+              "launch_date": "March 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "product": "Powerade",
+              "volume": "500 ml",
+              "price_per_unit_INR": 50,
+              "price_per_liter_INR": 100,
+              "launch_date": "March 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "product": "Zero-Sugar Variants (e.g., Thums Up X Force, Coke Zero, Sprite Zero)",
+              "price_point_INR": 10,
+              "launch_date": "March 2025",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ],
+          "SKU count by category": "Not Available",
+          "% of portfolio from 'health & wellness' segment": "30% of total volumes in India in 2025 (from zero-sugar portfolio)",
+          "Growth rate of non-carbonated beverages": [
+            {
+              "segment": "Coca-Cola India's NARTD Segment",
+              "growth_rate": "decline",
+              "period": "Q1 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "segment": "Overall Indian Non-Alcoholic Beverage Market",
+              "growth_rate": "8.42% CAGR",
+              "period": "through 2028 (projected)",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "segment": "Still Drinks Market in India",
+              "growth_rate": "7.87% CAGR",
+              "period": "2016 to 2021",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.714,
+        "status": "populated"
+      },
+      "citations": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "section_name": "Network/Footprint & Unit Economics",
+      "column": "left",
+      "order_in_column": 3,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Number of direct distribution points": "More than 2,000 distributors",
+          "Number of indirect distribution points (retailers)": "4.5 million stores",
+          "Distribution reach (% of rural vs. urban outlets covered)": "41% of urban households and 32% of rural households",
+          "Average stock turns per outlet": "Not Available",
+          "Cold chain infrastructure investment (INR Crores)": "Close to 60,000 units of eutectic chest coolers deployed",
+          "Bottler capex (INR Crores)": "INR 350 crores",
+          "Logistics cost as % of revenue": "Not Available"
+        },
+        "confidence": "high",
+        "completeness": 0.714,
+        "status": "populated"
+      },
+      "citations": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "section_name": "Products & services",
+      "column": "left",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "full product list": [
+            "Coca-Cola & its variants (including Coca-Cola Zero Sugar, Diet Coke)",
+            "Sprite",
+            "Thums Up (including Charged by Thums Up - caffeinated beverage)",
+            "Limca (including Limca Sportz - ready to serve fruit beverage with electrolytes)",
+            "Fanta (including Fanta Apple Delite)",
+            "Schweppes (Bitter Lemon, Mint Mojito)",
+            "Rim Zim (masala drink)",
+            "Maaza (Original Mango, Aam Panna, Orange, Pineapple)",
+            "Minute Maid (Pulpy Orange, Honey Infused, Vita Punch, Nimbu Fresh, Guava, Mango, Mixed Fruit, Pulpy Mosambi, Litchi, Anar, Colour - grape-based sparkling drink)",
+            "Kinley (packaged drinking water, Kinley Soda)",
+            "Smartwater (vapor distilled water with electrolytes)",
+            "Costa Coffee",
+            "Georgia (range of tea and coffee)",
+            "Honest Tea (Organic Green Tea-based drink, flavors include Lemon-Tulsi and Mango)",
+            "Powdered beverage mixes (such as Vitingo and Fanta Fun Taste)",
+            "Burn (energy drink)"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "section_name": "Product/Category Mix",
+      "column": "left",
+      "order_in_column": 5,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "Revenue contribution by beverage category (CSD, Juices, Water, Tea/Coffee) %": {
+            "CSD": ">50%",
+            "Juices": "~5%",
+            "Water": "Not Available",
+            "Tea/Coffee": "Not Available"
+          },
+          "New product launch frequency (per year)": "Not Available",
+          "Market share by key product category (e.g., Cola, Orange, Mango Juice)": [
+            {
+              "category": "Diet and Light Category",
+              "share": "71%",
+              "period": "FY25",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Cola",
+              "details": "Thums Up is India's first billion-dollar beverage brand and is globally ranked top in Indian cola sales",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Mango Drink",
+              "details": "Maaza remains the mango drink category leader",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "category": "Carbonated Soft Drinks (Youth Segment)",
+              "details": "Sprite is the fastest-growing carbonated drink among Indian youth",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ],
+          "Average selling price (ASP) per liter/case (INR)": [
+            {
+              "product": "Powerade",
+              "volume": "250 ml",
+              "price_per_unit_INR": 20,
+              "price_per_liter_INR": 80,
+              "launch_date": "March 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "product": "Powerade",
+              "volume": "500 ml",
+              "price_per_unit_INR": 50,
+              "price_per_liter_INR": 100,
+              "launch_date": "March 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "product": "Zero-Sugar Variants (e.g., Thums Up X Force, Coke Zero, Sprite Zero)",
+              "price_point_INR": 10,
+              "launch_date": "March 2025",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ],
+          "SKU count by category": "Not Available",
+          "% of portfolio from 'health & wellness' segment": "30% of total volumes in India in 2025 (from zero-sugar portfolio)",
+          "Growth rate of non-carbonated beverages": [
+            {
+              "segment": "Coca-Cola India's NARTD Segment",
+              "growth_rate": "decline",
+              "period": "Q1 2026",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "segment": "Overall Indian Non-Alcoholic Beverage Market",
+              "growth_rate": "8.42% CAGR",
+              "period": "through 2028 (projected)",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            },
+            {
+              "segment": "Still Drinks Market in India",
+              "growth_rate": "7.87% CAGR",
+              "period": "2016 to 2021",
+              "source": "Coca-Cola India Research Findings (as of 23 Jun 2026)"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.714,
+        "status": "populated"
+      },
+      "citations": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "section_name": "Operations/Supply-Chain/Manufacturing",
+      "column": "left",
+      "order_in_column": 6,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "Number of direct distribution points": "More than 2,000 distributors",
+          "Number of indirect distribution points (retailers)": "4.5 million stores",
+          "Distribution reach (% of rural vs. urban outlets covered)": "41% of urban households and 32% of rural households",
+          "Average stock turns per outlet": "Not Available",
+          "Cold chain infrastructure investment (INR Crores)": "Close to 60,000 units of eutectic chest coolers deployed",
+          "Bottler capex (INR Crores)": "INR 350 crores",
+          "Logistics cost as % of revenue": "Not Available"
+        },
+        "confidence": "high",
+        "completeness": 0.714,
+        "status": "populated"
+      },
+      "citations": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "section_name": "Investment thesis",
+      "column": "left",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "prose",
+      "content": {
+        "thesis": [
+          {
+            "heading": "Competitive Moat: Extensive Portfolio & Distribution",
+            "text": "Coca-Cola India maintains a defensible market position through its extensive product portfolio, including global brands like Coca-Cola and Sprite, alongside strong local brands such as Thums Up and Limca, acquired via the 1993 purchase of Parle's beverage business for $60 million. This diverse offering is supported by a robust distribution network, leveraging its largest bottling partner, Hindustan Coca-Cola Beverages Private Limited (HCCB), ensuring widespread market penetration across India."
+          },
+          {
+            "heading": "Current Story: Strong Performance & Strategic Investment",
+            "text": "The company demonstrates strong current momentum, evidenced by its FY 2024-25 revenue of INR 504,255.69 Lakhs and a robust PAT of INR 61,536.54 Lakhs, yielding an impressive ROE of 42.94%. This financial strength is complemented by a strategic commitment made in May 2024 by Coca-Cola India and its bottling partners to invest approximately USD 1 billion in India over the next three years (2024-2026) to expand manufacturing capacity and enhance distribution."
+          },
+          {
+            "heading": "Forward Opportunity: Market Growth & Catalytic Events",
+            "text": "Significant forward opportunity is driven by the India Non-Alcoholic Beverages Market, projected to reach USD 34.71 Billion in 2025 and grow at a 7.94% CAGR (2026-2034). Key catalysts include the potential public listing (IPO) in India for Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH) by 2027, planned expansion into new beverage categories (Q4 FY25), and strategic partnerships with e-commerce platforms (Q1 FY26) to enhance direct-to-consumer reach. Further, a strategic investment in HCCB by Jubilant Bhartia Group and Goldman Sachs Asset Management in July 2025 signals continued growth support."
+          }
+        ],
+        "confidence": "medium",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Ownership/Funding/Cap-Table or IPO Status",
+      "column": "left",
+      "order_in_column": 8,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "stat_grid",
+      "content": {
+        "data": {
+          "Royalty paid as % of Net Sales/Revenue": [
+            {
+              "fiscal_year": "FY2025 (ended March 31, 2025)",
+              "percentage": "11.04%"
+            },
+            {
+              "fiscal_year": "FY2024 (ended March 31, 2024)",
+              "percentage": "10.77%"
+            }
+          ],
+          "Services received from parent as % of total expenses": "Not Available",
+          "Related party sales/purchases as % of total revenue/COGS": "Not Available",
+          "Effective tax rate on intercompany transactions": "Not Available",
+          "Dividend payout ratio to parent company": "Not Available"
+        },
+        "confidence": "low",
+        "completeness": 0.2,
+        "status": "partial"
+      },
+      "citations": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143
+      ]
+    },
+    {
+      "section_name": "Risk flags",
+      "column": "left",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "flags": [
+            {
+              "severity": "amber",
+              "title": "Volatile Profitability and Tight Liquidity in FY24",
+              "description": "Coca-Cola India experienced significant volatility in its profitability, with Profit After Tax (PAT) dropping from INR 72,243.06 Lakhs in FY 2022-23 to INR 42,017.26 Lakhs in FY 2023-24, before recovering to INR 61,536.54 Lakhs in FY 2024-25. Similarly, EBITDA saw a dip in FY 2023-24. Concurrently, the company's current ratio was tight at 1.03 in FY 2023-24, indicating potential short-term liquidity strain, although it improved slightly to 1.13 in FY 2024-25."
+            },
+            {
+              "severity": "amber",
+              "title": "Significant and Increasing Related Party Transactions (RPTs)",
+              "description": "Coca-Cola India engages in substantial related-party transactions. In FY 2024-25, the company paid INR 556.20 Crores in royalty to its ultimate parent, The Coca-Cola Company, USA, representing a 9.65% increase from the previous fiscal year. Additionally, significant transactions for sale/purchase of goods, discounts, and marketing support were conducted with Hindustan Coca-Cola Beverages Private Limited, a fellow subsidiary. While these are stated to be at 'arm's length,' the volume and increasing royalty payments warrant close monitoring for potential profit shifting or dependency."
+            },
+            {
+              "severity": "amber",
+              "title": "Unresolved Environmental and Social Liability (Plachimada Plant)",
+              "description": "The Coca-Cola bottling plant in Plachimada, Kerala, has been permanently closed since 2004-2005 due to widespread protests over groundwater exploitation and pollution. Despite a Kerala government committee recommending ₹216 crore (approximately $30 million) in compensation to affected villagers in 2010, a bill to establish a tribunal for this purpose was returned by the President in 2016, and no compensation has been paid to date. This represents a long-standing, unresolved social and environmental liability."
+            },
+            {
+              "severity": "amber",
+              "title": "Intensifying Competition in the Indian Beverage Market",
+              "description": "The Indian beverage market is experiencing intensifying competition. Coca-Cola's global president, John Murphy, acknowledged in January 2025 that the relaunch of Reliance-owned Campa Cola in 2023 with aggressive pricing (e.g., ₹10 packs) is challenging Coca-Cola to adapt its strategies and potentially re-evaluate pricing. Campa Cola has reportedly gained over 10% market share in the sparkling beverage category in select states and is projected to achieve a turnover of ₹1,000 crore in FY 2024-25."
+            },
+            {
+              "severity": "amber",
+              "title": "High and Inconsistent Dividend Payouts",
+              "description": "The company's dividend payout history shows significant inconsistency and large amounts. An interim dividend of INR 1,19,818.33 Lakhs was declared in FY 2023-24, followed by no dividend in FY 2022-23, and then INR 35,945.50 Lakhs in FY 2024-25. Such substantial and fluctuating payouts, particularly the very high figure in FY 2023-24, could potentially strain retained earnings and internal capital available for operations or future investments, especially given the observed profitability volatility."
+            },
+            {
+              "severity": "green",
+              "title": "Strong Parent Company Support and Robust Brand Portfolio",
+              "description": "Coca-Cola India benefits significantly from being a wholly-owned subsidiary of The Coca-Cola Company, USA. The ultimate parent company reported strong global organic revenue growth (6% in Q3 2025 and 10% in Q1 2026) and expanding operating margins, indicating robust financial health. This provides substantial backing for the Indian operations. Furthermore, Coca-Cola India maintains a strong brand portfolio, including popular local brands like Thums Up, Maaza, and Limca, which contribute to its market strength."
+            },
+            {
+              "severity": "green",
+              "title": "Consistent Commitment to Corporate Social Responsibility (CSR)",
+              "description": "Coca-Cola India demonstrates a strong and consistent commitment to Corporate Social Responsibility (CSR) initiatives, regularly meeting or exceeding its required 2% of average net profits obligations. Key focus areas for FY 2024-25 include Water Conservation (Lake Rejuvenation), Agriculture (Fruit Circular Economy including Project Unnati), Waste Management, and Livelihood Enhancement Projects. This proactive approach to social and environmental stewardship can enhance brand reputation and mitigate certain operational risks."
+            }
+          ]
+        },
+        "confidence": "high",
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Customer Acquisition & Retention Economics",
+      "column": "left",
+      "order_in_column": 10,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "Advertising & Sales Promotion (A&SP) spend as % of revenue": [
+            {
+              "value": "26.00%",
+              "period_date": "Fiscal Year 2025 (ended March 31, 2025)",
+              "source": "Not Available"
+            },
+            {
+              "value": "32.25%",
+              "period_date": "Fiscal Year 2024 (ended March 31, 2024)",
+              "source": "Not Available"
+            }
+          ],
+          "Brand equity scores (e.g., Interbrand, Brand Finance rankings for Indian brands)": [
+            {
+              "ranking_type": "Interbrand Best Global Brands Ranking",
+              "value": "7th globally, with a brand value of $60.1 billion (a 1.9% drop from 2024)",
+              "period_date": "2025",
+              "source": "Interbrand Best Global Brands 2025 report"
+            },
+            {
+              "ranking_type": "Brand Finance Global Non-Alcoholic Drinks Ranking",
+              "value": "Most valuable non-alcoholic drinks brand globally, with a brand value of USD 46.3 billion (up 32% from 2024). Brand Strength Index (BSI) score of 93.4 out of 100.",
+              "period_date": "2025",
+              "source": "Brand Finance report, \"Nestlé, Coca-Cola, and Yili lead global food and drink rankings in 2025\""
+            },
+            {
+              "ranking_type": "Specific rankings for Coca-Cola India within Indian brands reports",
+              "value": "Not Available",
+              "period_date": "Not Available",
+              "source": "Not Available"
+            }
+          ],
+          "Digital marketing spend as % of total A&SP": [
+            {
+              "value": "Over 65% of total media spend (2025)",
+              "source": "Coca-Cola Investor Relations (Growth Strategy), https://www.coca-colacompany.com/investors/growth-strategy"
+            },
+            {
+              "value": "Approximately 60% of total media spend (February 15, 2024)",
+              "source": "Exchange4Media"
+            }
+          ],
+          "Customer acquisition cost (CAC) for new initiatives (INR)": "Not Available",
+          "Brand recall rates (aided/unaided) %": "Not Available",
+          "Market share growth vs. A&SP growth": [
+            {
+              "type": "Market Share",
+              "value": "60% in carbonated drinks",
+              "period_date": "As of March 2025",
+              "source": "Finshots article, \"What keeps Coke out and Pepsi deep in the snacking market?\""
+            },
+            {
+              "type": "Market Share",
+              "value": "Declined by 10% (along with PepsiCo)",
+              "period_date": "As of November 2025",
+              "source": "\"PepsiCo and Coca-Cola Face Market Share Decline in India as Campa Gains Ground\" report"
+            },
+            {
+              "type": "A&SP Growth",
+              "value": "Decreased by 13.8% year-on-year (from Rs 1,520.22 crore in FY24 to Rs 1,311.13 crore in FY25)",
+              "period_date": "Fiscal Year 2025 (ended March 31, 2025) compared to FY24",
+              "source": "BestMediaInfo.com, Exchange4Media, Business Standard, The Economic Times, Social Samosa, The Financial Express, Retail India News"
+            },
+            {
+              "type": "Analysis",
+              "value": "In Fiscal Year 2025, Coca-Cola India's Advertising & Sales Promotion (A&SP) expenses decreased by 13.8% year-on-year. Concurrently, as of November 2025, Coca-Cola experienced a 10% decline in its market share in the Indian beverage industry. This suggests a correlation where a reduction in A&SP spend coincided with a decrease in market share.",
+              "source": "Not Available"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.667,
+        "status": "populated"
+      },
+      "citations": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ]
+    },
+    {
+      "section_name": "Financial performance chart",
+      "column": "left",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "5-year revenue": [
+            {
+              "year": "FY 2024-25",
+              "value": 504255.69
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 471338.36
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 452131.88
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 312129.31
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 229751.11
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 274154.53
+            }
+          ],
+          "EBITDA": [
+            {
+              "year": "FY 2024-25",
+              "value": 94185.49
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 67523.15
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 105948.34
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 72435.68
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 70702.22
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 94698.96
+            }
+          ],
+          "PAT": [
+            {
+              "year": "FY 2024-25",
+              "value": 61536.54
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 42017.26
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 72243.06
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 46035.03
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 44338.37
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 61914.16
+            }
+          ],
+          "EBITDA margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 94185.49
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 67523.15
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 105948.34
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 72435.68
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 70702.22
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 94698.96
+            }
+          ],
+          "PAT margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 61536.54
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 42017.26
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 72243.06
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 46035.03
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 44338.37
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 61914.16
+            }
+          ],
+          "debt/EBITDA": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1
+      ]
+    },
+    {
+      "section_name": "Margin trend & key metrics",
+      "column": "left",
+      "order_in_column": 12,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "EBITDA margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 94185.49
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 67523.15
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 105948.34
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 72435.68
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 70702.22
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 94698.96
+            }
+          ],
+          "PAT margin": [
+            {
+              "year": "FY 2024-25",
+              "value": 61536.54
+            },
+            {
+              "year": "FY 2023-24",
+              "value": 42017.26
+            },
+            {
+              "year": "FY 2022-23",
+              "value": 72243.06
+            },
+            {
+              "year": "FY 2021-22",
+              "value": 46035.03
+            },
+            {
+              "year": "FY 2020-21",
+              "value": 44338.37
+            },
+            {
+              "year": "FY 2019-20",
+              "value": 61914.16
+            }
+          ],
+          "ROE": "42.94% (for FY 2024-25)",
+          "ROCE": "Not Available",
+          "debt/equity": "Not Available",
+          "interest coverage": "Not Available",
+          "debt/EBITDA": "Not Available",
+          "current ratio": [
+            {
+              "date": "31/03/2025 (FY 2024-25)",
+              "ratio": 1.13
+            },
+            {
+              "date": "31/03/2024 (FY 2023-24)",
+              "ratio": 1.03
+            },
+            {
+              "date": "31/03/2023 (FY 2022-23)",
+              "ratio": 1.52
+            },
+            {
+              "date": "31/03/2022 (FY 2021-22)",
+              "ratio": 1.18
+            },
+            {
+              "date": "31/03/2021 (FY 2020-21)",
+              "ratio": 1.16
+            }
+          ]
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1
+      ]
+    },
+    {
+      "section_name": "Working capital analysis",
+      "column": "left",
+      "order_in_column": 13,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "current ratio": [
+            {
+              "date": "31/03/2025 (FY 2024-25)",
+              "ratio": 1.13
+            },
+            {
+              "date": "31/03/2024 (FY 2023-24)",
+              "ratio": 1.03
+            },
+            {
+              "date": "31/03/2023 (FY 2022-23)",
+              "ratio": 1.52
+            },
+            {
+              "date": "31/03/2022 (FY 2021-22)",
+              "ratio": 1.18
+            },
+            {
+              "date": "31/03/2021 (FY 2020-21)",
+              "ratio": 1.16
+            }
+          ],
+          "debtor days": "Not Available",
+          "inventory days": "Not Available",
+          "payable days": "Not Available",
+          "operating cycle": "Not Available"
+        },
+        "confidence": "medium",
+        "completeness": 0.5,
+        "status": "populated"
+      },
+      "citations": [
+        0,
+        1
+      ]
+    },
+    {
+      "section_name": "Corporate Structure (ESG)",
+      "column": "left",
+      "order_in_column": 14,
+      "section_tag": "Sector",
+      "section_tag_label": "Sector",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "Water usage ratio (liters of water per liter of beverage produced)": "1.78 liters of water per liter of beverage produced",
+          "Water replenishment rate (%)": "157%",
+          "Wastewater treatment capacity utilization (%)": "100% of wastewater treated. Additionally, some bottling facilities in Jammu achieved 99% water recovery and Zero Liquid Discharge (ZLD) in December 2025.",
+          "Number of community water projects": "Over 100 projects",
+          "Plastic waste collection/recycling rate (%)": "58%",
+          "ESG rating (e.g., MSCI, Sustainalytics)": "'AA' (MSCI ESG rating for Coca-Cola HBC, a major bottler)",
+          "Fines/penalties related to environmental non-compliance (INR Crores)": "INR 50.66 Crores"
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "section_name": "Revenue by geography",
+      "column": "left",
+      "order_in_column": 15,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "revenue split by region with % (and growth if available)": "Not Available",
+          "key regional approvals/certifications": [
+            {
+              "certification": "Compliance with MCA mandate for dematerialization",
+              "details": "Coca-Cola India officially admitted its equity shares for dematerialization into NSDL on May 23, 2024, in compliance with India's Ministry of Corporate Affairs (MCA) mandate for private companies, under ISIN INE0X2U01015.",
+              "source": "Company document"
+            },
+            {
+              "certification": "Alliance for Water Stewardship (AWS) Gold level certification",
+              "details": "The Coca-Cola India Private Limited (CCIPL) Facility in Pirangut Village, Mulshi Taluk, Pune, Maharashtra, India, was recommended for Gold level certification against the AWS International Water Stewardship Standard Version 2, following an audit conducted from December 12-15, 2022.",
+              "source": "Research report"
+            },
+            {
+              "certification": "Carbon Neutral certification (PAS 2060)",
+              "details": "Hindustan Coca-Cola Beverage Pvt Ltd (HCCB) bottling plant in Bidadi Industrial Area, Ramanagara, Karnataka, achieved carbon neutral certification according to the international standard PAS 2060. This certification by DNV was to be issued in May 2024, marking it as the first Coca-Cola bottling plant in India and the Southwest Asia region to achieve this milestone.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO/IEC 17025:2017",
+              "details": "The Concentrate Plant Laboratory of Coca-Cola India Pvt. Ltd. is accredited with ISO/IEC 17025:2017 \"General Requirements for the Competence of Testing\" by NABL.",
+              "source": "Research report"
+            },
+            {
+              "certification": "FSSAI (Food Safety and Standards Authority of India)",
+              "details": "Hindustan Coca-Cola Beverages Private Limited (HCCB) complies with FSSAI regulations, which are the national authority for regulating and supervising food safety in India.",
+              "source": "Research report"
+            },
+            {
+              "certification": "FSSC 22000 (Food Safety System Certification)",
+              "details": "HCCB adopts FSSC 22000, a globally recognized certification scheme for the food and beverage sector.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 9001:2015 (Quality Management System)",
+              "details": "HCCB adopts ISO 9001:2015 for quality management.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 14001 (Environmental Management System)",
+              "details": "Applied in production plants to reduce environmental impact, such as efficient water use and packaging recycling.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 45001 (Occupational Health and Safety)",
+              "details": "Applied for worker safety.",
+              "source": "Research report"
+            },
+            {
+              "certification": "Awards for India GCC",
+              "details": "Coca-Cola's India Global Capability Center (GCC) has been recognized with awards including the National Water Award, Global CSR & Sustainability Award, and Greentech CSR India Award.",
+              "source": "Research report"
+            }
+          ],
+          "regional revenue trend": [
+            {
+              "fiscal_year": "FY 2024-25",
+              "net_sales_revenue_from_operations": "INR 5,04,255.69 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY 2023-24",
+              "net_sales_revenue_from_operations": "INR 4,71,338.36 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY 2022-23",
+              "net_sales_revenue_from_operations": "INR 4,52,131.88 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY 2021-22",
+              "net_sales_revenue_from_operations": "INR 3,12,129.31 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY 2020-21",
+              "net_sales_revenue_from_operations": "INR 2,29,751.11 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY 2019-20",
+              "net_sales_revenue_from_operations": "INR 2,74,154.53 Lakhs",
+              "source": "Company document"
+            },
+            {
+              "fiscal_year": "FY25",
+              "net_sales_revenue_from_operations": "INR 5,042.56 crore",
+              "growth": "7% growth from FY24",
+              "source": "Research report"
+            },
+            {
+              "period": "Q1 2026 (January-March 2026)",
+              "contribution_to_global_unit_case_volume_growth": "India was a key market contributing to The Coca-Cola Company's global unit case volume growth of 3%.",
+              "source": "Research report"
+            },
+            {
+              "period": "Q1 2026",
+              "market_zone": "Asia Pacific (includes India)",
+              "unit_case_volume_growth": "5%",
+              "revenue_increase": "6.1% to USD 1.5 billion",
+              "source": "Research report"
+            },
+            {
+              "market_position": "Fifth-largest market for The Coca-Cola Company",
+              "source": "Research report"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.75,
+        "status": "populated"
+      },
+      "citations": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "section_name": "Revenue by product segment",
+      "column": "left",
+      "order_in_column": 16,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)": [
+            {
+              "name": {
+                "value": "Varun Beverages Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹6,238 crore (Q1 FY26, estimated)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "21.51% (Q1 FY26, estimated)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Largest franchisee of PepsiCo in the world (outside USA), producing and distributing carbonated soft drinks, non-carbonated drinks, and packaged water under PepsiCo trademarks (e.g., Pepsi, 7UP, Mirinda, Mountain Dew, Tropicana Juices). Also expanding internationally, particularly in Africa.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Nestle India Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹23,071.5 crore (FY26, standalone total sales)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "23% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Diversified FMCG with a strong presence in confectionery, powdered and liquid beverages (NESCAFÉ), prepared dishes (MAGGI), and pet food.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Hindustan Unilever Ltd. (HUL)",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹63,763 crores (FY26)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "23.6% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Broad FMCG portfolio including home care, beauty & personal care, and foods & refreshment, which encompasses various beverage products.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Dabur India Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹12,563 crore (FY25, estimated)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "15.2% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Health drinks and fruit-based beverages (Real brand), Ayurvedic products, home and personal care.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Bisleri International Pvt. Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹3,320 Cr (FY25)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "Not Available",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Not Available",
+                "source": "Research report"
+              }
+            }
+          ],
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market_name": "India Non-Alcoholic Beverages Market",
+              "market_size": "USD 34.71 Billion in 2025",
+              "cagr": "7.94%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Soft Drinks Market",
+              "market_size": "USD 21.66 Billion in 2025",
+              "cagr": "4.42%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Carbonated Soft Drinks Market",
+              "market_size": "USD 17.77 billion in 2023",
+              "cagr": "14.8%",
+              "cagr_period": "2023-2028"
+            },
+            {
+              "market_name": "India Bottled Water Market",
+              "market_size": "USD 10.71 Billion in 2025",
+              "cagr": "12.00%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Fruit Juice Market",
+              "market_size": "USD 5,837.7 Million in 2025",
+              "cagr": "11.53%",
+              "cagr_period": "2026-2034"
+            }
+          ],
+          "full product list": [
+            "Coca-Cola & its variants (including Coca-Cola Zero Sugar, Diet Coke)",
+            "Sprite",
+            "Thums Up (including Charged by Thums Up - caffeinated beverage)",
+            "Limca (including Limca Sportz - ready to serve fruit beverage with electrolytes)",
+            "Fanta (including Fanta Apple Delite)",
+            "Schweppes (Bitter Lemon, Mint Mojito)",
+            "Rim Zim (masala drink)",
+            "Maaza (Original Mango, Aam Panna, Orange, Pineapple)",
+            "Minute Maid (Pulpy Orange, Honey Infused, Vita Punch, Nimbu Fresh, Guava, Mango, Mixed Fruit, Pulpy Mosambi, Litchi, Anar, Colour - grape-based sparkling drink)",
+            "Kinley (packaged drinking water, Kinley Soda)",
+            "Smartwater (vapor distilled water with electrolytes)",
+            "Costa Coffee",
+            "Georgia (range of tea and coffee)",
+            "Honest Tea (Organic Green Tea-based drink, flavors include Lemon-Tulsi and Mango)",
+            "Powdered beverage mixes (such as Vitingo and Fanta Fun Taste)",
+            "Burn (energy drink)"
+          ],
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2B Sales (Concentrate and Beverage Bases)": "Coca-Cola India Private Limited manufactures and sells concentrate and beverage bases to its bottling partners, authorized bottling and canning operators, distributors, fountain wholesalers, and fountain retailers.",
+            "B2C Distribution (Finished Beverages) via Bottling Partners)": {
+              "overall_model": "Hindustan Coca-Cola Beverages (HCCB) and other authorized bottling partners are responsible for preparing, packaging, selling, and distributing finished beverages.",
+              "distribution_network": "Multi-level distribution network including factories, bottling plants, warehouses, stockists, wholesalers, and retailers.",
+              "distributor_model": "HCCB delivers its beverages to over 2,000+ distributors nationwide and distributes through FMCG wholesalers to clusters of villages.",
+              "direct_distribution_urban": "In urban areas, products are distributed directly from bottling plants to retailers.",
+              "hub_and_spoke_model_rural": "For remote rural villages with poor infrastructure, a three-tier 'hub and spoke' distribution model is employed.",
+              "digital_e_commerce": "Actively engaging in digital commerce, piloting hyperlocal delivery via 'Hut to Home' models and strengthening tie-ups with platforms like Blinkit, Swiggy, and JioMart.",
+              "eb2b_platform": "An AI-enabled digital platform, 'Coke Buddy,' is used by more than 10 lakh (1 million) retailers for placing orders, tracking deliveries, and accessing promotions.",
+              "diverse_channels": "Key customers are also served across diverse channels including Modern Trade, Food Services & On-Premise, Travel, and Government Institutions."
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "name": "Hindustan Coca-Cola Beverages Private Limited (HCCB)",
+              "description": "A primary B2B customer, fellow subsidiary, and the largest bottling partner. Coca-Cola India reported 'Sale of Goods' of INR 2,457.22 Crores to HCCB for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "name": "Authorized Bottling Partners",
+              "description": "Purchase concentrate and beverage bases from Coca-Cola India to then produce and distribute the finished products.",
+              "source": "Research report"
+            },
+            {
+              "name": "Distributors and Wholesalers",
+              "description": "Form the immediate customer base for the bottling partners, facilitating reach to a wider retail network.",
+              "source": "Research report"
+            },
+            {
+              "name": "Retailers",
+              "description": "Direct customers of the bottling partners, including Kirana Stores, Hypermarkets, Restaurants, and Convenience Stores. Over 2 million retail partners collaborate with HCCB, and over 1 million retailers use the 'Coke Buddy' eB2B platform.",
+              "source": "Research report"
+            },
+            {
+              "name": "Digital Commerce Platforms",
+              "description": "Key partners for online sales and hyperlocal delivery, including Blinkit, Swiggy, and JioMart.",
+              "source": "Research report"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "section_name": "Peers comparison",
+      "column": "left",
+      "order_in_column": 17,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "10-15 peers spanning incumbents, scale-comparables and new entrants — each with name, revenue, EBITDA margin, focus (do NOT stop at the first 5 obvious ones)": [
+            {
+              "name": {
+                "value": "Varun Beverages Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹6,238 crore (Q1 FY26, estimated)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "21.51% (Q1 FY26, estimated)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Largest franchisee of PepsiCo in the world (outside USA), producing and distributing carbonated soft drinks, non-carbonated drinks, and packaged water under PepsiCo trademarks (e.g., Pepsi, 7UP, Mirinda, Mountain Dew, Tropicana Juices). Also expanding internationally, particularly in Africa.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Nestle India Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹23,071.5 crore (FY26, standalone total sales)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "23% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Diversified FMCG with a strong presence in confectionery, powdered and liquid beverages (NESCAFÉ), prepared dishes (MAGGI), and pet food.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Hindustan Unilever Ltd. (HUL)",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹63,763 crores (FY26)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "23.6% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Broad FMCG portfolio including home care, beauty & personal care, and foods & refreshment, which encompasses various beverage products.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Dabur India Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹12,563 crore (FY25, estimated)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "15.2% (FY26)",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Health drinks and fruit-based beverages (Real brand), Ayurvedic products, home and personal care.",
+                "source": "Research report"
+              }
+            },
+            {
+              "name": {
+                "value": "Bisleri International Pvt. Ltd.",
+                "source": "Research report"
+              },
+              "revenue": {
+                "value": "₹3,320 Cr (FY25)",
+                "source": "Research report"
+              },
+              "EBITDA margin": {
+                "value": "Not Available",
+                "source": "Research report"
+              },
+              "focus": {
+                "value": "Not Available",
+                "source": "Research report"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "section_name": "Channel mix & distribution",
+      "column": "left",
+      "order_in_column": 18,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "channel breakdown (B2B/B2C, direct/distributor)": {
+            "B2B Sales (Concentrate and Beverage Bases)": "Coca-Cola India Private Limited manufactures and sells concentrate and beverage bases to its bottling partners, authorized bottling and canning operators, distributors, fountain wholesalers, and fountain retailers.",
+            "B2C Distribution (Finished Beverages) via Bottling Partners)": {
+              "overall_model": "Hindustan Coca-Cola Beverages (HCCB) and other authorized bottling partners are responsible for preparing, packaging, selling, and distributing finished beverages.",
+              "distribution_network": "Multi-level distribution network including factories, bottling plants, warehouses, stockists, wholesalers, and retailers.",
+              "distributor_model": "HCCB delivers its beverages to over 2,000+ distributors nationwide and distributes through FMCG wholesalers to clusters of villages.",
+              "direct_distribution_urban": "In urban areas, products are distributed directly from bottling plants to retailers.",
+              "hub_and_spoke_model_rural": "For remote rural villages with poor infrastructure, a three-tier 'hub and spoke' distribution model is employed.",
+              "digital_e_commerce": "Actively engaging in digital commerce, piloting hyperlocal delivery via 'Hut to Home' models and strengthening tie-ups with platforms like Blinkit, Swiggy, and JioMart.",
+              "eb2b_platform": "An AI-enabled digital platform, 'Coke Buddy,' is used by more than 10 lakh (1 million) retailers for placing orders, tracking deliveries, and accessing promotions.",
+              "diverse_channels": "Key customers are also served across diverse channels including Modern Trade, Food Services & On-Premise, Travel, and Government Institutions."
+            }
+          },
+          "key customers if disclosed": [
+            {
+              "name": "Hindustan Coca-Cola Beverages Private Limited (HCCB)",
+              "description": "A primary B2B customer, fellow subsidiary, and the largest bottling partner. Coca-Cola India reported 'Sale of Goods' of INR 2,457.22 Crores to HCCB for FY 2024-25.",
+              "source": "Company document"
+            },
+            {
+              "name": "Authorized Bottling Partners",
+              "description": "Purchase concentrate and beverage bases from Coca-Cola India to then produce and distribute the finished products.",
+              "source": "Research report"
+            },
+            {
+              "name": "Distributors and Wholesalers",
+              "description": "Form the immediate customer base for the bottling partners, facilitating reach to a wider retail network.",
+              "source": "Research report"
+            },
+            {
+              "name": "Retailers",
+              "description": "Direct customers of the bottling partners, including Kirana Stores, Hypermarkets, Restaurants, and Convenience Stores. Over 2 million retail partners collaborate with HCCB, and over 1 million retailers use the 'Coke Buddy' eB2B platform.",
+              "source": "Research report"
+            },
+            {
+              "name": "Digital Commerce Platforms",
+              "description": "Key partners for online sales and hyperlocal delivery, including Blinkit, Swiggy, and JioMart.",
+              "source": "Research report"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "section_name": "SWOT",
+      "column": "left",
+      "order_in_column": 19,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "swot_grid",
+      "content": {
+        "strengths": [
+          "Achieved significant revenue growth from INR 229,751.11 Lakhs in FY 2020-21 to INR 504,255.69 Lakhs in FY 2024-25.",
+          "Demonstrates strong capital efficiency with a Return on Equity (ROE) of 42.94% for FY 2024-25.",
+          "Holds a dominant market share of 60% in carbonated drinks and 71% in the diet and light category as of FY25.",
+          "Possesses an extensive distribution network reaching 4.5 million stores and deploying close to 60,000 units of eutectic chest coolers, covering 41% of urban and 32% of rural households.",
+          "Benefits from a strong brand portfolio, including Thums Up, India's first billion-dollar beverage brand, and the parent company's global brand value of $60.1 billion (7th globally in 2025)."
+        ],
+        "weaknesses": [
+          "Experienced significant fluctuations in profitability, with EBITDA dropping from INR 105,948.34 Lakhs in FY 2022-23 to INR 67,523.15 Lakhs in FY 2023-24.",
+          "Over 50% of revenue comes from Carbonated Soft Drinks (CSD), while its Non-Alcoholic Ready-To-Drink (NARTD) segment experienced a decline in Q1 2026.",
+          "Incurs substantial royalty payments, amounting to 11.04% of Net Sales/Revenue in FY2025 to its parent company.",
+          "Has a history of regulatory issues, including a transfer pricing dispute ruling in 2009 and significant related party transactions (RPTs) that require scrutiny.",
+          "Vulnerable to rising input costs, such as a 17.19% increase in PET resin prices in India (Q1 2026) and a 29.83% increase in global aluminum can prices (last 12 months)."
+        ],
+        "opportunities": [
+          "Operates in the India Non-Alcoholic Beverages Market, projected to grow at a CAGR of 7.94% (2026-2034) to USD 34.71 Billion by 2025.",
+          "Has successfully grown its zero-sugar portfolio to 30% of total volumes in 2025, indicating potential for further expansion in health-conscious segments (e.g., Powerade launch in March 2026).",
+          "Significant opportunity to expand distribution in untapped rural markets, currently covering only 32% of rural households compared to 41% of urban households.",
+          "The exploration of a potential public listing (IPO) for Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH) in 2027 could unlock capital and strategic advantages.",
+          "Strong existing focus with over 65% of total media spend dedicated to digital marketing in 2025, allowing for deeper consumer engagement and targeted campaigns."
+        ],
+        "threats": [
+          "Faces intense competition from peers like Varun Beverages (21.51% EBITDA margin, Q1 FY26) and PepsiCo India, contributing to a 10% decline in carbonated drinks market share in 2025.",
+          "Incurred INR 50.66 Crores in environmental non-compliance fines and faces ongoing regulatory requirements (e.g., MCA mandate for dematerialization).",
+          "Continued global increases in key raw materials like aluminum cans (up 29.83% in 12 months) and PET resin (up 17.19% in India, Q1 2026) pose a threat to cost structures.",
+          "Operates solely in India, exposing the company to country-specific economic downturns, policy changes, and political instability without geographic diversification.",
+          "Despite strong CSD sales, the decline in Coca-Cola India's NARTD segment in Q1 2026 suggests a potential threat from consumers shifting away from traditional CSDs towards healthier alternatives."
+        ],
+        "status": "populated"
+      },
+      "citations": []
+    },
+    {
+      "section_name": "Market size",
+      "column": "left",
+      "order_in_column": 20,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "table",
+      "content": {
+        "data": {
+          "3-5 market sizes (TAM with CAGR)": [
+            {
+              "market_name": "India Non-Alcoholic Beverages Market",
+              "market_size": "USD 34.71 Billion in 2025",
+              "cagr": "7.94%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Soft Drinks Market",
+              "market_size": "USD 21.66 Billion in 2025",
+              "cagr": "4.42%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Carbonated Soft Drinks Market",
+              "market_size": "USD 17.77 billion in 2023",
+              "cagr": "14.8%",
+              "cagr_period": "2023-2028"
+            },
+            {
+              "market_name": "India Bottled Water Market",
+              "market_size": "USD 10.71 Billion in 2025",
+              "cagr": "12.00%",
+              "cagr_period": "2026-2034"
+            },
+            {
+              "market_name": "India Fruit Juice Market",
+              "market_size": "USD 5,837.7 Million in 2025",
+              "cagr": "11.53%",
+              "cagr_period": "2026-2034"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "section_name": "Recent news",
+      "column": "left",
+      "order_in_column": 21,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "8-10 most recent news items — each with date, headline, source": [
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "headline": "Interim dividend of 180% (Rs. 18 per Equity Share) declared, resulting in an outgo of Rs. 35,945.50 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "May 23, 2024",
+              "headline": "Company officially admitted its equity shares for dematerialization into NSDL under ISIN INE0X2U01015.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2023-24 (ending March 31, 2024)",
+              "headline": "Interim dividends of 400% (Rs. 40/share) and 200% (Rs. 20/share) declared, resulting in a combined outgo of Rs. 1,19,818.33 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2022-23 (ending March 31, 2023)",
+              "headline": "No dividend recommended or paid for FY 2022-23.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2021-22 (ending March 31, 2022)",
+              "headline": "Interim dividend of 230% (Rs. 23 per Equity Share) declared, resulting in an outgo of Rs. 45,930.36 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2020-21 (ending March 31, 2021)",
+              "headline": "Interim dividend of 400% (Rs. 40 per Equity Share) declared, resulting in an outgo of Rs. 79,878.89 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2019-20 (ending March 31, 2020)",
+              "headline": "Dividend paid amounting to Rs. 63,903.11 Lakhs (along with a Dividend Distribution Tax of Rs. 13,135.47 Lakhs).",
+              "source": "Company document"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section_name": "Details",
+      "column": "right",
+      "order_in_column": 0,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Unlisted (wholly-owned subsidiary of Coca-Cola South Asia (India) Holdings Limited, Hong Kong, ultimately owned by The Coca-Cola Company, USA)",
+          "paid-up capital": "INR 19,969.72 Lakhs",
+          "authorized capital": "INR 44,000.00 Lakhs",
+          "auditor name": "MSKA & Associates"
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Ownership",
+      "column": "right",
+      "order_in_column": 1,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "company type (listed/unlisted/PE-backed)": "Unlisted (wholly-owned subsidiary of Coca-Cola South Asia (India) Holdings Limited, Hong Kong, ultimately owned by The Coca-Cola Company, USA)",
+          "promoter %": "99.99%",
+          "institutional %": "0%",
+          "retail %": "0%",
+          "pledge %": "Not Available",
+          "paid-up capital": "INR 19,969.72 Lakhs",
+          "authorized capital": "INR 44,000.00 Lakhs",
+          "individual promoters": [
+            "Mr. J B Dadachandji",
+            "Mr. Ravinder Narain"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Shareholders & promoters",
+      "column": "right",
+      "order_in_column": 2,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "chart",
+      "content": {
+        "data": {
+          "promoter %": "99.99%",
+          "institutional %": "0%",
+          "retail %": "0%",
+          "individual promoters": [
+            "Mr. J B Dadachandji",
+            "Mr. Ravinder Narain"
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Leadership",
+      "column": "right",
+      "order_in_column": 3,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "executives + backgrounds": [
+            {
+              "name": "Sanket Ray",
+              "role": "President, India and Southwest Asia",
+              "background": "Joined the company in 2004 and was named to his current position in 2020. Prior to this, he served as the Chief Operating Officer for mainland China."
+            },
+            {
+              "name": "Harsh Bhutani",
+              "role": "Chief Financial Officer (CFO), Coca-Cola India & Southwest Asia",
+              "background": "A seasoned professional with over 24 years of experience across various finance domains, including business strategy. He is a Commerce Graduate from Delhi University and a qualified Chartered Accountant."
+            },
+            {
+              "name": "Devyani Rajya Laxmi Rana",
+              "role": "Vice President – Public Affairs, Communications and Sustainability, Coca-Cola India & South West Asia",
+              "background": "Possesses over 25 years of experience in government and corporate affairs, strategic business advocacy, risk management, communication excellence, corporate social responsibility, and sustainability."
+            },
+            {
+              "name": "Arnab Roy",
+              "role": "Vice President, Marketing, Coca-Cola India and South West Asia",
+              "background": "Has been with The Coca-Cola Company for over 20 years, with extensive experience in brand building with an integrated business mindset, and has led marketing teams across multiple geographies and cultures."
+            },
+            {
+              "name": "Ambuj Deo Singh",
+              "role": "Vice President, O2O (Offline to Online), Coca-Cola India and Southwest Asia",
+              "background": "Has successfully held numerous roles in business operations, customer management, and consumer marketing during his more than 15 years at Coca-Cola India. He is responsible for directing the organization's digital agenda across customer and consumer verticals."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Board members",
+      "column": "right",
+      "order_in_column": 4,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "board members + roles": [
+            {
+              "name": "Sanket Ray",
+              "role": "President, India and Southwest Asia (appointed 2020)"
+            },
+            {
+              "name": "Harsh Kumar Bhutani",
+              "role": "Chief Financial Officer (CFO), Coca-Cola India & Southwest Asia"
+            },
+            {
+              "name": "Sonali Khanna",
+              "role": "Vice President & General Counsel, Coca-Cola India and South West Asia"
+            },
+            {
+              "name": "Enrique Jorge Ackermann",
+              "role": "Vice President – Technical Innovation & Supply Chain, Coca-Cola India & South West Asia"
+            },
+            {
+              "name": "Greishma Singh",
+              "role": "Vice President – Customer and Commercial Leadership, Coca-Cola India and South West Asia"
+            },
+            {
+              "name": "Sundeep Bajoria",
+              "role": "Director (specific role within the operating unit not detailed in public leadership pages)"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Compliance & ESG",
+      "column": "right",
+      "order_in_column": 5,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "auditor name": "MSKA & Associates",
+          "litigation status": [
+            {
+              "case": "Transfer Pricing Dispute",
+              "status": "An Indian court ruled in 2009 that Coca-Cola India failed to apply transfer pricing rules following an agreement to offer advisory services to a related party."
+            },
+            {
+              "case": "Plachimada Plant (Hindustan Coca-Cola Beverages)",
+              "status": "Hindustan Coca-Cola Beverages (HCCB), a bottling partner, faced a long-standing legal challenge in Kerala regarding water scarcity and environmental pollution at its Plachimada plant. HCCB renounced its license in July 2017 and informed the Supreme Court that it would not resume operations at that facility."
+            },
+            {
+              "case": "Adulterated Beverage Case (Hindustan Coca-Cola Beverages)",
+              "status": "In December 2024, the Bombay High Court refused to quash criminal proceedings initiated against Hindustan Coca-Cola Beverages Private Limited 14 years prior, related to a 2001 case concerning adulterated Canada Dry beverages."
+            },
+            {
+              "case": "Ultimate Parent Tax Dispute",
+              "status": "The Coca-Cola Company (KO), the ultimate parent company, is preparing for a legal confrontation in the U.S. regarding a potential $20 billion tax dispute with the IRS. This dispute, concerning profit allocation among its international subsidiaries for tax years 2010-2025, is scheduled to be presented to the 11th U.S. Circuit Court of Appeals in June 2026."
+            }
+          ],
+          "RPT flags": "Yes, significant related party transactions were executed at arm's length during FY 2024-25. These include transactions with Hindustan Coca-Cola Beverages Private Limited (Fellow Subsidiary) for sale/purchase of goods, discounts, marketing support, and rent paid. Additionally, royalty paid to, and receipt/provision of services with, The Coca-Cola Company, USA (Ultimate Parent Company) were reported.",
+          "contingent liabilities": "Not Available",
+          "ESG initiatives": "The company demonstrates a strong commitment to Corporate Social Responsibility (CSR) initiatives, consistently meeting or exceeding its required 2% of average net profits obligations. Key focus areas for FY 2024-25 include Water Conservation (e.g., Lake Rejuvenation across India), Agriculture (e.g., Fruit Circular Economy including Project Unnati), Waste Management (e.g., Waste Free Activation of high footfall locations), and Livelihood Enhancement Projects (e.g., Superpower Retailers' program, Contribution towards Sports and Athlete Development)."
+        },
+        "confidence": "high",
+        "completeness": 0.867,
+        "status": "populated"
+      },
+      "citations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "section_name": "Deals & transactions",
+      "column": "right",
+      "order_in_column": 6,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "funding/investment rounds — each with date, round/stage, lead investors, amount raised": [
+            {
+              "date": {
+                "value": "July 2025",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Strategic Investment / Acquisition of Stake",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "Jubilant Bhartia Group, Goldman Sachs Asset Management (provided funding to Jubilant Bhartia Group)",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "INR 117.044 billion (approximately $1.47 billion) for a 40% stake in Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH). Goldman Sachs Asset Management provided $600 million in funding to Jubilant Bhartia Group for this acquisition.",
+                "source": "Not Available"
+              }
+            },
+            {
+              "date": {
+                "value": "2027 (Planned)",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Initial Public Offering (IPO) of Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH)",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "Public investors (The Coca-Cola Company to sell a portion of its shareholding)",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "Expected to raise over $1 billion, with a potential valuation of HCCH over $10 billion.",
+                "source": "Not Available"
+              }
+            },
+            {
+              "date": {
+                "value": "June 26, 2012",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Capital Investment by The Coca-Cola System",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "The Coca-Cola Company",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "Additional US$3 billion through 2020, bringing total planned investment from 2012-2020 to US$5 billion. Total investment since re-entry in 1993 reached US$7 billion with this announcement.",
+                "source": "Not Available"
+              }
+            }
+          ],
+          "M&A and acquisitions — each with date, target, amount, strategic rationale": [
+            {
+              "date": {
+                "value": "1993",
+                "source": "Not Available"
+              },
+              "target": {
+                "value": "Parle's beverage business (including brands Thums Up, Limca, Gold Spot)",
+                "source": "Not Available"
+              },
+              "amount": {
+                "value": "$60 million",
+                "source": "Not Available"
+              },
+              "strategic rationale": {
+                "value": "To quickly rebuild market position in India after re-entry and capture over 50% of India's beverage market overnight.",
+                "source": "Not Available"
+              }
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section_name": "Key catalysts",
+      "column": "right",
+      "order_in_column": 7,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "upcoming catalysts — each with date/quarter, event, materiality": [
+            {
+              "date/quarter": "2027",
+              "event": "The Coca-Cola Company is exploring a potential public listing (IPO) in India for Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH), the parent company of its largest bottler, Hindustan Coca-Cola Beverages Pvt. Ltd. (HCCB). This potential listing is subject to market conditions and regulatory approvals, with initial preparations underway for listing on the Bombay Stock Exchange and National Stock Exchange of India. The company is also considering selling a portion of its shareholding in HCCH in connection with the listing.",
+              "materiality": "High. This would be a significant milestone, completing the refranchising of HCCH and positioning it to capitalize on opportunities in the Indian market. It could also be one of India's biggest FMCG IPOs ever, potentially valuing the bottling business at around ₹85,000 crore ($10 billion)."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section_name": "Key milestones",
+      "column": "right",
+      "order_in_column": 8,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "corporate milestones — each with date and event, from founding to present": [
+            {
+              "date": "June 15, 2026",
+              "event": "Dhurandhar achieved a massive television premiere, reaching over 53 million viewers on Star Gold, Star Gold 2, and Colors Cineplex."
+            },
+            {
+              "date": "April 23, 2026",
+              "event": "Coca-Cola India launched its first-ever activation at BLR Airport, blending digital convenience with refreshment."
+            },
+            {
+              "date": "February 27, 2026",
+              "event": "Powerade entered India as the Official Sports Drink of the ICC Men's T20 World Cup 2026."
+            },
+            {
+              "date": "February 5, 2026",
+              "event": "Coca-Cola India expanded its presence at Magh Mela 2026, building on its successful participation at Maha Kumbh 2025, focusing on hydration, accessibility, and local employment."
+            },
+            {
+              "date": "January 28, 2026",
+              "event": "Coca-Cola India, along with its bottling partner Hindustan Coca-Cola Beverages Pvt. Ltd., strengthened its commitment to local ecosystems through large-scale hydration access, retailer enablement, and community-led interventions at Medaram Jatara 2026, Asia's largest tribal congregation."
+            },
+            {
+              "date": "January 15, 2026",
+              "event": "Coca-Cola marked a landmark moment with the launch of the first-ever Coke Studio Bharat LIVE, debuting across Delhi and Guwahati."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Net Sales / Revenue from Operations: INR 5,04,255.69 Lakhs."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Profit After Tax (PAT): INR 61,536.54 Lakhs."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Interim dividend of 180% (Rs. 18 per Equity Share), resulting in an outgo of Rs. 35,945.50 Lakhs."
+            },
+            {
+              "date": "March 31, 2025",
+              "event": "Balance sheet filed."
+            },
+            {
+              "date": "September 26, 2025",
+              "event": "Latest Annual General Meeting (AGM) occurred."
+            },
+            {
+              "date": "July 2025",
+              "event": "The Coca-Cola Company completed a transaction where Jubilant Bhartia Group acquired a 40% stake in Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH)."
+            },
+            {
+              "date": "May 23, 2024",
+              "event": "The company officially admitted its equity shares for dematerialization into NSDL under the unique ISIN INE0X2U01015."
+            },
+            {
+              "date": "FY 2023-24 (ending March 31, 2024)",
+              "event": "Interim dividends of 400% (Rs. 40/share) and 200% (Rs. 20/share) were disbursed, resulting in a combined outgo of Rs. 1,19,818.33 Lakhs."
+            },
+            {
+              "date": "FY 2022-23 (ending March 31, 2023)",
+              "event": "No dividend was recommended or paid."
+            },
+            {
+              "date": "2022",
+              "event": "Thums Up, a brand acquired by Coca-Cola, became a billion-dollar brand."
+            },
+            {
+              "date": "FY 2021-22 (ending March 31, 2022)",
+              "event": "An interim dividend of 230% (Rs. 23 per Equity Share) was paid, resulting in an outgo of Rs. 45,930.36 Lakhs."
+            },
+            {
+              "date": "FY 2020-21 (ending March 31, 2021)",
+              "event": "An interim dividend of 400% (Rs. 40 per Equity Share) was paid, resulting in an outgo of Rs. 79,878.89 Lakhs."
+            },
+            {
+              "date": "2020",
+              "event": "Sanket Ray was named President of India and Southwest Asia for The Coca-Cola Company."
+            },
+            {
+              "date": "FY 2019-20 (ending March 31, 2020)",
+              "event": "A dividend amounting to Rs. 63,903.11 Lakhs was paid, along with a Dividend Distribution Tax of Rs. 13,135.47 Lakhs."
+            },
+            {
+              "date": "1999",
+              "event": "Coca-Cola acquired Parle's portfolio of brands, including Thums Up, Limca, and Gold Spot, which were leading soft drink brands in India."
+            },
+            {
+              "date": "October 24, 1993",
+              "event": "Coca-Cola re-entered the Indian market after a 16-year absence, benefiting from new liberalization policies."
+            },
+            {
+              "date": "February 20, 1992",
+              "event": "Coca Cola India Private Limited was established in Mulshi, Maharashtra, India, with CIN: U15549PN1992FTC065522. It was formerly known as Britco Foods Company Limited."
+            },
+            {
+              "date": "1977",
+              "event": "Coca-Cola withdrew its operations from India due to government regulations and legislation that limited the dilution of equity of multinational corporations and required formula disclosure."
+            },
+            {
+              "date": "1956",
+              "event": "Coca-Cola first entered India, operating with 100% foreign equity."
+            },
+            {
+              "date": "1950",
+              "event": "Coca-Cola was first introduced in India, and its first factory was established in New Delhi."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section_name": "Awards & certifications",
+      "column": "right",
+      "order_in_column": 9,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "8-10 most recent news items — each with date, headline, source": [
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "headline": "Interim dividend of 180% (Rs. 18 per Equity Share) declared, resulting in an outgo of Rs. 35,945.50 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "May 23, 2024",
+              "headline": "Company officially admitted its equity shares for dematerialization into NSDL under ISIN INE0X2U01015.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2023-24 (ending March 31, 2024)",
+              "headline": "Interim dividends of 400% (Rs. 40/share) and 200% (Rs. 20/share) declared, resulting in a combined outgo of Rs. 1,19,818.33 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2022-23 (ending March 31, 2023)",
+              "headline": "No dividend recommended or paid for FY 2022-23.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2021-22 (ending March 31, 2022)",
+              "headline": "Interim dividend of 230% (Rs. 23 per Equity Share) declared, resulting in an outgo of Rs. 45,930.36 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2020-21 (ending March 31, 2021)",
+              "headline": "Interim dividend of 400% (Rs. 40 per Equity Share) declared, resulting in an outgo of Rs. 79,878.89 Lakhs.",
+              "source": "Company document"
+            },
+            {
+              "date": "FY 2019-20 (ending March 31, 2020)",
+              "headline": "Dividend paid amounting to Rs. 63,903.11 Lakhs (along with a Dividend Distribution Tax of Rs. 13,135.47 Lakhs).",
+              "source": "Company document"
+            }
+          ],
+          "funding/investment rounds — each with date, round/stage, lead investors, amount raised": [
+            {
+              "date": {
+                "value": "July 2025",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Strategic Investment / Acquisition of Stake",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "Jubilant Bhartia Group, Goldman Sachs Asset Management (provided funding to Jubilant Bhartia Group)",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "INR 117.044 billion (approximately $1.47 billion) for a 40% stake in Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH). Goldman Sachs Asset Management provided $600 million in funding to Jubilant Bhartia Group for this acquisition.",
+                "source": "Not Available"
+              }
+            },
+            {
+              "date": {
+                "value": "2027 (Planned)",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Initial Public Offering (IPO) of Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH)",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "Public investors (The Coca-Cola Company to sell a portion of its shareholding)",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "Expected to raise over $1 billion, with a potential valuation of HCCH over $10 billion.",
+                "source": "Not Available"
+              }
+            },
+            {
+              "date": {
+                "value": "June 26, 2012",
+                "source": "Not Available"
+              },
+              "round/stage": {
+                "value": "Capital Investment by The Coca-Cola System",
+                "source": "Not Available"
+              },
+              "lead investors": {
+                "value": "The Coca-Cola Company",
+                "source": "Not Available"
+              },
+              "amount raised": {
+                "value": "Additional US$3 billion through 2020, bringing total planned investment from 2012-2020 to US$5 billion. Total investment since re-entry in 1993 reached US$7 billion with this announcement.",
+                "source": "Not Available"
+              }
+            }
+          ],
+          "M&A and acquisitions — each with date, target, amount, strategic rationale": [
+            {
+              "date": {
+                "value": "1993",
+                "source": "Not Available"
+              },
+              "target": {
+                "value": "Parle's beverage business (including brands Thums Up, Limca, Gold Spot)",
+                "source": "Not Available"
+              },
+              "amount": {
+                "value": "$60 million",
+                "source": "Not Available"
+              },
+              "strategic rationale": {
+                "value": "To quickly rebuild market position in India after re-entry and capture over 50% of India's beverage market overnight.",
+                "source": "Not Available"
+              }
+            }
+          ],
+          "corporate milestones — each with date and event, from founding to present": [
+            {
+              "date": "June 15, 2026",
+              "event": "Dhurandhar achieved a massive television premiere, reaching over 53 million viewers on Star Gold, Star Gold 2, and Colors Cineplex."
+            },
+            {
+              "date": "April 23, 2026",
+              "event": "Coca-Cola India launched its first-ever activation at BLR Airport, blending digital convenience with refreshment."
+            },
+            {
+              "date": "February 27, 2026",
+              "event": "Powerade entered India as the Official Sports Drink of the ICC Men's T20 World Cup 2026."
+            },
+            {
+              "date": "February 5, 2026",
+              "event": "Coca-Cola India expanded its presence at Magh Mela 2026, building on its successful participation at Maha Kumbh 2025, focusing on hydration, accessibility, and local employment."
+            },
+            {
+              "date": "January 28, 2026",
+              "event": "Coca-Cola India, along with its bottling partner Hindustan Coca-Cola Beverages Pvt. Ltd., strengthened its commitment to local ecosystems through large-scale hydration access, retailer enablement, and community-led interventions at Medaram Jatara 2026, Asia's largest tribal congregation."
+            },
+            {
+              "date": "January 15, 2026",
+              "event": "Coca-Cola marked a landmark moment with the launch of the first-ever Coke Studio Bharat LIVE, debuting across Delhi and Guwahati."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Net Sales / Revenue from Operations: INR 5,04,255.69 Lakhs."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Profit After Tax (PAT): INR 61,536.54 Lakhs."
+            },
+            {
+              "date": "FY 2024-25 (ending March 31, 2025)",
+              "event": "Interim dividend of 180% (Rs. 18 per Equity Share), resulting in an outgo of Rs. 35,945.50 Lakhs."
+            },
+            {
+              "date": "March 31, 2025",
+              "event": "Balance sheet filed."
+            },
+            {
+              "date": "September 26, 2025",
+              "event": "Latest Annual General Meeting (AGM) occurred."
+            },
+            {
+              "date": "July 2025",
+              "event": "The Coca-Cola Company completed a transaction where Jubilant Bhartia Group acquired a 40% stake in Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH)."
+            },
+            {
+              "date": "May 23, 2024",
+              "event": "The company officially admitted its equity shares for dematerialization into NSDL under the unique ISIN INE0X2U01015."
+            },
+            {
+              "date": "FY 2023-24 (ending March 31, 2024)",
+              "event": "Interim dividends of 400% (Rs. 40/share) and 200% (Rs. 20/share) were disbursed, resulting in a combined outgo of Rs. 1,19,818.33 Lakhs."
+            },
+            {
+              "date": "FY 2022-23 (ending March 31, 2023)",
+              "event": "No dividend was recommended or paid."
+            },
+            {
+              "date": "2022",
+              "event": "Thums Up, a brand acquired by Coca-Cola, became a billion-dollar brand."
+            },
+            {
+              "date": "FY 2021-22 (ending March 31, 2022)",
+              "event": "An interim dividend of 230% (Rs. 23 per Equity Share) was paid, resulting in an outgo of Rs. 45,930.36 Lakhs."
+            },
+            {
+              "date": "FY 2020-21 (ending March 31, 2021)",
+              "event": "An interim dividend of 400% (Rs. 40 per Equity Share) was paid, resulting in an outgo of Rs. 79,878.89 Lakhs."
+            },
+            {
+              "date": "2020",
+              "event": "Sanket Ray was named President of India and Southwest Asia for The Coca-Cola Company."
+            },
+            {
+              "date": "FY 2019-20 (ending March 31, 2020)",
+              "event": "A dividend amounting to Rs. 63,903.11 Lakhs was paid, along with a Dividend Distribution Tax of Rs. 13,135.47 Lakhs."
+            },
+            {
+              "date": "1999",
+              "event": "Coca-Cola acquired Parle's portfolio of brands, including Thums Up, Limca, and Gold Spot, which were leading soft drink brands in India."
+            },
+            {
+              "date": "October 24, 1993",
+              "event": "Coca-Cola re-entered the Indian market after a 16-year absence, benefiting from new liberalization policies."
+            },
+            {
+              "date": "February 20, 1992",
+              "event": "Coca Cola India Private Limited was established in Mulshi, Maharashtra, India, with CIN: U15549PN1992FTC065522. It was formerly known as Britco Foods Company Limited."
+            },
+            {
+              "date": "1977",
+              "event": "Coca-Cola withdrew its operations from India due to government regulations and legislation that limited the dilution of equity of multinational corporations and required formula disclosure."
+            },
+            {
+              "date": "1956",
+              "event": "Coca-Cola first entered India, operating with 100% foreign equity."
+            },
+            {
+              "date": "1950",
+              "event": "Coca-Cola was first introduced in India, and its first factory was established in New Delhi."
+            }
+          ],
+          "upcoming catalysts — each with date/quarter, event, materiality": [
+            {
+              "date/quarter": "2027",
+              "event": "The Coca-Cola Company is exploring a potential public listing (IPO) in India for Hindustan Coca-Cola Holdings Pvt. Ltd. (HCCH), the parent company of its largest bottler, Hindustan Coca-Cola Beverages Pvt. Ltd. (HCCB). This potential listing is subject to market conditions and regulatory approvals, with initial preparations underway for listing on the Bombay Stock Exchange and National Stock Exchange of India. The company is also considering selling a portion of its shareholding in HCCH in connection with the listing.",
+              "materiality": "High. This would be a significant milestone, completing the refranchising of HCCH and positioning it to capitalize on opportunities in the Indian market. It could also be one of India's biggest FMCG IPOs ever, potentially valuing the bottling business at around ₹85,000 crore ($10 billion)."
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 1.0,
+        "status": "populated"
+      },
+      "citations": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "section_name": "Global presence",
+      "column": "right",
+      "order_in_column": 10,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "data": {
+          "country count": "1 country (India)",
+          "key regional approvals/certifications": [
+            {
+              "certification": "Compliance with MCA mandate for dematerialization",
+              "details": "Coca-Cola India officially admitted its equity shares for dematerialization into NSDL on May 23, 2024, in compliance with India's Ministry of Corporate Affairs (MCA) mandate for private companies, under ISIN INE0X2U01015.",
+              "source": "Company document"
+            },
+            {
+              "certification": "Alliance for Water Stewardship (AWS) Gold level certification",
+              "details": "The Coca-Cola India Private Limited (CCIPL) Facility in Pirangut Village, Mulshi Taluk, Pune, Maharashtra, India, was recommended for Gold level certification against the AWS International Water Stewardship Standard Version 2, following an audit conducted from December 12-15, 2022.",
+              "source": "Research report"
+            },
+            {
+              "certification": "Carbon Neutral certification (PAS 2060)",
+              "details": "Hindustan Coca-Cola Beverage Pvt Ltd (HCCB) bottling plant in Bidadi Industrial Area, Ramanagara, Karnataka, achieved carbon neutral certification according to the international standard PAS 2060. This certification by DNV was to be issued in May 2024, marking it as the first Coca-Cola bottling plant in India and the Southwest Asia region to achieve this milestone.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO/IEC 17025:2017",
+              "details": "The Concentrate Plant Laboratory of Coca-Cola India Pvt. Ltd. is accredited with ISO/IEC 17025:2017 \"General Requirements for the Competence of Testing\" by NABL.",
+              "source": "Research report"
+            },
+            {
+              "certification": "FSSAI (Food Safety and Standards Authority of India)",
+              "details": "Hindustan Coca-Cola Beverages Private Limited (HCCB) complies with FSSAI regulations, which are the national authority for regulating and supervising food safety in India.",
+              "source": "Research report"
+            },
+            {
+              "certification": "FSSC 22000 (Food Safety System Certification)",
+              "details": "HCCB adopts FSSC 22000, a globally recognized certification scheme for the food and beverage sector.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 9001:2015 (Quality Management System)",
+              "details": "HCCB adopts ISO 9001:2015 for quality management.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 14001 (Environmental Management System)",
+              "details": "Applied in production plants to reduce environmental impact, such as efficient water use and packaging recycling.",
+              "source": "Research report"
+            },
+            {
+              "certification": "ISO 45001 (Occupational Health and Safety)",
+              "details": "Applied for worker safety.",
+              "source": "Research report"
+            },
+            {
+              "certification": "Awards for India GCC",
+              "details": "Coca-Cola's India Global Capability Center (GCC) has been recognized with awards including the National Water Award, Global CSR & Sustainability Award, and Greentech CSR India Award.",
+              "source": "Research report"
+            }
+          ]
+        },
+        "confidence": "high",
+        "completeness": 0.75,
+        "status": "populated"
+      },
+      "citations": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "section_name": "Future plan",
+      "column": "right",
+      "order_in_column": 11,
+      "section_tag": "Generic",
+      "section_tag_label": "",
+      "content_type": "list",
+      "content": {
+        "targets": [
+          {
+            "target": "Invest INR 350 Cr in bottler capex",
+            "timeline": "By FY26"
+          }
+        ],
+        "confidence": "low",
+        "status": "populated"
+      },
+      "citations": []
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "company_name": "theobroma",
+  "generated_at": "20260625_102311",
+  "resolved_subsector": "Bakery Cafe Chain & D2C Food Services (QSR)",
+  "sections": [
+    {
+      "heading": "D2C & Aggregator Sales Performance",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total Operating Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "FY25",
+              "value": 573.7
+            },
+            {
+              "period": "FY24",
+              "value": 448.3
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue from Food Delivery Platforms (% of Total Revenue)",
+          "value": [
+            {
+              "period": "August 2025",
+              "value": "60%"
+            },
+            {
+              "period": "October 2024",
+              "value": "Around 60% (online orders)",
+              "note": "proxy for food delivery platforms"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            },
+            {
+              "name": "indiatimes.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Outlets with Online Delivery Integration",
+          "value": "Nearly 250 outlets (as of early 2026)",
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            },
+            {
+              "name": "ajuniorvc.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpFgnPNs_x_2xu2oMBv5-ec3NmrqmZNIy_HbTFysTA352uMTNnxZrebEFQOPAaoMNsM_dJmgjY7ePvbMAYwcnadQUMNLbULn-5ebMXifpa0exZoAm_SaaKPQvK-Ls9SpT03hI8LF_o072dIMxrM0VEqCGZoiRlVdZ928cGtoFAL6kRUOozzN-fnkg3avVdBTIvuk5wrd1EGAym-gi472vUr91SYpZvqdm"
+            },
+            {
+              "name": "economictimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiPiWcIHHs6D-5UUbJNmyX-bRU3RdWfjkkkgS_Fax-lOOfCL52clyawODFYt0peCD2nodA6QTl0_pyOFP_rz-IpO9KX9ZRoInT2vnVg2YN-lul2L6wFHG1AhqHyZIus9a9wz1n1kCtUM8VwdjR1SWMEjobkgjuGBIabjjR2WdvFaz0hgh5KfWA6A6nz3v-_U6CBddOASviHBVR-Qxa-q29Dc2NQ1TGOb72L3q4BHETOB0zTg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Advertising Expenses (INR Cr)",
+          "value": [
+            {
+              "period": "FY25",
+              "value": 10.5
+            },
+            {
+              "period": "FY24",
+              "value": 11.6
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Advertising Expenses as % of Revenue",
+          "value": [
+            {
+              "period": "FY25",
+              "value": "nearly 2% (proxy — % of total expenses)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Operating Revenue (INR Cr): [{\"period\": \"FY25\", \"value\": 573.7}, {\"period\": \"FY24\", \"value\": 448.3}]",
+        "Revenue from Food Delivery Platforms (% of Total Revenue): [{\"period\": \"August 2025\", \"value\": \"60%\"}, {\"period\": \"October 2024\", \"value\": \"Around 60% (online orders)\", \"note\": \"proxy for food delivery platforms\"}]",
+        "Number of Outlets with Online Delivery Integration: Nearly 250 outlets (as of early 2026)",
+        "Advertising Expenses (INR Cr): [{\"period\": \"FY25\", \"value\": 10.5}, {\"period\": \"FY24\", \"value\": 11.6}]",
+        "Advertising Expenses as % of Revenue: [{\"period\": \"FY25\", \"value\": \"nearly 2% (proxy — % of total expenses)\"}]"
+      ],
+      "references": [
+        {
+          "name": "crisil.com",
+          "url": null,
+          "fields": [
+            "Total Operating Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "indiatoday.in",
+          "url": null,
+          "fields": [
+            "Revenue from Food Delivery Platforms (% of Total Revenue)",
+            "Number of Outlets with Online Delivery Integration",
+            "Advertising Expenses (INR Cr)",
+            "Advertising Expenses as % of Revenue"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": null,
+          "fields": [
+            "Revenue from Food Delivery Platforms (% of Total Revenue)"
+          ]
+        },
+        {
+          "name": "ajuniorvc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpFgnPNs_x_2xu2oMBv5-ec3NmrqmZNIy_HbTFysTA352uMTNnxZrebEFQOPAaoMNsM_dJmgjY7ePvbMAYwcnadQUMNLbULn-5ebMXifpa0exZoAm_SaaKPQvK-Ls9SpT03hI8LF_o072dIMxrM0VEqCGZoiRlVdZ928cGtoFAL6kRUOozzN-fnkg3avVdBTIvuk5wrd1EGAym-gi472vUr91SYpZvqdm",
+          "fields": [
+            "Number of Outlets with Online Delivery Integration"
+          ]
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiPiWcIHHs6D-5UUbJNmyX-bRU3RdWfjkkkgS_Fax-lOOfCL52clyawODFYt0peCD2nodA6QTl0_pyOFP_rz-IpO9KX9ZRoInT2vnVg2YN-lul2L6wFHG1AhqHyZIus9a9wz1n1kCtUM8VwdjR1SWMEjobkgjuGBIabjjR2WdvFaz0hgh5KfWA6A6nz3v-_U6CBddOASviHBVR-Qxa-q29Dc2NQ1TGOb72L3q4BHETOB0zTg==",
+          "fields": [
+            "Number of Outlets with Online Delivery Integration"
+          ]
+        },
+        {
+          "name": "startuppedia.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwyTe5VXWixzHcYS74lVTUSr78ZtWgTRSvNpJUIrn0rq42c4OY7aSnlTAjzPk36juFNy3UOP1K7m7OmEIF4fhObzNuiZZbGzW9CWsmElnWLsXoxoAcrUwIHCat1UGLaN4m92xXc7SM32-ztHK1Dj9A9v0pSRbbiXukYfBtRC5Zy8G_7n4PEKhvTx2ApUpcVWehTtug7_GP8Pqcr9H5fq4nL38W78bc8RdtKmJJuA4IlUvR2XE-aQ0PcGH3cwwDST3-5oZF3zY2EAsGQPHtVg0rDJeTbpXr",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkuf7zDXNud_AeKoMxO88yDYulj0JMq-RwP4JqXtPJ7VhqKqkiEp2TV37QbpsTQYBhR26-XhUXIonvXuxJqj969IQ3pw-FV7ujaCEFTmFxdkDLNMkqKhkRvPH8B2QpoBVH030oSKkD2y0ekwfmw5Tzn9_aNfnFzyNHjsNNw3MIwH1iRdToWqgS43i38Qd3TRU0YzSQVXtc_JEq9zrFnViarWO5bLW52gFaG_zDxtAZadgnGv_K-3llLDl-B-gLpCBYHLkprt01UVJ46un8ruSBHkKmasScywYBMrZj9UdPwfU=",
+          "fields": []
+        },
+        {
+          "name": "ajuniorvc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0EVHBAsYu9xRGSBeEJzsQyHNxV9CZZZ0Y9nKB6VhsRi0HBQNXRue4lfw5VZtLNxci4C-QMacJoKWd0iI8_rsYQ7qPezNqNMJ3af4pRQvewn8PgnvorGMsCVMtsi9FEW8ppXYeFzyEZ6H4vbhEGU89kWismJywQSUC-Q4FCjR-AGiFOaw5ASlkGmliGwZTUI6y4MrgRt4AIozKQFWdyul6Ol21U9kDgoCA",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA4rTdV6pF1EyXIi9nnJJoiW0W8lL0nPIa22ZKbvYijws7tDei3LGKMjWfh6tt8_71RoU07wj3SWsV6YqJUQNk_IEiRsKmgBuNgaQnDanjiBfas_r75PvYdZSpW09vybY6I_SLf8IZb1bONQjMtQ2fJ9er5Qj-GYJyF7ucJw3hC53STplQjnp-HrIUaTGW5HSMRxHTKF9XQctezHda3zj6fYzJDjIrcGUfhWLiWq80cANCEdqelwPR_OoGJA==",
+          "fields": []
+        },
+        {
+          "name": "crisil.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8XDxtJep4wzv9-DnBIjE7PVT4_fWBrsEj315RjZs71hM5daHiQKAGzg2Txnv2jRrfWi6z_oy2uaplRxgm0U6s0XzXkngl0JcRosAQSpXP6RqQWTAdXGeF2XMZtOQJPhqTFsJRT07cQay-2OTMTK4ZFiwPSRThKoQAU2f6uFgGtTRF1kx24aAG8htNk_DUg4Hu3ZqVUUlCtgMbn3mm9pg6vQIt_u9wRl59QpJGqy9--4ZClP8sXZKxzo=",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2X7SMV51HFfJ85fWXVEAHo4iuoIgOE5zLgMANhkkODFCLh8rDKFAcUsWbldwUXjVzdMvcioO2py4qNz9F9I7weAQSfZebHsjO9OGSFlf0aDiQ2kiJZ5bauIKb_c7QiElBW4Cy9IOuxxw3Hpt4F5yOEozUkbaefIPlwwREiejszdZN47noWDteODpAuqVLV2tJP7B1Uy1F1801l82rZYosfhMpTMNS8M2KqdRNEBy_3Hl93cNSoYg2ZzBjvFvLROPTptypzWcXRhfiapmOBw9bdzSPCIPKmCNWy1HF1Qf3bb8=",
+          "fields": []
+        },
+        {
+          "name": "startuppedia.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW7TgM3JQRH3UK5lqzRzSh9cK7zizGkPbAsOWBAnbdCuQjzOedRWiiuEdFfZU9w_nDikTiSLi6W03lE8oIxBT28iKIdATag8iz648-6BbiDI2flOU-8s-Yz6xLwR2g8KDUuzRNqsT9R3N5VI6P_3DBN9V5xa3NhwxmbAHyHPZzN2She_3pS5xuqtXp6tbTQw3NLp-gN_Kpi002VzFZvejLtLlNsdsW4yezXe8sxKMkQ31ShzIcbcCpktYz8goMrYtes1tKb1IXDA9pDiM_hcZPk_ZE9uvh",
+          "fields": []
+        },
+        {
+          "name": "vccircle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JJ3rxbP0-Ozei_MyUfVu02hZkJYk6w7PqLDcMzTNdSsXbZjOSa5Dvb2xFMevekv4phqweAItuqi_sxvWx-KYhOTxLYGoY6wTRvuh2B_dk5xzOK01prkZ1GvgEAhD9_F9qxyr24vQcL2sW4Kap296t6Oj3HKdU2pe2qPBsIKtOkHMHtpcl0PO2h5-26wYwNUL",
+          "fields": []
+        },
+        {
+          "name": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9ruBfRK8PdpYD5uYViuQchXSr0EqpThMNAGdDLGI_csUQfk87fErFuufI76YrgS907KHjPW1hbi6y-zlzmg4A7An1LSqf-yBjcWlVe0ZUfdoKGwoiLBUbnAgPeyliQIqrAfECYcSwi2Rg2jjAiMEsVHJyX3bDzsn-T-6X9sXDQFdVLkJNvG6i_gcbFQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Multi-Channel Sales Performance & Digital Strategy",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "D2C Revenue (INR Cr)",
+        "In-Store Revenue (INR Cr)",
+        "D2C Revenue Growth (YoY %)",
+        "In-Store Revenue Growth (YoY %)",
+        "Revenue from Own Online Store (% of Total Revenue)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The clear breakdown of D2C vs. In-Store revenue and their respective growth rates is crucial for assessing the company's scalability and potential for margin improvement, directly impacting the investment thesis.",
+        "banker": "Understanding the contribution of different sales channels (D2C, aggregators, own store) and the associated advertising spend helps identify potential revenue streams and cost efficiencies that could be leveraged in a financing or M&A transaction.",
+        "credit_analyst": "The ratio of advertising expenses to revenue, combined with the growth trends in different sales channels, provides insight into customer acquisition costs and the sustainability of revenue growth, which are key credit considerations.",
+        "consultant": "The data on In-Store vs. Digital Revenue Contribution and the breakdown of digital revenue sources (aggregators vs. own store) offers a direct starting point for identifying operational inefficiencies or opportunities for digital strategy optimization."
+      }
+    },
+    {
+      "heading": "In-Store vs. Digital Revenue Contribution",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Total Operating Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "FY25",
+              "value": 573.7
+            },
+            {
+              "period": "FY24",
+              "value": 448.3
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue from Food Delivery Platforms (% of Total Revenue)",
+          "value": [
+            {
+              "period": "August 2025",
+              "value": "60%"
+            },
+            {
+              "period": "October 2024",
+              "value": "Around 60% (online orders)",
+              "note": "proxy for food delivery platforms"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            },
+            {
+              "name": "indiatimes.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Outlets with Online Delivery Integration",
+          "value": "Nearly 250 outlets (as of early 2026)",
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            },
+            {
+              "name": "ajuniorvc.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpFgnPNs_x_2xu2oMBv5-ec3NmrqmZNIy_HbTFysTA352uMTNnxZrebEFQOPAaoMNsM_dJmgjY7ePvbMAYwcnadQUMNLbULn-5ebMXifpa0exZoAm_SaaKPQvK-Ls9SpT03hI8LF_o072dIMxrM0VEqCGZoiRlVdZ928cGtoFAL6kRUOozzN-fnkg3avVdBTIvuk5wrd1EGAym-gi472vUr91SYpZvqdm"
+            },
+            {
+              "name": "economictimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiPiWcIHHs6D-5UUbJNmyX-bRU3RdWfjkkkgS_Fax-lOOfCL52clyawODFYt0peCD2nodA6QTl0_pyOFP_rz-IpO9KX9ZRoInT2vnVg2YN-lul2L6wFHG1AhqHyZIus9a9wz1n1kCtUM8VwdjR1SWMEjobkgjuGBIabjjR2WdvFaz0hgh5KfWA6A6nz3v-_U6CBddOASviHBVR-Qxa-q29Dc2NQ1TGOb72L3q4BHETOB0zTg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Advertising Expenses (INR Cr)",
+          "value": [
+            {
+              "period": "FY25",
+              "value": 10.5
+            },
+            {
+              "period": "FY24",
+              "value": 11.6
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Advertising Expenses as % of Revenue",
+          "value": [
+            {
+              "period": "FY25",
+              "value": "nearly 2% (proxy — % of total expenses)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "indiatoday.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Operating Revenue (INR Cr): [{\"period\": \"FY25\", \"value\": 573.7}, {\"period\": \"FY24\", \"value\": 448.3}]",
+        "Revenue from Food Delivery Platforms (% of Total Revenue): [{\"period\": \"August 2025\", \"value\": \"60%\"}, {\"period\": \"October 2024\", \"value\": \"Around 60% (online orders)\", \"note\": \"proxy for food delivery platforms\"}]",
+        "Number of Outlets with Online Delivery Integration: Nearly 250 outlets (as of early 2026)",
+        "Advertising Expenses (INR Cr): [{\"period\": \"FY25\", \"value\": 10.5}, {\"period\": \"FY24\", \"value\": 11.6}]",
+        "Advertising Expenses as % of Revenue: [{\"period\": \"FY25\", \"value\": \"nearly 2% (proxy — % of total expenses)\"}]"
+      ],
+      "references": [
+        {
+          "name": "crisil.com",
+          "url": null,
+          "fields": [
+            "Total Operating Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "indiatoday.in",
+          "url": null,
+          "fields": [
+            "Revenue from Food Delivery Platforms (% of Total Revenue)",
+            "Number of Outlets with Online Delivery Integration",
+            "Advertising Expenses (INR Cr)",
+            "Advertising Expenses as % of Revenue"
+          ]
+        },
+        {
+          "name": "indiatimes.com",
+          "url": null,
+          "fields": [
+            "Revenue from Food Delivery Platforms (% of Total Revenue)"
+          ]
+        },
+        {
+          "name": "ajuniorvc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpFgnPNs_x_2xu2oMBv5-ec3NmrqmZNIy_HbTFysTA352uMTNnxZrebEFQOPAaoMNsM_dJmgjY7ePvbMAYwcnadQUMNLbULn-5ebMXifpa0exZoAm_SaaKPQvK-Ls9SpT03hI8LF_o072dIMxrM0VEqCGZoiRlVdZ928cGtoFAL6kRUOozzN-fnkg3avVdBTIvuk5wrd1EGAym-gi472vUr91SYpZvqdm",
+          "fields": [
+            "Number of Outlets with Online Delivery Integration"
+          ]
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiPiWcIHHs6D-5UUbJNmyX-bRU3RdWfjkkkgS_Fax-lOOfCL52clyawODFYt0peCD2nodA6QTl0_pyOFP_rz-IpO9KX9ZRoInT2vnVg2YN-lul2L6wFHG1AhqHyZIus9a9wz1n1kCtUM8VwdjR1SWMEjobkgjuGBIabjjR2WdvFaz0hgh5KfWA6A6nz3v-_U6CBddOASviHBVR-Qxa-q29Dc2NQ1TGOb72L3q4BHETOB0zTg==",
+          "fields": [
+            "Number of Outlets with Online Delivery Integration"
+          ]
+        },
+        {
+          "name": "startuppedia.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwyTe5VXWixzHcYS74lVTUSr78ZtWgTRSvNpJUIrn0rq42c4OY7aSnlTAjzPk36juFNy3UOP1K7m7OmEIF4fhObzNuiZZbGzW9CWsmElnWLsXoxoAcrUwIHCat1UGLaN4m92xXc7SM32-ztHK1Dj9A9v0pSRbbiXukYfBtRC5Zy8G_7n4PEKhvTx2ApUpcVWehTtug7_GP8Pqcr9H5fq4nL38W78bc8RdtKmJJuA4IlUvR2XE-aQ0PcGH3cwwDST3-5oZF3zY2EAsGQPHtVg0rDJeTbpXr",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkuf7zDXNud_AeKoMxO88yDYulj0JMq-RwP4JqXtPJ7VhqKqkiEp2TV37QbpsTQYBhR26-XhUXIonvXuxJqj969IQ3pw-FV7ujaCEFTmFxdkDLNMkqKhkRvPH8B2QpoBVH030oSKkD2y0ekwfmw5Tzn9_aNfnFzyNHjsNNw3MIwH1iRdToWqgS43i38Qd3TRU0YzSQVXtc_JEq9zrFnViarWO5bLW52gFaG_zDxtAZadgnGv_K-3llLDl-B-gLpCBYHLkprt01UVJ46un8ruSBHkKmasScywYBMrZj9UdPwfU=",
+          "fields": []
+        },
+        {
+          "name": "ajuniorvc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0EVHBAsYu9xRGSBeEJzsQyHNxV9CZZZ0Y9nKB6VhsRi0HBQNXRue4lfw5VZtLNxci4C-QMacJoKWd0iI8_rsYQ7qPezNqNMJ3af4pRQvewn8PgnvorGMsCVMtsi9FEW8ppXYeFzyEZ6H4vbhEGU89kWismJywQSUC-Q4FCjR-AGiFOaw5ASlkGmliGwZTUI6y4MrgRt4AIozKQFWdyul6Ol21U9kDgoCA",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA4rTdV6pF1EyXIi9nnJJoiW0W8lL0nPIa22ZKbvYijws7tDei3LGKMjWfh6tt8_71RoU07wj3SWsV6YqJUQNk_IEiRsKmgBuNgaQnDanjiBfas_r75PvYdZSpW09vybY6I_SLf8IZb1bONQjMtQ2fJ9er5Qj-GYJyF7ucJw3hC53STplQjnp-HrIUaTGW5HSMRxHTKF9XQctezHda3zj6fYzJDjIrcGUfhWLiWq80cANCEdqelwPR_OoGJA==",
+          "fields": []
+        },
+        {
+          "name": "crisil.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8XDxtJep4wzv9-DnBIjE7PVT4_fWBrsEj315RjZs71hM5daHiQKAGzg2Txnv2jRrfWi6z_oy2uaplRxgm0U6s0XzXkngl0JcRosAQSpXP6RqQWTAdXGeF2XMZtOQJPhqTFsJRT07cQay-2OTMTK4ZFiwPSRThKoQAU2f6uFgGtTRF1kx24aAG8htNk_DUg4Hu3ZqVUUlCtgMbn3mm9pg6vQIt_u9wRl59QpJGqy9--4ZClP8sXZKxzo=",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2X7SMV51HFfJ85fWXVEAHo4iuoIgOE5zLgMANhkkODFCLh8rDKFAcUsWbldwUXjVzdMvcioO2py4qNz9F9I7weAQSfZebHsjO9OGSFlf0aDiQ2kiJZ5bauIKb_c7QiElBW4Cy9IOuxxw3Hpt4F5yOEozUkbaefIPlwwREiejszdZN47noWDteODpAuqVLV2tJP7B1Uy1F1801l82rZYosfhMpTMNS8M2KqdRNEBy_3Hl93cNSoYg2ZzBjvFvLROPTptypzWcXRhfiapmOBw9bdzSPCIPKmCNWy1HF1Qf3bb8=",
+          "fields": []
+        },
+        {
+          "name": "startuppedia.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW7TgM3JQRH3UK5lqzRzSh9cK7zizGkPbAsOWBAnbdCuQjzOedRWiiuEdFfZU9w_nDikTiSLi6W03lE8oIxBT28iKIdATag8iz648-6BbiDI2flOU-8s-Yz6xLwR2g8KDUuzRNqsT9R3N5VI6P_3DBN9V5xa3NhwxmbAHyHPZzN2She_3pS5xuqtXp6tbTQw3NLp-gN_Kpi002VzFZvejLtLlNsdsW4yezXe8sxKMkQ31ShzIcbcCpktYz8goMrYtes1tKb1IXDA9pDiM_hcZPk_ZE9uvh",
+          "fields": []
+        },
+        {
+          "name": "vccircle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JJ3rxbP0-Ozei_MyUfVu02hZkJYk6w7PqLDcMzTNdSsXbZjOSa5Dvb2xFMevekv4phqweAItuqi_sxvWx-KYhOTxLYGoY6wTRvuh2B_dk5xzOK01prkZ1GvgEAhD9_F9qxyr24vQcL2sW4Kap296t6Oj3HKdU2pe2qPBsIKtOkHMHtpcl0PO2h5-26wYwNUL",
+          "fields": []
+        },
+        {
+          "name": "livemint.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9ruBfRK8PdpYD5uYViuQchXSr0EqpThMNAGdDLGI_csUQfk87fErFuufI76YrgS907KHjPW1hbi6y-zlzmg4A7An1LSqf-yBjcWlVe0ZUfdoKGwoiLBUbnAgPeyliQIqrAfECYcSwi2Rg2jjAiMEsVHJyX3bDzsn-T-6X9sXDQFdVLkJNvG6i_gcbFQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Multi-Channel Sales Performance & Digital Strategy",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "D2C Revenue (INR Cr)",
+        "In-Store Revenue (INR Cr)",
+        "D2C Revenue Growth (YoY %)",
+        "In-Store Revenue Growth (YoY %)",
+        "Revenue from Own Online Store (% of Total Revenue)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The clear breakdown of D2C vs. In-Store revenue and their respective growth rates is crucial for assessing the company's scalability and potential for margin improvement, directly impacting the investment thesis.",
+        "banker": "Understanding the contribution of different sales channels (D2C, aggregators, own store) and the associated advertising spend helps identify potential revenue streams and cost efficiencies that could be leveraged in a financing or M&A transaction.",
+        "credit_analyst": "The ratio of advertising expenses to revenue, combined with the growth trends in different sales channels, provides insight into customer acquisition costs and the sustainability of revenue growth, which are key credit considerations.",
+        "consultant": "The data on In-Store vs. Digital Revenue Contribution and the breakdown of digital revenue sources (aggregators vs. own store) offers a direct starting point for identifying operational inefficiencies or opportunities for digital strategy optimization."
+      }
+    },
+    {
+      "heading": "Outlet Expansion & Geographic Penetration",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Total Number of Outlets",
+          "value": [
+            {
+              "period": "2026",
+              "value": 225,
+              "description": "outlets across India"
+            },
+            {
+              "period": "August 2025",
+              "value": ">250",
+              "description": "company-owned outlets across 45 cities"
+            },
+            {
+              "period": "May 2025",
+              "value": 256,
+              "description": "outlets"
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New Outlets Added (YoY)",
+          "value": [
+            {
+              "period": "as of June 2025",
+              "value": "50+",
+              "description": "stores per year (annual addition)"
+            },
+            {
+              "period": "December 2023 - May 2025",
+              "value": 62,
+              "description": "stores added"
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Number of Outlets: [{\"period\": \"2026\", \"value\": 225, \"description\": \"outlets across India\"}, {\"period\": \"August 2025\", \"value\": \">250\", \"description\": \"company-owned outlets across 45 cities\"}, {\"period\": \"May 2025\", \"value\": 256, \"description\": \"outlets\"}]",
+        "New Outlets Added (YoY): [{\"period\": \"as of June 2025\", \"value\": \"50+\", \"description\": \"stores per year (annual addition)\"}, {\"period\": \"December 2023 - May 2025\", \"value\": 62, \"description\": \"stores added\"}]"
+      ],
+      "references": [
+        {
+          "name": "crisil.com",
+          "url": null,
+          "fields": [
+            "Total Number of Outlets",
+            "New Outlets Added (YoY)"
+          ]
+        },
+        {
+          "name": "crisil.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESVS2h7kK2Yj_HEucnZtdSXnsWVz7gnmlnUlbfRibMXg5i2Qu2dd4QVWFwz0gEN2JPfIcRMER3ttt1kZ_OMw3UkBVC7eGmO0FB1-ulkn_480NQTpFgL7Ken3X5-ayg73aIa13EqBcGbae907Hky9iSUaBwt-2_ZZuO_lVdutCE9XBsIXeh66_y3Iic6s7ImMDT7jCgqYpq3oORfMLeXqJR-VDK0eo_JeBDqGVgkiCj9MLfuqGTjFjpQw==",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtEhdhP6x8rxUO0DU68lTxZjp8UbF32pYdXN7qn51xTeqiixD84bElmnY5xZcorLUvWMf3raazstU4Il2O4vKMitBbnE7he1xOlfHMRFjSl0z4FRJNra7j7d5sK7gv0rZbbIWrpb7dmLIXgN3ATtCVR3-bTqYWdfmdOuQKaCpqCMHJq8BhZ4lKiyHq8XFG92y3si3nxHHfCS4Exs87CGk5pJ9KkDnZ7uznKa-y83Qm-vdq6zyAUXN8X-voS2dAD4Tr3K_jYMdUWS5vbHg4UW1MFap-aJ2QaCnYyvliiBxlZQ==",
+          "fields": []
+        },
+        {
+          "name": "franticc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZOVghBYXH4iPVm95tIuoq7IXG3rzKrgfAy2D3dLBp0LkhG5DqbRPlgFaQPGHB1QQy3nIaecLXSMyKNDc0gCdTCeImwQ37ebDDdcIDRQxj0ka4mRq8_POh7-DVWZy-Q==",
+          "fields": []
+        },
+        {
+          "name": "vccircle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yjTKPlftwsT8Is5AMXT69iEYt1kuvSk38m_1xtyLyYwendJq_pQWv0xaBpwc05KZGqNUBZcl5qtzDJDYeP_Az1JjPAy3QwzY8KhkBKAtFsPCNBlB3ciMyi1B0gpJpEmsRRReZ12WpI6sX5ti8-ZAHdLMy3yROMMJaX5_fQ-AmT1XWUoKnKfBV-z7A_n3rdE=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Outlet Expansion & Unit Economics",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 2,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data directly informs the scalability and growth potential of Theobroma, a key factor in assessing its investment attractiveness and potential for future returns.",
+        "banker": "Understanding outlet expansion pace and unit economics is crucial for evaluating potential M&A or financing opportunities, indicating the company's capacity for growth and market penetration.",
+        "credit_analyst": "The rate of new outlet additions and the profitability of existing units are critical indicators of financial health and the company's ability to service debt.",
+        "consultant": "This information provides a foundational understanding of the company's physical footprint and operational efficiency at the unit level, essential for identifying potential areas for strategic improvement or expansion."
+      }
+    },
+    {
+      "heading": "Outlet-Level Economics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total Number of Outlets",
+          "value": [
+            {
+              "period": "2026",
+              "value": 225,
+              "description": "outlets across India"
+            },
+            {
+              "period": "August 2025",
+              "value": ">250",
+              "description": "company-owned outlets across 45 cities"
+            },
+            {
+              "period": "May 2025",
+              "value": 256,
+              "description": "outlets"
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New Outlets Added (YoY)",
+          "value": [
+            {
+              "period": "as of June 2025",
+              "value": "50+",
+              "description": "stores per year (annual addition)"
+            },
+            {
+              "period": "December 2023 - May 2025",
+              "value": 62,
+              "description": "stores added"
+            }
+          ],
+          "sources": [
+            {
+              "name": "crisil.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total Number of Outlets: [{\"period\": \"2026\", \"value\": 225, \"description\": \"outlets across India\"}, {\"period\": \"August 2025\", \"value\": \">250\", \"description\": \"company-owned outlets across 45 cities\"}, {\"period\": \"May 2025\", \"value\": 256, \"description\": \"outlets\"}]",
+        "New Outlets Added (YoY): [{\"period\": \"as of June 2025\", \"value\": \"50+\", \"description\": \"stores per year (annual addition)\"}, {\"period\": \"December 2023 - May 2025\", \"value\": 62, \"description\": \"stores added\"}]"
+      ],
+      "references": [
+        {
+          "name": "crisil.com",
+          "url": null,
+          "fields": [
+            "Total Number of Outlets",
+            "New Outlets Added (YoY)"
+          ]
+        },
+        {
+          "name": "crisil.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESVS2h7kK2Yj_HEucnZtdSXnsWVz7gnmlnUlbfRibMXg5i2Qu2dd4QVWFwz0gEN2JPfIcRMER3ttt1kZ_OMw3UkBVC7eGmO0FB1-ulkn_480NQTpFgL7Ken3X5-ayg73aIa13EqBcGbae907Hky9iSUaBwt-2_ZZuO_lVdutCE9XBsIXeh66_y3Iic6s7ImMDT7jCgqYpq3oORfMLeXqJR-VDK0eo_JeBDqGVgkiCj9MLfuqGTjFjpQw==",
+          "fields": []
+        },
+        {
+          "name": "indiatoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtEhdhP6x8rxUO0DU68lTxZjp8UbF32pYdXN7qn51xTeqiixD84bElmnY5xZcorLUvWMf3raazstU4Il2O4vKMitBbnE7he1xOlfHMRFjSl0z4FRJNra7j7d5sK7gv0rZbbIWrpb7dmLIXgN3ATtCVR3-bTqYWdfmdOuQKaCpqCMHJq8BhZ4lKiyHq8XFG92y3si3nxHHfCS4Exs87CGk5pJ9KkDnZ7uznKa-y83Qm-vdq6zyAUXN8X-voS2dAD4Tr3K_jYMdUWS5vbHg4UW1MFap-aJ2QaCnYyvliiBxlZQ==",
+          "fields": []
+        },
+        {
+          "name": "franticc.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaZOVghBYXH4iPVm95tIuoq7IXG3rzKrgfAy2D3dLBp0LkhG5DqbRPlgFaQPGHB1QQy3nIaecLXSMyKNDc0gCdTCeImwQ37ebDDdcIDRQxj0ka4mRq8_POh7-DVWZy-Q==",
+          "fields": []
+        },
+        {
+          "name": "vccircle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yjTKPlftwsT8Is5AMXT69iEYt1kuvSk38m_1xtyLyYwendJq_pQWv0xaBpwc05KZGqNUBZcl5qtzDJDYeP_Az1JjPAy3QwzY8KhkBKAtFsPCNBlB3ciMyi1B0gpJpEmsRRReZ12WpI6sX5ti8-ZAHdLMy3yROMMJaX5_fQ-AmT1XWUoKnKfBV-z7A_n3rdE=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Outlet Expansion & Unit Economics",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 2,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data directly informs the scalability and growth potential of Theobroma, a key factor in assessing its investment attractiveness and potential for future returns.",
+        "banker": "Understanding outlet expansion pace and unit economics is crucial for evaluating potential M&A or financing opportunities, indicating the company's capacity for growth and market penetration.",
+        "credit_analyst": "The rate of new outlet additions and the profitability of existing units are critical indicators of financial health and the company's ability to service debt.",
+        "consultant": "This information provides a foundational understanding of the company's physical footprint and operational efficiency at the unit level, essential for identifying potential areas for strategic improvement or expansion."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 14
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.066171,
+    "domain_research_usd": 0.318337,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.104508,
+    "grounding_usd": 0.28,
+    "grounded_calls": 8,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.384508,
+    "actual_calls": 12,
+    "elapsed_seconds": 185.6,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.159169,
+      "estimated_generic_domains_usd": 0.955011,
+      "estimated_synthesis_usd": 0.636674,
+      "estimated_total_usd": 1.976193
+    }
+  }
+}

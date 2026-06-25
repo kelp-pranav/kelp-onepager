@@ -1,0 +1,1193 @@
+{
+  "company_name": "zomato",
+  "generated_at": "20260624_204959",
+  "resolved_subsector": "Multi-segment consumer internet platform (food delivery, quick commerce, B2B supply, event ticketing)",
+  "sections": [
+    {
+      "heading": "Segment-wise GOV & Take Rates",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Food Delivery Take Rate (%)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 31
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q3 FY26 Food Delivery Take Rate."
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Take Rate (%)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 26.6,
+              "note": "Gross profit as a % of NOV"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q3 FY26 Blinkit Take Rate."
+        },
+        {
+          "label": "Hyperpure Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": 978
+            }
+          ],
+          "sources": [
+            {
+              "name": "Headline Results for Q4FY26 - Zomato",
+              "url": null
+            },
+            {
+              "name": "exchange4media.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj"
+            },
+            {
+              "name": "axisdirect.in",
+              "url": null
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "District Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": 277
+            }
+          ],
+          "sources": [
+            {
+              "name": "exchange4media.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj"
+            }
+          ],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q4 FY26 District Revenue."
+        },
+        {
+          "label": "Platform Fee per order (INR)",
+          "value": [
+            {
+              "period": "March 2026",
+              "value": 14.9,
+              "note": "pre-GST"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Zomato increases platform fee by over 19%, customers to now pay Rs … - The Times of India",
+              "url": null
+            },
+            {
+              "name": "Zomato Increases Food Delivery Platform Fee To Rs 14.90 Per Order - NDTV",
+              "url": null
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Food Delivery Take Rate (%): [{\"period\": \"Q3 FY26\", \"value\": 31}]",
+        "Quick Commerce (Blinkit) Take Rate (%): [{\"period\": \"Q3 FY26\", \"value\": 26.6, \"note\": \"Gross profit as a % of NOV\"}]",
+        "Hyperpure Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": 978}]",
+        "District Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": 277}]",
+        "Platform Fee per order (INR): [{\"period\": \"March 2026\", \"value\": 14.9, \"note\": \"pre-GST\"}]"
+      ],
+      "references": [
+        {
+          "name": "Headline Results for Q4FY26 - Zomato",
+          "url": null,
+          "fields": [
+            "Hyperpure Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "exchange4media.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj",
+          "fields": [
+            "Hyperpure Revenue (INR Cr)",
+            "District Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "axisdirect.in",
+          "url": null,
+          "fields": [
+            "Hyperpure Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "Zomato increases platform fee by over 19%, customers to now pay Rs … - The Times of India",
+          "url": null,
+          "fields": [
+            "Platform Fee per order (INR)"
+          ]
+        },
+        {
+          "name": "Zomato Increases Food Delivery Platform Fee To Rs 14.90 Per Order - NDTV",
+          "url": null,
+          "fields": [
+            "Platform Fee per order (INR)"
+          ]
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIqbYN46_fVnEN_qXR_rs5Shv_Ph2j9By6SD8ZJ-N0CDvaN-TBHRYiBPJ3LDwRFRoXq_pUuSZfX-Yu-HNNbnLRY0yv6ZA7bCOsxUXERBvF7q277nhIexDnqN-HgR6_LUqV1zLMNsf0GH5b9-Tx5tMUMChSSS3L1IJY0I87dFBPJ5_a6HKvnWckR8HSg==",
+          "fields": []
+        },
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX0y3POzda25ZiYkzrUo1PwpYpmuxqhonZPB-RWg_bNAZsyFeOy9rb1jmNZn_BlU9V_D339UvV_Y0tyeZE3bzt8QkrCAM-_IoUgapRnSl3MFd_JF_xNfqbapUHbzB4XZGVW51bjVpBhI6mSazg66X9EUEkVcZoKb6Mml7Kus05zf2kawOBXpJ0ToXqenzyI5ZCWXTZPTxh5U=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsUKd_Q6ZkmOEQTNAfubUriXXAMittzhis10zuNeo9OYb-GLma-m6el01d7BSqv0x6ueSxb5_JMdHS7fUJS0SA32EuzK0lP1s1G9A-_GynxjTnd6OBvjJsUazQRYtTt77wJ6bek1Tw3A2oxHYEt7MMGafulVFLgKlF5qDjwnb8_JAWNT21pKo5SA5rDNKI5I34EdfH-pjjNyLpm0r7ZRgUeU0dwMsxzFHdmNh5ESmmCLKucahpD2Adl3-yc_YZBfxkxRXtmB6tDngArBxjDnoMFmhoHZ_X47GrAbFNc-V8sAPWGUvVj8=",
+          "fields": []
+        },
+        {
+          "name": "pitchonnet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0eqXkuNKJ4v3w_dG6EjAX8w7abnU6YtE6XOu4kkwqcbylt1PgwfaD-AvRzEn9J6_Y9xvZbZ0gax0n9_fZWCn4lBWbwNOYbmLLpvbya53RR2Kxg2cQcKpT_myO01vD7IYS9mekLu05XDbCynBvYA1-DJh0hfGa14VDQznUDEryrngeH7vUg4JfdnlJxxyNWk3IovogeLupe6X5oeVH3Gxog==",
+          "fields": []
+        },
+        {
+          "name": "businesstoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG359HBhbteH9npaKgds7Qjvz1cra2p41bETbIV9zlILOSiIylx6GyCvLImSbqAqStWe-7az0qiSh5YRLI_RuEgAFI6Lf5KFp5RihBa8ejOVxEw12gX9Dx2EfMw5JlnNEzG_lM-xNixA6eDMkof2LiwjzP2T5bSfQG2n06IQklHUpUG3GS7DfRy-jbYBkI4Pp-PhjxSs1_6FTVEB0NuuAFWK3QNBPfgIaWS8DVKPvzIb-61XjRBGTjpy7hxBO2AL4SDtoGH5pI1OdU4_utdMrjtz1mp4_yWP2V1LkfoWB7jdVteOxSuv2N754Cq7Q==",
+          "fields": []
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF95W5vk9w8n2ay29Li1VSn-akjeY2yAe5bmny-CBRRGUs-IiiAQ3u44x_YtgCvF2tCzGYnPPR-LjP6IeS2kVa2Phpk3yo7EmLKbKq-GFtnz8-4LyTYM4VfCoTp5G_Iv2sZI7ElIaqR41xZbNrv_iZ9EmUxm5j7R61cx5z74sp4ahhg1vnLjoajy_ikSg==",
+          "fields": []
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4mmizuzkVP-EHw4J0Q00Rc93CxJsCwsMxZaJ58q-MJXj_ab_ja66CcHAcDDRjrH6Y-YhooDbL0dI2DsvJZUWjcBrlD_pj1j8xdqT3oCkOgGTAThpswiGkKCl-p5vOMIl2Qjnt-2NX_3oirZVJK3q31hs-UjmIW4kyQ_A3M-sujB31yM9CITYLD8atIGMIxHGHZceRxdRbKOCCxMyzLAq6XZleW-38GgBbxcQY0_V8ESun4_WAaJzlcnvinWAPjQL-5nc5n7cB0S_",
+          "fields": []
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRY1Z16WiGH1EWZ9vFOluO2xQcus44Ac7aWxuN9_Sd9PHKTYY1jipTIdCYWFPcqp7Zf1VwJ-U7DG0H3LMp_Jfjc8f_6rc4r77uMTud7pub1YmYb7ZAprtGp7UOZctBeU-V5wFmyd7Npr6SVCu_S4sbB82vmSx71M6IJck-_1ZjwlZMd3G4uRftCSyFVrjNik3-z4hv9m37byyvOuz6LnkIxsQ1TLAAgDbeACdhzfVIYBqUcEBlnwVODgErm6bN-eGHREB7HOimzmua",
+          "fields": []
+        },
+        {
+          "name": "quashbugs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbvyGGrPAOB3tMGaUbWO8qZbN4B14HP6pWDjTvzlDP2SlOvXLw08fmzuOgN9s_ToXB9mDVOaQQs0dTS_HPVPSfX-dJz48a5Su-FatIiYZfbB1u1oE4j3T_xWZN24d7r8yVvOxws2kLWQCkr7zgGZ8jOb_vsNp7N_rjzalqe_qLw==",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXXGA8A1QqwF3r7O44yli1g1-vZSbKZeX8HbCe0doOR_5jkKuLvcL3kPn9UN7He8DHEhOcsj5Gz3wUgoB7nKSxS1mWmI6i1A2jtg7R3S2-LKmeH2dDPIFguBdZafAqmm5qz8AyRGOi1c_SHgCpub5jdjYi7KBNE40l7iuSPEMd7AgpkQRlKc_CPo4qxegAAvaLZuDk-SRCpg3lZv0d7o3zxP8x75CVfdY=",
+          "fields": []
+        },
+        {
+          "name": "entrackr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8EQP8dwhwymOpk-lZdtcFmf1Ei_PCXB7ldBAp3l-RgGB2bZuhlLIwcZtUjmy2uEdFm2tKheWWMX0EiKaRRgg2S4L8JrI8X3xpMt_s5kvymfMXFZENCU-QHqmQUJlPbhOq_GgI2CCgImjhBFfMO7t7YQul0mqai-SScyZTvMX76iQpMwjgfoR8qPEbcoAEDstG6gHGdA==",
+          "fields": []
+        },
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8VWOSYnQB6EPhIAmDGhJYkGGcuQwN-ejVoRa4kmUu1iYkFGlIGzPCkg8_V34eoksIRZnzWFPHGL108_O7ylSdvW8KLIJ_a5EG2eNenykAS8cFy4olRcE-EMGuYxdiI9raEjsxCK5maFshPPQLDZI3jWzcHNgsmRYR4gz2aUBYyo10VlXG7VhXmjWDtlSadLO",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segment-Level Gross Order Value & Take Rates",
+      "confidence": "medium",
+      "completeness": 0.556,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Food Delivery Gross Order Value (GOV) (INR Cr)",
+        "Quick Commerce (Blinkit) GOV (INR Cr)",
+        "Advertising Revenue (INR Cr)",
+        "Zomato Gold Subscription Revenue (INR Cr)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "This data is critical for evaluating the growth trajectory and monetization efficiency of Zomato's core food delivery and emerging quick commerce segments, directly impacting valuation and investment thesis.",
+        "banker": "Understanding segment-level GOV and take rates is essential for assessing the revenue drivers and potential for cross-selling or bundling opportunities, which are key to pitching Zomato for M&A or financing.",
+        "credit_analyst": "Segment-level take rates and revenue streams provide insight into the profitability and diversification of Zomato's business, helping to assess its ability to service debt and manage financial risk.",
+        "consultant": "Analyzing segment GOV and take rates allows for a deeper understanding of operational performance and competitive positioning within each business vertical, informing strategic recommendations."
+      }
+    },
+    {
+      "heading": "Other Revenue Streams Contribution",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Food Delivery Take Rate (%)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 31
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q3 FY26 Food Delivery Take Rate."
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Take Rate (%)",
+          "value": [
+            {
+              "period": "Q3 FY26",
+              "value": 26.6,
+              "note": "Gross profit as a % of NOV"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q3 FY26 Blinkit Take Rate."
+        },
+        {
+          "label": "Hyperpure Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": 978
+            }
+          ],
+          "sources": [
+            {
+              "name": "Headline Results for Q4FY26 - Zomato",
+              "url": null
+            },
+            {
+              "name": "exchange4media.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj"
+            },
+            {
+              "name": "axisdirect.in",
+              "url": null
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "District Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": 277
+            }
+          ],
+          "sources": [
+            {
+              "name": "exchange4media.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj"
+            }
+          ],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for Q4 FY26 District Revenue."
+        },
+        {
+          "label": "Platform Fee per order (INR)",
+          "value": [
+            {
+              "period": "March 2026",
+              "value": 14.9,
+              "note": "pre-GST"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Zomato increases platform fee by over 19%, customers to now pay Rs … - The Times of India",
+              "url": null
+            },
+            {
+              "name": "Zomato Increases Food Delivery Platform Fee To Rs 14.90 Per Order - NDTV",
+              "url": null
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Food Delivery Take Rate (%): [{\"period\": \"Q3 FY26\", \"value\": 31}]",
+        "Quick Commerce (Blinkit) Take Rate (%): [{\"period\": \"Q3 FY26\", \"value\": 26.6, \"note\": \"Gross profit as a % of NOV\"}]",
+        "Hyperpure Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": 978}]",
+        "District Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": 277}]",
+        "Platform Fee per order (INR): [{\"period\": \"March 2026\", \"value\": 14.9, \"note\": \"pre-GST\"}]"
+      ],
+      "references": [
+        {
+          "name": "Headline Results for Q4FY26 - Zomato",
+          "url": null,
+          "fields": [
+            "Hyperpure Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "exchange4media.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHx6nyTw8H51OFJW49TRUPIrz4TAZlyhI6np6vPxGj5CvGVibRIIg3ATzhapraewmuHatVZkyJBuiY_MoN25oD-sIwH60plNhQS3aDkGnTLc3KFzf0Yrt42NYrsFa1FrBV8LTnAYWfESrLvLVUNb5SbMj8DEv6CrSOZ-NL11E8vsvcOllLSFoo9gIFMIXUtZ2s5Wv9RjLMJ1hTsHvlqTmn-Oj",
+          "fields": [
+            "Hyperpure Revenue (INR Cr)",
+            "District Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "axisdirect.in",
+          "url": null,
+          "fields": [
+            "Hyperpure Revenue (INR Cr)"
+          ]
+        },
+        {
+          "name": "Zomato increases platform fee by over 19%, customers to now pay Rs … - The Times of India",
+          "url": null,
+          "fields": [
+            "Platform Fee per order (INR)"
+          ]
+        },
+        {
+          "name": "Zomato Increases Food Delivery Platform Fee To Rs 14.90 Per Order - NDTV",
+          "url": null,
+          "fields": [
+            "Platform Fee per order (INR)"
+          ]
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIqbYN46_fVnEN_qXR_rs5Shv_Ph2j9By6SD8ZJ-N0CDvaN-TBHRYiBPJ3LDwRFRoXq_pUuSZfX-Yu-HNNbnLRY0yv6ZA7bCOsxUXERBvF7q277nhIexDnqN-HgR6_LUqV1zLMNsf0GH5b9-Tx5tMUMChSSS3L1IJY0I87dFBPJ5_a6HKvnWckR8HSg==",
+          "fields": []
+        },
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX0y3POzda25ZiYkzrUo1PwpYpmuxqhonZPB-RWg_bNAZsyFeOy9rb1jmNZn_BlU9V_D339UvV_Y0tyeZE3bzt8QkrCAM-_IoUgapRnSl3MFd_JF_xNfqbapUHbzB4XZGVW51bjVpBhI6mSazg66X9EUEkVcZoKb6Mml7Kus05zf2kawOBXpJ0ToXqenzyI5ZCWXTZPTxh5U=",
+          "fields": []
+        },
+        {
+          "name": "axisdirect.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsUKd_Q6ZkmOEQTNAfubUriXXAMittzhis10zuNeo9OYb-GLma-m6el01d7BSqv0x6ueSxb5_JMdHS7fUJS0SA32EuzK0lP1s1G9A-_GynxjTnd6OBvjJsUazQRYtTt77wJ6bek1Tw3A2oxHYEt7MMGafulVFLgKlF5qDjwnb8_JAWNT21pKo5SA5rDNKI5I34EdfH-pjjNyLpm0r7ZRgUeU0dwMsxzFHdmNh5ESmmCLKucahpD2Adl3-yc_YZBfxkxRXtmB6tDngArBxjDnoMFmhoHZ_X47GrAbFNc-V8sAPWGUvVj8=",
+          "fields": []
+        },
+        {
+          "name": "pitchonnet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0eqXkuNKJ4v3w_dG6EjAX8w7abnU6YtE6XOu4kkwqcbylt1PgwfaD-AvRzEn9J6_Y9xvZbZ0gax0n9_fZWCn4lBWbwNOYbmLLpvbya53RR2Kxg2cQcKpT_myO01vD7IYS9mekLu05XDbCynBvYA1-DJh0hfGa14VDQznUDEryrngeH7vUg4JfdnlJxxyNWk3IovogeLupe6X5oeVH3Gxog==",
+          "fields": []
+        },
+        {
+          "name": "businesstoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG359HBhbteH9npaKgds7Qjvz1cra2p41bETbIV9zlILOSiIylx6GyCvLImSbqAqStWe-7az0qiSh5YRLI_RuEgAFI6Lf5KFp5RihBa8ejOVxEw12gX9Dx2EfMw5JlnNEzG_lM-xNixA6eDMkof2LiwjzP2T5bSfQG2n06IQklHUpUG3GS7DfRy-jbYBkI4Pp-PhjxSs1_6FTVEB0NuuAFWK3QNBPfgIaWS8DVKPvzIb-61XjRBGTjpy7hxBO2AL4SDtoGH5pI1OdU4_utdMrjtz1mp4_yWP2V1LkfoWB7jdVteOxSuv2N754Cq7Q==",
+          "fields": []
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF95W5vk9w8n2ay29Li1VSn-akjeY2yAe5bmny-CBRRGUs-IiiAQ3u44x_YtgCvF2tCzGYnPPR-LjP6IeS2kVa2Phpk3yo7EmLKbKq-GFtnz8-4LyTYM4VfCoTp5G_Iv2sZI7ElIaqR41xZbNrv_iZ9EmUxm5j7R61cx5z74sp4ahhg1vnLjoajy_ikSg==",
+          "fields": []
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4mmizuzkVP-EHw4J0Q00Rc93CxJsCwsMxZaJ58q-MJXj_ab_ja66CcHAcDDRjrH6Y-YhooDbL0dI2DsvJZUWjcBrlD_pj1j8xdqT3oCkOgGTAThpswiGkKCl-p5vOMIl2Qjnt-2NX_3oirZVJK3q31hs-UjmIW4kyQ_A3M-sujB31yM9CITYLD8atIGMIxHGHZceRxdRbKOCCxMyzLAq6XZleW-38GgBbxcQY0_V8ESun4_WAaJzlcnvinWAPjQL-5nc5n7cB0S_",
+          "fields": []
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRY1Z16WiGH1EWZ9vFOluO2xQcus44Ac7aWxuN9_Sd9PHKTYY1jipTIdCYWFPcqp7Zf1VwJ-U7DG0H3LMp_Jfjc8f_6rc4r77uMTud7pub1YmYb7ZAprtGp7UOZctBeU-V5wFmyd7Npr6SVCu_S4sbB82vmSx71M6IJck-_1ZjwlZMd3G4uRftCSyFVrjNik3-z4hv9m37byyvOuz6LnkIxsQ1TLAAgDbeACdhzfVIYBqUcEBlnwVODgErm6bN-eGHREB7HOimzmua",
+          "fields": []
+        },
+        {
+          "name": "quashbugs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbvyGGrPAOB3tMGaUbWO8qZbN4B14HP6pWDjTvzlDP2SlOvXLw08fmzuOgN9s_ToXB9mDVOaQQs0dTS_HPVPSfX-dJz48a5Su-FatIiYZfbB1u1oE4j3T_xWZN24d7r8yVvOxws2kLWQCkr7zgGZ8jOb_vsNp7N_rjzalqe_qLw==",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXXGA8A1QqwF3r7O44yli1g1-vZSbKZeX8HbCe0doOR_5jkKuLvcL3kPn9UN7He8DHEhOcsj5Gz3wUgoB7nKSxS1mWmI6i1A2jtg7R3S2-LKmeH2dDPIFguBdZafAqmm5qz8AyRGOi1c_SHgCpub5jdjYi7KBNE40l7iuSPEMd7AgpkQRlKc_CPo4qxegAAvaLZuDk-SRCpg3lZv0d7o3zxP8x75CVfdY=",
+          "fields": []
+        },
+        {
+          "name": "entrackr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8EQP8dwhwymOpk-lZdtcFmf1Ei_PCXB7ldBAp3l-RgGB2bZuhlLIwcZtUjmy2uEdFm2tKheWWMX0EiKaRRgg2S4L8JrI8X3xpMt_s5kvymfMXFZENCU-QHqmQUJlPbhOq_GgI2CCgImjhBFfMO7t7YQul0mqai-SScyZTvMX76iQpMwjgfoR8qPEbcoAEDstG6gHGdA==",
+          "fields": []
+        },
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8VWOSYnQB6EPhIAmDGhJYkGGcuQwN-ejVoRa4kmUu1iYkFGlIGzPCkg8_V34eoksIRZnzWFPHGL108_O7ylSdvW8KLIJ_a5EG2eNenykAS8cFy4olRcE-EMGuYxdiI9raEjsxCK5maFshPPQLDZI3jWzcHNgsmRYR4gz2aUBYyo10VlXG7VhXmjWDtlSadLO",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segment-Level Gross Order Value & Take Rates",
+      "confidence": "medium",
+      "completeness": 0.556,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Food Delivery Gross Order Value (GOV) (INR Cr)",
+        "Quick Commerce (Blinkit) GOV (INR Cr)",
+        "Advertising Revenue (INR Cr)",
+        "Zomato Gold Subscription Revenue (INR Cr)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "This data is critical for evaluating the growth trajectory and monetization efficiency of Zomato's core food delivery and emerging quick commerce segments, directly impacting valuation and investment thesis.",
+        "banker": "Understanding segment-level GOV and take rates is essential for assessing the revenue drivers and potential for cross-selling or bundling opportunities, which are key to pitching Zomato for M&A or financing.",
+        "credit_analyst": "Segment-level take rates and revenue streams provide insight into the profitability and diversification of Zomato's business, helping to assess its ability to service debt and manage financial risk.",
+        "consultant": "Analyzing segment GOV and take rates allows for a deeper understanding of operational performance and competitive positioning within each business vertical, informing strategic recommendations."
+      }
+    },
+    {
+      "heading": "Segment-wise Adjusted EBITDA & Margins",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Food Delivery Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 532
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Food Delivery Adjusted EBITDA Margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 5.5,
+              "note": "of Net Order Value (NOV)"
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Food Delivery Contribution Margin (%) per order",
+          "value": [
+            {
+              "period": "Q3 FY26 (Quarter ended December 31, 2025)",
+              "value": "6% to 7%",
+              "note": "after delivery costs"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No specific Q3 FY26 contribution margin per order after delivery costs was found."
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 37
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Adjusted EBITDA Margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 0.3,
+              "note": "of Net Order Value (NOV)"
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Hyperpure Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 5
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Order Value (Quick Commerce, INR)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 525
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Food Delivery Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 532}]",
+        "Food Delivery Adjusted EBITDA Margin (%): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 5.5, \"note\": \"of Net Order Value (NOV)\"}]",
+        "Food Delivery Contribution Margin (%) per order: [{\"period\": \"Q3 FY26 (Quarter ended December 31, 2025)\", \"value\": \"6% to 7%\", \"note\": \"after delivery costs\"}]",
+        "Quick Commerce (Blinkit) Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 37}]",
+        "Quick Commerce (Blinkit) Adjusted EBITDA Margin (%): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 0.3, \"note\": \"of Net Order Value (NOV)\"}]",
+        "Hyperpure Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 5}]",
+        "Average Order Value (Quick Commerce, INR): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 525}]"
+      ],
+      "references": [
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76TEy7O8-QgApB7Ak8iSV5huaL_-RwuG3Z8VcPbq0zfLA-77gulIcNG7W42CAOzlx3JfvUIbh8LAuFoepKYjDLIAX6fYlGMgvTZpKT8v3gO9q-cRzkDTYm2iFA-vBkvUGSnlqiBRBsbtmcI02knCwu56PQ7e8iyezMFTIvYmu5WGbrN130srAIRYIXEO8dbDcnmNJQibaO08=",
+          "fields": []
+        },
+        {
+          "name": "brineweb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMokC8dN19O8WG_npw0civ9Ds2yHvr2lLH0Q6GewDof0QBCIwl1nbdenz76oJC9IRIcOCGxmKBbP1HvlJqc6s_FF1FvWjCytziKW8LNKITkkPjS5NhI8wOkeHPKWp52WW12CbmzP6WvR2vnBGWGQtBNoSv3X7qktxdM9qvpXoRRMVg7WyjsOm3QHlN",
+          "fields": []
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1l8VWOBdeON1os7ZbYwr84LLvTrhwnDizfYB2g4L_2tBFT6uQZId97QAjV1vbn9Gepc4reQlem2K5Iali2LjD_Fxu2B4jmK_oRm4_a6uihTFA62l75T7vYZlDcaZnMhKUn0DJ0t8r0hPTzzvn9JO_SAuzsJUYwG8BBncXEGX0O6WI6Mwa2pyDLpXyA==",
+          "fields": []
+        },
+        {
+          "name": "quashbugs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8qMRDXj3X49OqWjcgtQKyjLBoGOYCLA0tpDDF4OzhAYEC_KwcN1ZK-1wSp_5brJYI_GDWxLP5pBaJ0XPtHsY0clPPhTg4oLehexZIerjvwlkBccWhyMvN45Q3NXOOLsBNbDPdyk8QjlUQLPnwoKcUG3uUx_SGFbpONUVhwPuhw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segment-Level Profitability & Unit Economics",
+      "confidence": "high",
+      "completeness": 0.7,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Quick Commerce (Blinkit) Contribution Margin (%) per order",
+        "Hyperpure Gross Margin (%)",
+        "Average Order Value (Food Delivery, INR)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "This data is critical for assessing the profitability trajectory and scalability of Zomato's core segments, directly impacting valuation and investment thesis.",
+        "banker": "Understanding segment-level unit economics and margins is essential for identifying potential deal synergies or carve-out opportunities for M&A or capital raising.",
+        "credit_analyst": "Segment-level profitability and contribution margins are key indicators of operational health and debt servicing capacity, influencing the credit risk assessment.",
+        "consultant": "Detailed unit economics and segment margins provide the granular insights needed to identify operational improvement levers and strategic growth opportunities."
+      }
+    },
+    {
+      "heading": "Key Unit Economics (FD & QC)",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Food Delivery Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 532
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Food Delivery Adjusted EBITDA Margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 5.5,
+              "note": "of Net Order Value (NOV)"
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Food Delivery Contribution Margin (%) per order",
+          "value": [
+            {
+              "period": "Q3 FY26 (Quarter ended December 31, 2025)",
+              "value": "6% to 7%",
+              "note": "after delivery costs"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No specific Q3 FY26 contribution margin per order after delivery costs was found."
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 37
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Quick Commerce (Blinkit) Adjusted EBITDA Margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 0.3,
+              "note": "of Net Order Value (NOV)"
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Hyperpure Adjusted EBITDA (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 5
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Order Value (Quick Commerce, INR)",
+          "value": [
+            {
+              "period": "Q4 FY26 (Quarter ended March 31, 2026)",
+              "value": 525
+            }
+          ],
+          "sources": [],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Food Delivery Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 532}]",
+        "Food Delivery Adjusted EBITDA Margin (%): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 5.5, \"note\": \"of Net Order Value (NOV)\"}]",
+        "Food Delivery Contribution Margin (%) per order: [{\"period\": \"Q3 FY26 (Quarter ended December 31, 2025)\", \"value\": \"6% to 7%\", \"note\": \"after delivery costs\"}]",
+        "Quick Commerce (Blinkit) Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 37}]",
+        "Quick Commerce (Blinkit) Adjusted EBITDA Margin (%): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 0.3, \"note\": \"of Net Order Value (NOV)\"}]",
+        "Hyperpure Adjusted EBITDA (INR Cr): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 5}]",
+        "Average Order Value (Quick Commerce, INR): [{\"period\": \"Q4 FY26 (Quarter ended March 31, 2026)\", \"value\": 525}]"
+      ],
+      "references": [
+        {
+          "name": "zmtcdn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76TEy7O8-QgApB7Ak8iSV5huaL_-RwuG3Z8VcPbq0zfLA-77gulIcNG7W42CAOzlx3JfvUIbh8LAuFoepKYjDLIAX6fYlGMgvTZpKT8v3gO9q-cRzkDTYm2iFA-vBkvUGSnlqiBRBsbtmcI02knCwu56PQ7e8iyezMFTIvYmu5WGbrN130srAIRYIXEO8dbDcnmNJQibaO08=",
+          "fields": []
+        },
+        {
+          "name": "brineweb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMokC8dN19O8WG_npw0civ9Ds2yHvr2lLH0Q6GewDof0QBCIwl1nbdenz76oJC9IRIcOCGxmKBbP1HvlJqc6s_FF1FvWjCytziKW8LNKITkkPjS5NhI8wOkeHPKWp52WW12CbmzP6WvR2vnBGWGQtBNoSv3X7qktxdM9qvpXoRRMVg7WyjsOm3QHlN",
+          "fields": []
+        },
+        {
+          "name": "sahi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1l8VWOBdeON1os7ZbYwr84LLvTrhwnDizfYB2g4L_2tBFT6uQZId97QAjV1vbn9Gepc4reQlem2K5Iali2LjD_Fxu2B4jmK_oRm4_a6uihTFA62l75T7vYZlDcaZnMhKUn0DJ0t8r0hPTzzvn9JO_SAuzsJUYwG8BBncXEGX0O6WI6Mwa2pyDLpXyA==",
+          "fields": []
+        },
+        {
+          "name": "quashbugs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8qMRDXj3X49OqWjcgtQKyjLBoGOYCLA0tpDDF4OzhAYEC_KwcN1ZK-1wSp_5brJYI_GDWxLP5pBaJ0XPtHsY0clPPhTg4oLehexZIerjvwlkBccWhyMvN45Q3NXOOLsBNbDPdyk8QjlUQLPnwoKcUG3uUx_SGFbpONUVhwPuhw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Segment-Level Profitability & Unit Economics",
+      "confidence": "high",
+      "completeness": 0.7,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Quick Commerce (Blinkit) Contribution Margin (%) per order",
+        "Hyperpure Gross Margin (%)",
+        "Average Order Value (Food Delivery, INR)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "This data is critical for assessing the profitability trajectory and scalability of Zomato's core segments, directly impacting valuation and investment thesis.",
+        "banker": "Understanding segment-level unit economics and margins is essential for identifying potential deal synergies or carve-out opportunities for M&A or capital raising.",
+        "credit_analyst": "Segment-level profitability and contribution margins are key indicators of operational health and debt servicing capacity, influencing the credit risk assessment.",
+        "consultant": "Detailed unit economics and segment margins provide the granular insights needed to identify operational improvement levers and strategic growth opportunities."
+      }
+    },
+    {
+      "heading": "Hyperpure B2B Metrics & Supply Chain",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of Hyperpure Restaurant Partners (Active)",
+          "value": "44,000+",
+          "sources": [
+            {
+              "name": "markhub24.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI8ymTEYi0Z2-y44Ht1GpYRZkM-JnenLEY2QqthhViXolu28u0fWOifGDLl675NdLcGVQdEkzScbsZ92ik1tsPXrV5HlSjiGhSSs_ROmsIXa1DuKh-m3Uk0JVfoi3ClcBke2c_Ahr0zgnHfaL567eGcaKJZV4GohLac3QiQTec0or_VUx5fAJZh1wFBmk4ymZ62NrCQGsO"
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of SKUs offered by Hyperpure",
+          "value": [
+            {
+              "region": "Delhi NCR",
+              "value": "close to 80,000 SKUs",
+              "period": "Q4 FY26"
+            },
+            {
+              "region": "Next seven cities",
+              "value": "50,000+ SKUs",
+              "period": "Q4 FY26"
+            },
+            {
+              "region": "Beyond that",
+              "value": "averages around 20,000 SKUs",
+              "period": "Q4 FY26"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Sahi",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5OoU2LwKW2uMMbyo0OzPkkYMsRCbI3tvIWXcHPp6Fsg3Vf7tW-FbuwmNBM3WH3cyjazLSrExydRdAFZ7K6nZytNSzIprvfiwMjo65VNoGcr2xz6Gp9e2pdP58iU-_2Mt1YJj0FOu-39rxHtoyxpM20kAu5gSqxelD-jfhUKuY0XzW2BZwypeINOQX"
+            }
+          ],
+          "verified": true,
+          "verdict": "confirmed",
+          "verify_note": ""
+        },
+        {
+          "label": "Hyperpure Warehouses/Distribution Centers Count",
+          "value": "Present in 8 cities",
+          "sources": [
+            {
+              "name": "eternal.com",
+              "url": null
+            }
+          ],
+          "verified": false,
+          "verdict": "corrected",
+          "verify_note": "Hyperpure operates in 10+ cities, not just 8."
+        }
+      ],
+      "bullets": [
+        "Number of Hyperpure Restaurant Partners (Active): 44,000+",
+        "Number of SKUs offered by Hyperpure: [{\"region\": \"Delhi NCR\", \"value\": \"close to 80,000 SKUs\", \"period\": \"Q4 FY26\"}, {\"region\": \"Next seven cities\", \"value\": \"50,000+ SKUs\", \"period\": \"Q4 FY26\"}, {\"region\": \"Beyond that\", \"value\": \"averages around 20,000 SKUs\", \"period\": \"Q4 FY26\"}]",
+        "Hyperpure Warehouses/Distribution Centers Count: Present in 8 cities"
+      ],
+      "references": [
+        {
+          "name": "markhub24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI8ymTEYi0Z2-y44Ht1GpYRZkM-JnenLEY2QqthhViXolu28u0fWOifGDLl675NdLcGVQdEkzScbsZ92ik1tsPXrV5HlSjiGhSSs_ROmsIXa1DuKh-m3Uk0JVfoi3ClcBke2c_Ahr0zgnHfaL567eGcaKJZV4GohLac3QiQTec0or_VUx5fAJZh1wFBmk4ymZ62NrCQGsO",
+          "fields": [
+            "Number of Hyperpure Restaurant Partners (Active)"
+          ]
+        },
+        {
+          "name": "Sahi",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5OoU2LwKW2uMMbyo0OzPkkYMsRCbI3tvIWXcHPp6Fsg3Vf7tW-FbuwmNBM3WH3cyjazLSrExydRdAFZ7K6nZytNSzIprvfiwMjo65VNoGcr2xz6Gp9e2pdP58iU-_2Mt1YJj0FOu-39rxHtoyxpM20kAu5gSqxelD-jfhUKuY0XzW2BZwypeINOQX",
+          "fields": [
+            "Number of SKUs offered by Hyperpure"
+          ]
+        },
+        {
+          "name": "eternal.com",
+          "url": null,
+          "fields": [
+            "Hyperpure Warehouses/Distribution Centers Count"
+          ]
+        },
+        {
+          "name": "eternal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7eeHc3bJ3Xv6T9ePuB4325ruHXyXkGv8wDiVVpFRtzXkwXwVAcAt2Y4WnbiKuulKkVDSKTljvz2RQy9cCKx-VQVEjX8KvNFzvEl1l8UP7nxg5-TSxI2Zvz2bnNTUvs4YsLrg6",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_VyqIeDZ_wjerIRZLIztvkfV3xL4cgyWpQ4Flp1mjX6bGFVAyq4dwb6Rd9BQ18befYRhYBKJCojYgyPoIPBh7ViE4fr35YR1PVG_dAP6xEp6DTP4pT9vf7fOMje_LlB5aO3GgkQivJNIWCGhfDhPrVGP1k9EMWfkB0lZ9IYKvDxOUhuDNVCUfRXzysDnQxAghsn5bjaTZ7yDEa5z1OKrbs1gLFUokO_pABOyHak4xWGGkkcG89dEZCnQitZnPBUw_Kn-Z2Gecw==",
+          "fields": []
+        },
+        {
+          "name": "entrackr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW03ZpbcYNyQ5tZ0GPQ6ypMY7Rn2IIYe5jV9Jukl7O-zGmiuDQU2mOQpw5RCEER4KG-k7b52MMcn0pva_u9qGqvpxNKK2YpW0lvCVxbQmhKDp6XbkhuUs2-Pq4FL7Rq0-XvmQ6eMSuu4vM98xPxi94gtgXM3at0jTetGp8alJK0gjfZIbieQ-qMD3Oa4Mxgo7ZcsEm",
+          "fields": []
+        },
+        {
+          "name": "entrackr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZfrIyi3dbCEpXS8jd2fGjdemuLrRlImdcPxWS-jNgKusX8Z0bUrIU7RGRNJUtgLdvFg4wOxAAC3e-ZxLYPmjq62e8ihPsMUOLzYx1gUk-I99-MLzJ069nmyB67OVyiHBxX7pzWqmsApekVM7l3JqKh-sxfPnllAvmZhNZVjW9v03JJLaCINeKVSO88RozeoNYgdNjrElWXcHmLT5E9A==",
+          "fields": []
+        },
+        {
+          "name": "indianstartupnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZjdEoiTRMvF8y3HR2bDEinmB0QViFei4XWkG5GnUfudMtHvYFiEVZv96mj-8bO3tS-PbOZA3jBKD3r22iJ6nHkXogwXsfP7x3ck9ywlTNJWOQd6TJPsp_gmoBMS09AzTLJsFTozzJvrt7y-qCrBpPTSOJnkSMa187GQh4svUG3CW4-Fc3qI2Z3Qbt4-tMuqUYXG2xpJ3vk299caYUyC9iB40NA6a2cvd77eNiEHclcvYS",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFehep4B6A15MnUSMqvX9-bwgcED2nBsLt-zaVx7ZNWvIe_YOkUwC7WipPVHnoTk_rf5v2I5ElQJyJ4rhWuS8qAgKP8n1HBxbIJdneUVno7_2GxNnIZ24Ey0CvJ9YSw3y-Sykr7qbek0GScgadqxBJMbtb4jJTH0A9Li0ypZumlzkHRgUQaBlStuaPWTZ9zSAkfHnZDyMHN-xHhRq5BKbZFS5W7qGTm7lLjzCPIDnI0r27WfbM0R7AdtwupbZrU8uDBAG9Rt1VlLtw=",
+          "fields": []
+        },
+        {
+          "name": "indianstartupnews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpizpFuiLmgc0s2bmyIJ1CmBKUyOmu54tSwY5vvZBQDgZFUBmObgbzMiDVxxHCUnzLugIQhlT3iJWW_VxrrLjuNXdqvLYA0caNF3xOzyLnCwaQ2x9JTyhll11ydvbeCWXWM63sR1rZ0GhF6z_77rIezT47svRKWWxxeNH0ZUg54URioWE1NdJE6JHmDZr08PMWwONscvrV02k5AZmzqIYFSjnwKLbrxHb13nv8od6OIcBNaA==",
+          "fields": []
+        },
+        {
+          "name": "entrackr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENUdpc1ZmjYkLEqendOxXtZefXNmWF0drJ5SxqIX24eAB_V8Q2FOK_LUoejgaQQ6Xxg_LsG7YkUCh2fLiIMG_kJpvNYpAKHrbOSwdLeqmh9blfUhl0baIKEOBZeXwzXBnSA9_KWI5R2e17OzL7zGMyYbMwonHMLfahfW_4Qtfm1IyUWUrzQd0roq6vT6WsAM-OetsI6O9L_TKeUNSvxo8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Hyperpure (B2B) Customer & Supply Chain Metrics",
+      "confidence": "medium",
+      "completeness": 0.375,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Hyperpure Revenue per Partner (INR Lakh)",
+        "Hyperpure Customer Retention Rate (%)",
+        "Hyperpure Inventory Turnover Days",
+        "Backward Integration % (e.g., own sourcing for fresh produce)",
+        "Hyperpure Gross Merchandise Value (GMV) (INR Cr)"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "Pursue: The granular B2B metrics for Hyperpure provide crucial insights into the operational efficiency and growth potential of Zomato's supply chain business, directly impacting its valuation and investment thesis.",
+        "banker": "Pursue: Understanding Hyperpure's partner growth, revenue per partner, and inventory management offers a clear picture of a potential standalone business unit or a key driver for M&A, justifying deeper diligence.",
+        "credit_analyst": "Pursue: Hyperpure's revenue per partner, inventory turnover, and backward integration metrics are vital for assessing the financial health and operational risk of this specific business segment, influencing creditworthiness.",
+        "consultant": "Pursue: The data on Hyperpure's partner count, SKUs, warehouse count, and backward integration directly informs potential operational improvement strategies and competitive positioning analysis."
+      }
+    },
+    {
+      "heading": "Blinkit Network & Operational Metrics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of Blinkit Dark Stores (Current)",
+          "value": "2,243 (as of Q4 FY26)",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Target Number of Blinkit Dark Stores (Future)",
+          "value": "3,000 by March 2027",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Blinkit Dark Store Expansion Rate (YoY %)",
+          "value": "72.4% YoY for Q4 FY26",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Blinkit GOV per Dark Store (INR Cr)",
+          "value": "₹7.24 crore per dark store for Q4 FY25",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Delivery Time (Blinkit, minutes)",
+          "value": "12.5 minutes in March 2024",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "SKU Count per Dark Store (Average)",
+          "value": "6,000 to 10,000 (as of April 2026)",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Blinkit Market Share (%)",
+          "value": "Nearly 50% (as of May 30, 2026)",
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Blinkit Dark Stores (Current): 2,243 (as of Q4 FY26)",
+        "Target Number of Blinkit Dark Stores (Future): 3,000 by March 2027",
+        "Blinkit Dark Store Expansion Rate (YoY %): 72.4% YoY for Q4 FY26",
+        "Blinkit GOV per Dark Store (INR Cr): ₹7.24 crore per dark store for Q4 FY25",
+        "Average Delivery Time (Blinkit, minutes): 12.5 minutes in March 2024",
+        "SKU Count per Dark Store (Average): 6,000 to 10,000 (as of April 2026)",
+        "Blinkit Market Share (%): Nearly 50% (as of May 30, 2026)"
+      ],
+      "references": [
+        {
+          "name": "markhub24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEave5GgChTsKvquJKPq26kYzzWYWWfCP43blgY12fmGuX-9DBdAG-KzGPYDE5MeS_hi_QXW83e6fdZ_wYhLtVAJWiq9R1DqO6SYrwpEDiMe9uPUrRIxPb0HYkhe-1NAjbd_KaGoW9y1yPOq73W607OsJVgVlHtGjnlRAb4x0YTlv9nvJ20W63rlVqs",
+          "fields": []
+        },
+        {
+          "name": "brineweb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwr2b1_VMs0Ej4WV_0Flf_9Vh8XH4VE0UigLGi_EsqVCjuGuaUL-QJ5Xr_84RZ-tmx4qVWsr-vVwPiZxgg0yNHq9BeQD-8tsx3n5MPKCDUry7UiiXKMs_Jq-z3mGT-0Kl3WvW2VnxWTEdhHos8DGtzm_0Jxf3gaFsJ30ygNssvSbt5iJBJEicpcGjhyw==",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3lqJHcyDpzza7atZ6VZFuINfmWCGRM3UfA9mrgOTnOx_sqYsAQGOfcnZAeYx184E-wzv7M7r8md6g16oQ2okv0hgEFhcRhwG1NXXI1DUjp3bFKOgMdPw-YtkVW7ftd6ErhuGZnGHjA0PqOvd2GyADmdPdqTA9qmoIMEsuIhza-XXhRXG4rJDjGXkYIdC2IL8fYJLIKQDceQ-wvfKfm7gwWsutPcWcC4OFA8fw67rZSwstEbfRhxfw4zpWSerVsWU=",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9kPk8FVcYOTcKpKoLxn4RCom1a7O395xz17iLxFGSE2zpLFh1LB5UAUMvvyAH6YzIWTdK-Q1Q7rUk4CjPlyT_wDYI3aAGbur1Mk-3618VNNX19UfJ6yp_0ARHRcphiOkiHYeJGKygzIDroBX2ADM7jUAtZEvEmPKHkpizxQu6FgLrBWYZi0SxSspEVzI2YKj0Dn1QZo7HrSNVrfDesY95wRa73wZq-0LDAsXn7hobBplyiqpxYWYxt9Q1ZFtdVcNiGgq",
+          "fields": []
+        }
+      ],
+      "domain_name": "Quick Commerce (Blinkit) Network & Operational Metrics",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 7,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: Understanding Blinkit's dark store expansion rate, GOV per store, and market share is critical for assessing its growth potential and competitive positioning within the quick commerce segment, directly impacting investment thesis.",
+        "banker": "Null",
+        "credit_analyst": "Pursue: Blinkit's expansion rate and GOV per dark store provide insights into the capital intensity and revenue generation of this segment, which is crucial for assessing Zomato's overall financial health and debt servicing capacity.",
+        "consultant": "Pursue: The data on dark store expansion, average delivery time, and SKU count per store offers direct insights into operational efficiency and scalability, key factors for identifying potential strategic improvements or competitive advantages."
+      }
+    },
+    {
+      "heading": "Delivery Partner Scale & Economics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total Active Delivery Partners (Food Delivery + Quick Commerce)",
+          "value": [
+            {
+              "period": "late 2025/early 2026",
+              "value": "4.8 lakh"
+            },
+            {
+              "period": "January 2026",
+              "value": "4.8 lakh"
+            },
+            {
+              "period": "February 2026",
+              "value": "4.8 lakh"
+            },
+            {
+              "period": "New Year's Eve 2025",
+              "value": "Over 450,000"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for active delivery partner numbers."
+        },
+        {
+          "label": "Orders per Active Delivery Partner per day (Average)",
+          "value": {
+            "period": "New Year's Eve 2025",
+            "value": 12,
+            "note": "peak day"
+          },
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for orders per active delivery partner per day."
+        },
+        {
+          "label": "Delivery Partner Churn Rate (%)",
+          "value": [
+            {
+              "period": "monthly (as of January 2026)",
+              "type": "terminated",
+              "value": "around 5,000"
+            },
+            {
+              "period": "monthly (as of January 2026)",
+              "type": "voluntary leave",
+              "value": "Between 1.5 lakh and 2 lakh"
+            },
+            {
+              "period": "monthly (as of January 2026)",
+              "type": "onboarded",
+              "value": "similar number"
+            }
+          ],
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for delivery partner churn rate."
+        },
+        {
+          "label": "Average Delivery Partner Earnings per hour/order (INR)",
+          "value": {
+            "per_hour": [
+              {
+                "period": "2025",
+                "value": 102,
+                "note": "excluding tips"
+              },
+              {
+                "period": "2024",
+                "value": 92,
+                "note": "excluding tips"
+              }
+            ],
+            "per_order": [
+              {
+                "condition": "general",
+                "value": "₹25 to ₹120",
+                "note": "depending on distance (₹6 to ₹8 per km)"
+              },
+              {
+                "condition": "quick-commerce (normal)",
+                "value": "₹40-50"
+              },
+              {
+                "condition": "food delivery (normal)",
+                "value": "₹50-70"
+              },
+              {
+                "condition": "peak hours (New Year's Eve 2025)",
+                "value": "₹120 to ₹150"
+              }
+            ]
+          },
+          "sources": [],
+          "verified": false,
+          "verdict": "unsupported",
+          "verify_note": "No credible source found for average delivery partner earnings."
+        }
+      ],
+      "bullets": [
+        "Total Active Delivery Partners (Food Delivery + Quick Commerce): [{\"period\": \"late 2025/early 2026\", \"value\": \"4.8 lakh\"}, {\"period\": \"January 2026\", \"value\": \"4.8 lakh\"}, {\"period\": \"February 2026\", \"value\": \"4.8 lakh\"}, {\"period\": \"New Year's Eve 2025\", \"value\": \"Over 450,000\"}]",
+        "Orders per Active Delivery Partner per day (Average): {\"period\": \"New Year's Eve 2025\", \"value\": 12, \"note\": \"peak day\"}",
+        "Delivery Partner Churn Rate (%): [{\"period\": \"monthly (as of January 2026)\", \"type\": \"terminated\", \"value\": \"around 5,000\"}, {\"period\": \"monthly (as of January 2026)\", \"type\": \"voluntary leave\", \"value\": \"Between 1.5 lakh and 2 lakh\"}, {\"period\": \"monthly (as of January 2026)\", \"type\": \"onboarded\", \"value\": \"similar number\"}]",
+        "Average Delivery Partner Earnings per hour/order (INR): {\"per_hour\": [{\"period\": \"2025\", \"value\": 102, \"note\": \"excluding tips\"}, {\"period\": \"2024\", \"value\": 92, \"note\": \"excluding tips\"}], \"per_order\": [{\"condition\": \"general\", \"value\": \"₹25 to ₹120\", \"note\": \"depending on distance (₹6 to ₹8 per km)\"}, {\"condition\": \"quick-commerce (normal)\", \"value\": \"₹40-50\"}, {\"condition\": \"food delivery (normal)\", \"value\": \"₹50-70\"}, {\"condition\": \"peak hours (New Year's Eve 2025)\", \"value\": \"₹120 to ₹150\"}]}"
+      ],
+      "references": [
+        {
+          "name": "enacton.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4prW3o-u59GCVEpA_mfnQFWK3Q9lT9bkXd7U4qspCOcHQDuft-3GxGWiUvYFivdv1rrdIDmohfnxvn-c42hnhoJvNeGM08-Kk5INoZYM_n3QNwguRRE4JyZQ8ZMATcVinDUjC0kGCHjF1g_cNQ==",
+          "fields": []
+        },
+        {
+          "name": "entrepreneurloop.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvgMbbuW5oa1xMTJM45Y3oy4xfKwFI2ff0ewAY0Bx74A9tqB8mFQNIvQZqN1UUm_BzuX_0ZknZa1SpbxHIUrjl-tFD_dibLSrNmcamkqw5F1ILVZKiPtWZWxp4rBtJSP0Ga_-pEoxhc3CCtDq0IvNbmNN1qtEagPiOYggzJr-N1CICA==",
+          "fields": []
+        },
+        {
+          "name": "bitrue.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ3krmSk1LsnH9d434AvjaXmkTs4XD-eH2c8K2Ssqdj-4ROxWKs1BMOdNZYpqmF1bebAU1aN7PdPkszmWdVd0_hrSb0fGaYhufia4FcNJBXF14pIj2nXVQd9Yd-ml8l5VeTON7TkpIo4kfW-bAcgbj3TvjlIXRLg5zZz8yPa-wgA==",
+          "fields": []
+        },
+        {
+          "name": "freepressjournal.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYFKO3cXq5XqxBmVLW45ftQavmwTAmBPSYLgUkVqgg7ZSJYyXtOgYAM_auFOYlAXsAQaAEQ9WvJ6mvi4Sw-VKfheylOECIeav07mvXp8Gs-ipEAaqlDLjR4HtsH5lQNtZJr2r0CrVlYkZgID0OVDRRL2B27EFb6hLJIwe-YsGqNY_Ja5Vmkj4JB2ycc_ZlDTA1dFokq01jFjAAI1swmQ3scejX0PTDUgFx_s3m1dx4eF0q-N0LZMY9EzgvpbRYXuC27uVF9kpZ3CwNNAnWPQu9CqE=",
+          "fields": []
+        },
+        {
+          "name": "peoplematters.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpZbLQlYUGrdUJ7cuFMI7NEQKyS9F_Hl8Z0dBEmxtU3C9NJIhS--D_QC904vXmnAe8cFH2kpDc2UA4UTzF1TylKV8oAz9_cQxmZWPpTgpUow29iN5uxDFFkoPk2q7f-nr4Ilc_t95ZUHSedUGXufpBpCk4bH2IGgsqkqkLYPSAYL5ESQkQSJrLsbKJXWwyBzrsFHAFU5t6cLx0NIxsBxq64LiX",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNml-tSjnKLqzDX8bk4iBLToDS7dikjV_vGD2BV6K_sLkv3cRC2wv1bAlglyB7zJ6bBQAkcHM_OcaBCSbwhQbZLUiAXX1BzvLkMh6WpSJjNdboGq780S_-owF-Q3ZXN67nPldIl_dkeGsM-nWv4SRnn_dx3Q4eNlfMAm5XOyMzf85flo5PoPQZC5RO-y_cOHiAT_1_F3wz4ciVWmDDdv6mJctI70c218w7T8NSqq8Q8GSKyWc1YA5d8cgKG_uTcJxEI426ZUVTMvVw-BroIcUWzQne9_X5YwmFNGSg312Jp6hc-9Eq3aWDnnhx00dyLVi3xvvXdZgmi6zDog==",
+          "fields": []
+        },
+        {
+          "name": "alphareach.tech",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHbcmwC4xUSIR8HIyYlngbg6M2oNVN__QkFOnf8LsdrhVjSg2JPJhQveqrveCpavNnhszMnvLVLemjZro1OFwtucNF09u4inUCIDyd8L-i2aBmaCUll2ZkkSRY3H6SNR9lbw0rQWG330QKaof5YsLWGcd3gKme6gIRXFkC8bk=",
+          "fields": []
+        },
+        {
+          "name": "niftytrader.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR8-I4qlE64V6c_Z8YZBtl6OjJb6ziCZNdWJwjxgSfgWfD2YEIsp5mQeSlo-N8pq1rGVA0hAIul4XrfKEp1TA-SdRKAXgQW4_c_2attjCK2U99TIAUvKNyXd4Q7h27_NQ_yK7nPS3nD3lyZFwCr9Q_gDHsMJotehrjLbdBNjQj8UxIUuwSvnv8ON3ZnX2APAUnNd3kuCpKIXKzN3a1Tu19aYGzlBWaz8bhZm4k",
+          "fields": []
+        }
+      ],
+      "domain_name": "Delivery Partner Ecosystem & Economics",
+      "confidence": "high",
+      "completeness": 0.667,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Delivery Partner Payouts (as % of GOV)",
+        "Delivery Partner Incentives (as % of GOV)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: Understanding the economics and scale of the delivery partner ecosystem is critical for assessing Zomato's unit economics and long-term profitability, directly impacting investment potential.",
+        "banker": "Null",
+        "credit_analyst": "Pursue: High delivery partner churn or unfavorable payout structures could signal operational instability and impact Zomato's ability to meet its obligations, warranting deeper underwriting.",
+        "consultant": "Pursue: Insights into delivery partner economics and churn are essential for identifying potential operational efficiencies and cost-saving strategies within Zomato's logistics network."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": true,
+    "verdict_counts": {
+      "unsupported": 12,
+      "confirmed": 18,
+      "corrected": 1,
+      "unchecked": 7
+    },
+    "cost_usd": 0.000738
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.02176,
+    "domain_research_usd": 0.084983,
+    "accuracy_verify_usd": 0.000738,
+    "actual_total_usd": 0.107481,
+    "actual_calls": 27,
+    "elapsed_seconds": 182.5,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.016997,
+      "estimated_generic_domains_usd": 0.10198,
+      "estimated_synthesis_usd": 0.067986,
+      "estimated_total_usd": 0.276709
+    }
+  }
+}

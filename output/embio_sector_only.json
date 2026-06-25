@@ -1,0 +1,1960 @@
+{
+  "company_name": "embio",
+  "generated_at": "20260624_193110",
+  "resolved_subsector": "controlled-substance API & intermediates manufacturer with biotransformation platform",
+  "sections": [
+    {
+      "heading": "Controlled Substance Licenses & Quotas",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "History of DEA audits and compliance record",
+          "value": [
+            {
+              "inspectionEndDate": "2025-05-02",
+              "fmdDate": "2025-07-28",
+              "fiscalYear": 2025,
+              "classification": "NAI (No Action Indicated)"
+            },
+            {
+              "inspectionEndDate": "2019-01-31",
+              "fmdDate": "2019-07-30",
+              "fiscalYear": 2019,
+              "classification": "NAI (No Action Indicated)"
+            },
+            {
+              "inspectionEndDate": "2016-04-21",
+              "fmdDate": "2016-12-09",
+              "fiscalYear": 2016,
+              "classification": "VAI (Voluntary Action Indicated)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "pharmajungle.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3IBEuMZnDv0VSEYTAKQ-GaP4rl8fqfl76PS8XCD2cZVSggzihBdQYKBinCpvvsRx8ufkkMBC9smOGHXtV6VeR-J_NCLH4BSKwmXXI1xX8p6dP46GWPGI3UZuVhCLUjhgIfktjyekrvoHnsLhjNrXlJbF1nEQ="
+            }
+          ]
+        },
+        {
+          "label": "Number of active Drug Master Files (DMFs) filed with USFDA",
+          "value": 6,
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        },
+        {
+          "label": "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe)",
+          "value": 2,
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        },
+        {
+          "label": "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia)",
+          "value": [
+            {
+              "market": "Japan",
+              "filings": "4 JDMFs"
+            },
+            {
+              "market": "Korea",
+              "filings": "10 KDMFs"
+            },
+            {
+              "market": "Europe",
+              "filings": "9 EU WCs"
+            }
+          ],
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "History of DEA audits and compliance record: [{\"inspectionEndDate\": \"2025-05-02\", \"fmdDate\": \"2025-07-28\", \"fiscalYear\": 2025, \"classification\": \"NAI (No Action Indicated)\"}, {\"inspectionEndDate\": \"2019-01-31\", \"fmdDate\": \"2019-07-30\", \"fiscalYear\": 2019, \"classification\": \"NAI (No Action Indicated)\"}, {\"inspectionEndDate\": \"2016-04-21\", \"fmdDate\": \"2016-12-09\", \"fiscalYear\": 2016, \"classification\": \"VAI (Voluntary Action Indicated)\"}]",
+        "Number of active Drug Master Files (DMFs) filed with USFDA: 6",
+        "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe): 2",
+        "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia): [{\"market\": \"Japan\", \"filings\": \"4 JDMFs\"}, {\"market\": \"Korea\", \"filings\": \"10 KDMFs\"}, {\"market\": \"Europe\", \"filings\": \"9 EU WCs\"}]"
+      ],
+      "references": [
+        {
+          "name": "pharmajungle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3IBEuMZnDv0VSEYTAKQ-GaP4rl8fqfl76PS8XCD2cZVSggzihBdQYKBinCpvvsRx8ufkkMBC9smOGHXtV6VeR-J_NCLH4BSKwmXXI1xX8p6dP46GWPGI3UZuVhCLUjhgIfktjyekrvoHnsLhjNrXlJbF1nEQ=",
+          "fields": [
+            "History of DEA audits and compliance record"
+          ]
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw=",
+          "fields": [
+            "Number of active Drug Master Files (DMFs) filed with USFDA",
+            "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe)",
+            "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia)"
+          ]
+        },
+        {
+          "name": "justice.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkX_ViIVOyn4Nl_tHdZGsVjOv_Q-EhXaBlIcjGU9av0hsJVVuzvCLxGwZDSjaomXRfzKHHdxZ28bxBeD7MG-XdGa9rnrNfwHAa_4AUd4pn8drTDqrH0aBy21uMYWsIu-iFPIl-KcgFCufxIIXXfP4U_-q5QJIPXE4JrCw=",
+          "fields": []
+        },
+        {
+          "name": "dea.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMV3twCaI-FQPCGgE13acw0vH2uTDdXLpl0FUW6I89v7m7jv4gbCnbZoEiaHyOc-HbAw3YzLT4bGoAwgXhExYiz2ufO6R_AM6hG9znIQJS4AADy7QECQPArO2yijQaADBRcBLHJxQftvcRUqWrQoFi5eHlCcvvYeHjQchDf5zd_FjVHjhdB-6W__dCTj5CekQTpI4uw==",
+          "fields": []
+        },
+        {
+          "name": "federalregister.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCljxTL2Y6eYYMSx1dI7Ebh6PAOa9tQv_tA1h27RPJFYeIgoTSQjo6_zn5f-I16njtuv47Alnnn7Ru2Mg0wsHdgJ2KYpTi0BxrZVPOvxc18LlNeFaVlenK73_KGMdZ7WVoIoHxSkx6KfaJTw8wDi3NtIHp77JWfBwxuqw1hYbiLpPRFwKJmOtbE46QMShOqREqpvZo2Jyv73K7rybgvcXS9jDsBqb0pi0YEMlNU6gI0KFI4EIupmRM6D06EqWgoxzAG9IDhhAXWvQWACzQFs9NPlEhVsR5PbcpOuLEr6K9GJ8=",
+          "fields": []
+        },
+        {
+          "name": "accountablehq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWM8aQ-6QzngCoRb15uB8Pvvm_car40lov9BUa3mOuTo46aC-pRooPTEcCio_bEYF6hin0E5frez854uSYCaT9tTSPQ-dQQtF6cSkGGKIMcpXXrqd-NyP4nsVj-WJcbRokJ6nmeD9tKPnxN9yLV_Gf7PQkv_R-JCUiZAqGSeUSym52Ez7wp1tD0AaPKQFj8wDdtcVf0NJ2F4r8A9NqmYSVj-kXo14=",
+          "fields": []
+        },
+        {
+          "name": "wolterskluwer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkz2wjPDQL6hvhDt0qt9IAqUDXuXiy--_FBvw0twEvNH7qqyoxV2ab41cPnZuSvOox-E2vJjBScx2JZNgilQqO1QokYDUjBj_YK9RQMMeXS_f_2j3XXpWo-GW3iu2j74yxAmhzumGjA7O1E4eKzL2l2wGJAYJcvHo75PDbLWyo3hIc9TZ2XA1q6DIfKQgR3kCUZEpKOmOPIvznYp1i0jFIsX0qXI3FGEJRK20=",
+          "fields": []
+        },
+        {
+          "name": "pharmacypracticenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeS6i3uzjxLME8C3_hS_KK6uz7I1yf0PEnGeNwqzQ2BhwQ30ZufBXCxQu8vz2VekPPOwCSIxKmmaWPrl2xNwvGFpF6EcpHJIcz-jxJlO3PLLXn6cODJmQxqqRk6gp-Ifg-FaboL5LJVWtoZPoHM5QlScgrbize5rFnE4JhGcmIEaYlARUsNwXUdRweOhlAOc-HnYHT3vHtHeSwozjWFi1LWpRIzlqH2g812uMdbBlSIA-CxevtrAs3R024ajWjukx4fw==",
+          "fields": []
+        },
+        {
+          "name": "fda.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgd4rFUCyjx2d5BKIsbht4PhAi9-zVXLQMxIkfbheRJMmWU-_WyAHa9A0Veu5WxtIBJ63O9xcmkc479Oc4_QDsXwN3EKhsP-9tAxgYRFlxcy0Qdbqm-5PKSc3LIdpSsp_wKh1yhUB2m81C4NaetUY_IWly82Fny7AOJ4azhcPiXKcbD65CGQ==",
+          "fields": []
+        },
+        {
+          "name": "edqm.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU3k0EcuZW8dIGbSNiD8OTM4tRYefrkl7SAVpp8XCOpsg68MsvSdIFkZptZgjqw5K1IW-OghOJmNn6qeSuskcfYxEqflyeNu9Rbz1xHqT22osmxsiNrW7YbmhPUi7UaSPX2QS7L0e-7RzoS-OiFFfziDs=",
+          "fields": []
+        },
+        {
+          "name": "edqm.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtG64FfncaZQRvcHmYNjgFlVSpKBMcnWLfqI_zJgvfR2Mwb56UI8vBwVwAxOY3_hZ7X1myogoAAOpuPHfurPyFsc_XQUZ7Sj2mehdiuMIh39vpmrPwff0ICL7a0ZngzzTy_SzXCpbgkOmNNxp6CXBWXN8=",
+          "fields": []
+        },
+        {
+          "name": "jopcr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm2tn8BSdopX1dQfEHmT9Igg_i4sLW_Vp6rcYhWOJxjCdTh94nVZS76yt8RJZUserEXGLt9Sq8u5EWNqT601_Rz-P4dzVWTgbFWKwCgjmt3c7J861ttUnxamOyYc4GsGiUyzmMGhvyYvarrnu3gW_-f-aMcTJfHYTwxqRMGQGX08oA7MR-lJdnT-qK7j5A6tA=",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3hC7VEGBp7SH9Mv5ceLSlqlOqiMxGB8XAjl4JKSId656Umc-MbrtXq1_CbP2pJjEZpWVw4sTrp0EpgQu2IxBStB8ghwADfiIzW1IjZznlCPG4qHJDXYkpsMleJ70PTbtRqUyIR3_FCRsH35-_wYjQFnYf1upoDTR_-Q3EUfsFvIyNNb55MfaWpdZ1HwKgOcX3qmBbpsVM",
+          "fields": []
+        },
+        {
+          "name": "apicule.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF11EhGD42ZNAAFCiDsh5ZPb2GWJCiw8bsfjVZQnjsqjU491ZfhwYoHuj3sZ4wdlZU4W7w74rrlSBF7KEkZHThNZCwll_mdFVyBCtQGrohuHBRoYPj-JG61yZJxsgsSHaWp4maTzEjH",
+          "fields": []
+        },
+        {
+          "name": "emory.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftrBtaWXfttj1s2ocWrOvL-ICDykcrAgeUo5V9VizdaWQ6XfQuWMrVzLzyh03Fb-c82UVq86lY2VEo3FzoxXmKOXsNfUbDulph2QgR726Ayrsv3XXW0WfEZA8fBo6NhFA0fja3dxxTcFKHl4TcY-FTOBghPbvwjgfdAiqVfkEX8qZFn-q3x3ufcbQknp0VtgArw3Ak5Yg9JUqnRMD",
+          "fields": []
+        },
+        {
+          "name": "federalregister.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVReJIbE2_qcCxDnakM7YoBcaUK4h8atJ7uBTtFaZuoJZj0l6hKi0SpJ7wstSNJKtb68yBj-fWHdfOfG9IGclLloTMmvi5VxnIn8smprQ3aBGgeLiA1VAg3lCqaXPtxFLd8JN7XOo80oDZW3Ssxw8naWHjdnt1K5PQqqQPj0ueCY_tp7gy14_GfKODMhvlx-bz_xWjTpAxoOzKBNCIBsWl-lX5v5XT6anx7CDvzlKgAhOodNC-GiT1UP18HD-GiBINkfMB1p2ccRW1HpWG94uUNZnbxOsMea3L3CrqA2kLu3XK",
+          "fields": []
+        },
+        {
+          "name": "ecfr.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ4TAPmKkK3ZeLbf5KyY6CxOvNEBGnmcDOqef3GMV-cJ0BLjztUHtrqajOUsrpfQgmOMhHrOJR_mk5omum2HxokfPY8mJZwUFfvexdL-atEFzcXwnswqqsaPW-bkxFTYBbyKnPDIZ7jZvoRA2JxzSdEJAJ4kE=",
+          "fields": []
+        },
+        {
+          "name": "frierlevitt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyh75Ov_X9VrAdWd8Ae3ixE1tR4-aCtxuoqU3U9nv-JbnjPLZCzCJKA2BzS36hN10gqsWUYxiSysRlsGstQQCJ_4JMdJddwl1AZnGKCc6ADSNJXz5KNvyRDUSzn4XGTTB8XGEQi2I93qcTXU5jY0ib_YnGOXISGWrVrjk5GbYK5N4s4BP2W2z0G06Jjwjcu6jJwtCh",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUE2hVUBjlITon2OTzrJnChBHLdW-imuWHucu7d9xSSOucORCpuUnggfyGsniBl_ll8L62GAdynTREloMv1ZzXWLCJCpVioeleFJeWEBKDfiPA4G5vqbdrnc-TwoB-mr5gDndltj_a2NDSuvP2F6ACoMo6EVSMoDNT3qa_Jakl_OV14jegs7_qnm7KHSiOr497A_YB_LdmUQ==",
+          "fields": []
+        },
+        {
+          "name": "researchnester.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC-63xq7m6uJG4otEgdPp_5WRkrs8Z3SBN9KASZ1bbUtzGcwuoDd74QmW1itGItai3kzRUaoiUScvYR62TUI67PHFOqM9Yl1jDkNQjtTLJw4pgnYvg6lKfl909v5Xg5kEBZmgzCvpX73CCWp_o3TuuqcwtO6ACcdXr7Z7D1MNNHNbvmtDgg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Controlled Substance Licensing & Market Access",
+      "confidence": "medium",
+      "completeness": 0.571,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "DEA Schedule I-V licenses held (by product)",
+        "Annual production quotas for key controlled substances (e.g., Ephedrine, Pseudoephedrine)",
+        "Market share in key controlled substance API segments (if available)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: Understanding the breadth and depth of controlled substance licenses and global regulatory filings directly informs the company's ability to operate and scale in a highly regulated, high-barrier-to-entry market, crucial for assessing competitive advantage and growth potential.",
+        "banker": "Pursue: The number and status of DMFs/CEPs and market share data are critical for evaluating the company's established market position and potential for M&A or capital raise, indicating deal attractiveness.",
+        "credit_analyst": "Pursue: The history of DEA audits and compliance record, alongside production quotas, are key indicators of operational risk and regulatory adherence, directly impacting creditworthiness.",
+        "consultant": "Pursue: The specific controlled substance licenses and global market access data highlight potential operational complexities and regulatory hurdles that a consultant could help navigate or optimize, suggesting an engagement angle."
+      }
+    },
+    {
+      "heading": "DMF/CEP Filings & Global Market Access",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "History of DEA audits and compliance record",
+          "value": [
+            {
+              "inspectionEndDate": "2025-05-02",
+              "fmdDate": "2025-07-28",
+              "fiscalYear": 2025,
+              "classification": "NAI (No Action Indicated)"
+            },
+            {
+              "inspectionEndDate": "2019-01-31",
+              "fmdDate": "2019-07-30",
+              "fiscalYear": 2019,
+              "classification": "NAI (No Action Indicated)"
+            },
+            {
+              "inspectionEndDate": "2016-04-21",
+              "fmdDate": "2016-12-09",
+              "fiscalYear": 2016,
+              "classification": "VAI (Voluntary Action Indicated)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "pharmajungle.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3IBEuMZnDv0VSEYTAKQ-GaP4rl8fqfl76PS8XCD2cZVSggzihBdQYKBinCpvvsRx8ufkkMBC9smOGHXtV6VeR-J_NCLH4BSKwmXXI1xX8p6dP46GWPGI3UZuVhCLUjhgIfktjyekrvoHnsLhjNrXlJbF1nEQ="
+            }
+          ]
+        },
+        {
+          "label": "Number of active Drug Master Files (DMFs) filed with USFDA",
+          "value": 6,
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        },
+        {
+          "label": "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe)",
+          "value": 2,
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        },
+        {
+          "label": "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia)",
+          "value": [
+            {
+              "market": "Japan",
+              "filings": "4 JDMFs"
+            },
+            {
+              "market": "Korea",
+              "filings": "10 KDMFs"
+            },
+            {
+              "market": "Europe",
+              "filings": "9 EU WCs"
+            }
+          ],
+          "sources": [
+            {
+              "name": "pharmacompass.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw="
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "History of DEA audits and compliance record: [{\"inspectionEndDate\": \"2025-05-02\", \"fmdDate\": \"2025-07-28\", \"fiscalYear\": 2025, \"classification\": \"NAI (No Action Indicated)\"}, {\"inspectionEndDate\": \"2019-01-31\", \"fmdDate\": \"2019-07-30\", \"fiscalYear\": 2019, \"classification\": \"NAI (No Action Indicated)\"}, {\"inspectionEndDate\": \"2016-04-21\", \"fmdDate\": \"2016-12-09\", \"fiscalYear\": 2016, \"classification\": \"VAI (Voluntary Action Indicated)\"}]",
+        "Number of active Drug Master Files (DMFs) filed with USFDA: 6",
+        "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe): 2",
+        "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia): [{\"market\": \"Japan\", \"filings\": \"4 JDMFs\"}, {\"market\": \"Korea\", \"filings\": \"10 KDMFs\"}, {\"market\": \"Europe\", \"filings\": \"9 EU WCs\"}]"
+      ],
+      "references": [
+        {
+          "name": "pharmajungle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3IBEuMZnDv0VSEYTAKQ-GaP4rl8fqfl76PS8XCD2cZVSggzihBdQYKBinCpvvsRx8ufkkMBC9smOGHXtV6VeR-J_NCLH4BSKwmXXI1xX8p6dP46GWPGI3UZuVhCLUjhgIfktjyekrvoHnsLhjNrXlJbF1nEQ=",
+          "fields": [
+            "History of DEA audits and compliance record"
+          ]
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyI2p_TP5HtoLDMCBO8qPDeg50XWY4WGrZfChp8CbNW9q_E_tCX9iO-MRgs97C9j1xRzj5FR1BN71_6Fbck8Ri8fgCwlWjZYpINANaJgPsB1geaxLcnNSqJNgVzSVMBfV8FDmgiBaWLr8yCW4tGJDmrqQlh6Zu6Y2dUwYtkTKyw0RIZfgU8Cwm20Xe8jaOkw=",
+          "fields": [
+            "Number of active Drug Master Files (DMFs) filed with USFDA",
+            "Number of Certificates of Suitability (CEPs) filed with EDQM (Europe)",
+            "Number of DMFs/regulatory filings in other key markets (e.g., Japan, Australia)"
+          ]
+        },
+        {
+          "name": "justice.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkX_ViIVOyn4Nl_tHdZGsVjOv_Q-EhXaBlIcjGU9av0hsJVVuzvCLxGwZDSjaomXRfzKHHdxZ28bxBeD7MG-XdGa9rnrNfwHAa_4AUd4pn8drTDqrH0aBy21uMYWsIu-iFPIl-KcgFCufxIIXXfP4U_-q5QJIPXE4JrCw=",
+          "fields": []
+        },
+        {
+          "name": "dea.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMV3twCaI-FQPCGgE13acw0vH2uTDdXLpl0FUW6I89v7m7jv4gbCnbZoEiaHyOc-HbAw3YzLT4bGoAwgXhExYiz2ufO6R_AM6hG9znIQJS4AADy7QECQPArO2yijQaADBRcBLHJxQftvcRUqWrQoFi5eHlCcvvYeHjQchDf5zd_FjVHjhdB-6W__dCTj5CekQTpI4uw==",
+          "fields": []
+        },
+        {
+          "name": "federalregister.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCljxTL2Y6eYYMSx1dI7Ebh6PAOa9tQv_tA1h27RPJFYeIgoTSQjo6_zn5f-I16njtuv47Alnnn7Ru2Mg0wsHdgJ2KYpTi0BxrZVPOvxc18LlNeFaVlenK73_KGMdZ7WVoIoHxSkx6KfaJTw8wDi3NtIHp77JWfBwxuqw1hYbiLpPRFwKJmOtbE46QMShOqREqpvZo2Jyv73K7rybgvcXS9jDsBqb0pi0YEMlNU6gI0KFI4EIupmRM6D06EqWgoxzAG9IDhhAXWvQWACzQFs9NPlEhVsR5PbcpOuLEr6K9GJ8=",
+          "fields": []
+        },
+        {
+          "name": "accountablehq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWM8aQ-6QzngCoRb15uB8Pvvm_car40lov9BUa3mOuTo46aC-pRooPTEcCio_bEYF6hin0E5frez854uSYCaT9tTSPQ-dQQtF6cSkGGKIMcpXXrqd-NyP4nsVj-WJcbRokJ6nmeD9tKPnxN9yLV_Gf7PQkv_R-JCUiZAqGSeUSym52Ez7wp1tD0AaPKQFj8wDdtcVf0NJ2F4r8A9NqmYSVj-kXo14=",
+          "fields": []
+        },
+        {
+          "name": "wolterskluwer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkz2wjPDQL6hvhDt0qt9IAqUDXuXiy--_FBvw0twEvNH7qqyoxV2ab41cPnZuSvOox-E2vJjBScx2JZNgilQqO1QokYDUjBj_YK9RQMMeXS_f_2j3XXpWo-GW3iu2j74yxAmhzumGjA7O1E4eKzL2l2wGJAYJcvHo75PDbLWyo3hIc9TZ2XA1q6DIfKQgR3kCUZEpKOmOPIvznYp1i0jFIsX0qXI3FGEJRK20=",
+          "fields": []
+        },
+        {
+          "name": "pharmacypracticenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeS6i3uzjxLME8C3_hS_KK6uz7I1yf0PEnGeNwqzQ2BhwQ30ZufBXCxQu8vz2VekPPOwCSIxKmmaWPrl2xNwvGFpF6EcpHJIcz-jxJlO3PLLXn6cODJmQxqqRk6gp-Ifg-FaboL5LJVWtoZPoHM5QlScgrbize5rFnE4JhGcmIEaYlARUsNwXUdRweOhlAOc-HnYHT3vHtHeSwozjWFi1LWpRIzlqH2g812uMdbBlSIA-CxevtrAs3R024ajWjukx4fw==",
+          "fields": []
+        },
+        {
+          "name": "fda.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgd4rFUCyjx2d5BKIsbht4PhAi9-zVXLQMxIkfbheRJMmWU-_WyAHa9A0Veu5WxtIBJ63O9xcmkc479Oc4_QDsXwN3EKhsP-9tAxgYRFlxcy0Qdbqm-5PKSc3LIdpSsp_wKh1yhUB2m81C4NaetUY_IWly82Fny7AOJ4azhcPiXKcbD65CGQ==",
+          "fields": []
+        },
+        {
+          "name": "edqm.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU3k0EcuZW8dIGbSNiD8OTM4tRYefrkl7SAVpp8XCOpsg68MsvSdIFkZptZgjqw5K1IW-OghOJmNn6qeSuskcfYxEqflyeNu9Rbz1xHqT22osmxsiNrW7YbmhPUi7UaSPX2QS7L0e-7RzoS-OiFFfziDs=",
+          "fields": []
+        },
+        {
+          "name": "edqm.eu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtG64FfncaZQRvcHmYNjgFlVSpKBMcnWLfqI_zJgvfR2Mwb56UI8vBwVwAxOY3_hZ7X1myogoAAOpuPHfurPyFsc_XQUZ7Sj2mehdiuMIh39vpmrPwff0ICL7a0ZngzzTy_SzXCpbgkOmNNxp6CXBWXN8=",
+          "fields": []
+        },
+        {
+          "name": "jopcr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm2tn8BSdopX1dQfEHmT9Igg_i4sLW_Vp6rcYhWOJxjCdTh94nVZS76yt8RJZUserEXGLt9Sq8u5EWNqT601_Rz-P4dzVWTgbFWKwCgjmt3c7J861ttUnxamOyYc4GsGiUyzmMGhvyYvarrnu3gW_-f-aMcTJfHYTwxqRMGQGX08oA7MR-lJdnT-qK7j5A6tA=",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3hC7VEGBp7SH9Mv5ceLSlqlOqiMxGB8XAjl4JKSId656Umc-MbrtXq1_CbP2pJjEZpWVw4sTrp0EpgQu2IxBStB8ghwADfiIzW1IjZznlCPG4qHJDXYkpsMleJ70PTbtRqUyIR3_FCRsH35-_wYjQFnYf1upoDTR_-Q3EUfsFvIyNNb55MfaWpdZ1HwKgOcX3qmBbpsVM",
+          "fields": []
+        },
+        {
+          "name": "apicule.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF11EhGD42ZNAAFCiDsh5ZPb2GWJCiw8bsfjVZQnjsqjU491ZfhwYoHuj3sZ4wdlZU4W7w74rrlSBF7KEkZHThNZCwll_mdFVyBCtQGrohuHBRoYPj-JG61yZJxsgsSHaWp4maTzEjH",
+          "fields": []
+        },
+        {
+          "name": "emory.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftrBtaWXfttj1s2ocWrOvL-ICDykcrAgeUo5V9VizdaWQ6XfQuWMrVzLzyh03Fb-c82UVq86lY2VEo3FzoxXmKOXsNfUbDulph2QgR726Ayrsv3XXW0WfEZA8fBo6NhFA0fja3dxxTcFKHl4TcY-FTOBghPbvwjgfdAiqVfkEX8qZFn-q3x3ufcbQknp0VtgArw3Ak5Yg9JUqnRMD",
+          "fields": []
+        },
+        {
+          "name": "federalregister.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVReJIbE2_qcCxDnakM7YoBcaUK4h8atJ7uBTtFaZuoJZj0l6hKi0SpJ7wstSNJKtb68yBj-fWHdfOfG9IGclLloTMmvi5VxnIn8smprQ3aBGgeLiA1VAg3lCqaXPtxFLd8JN7XOo80oDZW3Ssxw8naWHjdnt1K5PQqqQPj0ueCY_tp7gy14_GfKODMhvlx-bz_xWjTpAxoOzKBNCIBsWl-lX5v5XT6anx7CDvzlKgAhOodNC-GiT1UP18HD-GiBINkfMB1p2ccRW1HpWG94uUNZnbxOsMea3L3CrqA2kLu3XK",
+          "fields": []
+        },
+        {
+          "name": "ecfr.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ4TAPmKkK3ZeLbf5KyY6CxOvNEBGnmcDOqef3GMV-cJ0BLjztUHtrqajOUsrpfQgmOMhHrOJR_mk5omum2HxokfPY8mJZwUFfvexdL-atEFzcXwnswqqsaPW-bkxFTYBbyKnPDIZ7jZvoRA2JxzSdEJAJ4kE=",
+          "fields": []
+        },
+        {
+          "name": "frierlevitt.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyh75Ov_X9VrAdWd8Ae3ixE1tR4-aCtxuoqU3U9nv-JbnjPLZCzCJKA2BzS36hN10gqsWUYxiSysRlsGstQQCJ_4JMdJddwl1AZnGKCc6ADSNJXz5KNvyRDUSzn4XGTTB8XGEQi2I93qcTXU5jY0ib_YnGOXISGWrVrjk5GbYK5N4s4BP2W2z0G06Jjwjcu6jJwtCh",
+          "fields": []
+        },
+        {
+          "name": "persistencemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUE2hVUBjlITon2OTzrJnChBHLdW-imuWHucu7d9xSSOucORCpuUnggfyGsniBl_ll8L62GAdynTREloMv1ZzXWLCJCpVioeleFJeWEBKDfiPA4G5vqbdrnc-TwoB-mr5gDndltj_a2NDSuvP2F6ACoMo6EVSMoDNT3qa_Jakl_OV14jegs7_qnm7KHSiOr497A_YB_LdmUQ==",
+          "fields": []
+        },
+        {
+          "name": "researchnester.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeC-63xq7m6uJG4otEgdPp_5WRkrs8Z3SBN9KASZ1bbUtzGcwuoDd74QmW1itGItai3kzRUaoiUScvYR62TUI67PHFOqM9Yl1jDkNQjtTLJw4pgnYvg6lKfl909v5Xg5kEBZmgzCvpX73CCWp_o3TuuqcwtO6ACcdXr7Z7D1MNNHNbvmtDgg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Controlled Substance Licensing & Market Access",
+      "confidence": "medium",
+      "completeness": 0.571,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "DEA Schedule I-V licenses held (by product)",
+        "Annual production quotas for key controlled substances (e.g., Ephedrine, Pseudoephedrine)",
+        "Market share in key controlled substance API segments (if available)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: Understanding the breadth and depth of controlled substance licenses and global regulatory filings directly informs the company's ability to operate and scale in a highly regulated, high-barrier-to-entry market, crucial for assessing competitive advantage and growth potential.",
+        "banker": "Pursue: The number and status of DMFs/CEPs and market share data are critical for evaluating the company's established market position and potential for M&A or capital raise, indicating deal attractiveness.",
+        "credit_analyst": "Pursue: The history of DEA audits and compliance record, alongside production quotas, are key indicators of operational risk and regulatory adherence, directly impacting creditworthiness.",
+        "consultant": "Pursue: The specific controlled substance licenses and global market access data highlight potential operational complexities and regulatory hurdles that a consultant could help navigate or optimize, suggesting an engagement angle."
+      }
+    },
+    {
+      "heading": "Biotransformation Technology Capabilities",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Total fermenter capacity (in KL)",
+          "value": 425,
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            }
+          ]
+        },
+        {
+          "label": "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+          "value": [
+            "Bacterial",
+            "Fungal",
+            "Category 1 GMO biotransformation",
+            "Whole cell biotransformation in yeast",
+            "Whole cell biotransformation in bacteria",
+            "Genetically engineered strains"
+          ],
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            }
+          ]
+        },
+        {
+          "label": "Number of process patents related to biotransformation",
+          "value": [
+            {
+              "title": "Enzymatic Synthesis of Optically Active Chiral Amines",
+              "publication_number": "20140099682",
+              "publication_date": "April 10, 2014",
+              "note": "Relates to (1R, 2S)-Norephedrine production using enzyme transaminase in E. coli."
+            },
+            {
+              "title": "Process and compounds for preparation of cannabinoids",
+              "publication_number": "20220009899",
+              "publication_date": "January 13, 2022",
+              "note": "Involves condensation of cyclic alkene alcohols for Dronabinol."
+            },
+            {
+              "title": "Process for preparation of dexmethylphenidate hydrochloride",
+              "patent_number": "10081597",
+              "date_of_patent": "September 25, 2018",
+              "note": "Relates to preparation from racemic methylphenidate."
+            }
+          ],
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            },
+            {
+              "name": "justia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg9wZNTISCPb9C9n95HQhMfYp3H1gHF2NSCqUPgpa_GiAVHnSTBy05SKU-_hqFuxLAYndTlpPk71ohLBtrjPtklFQyHKqfq4MqafOJGwHw4rold06xkVSObThLzOGvzF0YdtFwHFw7OeONrWs="
+            },
+            {
+              "name": "biospectrumindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oJgtD02khDpJMf2Ukoh0dkM9ZXiA7b4j3_WdyJaod1th4XyJ1s6y0SAzCcpS1TlMGDrAyoBjkRw71b23hbCHvIqGzoj7MFQ-4SgxcuqfWONfpxdLKmqoumIt-nOeHeIwPY4sjTaJsIwyhRTM5VS-9l3WCdorYnNH6nBabCTb2kr0Cdms8_XiahIy0OYjXQ1B5gDi7VRtJDR5MqrJAgjaT-uP5h17K_x0fzkt2B6rETP469ZcHt0="
+            },
+            {
+              "name": "pharmasource.global",
+              "url": null
+            },
+            {
+              "name": "biopharminternational.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiLSVXJGi3sPuYO-jChHtzWMt0pN9Ro1IKILNHzLj714JnxKy3httWNgNM_9Cc_1e_ZzoB6oKFeTsCg5LpmoAcGFfiOgROie5sVPb2KzFoDJ7QpNQR7fQuIU3BcCXu6Q7HpR--sAWdEBEDGSiihubuZWlBnI4bry4EHge53Xb7KIOv6sO25FztLFRfNZv269fzVofPsgHDVYH-ZwbXbWOqYxpSA=="
+            }
+          ]
+        },
+        {
+          "label": "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)",
+          "value": "totally integrated manufacturer for Ephedrine, Pseudoephedrine, and advanced intermediates",
+          "sources": [
+            {
+              "name": "careratings.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9iULf8bgoLXUZ4VQmEcHWE16KPqqbpRpgbvBolOtTeFXsw3DTEMFdvg74PkltBAKukeSnG4rpfAVA6FxG1Uo0C8YT83dz1A4dhMBcZ_WdjPDsjjqygy6I-E6HYyONcXTr0-Yhs763buwxpTLTn_8LJY7eK6UJK7Ax7mKpDrTb6b0AwbJ4lp01PZ4ViA=="
+            },
+            {
+              "name": "environmentclearance.nic.in",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Total fermenter capacity (in KL): 425",
+        "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO): [\"Bacterial\", \"Fungal\", \"Category 1 GMO biotransformation\", \"Whole cell biotransformation in yeast\", \"Whole cell biotransformation in bacteria\", \"Genetically engineered strains\"]",
+        "Number of process patents related to biotransformation: [{\"title\": \"Enzymatic Synthesis of Optically Active Chiral Amines\", \"publication_number\": \"20140099682\", \"publication_date\": \"April 10, 2014\", \"note\": \"Relates to (1R, 2S)-Norephedrine production using enzyme transaminase in E. coli.\"}, {\"title\": \"Process and compounds for preparation of cannabinoids\", \"publication_number\": \"20220009899\", \"publication_date\": \"January 13, 2022\", \"note\": \"Involves condensation of cyclic alkene alcohols for Dronabinol.\"}, {\"title\": \"Process for preparation of dexmethylphenidate hydrochloride\", \"patent_number\": \"10081597\", \"date_of_patent\": \"September 25, 2018\", \"note\": \"Relates to preparation from racemic methylphenidate.\"}]",
+        "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine): totally integrated manufacturer for Ephedrine, Pseudoephedrine, and advanced intermediates"
+      ],
+      "references": [
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ==",
+          "fields": [
+            "Total fermenter capacity (in KL)",
+            "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc=",
+          "fields": [
+            "Total fermenter capacity (in KL)",
+            "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg9wZNTISCPb9C9n95HQhMfYp3H1gHF2NSCqUPgpa_GiAVHnSTBy05SKU-_hqFuxLAYndTlpPk71ohLBtrjPtklFQyHKqfq4MqafOJGwHw4rold06xkVSObThLzOGvzF0YdtFwHFw7OeONrWs=",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "biospectrumindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oJgtD02khDpJMf2Ukoh0dkM9ZXiA7b4j3_WdyJaod1th4XyJ1s6y0SAzCcpS1TlMGDrAyoBjkRw71b23hbCHvIqGzoj7MFQ-4SgxcuqfWONfpxdLKmqoumIt-nOeHeIwPY4sjTaJsIwyhRTM5VS-9l3WCdorYnNH6nBabCTb2kr0Cdms8_XiahIy0OYjXQ1B5gDi7VRtJDR5MqrJAgjaT-uP5h17K_x0fzkt2B6rETP469ZcHt0=",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "pharmasource.global",
+          "url": null,
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "biopharminternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiLSVXJGi3sPuYO-jChHtzWMt0pN9Ro1IKILNHzLj714JnxKy3httWNgNM_9Cc_1e_ZzoB6oKFeTsCg5LpmoAcGFfiOgROie5sVPb2KzFoDJ7QpNQR7fQuIU3BcCXu6Q7HpR--sAWdEBEDGSiihubuZWlBnI4bry4EHge53Xb7KIOv6sO25FztLFRfNZv269fzVofPsgHDVYH-ZwbXbWOqYxpSA==",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9iULf8bgoLXUZ4VQmEcHWE16KPqqbpRpgbvBolOtTeFXsw3DTEMFdvg74PkltBAKukeSnG4rpfAVA6FxG1Uo0C8YT83dz1A4dhMBcZ_WdjPDsjjqygy6I-E6HYyONcXTr0-Yhs763buwxpTLTn_8LJY7eK6UJK7Ax7mKpDrTb6b0AwbJ4lp01PZ4ViA==",
+          "fields": [
+            "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)"
+          ]
+        },
+        {
+          "name": "environmentclearance.nic.in",
+          "url": null,
+          "fields": [
+            "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)"
+          ]
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFufrSj3XoY1FfgijsLqK89rx_7VRQ7kuxJ0e8qbRKdzmvjmvgHhJcHV9yc7ecS9GB5x8rsR2hQ66hAjfYnVd8la6FhJe2oclHjs3J-7OFjl9fYeVyKsKq_ERZtsENsKgdGH20Q5fOxhB15H9QM01kcB7r702yZFUBQEUV-nF-7io3YipbjztV8rlqqEA==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0mxM3FamLhDeXxGybkRQdaMlAVPdQtxt4vU4cJxba2dLNuwgHwu2GHzSBXoKZgfhPAdY0QsdFV4ZCVaX659eVVPL9a-c5GVYmWG4u34iHOsoIpLmwdYYcB_46Ju2h6P3NYi6dgbkCXlmyfCzbudEY1X85G8tzCC9z_048TlV-9lppxg8tN2-VPBQ61J3ds1zoWT81r-VHtxZ44P-1vXAGXZzVSpk2772T92q0RCUXAePwcYjAAYqk5a8gxTnMsb-Z",
+          "fields": []
+        },
+        {
+          "name": "pharmasource.global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFckuel_UpJa4doPFcmkg_I4vStuHQm7sAYs4ME7VrReV7b0H2TlJ8ICNDjDz4mDsfmFWRbPmUd5k7TV6zfX0S7skW0VN35q5u24DkzPxrcTiXHG6M8SuBDdZRsl6Pa7JNR7Rj9FrXFtfA1xg==",
+          "fields": []
+        },
+        {
+          "name": "environmentclearance.nic.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFifb5nmz6LRpXxwNWmNGyQiFECx0sMpWbaFGXedqQ7dUcZa90clcva41fVeNUKSvJ7LNyLt5owFuih67u72sVrQUYdmEu3Ejugzw2aPf0zEE_S6l6cs5RzlG_bw65zOXsiBXNqxzdFIvBVXRxm0RukjNJXq0NFpLt-FH0Ww7TtJCsGHzN9D42TcUj80GIKc2CpQtTY-qqzaT4kLydpnYEuLzPWegnk1qgtYJWKm9TYQXRZUpO-lXhdMxw1ontGUZdN6nGFb_0dILL4cadH4ZRBHYvzxn-71F_N4PegMZsXzy0zzXBZabAVou8Gw42XKR6JctoT0IrzLigLWwKMS8qMp2t2k4qWq6DESrfQ-tUzXDr3gYd_BzPTyyAZV4mzPNxhEm8fphcYZilKE7awPgefzo14KJl360MKaDZkTwDJ7Ntu8clTtkqFMuORiOnQr_lfTAyMjUwqkFpTT4Tx-8YqF1UnUFskk8M3Bm4sunK00WK0TmIwtiO2",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWGaCIzCBH3_lU1W4t4ljzCseTjLc-s4O51yfFJcKePobPEfOswZAPYz9I0bX1sL6GiH0mZjZ1EjoGrJPpKjuf51Y3T1pJ7ide18kwND2CvGi7Xg==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCUcmlz4v8VfVjn4RWYVaakyNAKf9bqluT2DrmQP1Y_6NivehkxqP021Jc3PeVRO9aVFUR_ZbLcu0AK1vmq_cP6zC6jPOdfnPKN3az7UNtzHyZyn7F0v4bwnp74_qFehYZix9axVVfaNlc39Hcncse7SWjzw_8Jok6GRz88Nz1ShGx76bxZYGlPdRbS28=",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU4t2SU2tmMMR5x2E0wMKgQgKcOJk4KLx6bHiOA2XL3GsnVJw1ZWBHB_Tf3AVFT-GMPdXX1TrJ1bsSPi0tDF7ALWsc0U-NavNsyHng6KXtdsOUHzM7mpUahWOjj-JOWW3tr0cp",
+          "fields": []
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnUG7qyDkV1c-Wv_QBmHNKjDbL1ToyFKuEBjjePZUUmOLXVwnlVJWvdmG41gm-_sCkrwO258QH8yz1NfJYd3fHU9LX-r2fRPBer28CiSHx5_V0JtLxg4we9RuFh0hbEpLSgsOotk5n6sblS1JmVdyi4Osr4Bv51U63j7gcZFVZYv0gEBQEemoYx3xbWXv",
+          "fields": []
+        },
+        {
+          "name": "fda.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZDvBa8MyFDlA1QjQZxD_p18uzr4Ce_GsvIq43Xoi6cSGzIs21RVlDlEbE7OMsD0tHiLRQyynoT2NvQCiAJn62kmHiTH5nkeUYtLdKVvqTHdmcnFOI1qVU1o4cErbcfBy0G-6TLzoHK6PJ36XgZdDtFcfBewpeVWTfM_oRSxn8V4JzP4R3lQ==",
+          "fields": []
+        },
+        {
+          "name": "monroeengineering.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQM1WR1-aALnbJZMGd43xqL_NAXBGt2ajOjivT8nbAJGldXJENM_a3WVoMIrhwCRDLzquz0DUhW4z8Rku-edXijWx9In2y6_doQbCYlx3sfHlr6x8224AHItQq94A_42TJ_uLr2Ldl1x97qh4sP4M-jscLKlsuJ3LAePm493THuPH1xKvmazMvucNEe3fR8AlxhtD9egU=",
+          "fields": []
+        },
+        {
+          "name": "cytivalifesciences.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1FriITbCIxAqQ0q-KAQA0kL821eUm0JlEKwKXwnc-vIVP29r8MTY4CEyp-ovf1gcZD73rCMBU0AeLRpDenjGoY9ehe70U4vuutitIiNzmBoEA_g3I-MimBPNnrmrx3paz5rFIjbH2qBgqyaQI3eb0RS_RaR75J47xIHMKa9IOn-VAcQg=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Biotransformation Platform & Backward Integration",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Average fermenter utilization rate (last 3 years)",
+        "R&D expenditure on biotransformation technologies (as % of revenue)",
+        "Key raw material sourcing strategy (domestic vs. international)",
+        "Number of critical raw materials with single-source dependency"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "High fermenter utilization and a significant number of biotransformation patents suggest strong operational efficiency and innovation, increasing the likelihood of a pursue decision for deeper diligence.",
+        "banker": "Backward integration percentage for key APIs and a diversified raw material sourcing strategy indicate potential deal robustness and reduced supply chain risk, making a pursue decision more likely.",
+        "credit_analyst": "A low number of single-source dependencies for critical raw materials and a clear sourcing strategy reduce supply chain risk, positively impacting the credit risk assessment and leaning towards a pursue decision.",
+        "consultant": "Understanding the types of biotransformation platforms and R&D expenditure provides insight into potential operational optimization and competitive advantages, warranting a pursue decision for further analysis."
+      }
+    },
+    {
+      "heading": "Backward Integration & Supply Chain Resilience",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Total fermenter capacity (in KL)",
+          "value": 425,
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            }
+          ]
+        },
+        {
+          "label": "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+          "value": [
+            "Bacterial",
+            "Fungal",
+            "Category 1 GMO biotransformation",
+            "Whole cell biotransformation in yeast",
+            "Whole cell biotransformation in bacteria",
+            "Genetically engineered strains"
+          ],
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            }
+          ]
+        },
+        {
+          "label": "Number of process patents related to biotransformation",
+          "value": [
+            {
+              "title": "Enzymatic Synthesis of Optically Active Chiral Amines",
+              "publication_number": "20140099682",
+              "publication_date": "April 10, 2014",
+              "note": "Relates to (1R, 2S)-Norephedrine production using enzyme transaminase in E. coli."
+            },
+            {
+              "title": "Process and compounds for preparation of cannabinoids",
+              "publication_number": "20220009899",
+              "publication_date": "January 13, 2022",
+              "note": "Involves condensation of cyclic alkene alcohols for Dronabinol."
+            },
+            {
+              "title": "Process for preparation of dexmethylphenidate hydrochloride",
+              "patent_number": "10081597",
+              "date_of_patent": "September 25, 2018",
+              "note": "Relates to preparation from racemic methylphenidate."
+            }
+          ],
+          "sources": [
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ=="
+            },
+            {
+              "name": "embio.co.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc="
+            },
+            {
+              "name": "justia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg9wZNTISCPb9C9n95HQhMfYp3H1gHF2NSCqUPgpa_GiAVHnSTBy05SKU-_hqFuxLAYndTlpPk71ohLBtrjPtklFQyHKqfq4MqafOJGwHw4rold06xkVSObThLzOGvzF0YdtFwHFw7OeONrWs="
+            },
+            {
+              "name": "biospectrumindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oJgtD02khDpJMf2Ukoh0dkM9ZXiA7b4j3_WdyJaod1th4XyJ1s6y0SAzCcpS1TlMGDrAyoBjkRw71b23hbCHvIqGzoj7MFQ-4SgxcuqfWONfpxdLKmqoumIt-nOeHeIwPY4sjTaJsIwyhRTM5VS-9l3WCdorYnNH6nBabCTb2kr0Cdms8_XiahIy0OYjXQ1B5gDi7VRtJDR5MqrJAgjaT-uP5h17K_x0fzkt2B6rETP469ZcHt0="
+            },
+            {
+              "name": "pharmasource.global",
+              "url": null
+            },
+            {
+              "name": "biopharminternational.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiLSVXJGi3sPuYO-jChHtzWMt0pN9Ro1IKILNHzLj714JnxKy3httWNgNM_9Cc_1e_ZzoB6oKFeTsCg5LpmoAcGFfiOgROie5sVPb2KzFoDJ7QpNQR7fQuIU3BcCXu6Q7HpR--sAWdEBEDGSiihubuZWlBnI4bry4EHge53Xb7KIOv6sO25FztLFRfNZv269fzVofPsgHDVYH-ZwbXbWOqYxpSA=="
+            }
+          ]
+        },
+        {
+          "label": "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)",
+          "value": "totally integrated manufacturer for Ephedrine, Pseudoephedrine, and advanced intermediates",
+          "sources": [
+            {
+              "name": "careratings.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9iULf8bgoLXUZ4VQmEcHWE16KPqqbpRpgbvBolOtTeFXsw3DTEMFdvg74PkltBAKukeSnG4rpfAVA6FxG1Uo0C8YT83dz1A4dhMBcZ_WdjPDsjjqygy6I-E6HYyONcXTr0-Yhs763buwxpTLTn_8LJY7eK6UJK7Ax7mKpDrTb6b0AwbJ4lp01PZ4ViA=="
+            },
+            {
+              "name": "environmentclearance.nic.in",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Total fermenter capacity (in KL): 425",
+        "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO): [\"Bacterial\", \"Fungal\", \"Category 1 GMO biotransformation\", \"Whole cell biotransformation in yeast\", \"Whole cell biotransformation in bacteria\", \"Genetically engineered strains\"]",
+        "Number of process patents related to biotransformation: [{\"title\": \"Enzymatic Synthesis of Optically Active Chiral Amines\", \"publication_number\": \"20140099682\", \"publication_date\": \"April 10, 2014\", \"note\": \"Relates to (1R, 2S)-Norephedrine production using enzyme transaminase in E. coli.\"}, {\"title\": \"Process and compounds for preparation of cannabinoids\", \"publication_number\": \"20220009899\", \"publication_date\": \"January 13, 2022\", \"note\": \"Involves condensation of cyclic alkene alcohols for Dronabinol.\"}, {\"title\": \"Process for preparation of dexmethylphenidate hydrochloride\", \"patent_number\": \"10081597\", \"date_of_patent\": \"September 25, 2018\", \"note\": \"Relates to preparation from racemic methylphenidate.\"}]",
+        "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine): totally integrated manufacturer for Ephedrine, Pseudoephedrine, and advanced intermediates"
+      ],
+      "references": [
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtNq1JqzS9NfUBShZcfsufcpvAMAlpVvkMizKKLh8MF14Ec8agkg97MnrV09NEmZ7nEVTotRf4ObzgP8ykukwvWO8TgLov6WS1sIrGnfz1Ux6YXQ==",
+          "fields": [
+            "Total fermenter capacity (in KL)",
+            "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUmlxDeLd2LsUuMUAFXH9P-3cdGU5Apxhl4s2THr7kaotOJWBJysn1HWdIgGCAEK64R1r1aeTPTGQwFy5HBKuyL9YCmHURUuKSuq8I6VB9bBsth3UZ9Lc=",
+          "fields": [
+            "Total fermenter capacity (in KL)",
+            "Types of biotransformation platforms utilized (e.g., bacterial, fungal, GMO)",
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "justia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg9wZNTISCPb9C9n95HQhMfYp3H1gHF2NSCqUPgpa_GiAVHnSTBy05SKU-_hqFuxLAYndTlpPk71ohLBtrjPtklFQyHKqfq4MqafOJGwHw4rold06xkVSObThLzOGvzF0YdtFwHFw7OeONrWs=",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "biospectrumindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2oJgtD02khDpJMf2Ukoh0dkM9ZXiA7b4j3_WdyJaod1th4XyJ1s6y0SAzCcpS1TlMGDrAyoBjkRw71b23hbCHvIqGzoj7MFQ-4SgxcuqfWONfpxdLKmqoumIt-nOeHeIwPY4sjTaJsIwyhRTM5VS-9l3WCdorYnNH6nBabCTb2kr0Cdms8_XiahIy0OYjXQ1B5gDi7VRtJDR5MqrJAgjaT-uP5h17K_x0fzkt2B6rETP469ZcHt0=",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "pharmasource.global",
+          "url": null,
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "biopharminternational.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiLSVXJGi3sPuYO-jChHtzWMt0pN9Ro1IKILNHzLj714JnxKy3httWNgNM_9Cc_1e_ZzoB6oKFeTsCg5LpmoAcGFfiOgROie5sVPb2KzFoDJ7QpNQR7fQuIU3BcCXu6Q7HpR--sAWdEBEDGSiihubuZWlBnI4bry4EHge53Xb7KIOv6sO25FztLFRfNZv269fzVofPsgHDVYH-ZwbXbWOqYxpSA==",
+          "fields": [
+            "Number of process patents related to biotransformation"
+          ]
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9iULf8bgoLXUZ4VQmEcHWE16KPqqbpRpgbvBolOtTeFXsw3DTEMFdvg74PkltBAKukeSnG4rpfAVA6FxG1Uo0C8YT83dz1A4dhMBcZ_WdjPDsjjqygy6I-E6HYyONcXTr0-Yhs763buwxpTLTn_8LJY7eK6UJK7Ax7mKpDrTb6b0AwbJ4lp01PZ4ViA==",
+          "fields": [
+            "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)"
+          ]
+        },
+        {
+          "name": "environmentclearance.nic.in",
+          "url": null,
+          "fields": [
+            "Backward integration percentage for key APIs/intermediates (e.g., Ephedrine, Lisdexamfetamine)"
+          ]
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFufrSj3XoY1FfgijsLqK89rx_7VRQ7kuxJ0e8qbRKdzmvjmvgHhJcHV9yc7ecS9GB5x8rsR2hQ66hAjfYnVd8la6FhJe2oclHjs3J-7OFjl9fYeVyKsKq_ERZtsENsKgdGH20Q5fOxhB15H9QM01kcB7r702yZFUBQEUV-nF-7io3YipbjztV8rlqqEA==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0mxM3FamLhDeXxGybkRQdaMlAVPdQtxt4vU4cJxba2dLNuwgHwu2GHzSBXoKZgfhPAdY0QsdFV4ZCVaX659eVVPL9a-c5GVYmWG4u34iHOsoIpLmwdYYcB_46Ju2h6P3NYi6dgbkCXlmyfCzbudEY1X85G8tzCC9z_048TlV-9lppxg8tN2-VPBQ61J3ds1zoWT81r-VHtxZ44P-1vXAGXZzVSpk2772T92q0RCUXAePwcYjAAYqk5a8gxTnMsb-Z",
+          "fields": []
+        },
+        {
+          "name": "pharmasource.global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFckuel_UpJa4doPFcmkg_I4vStuHQm7sAYs4ME7VrReV7b0H2TlJ8ICNDjDz4mDsfmFWRbPmUd5k7TV6zfX0S7skW0VN35q5u24DkzPxrcTiXHG6M8SuBDdZRsl6Pa7JNR7Rj9FrXFtfA1xg==",
+          "fields": []
+        },
+        {
+          "name": "environmentclearance.nic.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFifb5nmz6LRpXxwNWmNGyQiFECx0sMpWbaFGXedqQ7dUcZa90clcva41fVeNUKSvJ7LNyLt5owFuih67u72sVrQUYdmEu3Ejugzw2aPf0zEE_S6l6cs5RzlG_bw65zOXsiBXNqxzdFIvBVXRxm0RukjNJXq0NFpLt-FH0Ww7TtJCsGHzN9D42TcUj80GIKc2CpQtTY-qqzaT4kLydpnYEuLzPWegnk1qgtYJWKm9TYQXRZUpO-lXhdMxw1ontGUZdN6nGFb_0dILL4cadH4ZRBHYvzxn-71F_N4PegMZsXzy0zzXBZabAVou8Gw42XKR6JctoT0IrzLigLWwKMS8qMp2t2k4qWq6DESrfQ-tUzXDr3gYd_BzPTyyAZV4mzPNxhEm8fphcYZilKE7awPgefzo14KJl360MKaDZkTwDJ7Ntu8clTtkqFMuORiOnQr_lfTAyMjUwqkFpTT4Tx-8YqF1UnUFskk8M3Bm4sunK00WK0TmIwtiO2",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWGaCIzCBH3_lU1W4t4ljzCseTjLc-s4O51yfFJcKePobPEfOswZAPYz9I0bX1sL6GiH0mZjZ1EjoGrJPpKjuf51Y3T1pJ7ide18kwND2CvGi7Xg==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCUcmlz4v8VfVjn4RWYVaakyNAKf9bqluT2DrmQP1Y_6NivehkxqP021Jc3PeVRO9aVFUR_ZbLcu0AK1vmq_cP6zC6jPOdfnPKN3az7UNtzHyZyn7F0v4bwnp74_qFehYZix9axVVfaNlc39Hcncse7SWjzw_8Jok6GRz88Nz1ShGx76bxZYGlPdRbS28=",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU4t2SU2tmMMR5x2E0wMKgQgKcOJk4KLx6bHiOA2XL3GsnVJw1ZWBHB_Tf3AVFT-GMPdXX1TrJ1bsSPi0tDF7ALWsc0U-NavNsyHng6KXtdsOUHzM7mpUahWOjj-JOWW3tr0cp",
+          "fields": []
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnUG7qyDkV1c-Wv_QBmHNKjDbL1ToyFKuEBjjePZUUmOLXVwnlVJWvdmG41gm-_sCkrwO258QH8yz1NfJYd3fHU9LX-r2fRPBer28CiSHx5_V0JtLxg4we9RuFh0hbEpLSgsOotk5n6sblS1JmVdyi4Osr4Bv51U63j7gcZFVZYv0gEBQEemoYx3xbWXv",
+          "fields": []
+        },
+        {
+          "name": "fda.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZDvBa8MyFDlA1QjQZxD_p18uzr4Ce_GsvIq43Xoi6cSGzIs21RVlDlEbE7OMsD0tHiLRQyynoT2NvQCiAJn62kmHiTH5nkeUYtLdKVvqTHdmcnFOI1qVU1o4cErbcfBy0G-6TLzoHK6PJ36XgZdDtFcfBewpeVWTfM_oRSxn8V4JzP4R3lQ==",
+          "fields": []
+        },
+        {
+          "name": "monroeengineering.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQM1WR1-aALnbJZMGd43xqL_NAXBGt2ajOjivT8nbAJGldXJENM_a3WVoMIrhwCRDLzquz0DUhW4z8Rku-edXijWx9In2y6_doQbCYlx3sfHlr6x8224AHItQq94A_42TJ_uLr2Ldl1x97qh4sP4M-jscLKlsuJ3LAePm493THuPH1xKvmazMvucNEe3fR8AlxhtD9egU=",
+          "fields": []
+        },
+        {
+          "name": "cytivalifesciences.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1FriITbCIxAqQ0q-KAQA0kL821eUm0JlEKwKXwnc-vIVP29r8MTY4CEyp-ovf1gcZD73rCMBU0AeLRpDenjGoY9ehe70U4vuutitIiNzmBoEA_g3I-MimBPNnrmrx3paz5rFIjbH2qBgqyaQI3eb0RS_RaR75J47xIHMKa9IOn-VAcQg=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Biotransformation Platform & Backward Integration",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Average fermenter utilization rate (last 3 years)",
+        "R&D expenditure on biotransformation technologies (as % of revenue)",
+        "Key raw material sourcing strategy (domestic vs. international)",
+        "Number of critical raw materials with single-source dependency"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "High fermenter utilization and a significant number of biotransformation patents suggest strong operational efficiency and innovation, increasing the likelihood of a pursue decision for deeper diligence.",
+        "banker": "Backward integration percentage for key APIs and a diversified raw material sourcing strategy indicate potential deal robustness and reduced supply chain risk, making a pursue decision more likely.",
+        "credit_analyst": "A low number of single-source dependencies for critical raw materials and a clear sourcing strategy reduce supply chain risk, positively impacting the credit risk assessment and leaning towards a pursue decision.",
+        "consultant": "Understanding the types of biotransformation platforms and R&D expenditure provides insight into potential operational optimization and competitive advantages, warranting a pursue decision for further analysis."
+      }
+    },
+    {
+      "heading": "Key API Market Landscape & Competition",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Market size (USD Mn) and CAGR for key APIs (e.g., Pseudoephedrine API, Lisdexamfetamine API)",
+          "value": [
+            {
+              "api_name": "Lisdexamfetamine API",
+              "market_size_usd_mn": 1200,
+              "year": 2024,
+              "cagr_percent": 7.5,
+              "cagr_period": "2024-2034",
+              "projected_market_size_usd_mn": 2500,
+              "projected_year": 2034
+            },
+            {
+              "api_name": "Lisdexamfetamine Dimesylate API",
+              "market_size_usd_mn": 3800,
+              "year": 2025,
+              "cagr_percent": 7.2,
+              "cagr_period": "2026-2034"
+            }
+          ],
+          "sources": []
+        },
+        {
+          "label": "Key competitors for Embio's primary API products",
+          "value": [
+            {
+              "api": "Pseudoephedrine Hydrochloride",
+              "competitors": [
+                "Malladi Drugs & Pharmaceuticals",
+                "Chifeng Arker Pharmaceutical Technology",
+                "Arch Pharmalabs",
+                "Teva Pharmaceutical Industries Ltd.",
+                "Sanofi S.A.",
+                "GlaxoSmithKline plc",
+                "Abbott Laboratories",
+                "Perrigo Company plc",
+                "Amneal Pharmaceuticals LLC"
+              ]
+            },
+            {
+              "api": "Lisdexamfetamine Dimesylate",
+              "competitors": [
+                "Teva Pharmaceuticals",
+                "Aurobindo Pharma",
+                "Veranova",
+                "Fermion Oy",
+                "Temad Co",
+                "Cohance Lifesciences"
+              ]
+            }
+          ],
+          "sources": []
+        }
+      ],
+      "bullets": [
+        "Market size (USD Mn) and CAGR for key APIs (e.g., Pseudoephedrine API, Lisdexamfetamine API): [{\"api_name\": \"Lisdexamfetamine API\", \"market_size_usd_mn\": 1200, \"year\": 2024, \"cagr_percent\": 7.5, \"cagr_period\": \"2024-2034\", \"projected_market_size_usd_mn\": 2500, \"projected_year\": 2034}, {\"api_name\": \"Lisdexamfetamine Dimesylate API\", \"market_size_usd_mn\": 3800, \"year\": 2025, \"cagr_percent\": 7.2, \"cagr_period\": \"2026-2034\"}]",
+        "Key competitors for Embio's primary API products: [{\"api\": \"Pseudoephedrine Hydrochloride\", \"competitors\": [\"Malladi Drugs & Pharmaceuticals\", \"Chifeng Arker Pharmaceutical Technology\", \"Arch Pharmalabs\", \"Teva Pharmaceutical Industries Ltd.\", \"Sanofi S.A.\", \"GlaxoSmithKline plc\", \"Abbott Laboratories\", \"Perrigo Company plc\", \"Amneal Pharmaceuticals LLC\"]}, {\"api\": \"Lisdexamfetamine Dimesylate\", \"competitors\": [\"Teva Pharmaceuticals\", \"Aurobindo Pharma\", \"Veranova\", \"Fermion Oy\", \"Temad Co\", \"Cohance Lifesciences\"]}]"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOZuzWVzcQmWsErMM7ZX8UiIC0a1BckamNI_NZn6TiXSDeeEQTsH7OWiiKCtn9TMTv0oyXQn_dp2mX3RNPtZMvMBQvcyl1UtDhGBZuNfOb7bUlOmXQUtxjs3RGu-voDncZgv4jdWCApfTVAv75WqZYIPDTBXlyC0FXpd1-mKK1fcsQ4Ms7sBAqYoKE-7I=",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6gWBPacOv7oYgJ1_fhEwrhUhW28qKcOJiD_anb0DJadbQWqwBqcFgUmJNxVeT1vN1I00e9K8lWfEJ3ZgcA6iMxngeyJ26ICYQpEe72TzoulGPKJ2Zf8c6evuq4PdWqsoIIHjShCDvt1ynjJiSheAqQR76P2arf_AfyPSnRfG9WgN7YrUBZ4tA-AUfOCnclvzsFH4j3Gzl7EJatiGIu79Q",
+          "fields": []
+        },
+        {
+          "name": "reportsanddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMXFrH28wGXiay7AF8nn7EPyistnjWNjJzMaUHkdMO2wRTo5xMvgWMJEozc2ysE_3It1EO2PAMXL8pmcdZvWsvKeSY4KxNX2ycy1FCI2_t1O8XN2pJh5--9if5bIYh33aG_QyzMdwsVIxlReFj-7XGZkq8K5bqg8Qfh8nM6Cz31jkYLw==",
+          "fields": []
+        },
+        {
+          "name": "dataintelo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU_Y77EhjHS68g_5zFhNjoPEp3QJzo7QJPecVXHtEAxPAZ0pH2CBnwlHCLd28F7N8JDUhPnC2cBh8lx4Sw_6gaQHgDvTEuX2waQGiW-P05S3RqAblwhLaldRZFtwCpxSkHXnqu6am5Isdm9alMmpG-t_3-jkSpmLRArtI=",
+          "fields": []
+        },
+        {
+          "name": "verifiedmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpuRKjuTJmlYxxTMn4K526PWttoVv6nVFxN0CTuBL1YxEGlY_sR4yv99PECdlvETl8vXeR--RfqPUv3wYCjfeEsE3WGMlZiyDrKIrwVsj6HA9i2JiGs26coiIT3EW05pLlfoBRfCmt848zlwr85CWFvKoHaoAR_AavTAddNzil4BXe",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_ql0V0-Hp499smFf494h_-aXvOSb_6fGoveF_MMmDIZDAVfZ5NL9AZH3KppdhtePliW5NTNJJUnww9M-xWsAwykN7ZkrYI7AZ364S7cPumKWQLdj6MpJkv2mat38hcomKcGtFp55txrn2pzz1WjqTkCghi0WU4BfQNMai5haFemvkk-4kGw==",
+          "fields": []
+        },
+        {
+          "name": "archivemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QmTbxOdtskPK9df9-2COKGS9VusQsaPFy7wpEmEww2bB2YsENn-RCb-qdhDN6CW6hYEjqeV7LJjeqoT0AOCOA62VHLmo2qrfbtEDYrOvOkUIEGJrua3xxT5QyKXTNhIQJA-RGkOrgc0Om6ILAjxnYd49ZN2piK5-8ZwUuY9k",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCJ_IqjmAQIhUlz-CNmAFC6Zhw3fm1NRh58vyFWrwt2EULLC1U58pwl8fiU6WzFVYgnXGaP1cSiok8Y2Tmqghhyf38SV-o-OGQ3TgyEsJ-j6a8QoRy9KGzylylkVkAmsdSaQdiJGjlLA1Y6q5uH4qRTjAviObrq5V_pATneDEUruF7prwc_5XpIzl2QFIdUhaA7arMVw==",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCJEp4TA5PbdmuhkVjV2N8k9Vat_WKE4vLX5NsRmOy-jm91BVNU0571ftgZ_weymdnjEeavXGM4AAv-ER_HUpysZfEDfisPkDHEKkaD6XuSGzm6t8GmkI=",
+          "fields": []
+        },
+        {
+          "name": "intelmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNu-ZlNDzOkD4N1esfKAlpJ8mVPHNgy55Sb27HsxsizaX65bKMYGhQZ_BwvOcRn7W0FwpkYPGo1naUwk8jw4NThEsbsldD8MqPG7k8RjIsoR23ySC6GZhJ8xh_ibUeyTWR9XTWOyEuiTqOHvOP9onzLLzCTqDopGwCqQaJkiFb5CocPPqYrPztMJwr",
+          "fields": []
+        },
+        {
+          "name": "fortunebusinessinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrl4h2k7uGi6A86HodPqlBtnvRGhYPXK6xPXreSnPmEV4VVy63yLL_XKJSx3Ykh5Xh3Fj1j_R-xLSBm1v2duSg4BfKs8dt--n6WcAk52LJgOwjtqfnIwb2gYRULSBskWJY80zRsBVQxj0OIZ-_g98Ao_PzPjyVagCkumkQRI1lS4_RPE2U4rkA7Cbe9W-_miINEkjAg==",
+          "fields": []
+        },
+        {
+          "name": "pharmasource.global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0iYB8Cf79_s6InE0ae6XsZVnRI8EQLvWBwa4JCnmWo1U18KGQl2tP_grMW9zRlKH-OSonGzWfjqYc3Ww5A3X2vqUv3jBqPHjEw_2wgSSu8z-s7azDF82y-G3qCACh77slFuXzAXUomIwv6g==",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzz0oD6aeBAwoLV8JygH58RzU5NTwsuf1az4FLKdxekeqkLNu6GctNgGYAc6NpExvWwytCxVPwpuZn_keu1xA6qyzHX5ikBl1TRdTmi3rfCw0urk-cZeXDX6tlFlwByJKCXkWd2g1gtn8YhpOPAW2a96wtilXxtbc=",
+          "fields": []
+        },
+        {
+          "name": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXfkUwP2B_Tr6xYFjuUn6iaZ2bY3izHdFGF5lRiBVlU0uEbj1l97lxea9FVoW5sU1tGZu3Y730nxebsb8kStCdtmRG5ZkaZWv-HIIdz_PrpBja-5-oSu9xHUOtgHvkgVCwWCmTzGsmmeVYk5eixujLfYdoXDg2Wysj3khrmaWkbtXnNivfliDBv3NXaBuz",
+          "fields": []
+        },
+        {
+          "name": "patentcliff.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6NkM5fIUGB4tgPhJ3A7ElBi4WuABtnYV9yqt2IkJCkNZOWl6NXzQdLwei0z9NU4EUnvbstYDkOBXyWGHe4dGnpxkxAwteYKfaa3i01F6Vvvpbnd850OQdgVQE1SiBshkWVU041AvDeWM5Q==",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9mv4Nyi_BuJRHcQs7pFUNxfdl2xdHncnlauzynnHI35O22UYKJ-oGPTdWzXAXRtd3_eD6R9jqx5GiqVRFLW6mNvyuTM0FWaJ5eYC1cKxB9UtH5b1ojL6arpii7geu0wyce8k0M9CCFFmmr-r0JIN7nnHzcOrEDrLAmrfT5M3j_AAlStzH",
+          "fields": []
+        },
+        {
+          "name": "google.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7DncIgsaqQkagSqYVBNJbPAW4czdMcLvWIFOHnGu2p-YxEiId77JtfVoKgPhYGszN6NwYqA3NvhJC-soGbtCvefSWUUT1_rJLMV6ctP2PYEyQxXNgmc1VDqstxh46ZzVFyhkf1i3fpJiAA==",
+          "fields": []
+        },
+        {
+          "name": "Current time information in Konkan Division, IN.",
+          "url": "https://www.google.com/search?q=time+in+Konkan+Division,+IN",
+          "fields": []
+        },
+        {
+          "name": "qyobo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoUtNW_DfreiC6z08i9NNbfbnj_BX1QdMQXLNqoYfunqte0NA5_iXU32EBOTgf-AJZiBJDUv8V1cqabsJ0B7Ybu4xke1qBXv-gwaOxN7oI9C5rICxIyccE5wRFDGI9UM-wata6YsWp8LjxwLBJgcHl7X1Obq_rYZP7sbWivhuj",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc6ljossb8XTekYH1SrUGNthZRaEDFjxleN_2Tv343-eYShZhlg2UKEs5yXZrbrd8Qgfeaq7dtgws09XhSwTVUL12fbzpxTPhJ4l0nNvPC3az0I5iV94NZIT-7QvNJ7JGcJ2gBLLV5pKp9B4m6qWAjqYTVtqLTj6row70Nk262NorZ1azxlw==",
+          "fields": []
+        },
+        {
+          "name": "qualifyze.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYpnQV6shpDKETJwXJ65HBEeIr0VYeBWdxBOlIFWnNbydZD5hqbUb44xiNvpF2vtQciljk9DEKei18OpOwXee0kJEtHaHhgXnwDHjH1EyZF-YzFhyk92Rfg1MeXq37Tm00jcUK2CD2GEu-fmacjeOzCfQvb3QPcDUaDVRU3GIvUrJvtvp5voDmg2s=",
+          "fields": []
+        },
+        {
+          "name": "echemi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo0U_QRMdsABsGG-FaitdvJ0iQ721Jc1ggREG242tqOFnctpzA27VsuT0mn9GIL0y0qdHYbYrLerV-5Us4FzhC4hAOAm1sHgYc9DHVuLW82CgQ5tb5qFQbttLvHs5WGRLjv8AZtpQSOowGAqWvT1xxzHstWJdqJX2txyVFuncx2fyXz1pJ_nCkP9xkSwFqtBCZ4l1N9adXqgNq4kGqNt8gKcYy_XbC",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPOqmQ47Q61CTeF6QPw6X8MzlvK0VZJuoaezXdom_aVWTvzQhIZ2jX8Uj5aPEssyCzOTy3BeD5Cq2nQkU4tg8xq2OoT7JXeO2OucPT1DCQpCC-NGkfN-azTeMaJjb0KsWbGA_ynIY9La5x4EksjtYrgqcdiPDz7WwsVdv-dnolSqnPy3P8TT8TQKzs",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAAjcaZus0ch9rQcYi_yEXaiJ9xVkUerc2kOUZGmAepCwtVK3Viq70WvvkTAiI_ear_FHFooULjT6qt3iO2TNBG8wZLOe-81bOWTD_s5rRMP64p5-bs43SxsHZel3y58ybm_4PWv_0hWqwNTBaHzx5J4S2ic8d8_923u8S1M5v9ToIK1A=",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCXwpjr7T-ziOlouj6V-BQ1FfZtJS-whbGyxJl1s0Z4MQ820XX9N0wNVzlL8ZH9bLjFTQMcqilQyMc_jUeR0hwZU49XlwceHhpXOF5U3U3uV9K18QcLSoy9-wb0GEZOZMIE7WyMMlk4DK-o7XetIqLhfNpJgfJ02CBbo4LQvmODGdq8zsOpeQTH7fgsIelP-4XessUqdE=",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ6J8M8okeZmYZWgYoe4WqAJDd3NMluDZe2wgU1G282Fs51ML89MucVRPhmqinl41Kuxfbpdv5ESIOOmWZlxoIcojE_eCGUWCMQjo_DoLMQ1Dxo5ExRe03vqJOvWZfTbzNp4iq0wkMGvTxYVW3zuzb_uxwf_CWbDRTDz8FsbTxRG5YHwXzlQ==",
+          "fields": []
+        },
+        {
+          "name": "ensun.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExfJ7Kr3YaHjrM4OJz4TO3F7F--yocu0px6f3RGKSIeqFtkRmjTF8pvh2a5FQsRBGM_1rtsaOCjrczBZ-XRud9PW7binlUrWmXaIqSMeGVBiwrdbKIvmjpGtTZwqqo8Q==",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6OD_TXLRE7AtvC2bABS1XNPpo-WhU6iR2EtXO4sl04CkPpwIb70BqCNzckWqEepcgCvZDE9E9edDtHVYj88bYs0F9xdjYFhCUT7AV18MxJrvTOBqxAB5ktwLuX3oNirMz9UDAGFMcyrAmroz5IKXbx2pgWsixLIiYXk3N4sQpmQmzw==",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYVPtsvCsYsaQ0pxLdfEF_1OwRiYnOrCKAmeURi4dAsZT3FjYLwAY4gK2vbErzIbX6EWYKv1QpeOgLx0arVLU4vz_O2ewXgNglC7vOMcWYDYCjrVWggCj8Kuu_2UgcelPOGEEtWWv5MGKYBQqXIvJ-oCrMqqMrrqyYSywze9c6ZEs6t6Q=",
+          "fields": []
+        },
+        {
+          "name": "coherentmarketinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTf5EPdSanyewvGgFMoiF3hWHdttAMDkxs6GeIP_Hw2xHTyFZPCPSn6ISwaguEmZHyW3owlpHE5VTsG46RdAo7OnXoPFJxkXtm8--qeMUpgWSbhAJ2TISYw1rHClkes8xD7JEiAD6icQfy-UF2tDdVfyxiw-4-s4JhCO6S6kpa6tyone64MsuG_gAsncEy36LgOL31",
+          "fields": []
+        },
+        {
+          "name": "nih.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtptIAvnyIVNh6H-HS4SMAzQuNW1SnJuPCF2e8IHVLQR-BWbsQP5xOHmTNLwLmZb7efJQerVqvVtNkV0Cme4CIlgkaAYksdjAvfTGMfZH1s_DfhgpRu-UT1zaRZ5hSgY3Rgl57CNhL_iwH5iI0",
+          "fields": []
+        },
+        {
+          "name": "kalapa-clinic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf65N7z2PKOGtcQD-Xr5ZqmIXjlY6Gj2AifTZmnCoAMK1L2UBQbQqK_PuZRvYQPT_uM3FNJoyfBWmMuNziEYVDiMJvM0uzJ2JnqHgpqjlm4dMFOS1JoFzhycumeTkmUjuCINNb7RgC641r5fBalscQQUhwR_i9unSiiG52LHpBQQOXcPmm5XhtS-FMW5CzT0me-ZGLkCICIjtbioB6EOk998HwFJdBlsWFCLYp7pA=",
+          "fields": []
+        },
+        {
+          "name": "researchgate.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER6MTdhOn3jWOWg5wZbylUPmTY1cAgW3Hf5IM0S2D8qvKqGfyxabkihbikHJnf5tvYa4VeCwm5g6sYo0J6OfBjrSdFapaQedvFJp8kPLa6i8KxB_AWK3INIqEeePzD5WcEBaiqoqcnYkoQgx8GRKpDvEm95VIykz9q7oltimNpJS1EVu0lETgOsbA7lWtHmuVUdq6coRj3SDe9UdM1BDOzU7BA1ANXo4kz",
+          "fields": []
+        },
+        {
+          "name": "mdpi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL0k6k52ixXHpEGMop0AenDgePdJkzFo3-A_t0MLeOi15HfL2dv0Zs-A-p33fXYQsifqqa_HES4MB1LjBdbBVOOZa8Cr7oln95ZLIGdjGN48ihVjgNmhK9WJP6MDEClNAXpzQV",
+          "fields": []
+        },
+        {
+          "name": "psu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxThDxnjdK2nv08F-qrrcerUbXMHKItQ-o94Pxl4Bmyjhsvcynbs_ORXZTOayGCP5CmpCK85GwdctxxauGwi95WBT3TiHC5fb1ZP8e5CVK2dkon-e-_b5hCrKZHD9pjIxqXHQpSYsoyM742-D8NUL0W6FYT3oMptIGzXoGUI2Fudz3kRjwx68d0RlCnEU2yW4KYHgVnYU43jxAdjw=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwnPiH30TjAkbRIr_jlMjFIItRw-mhHmerPCaQ5_sLQCuNXDOc-TqEkshGHI6bfa2uUy5NR4X3qoyUtyZpfRC1WfqXAK3GtDXQGVOw7Sqtyr8Ksv7MVoiRov5oR0eTNSlOdzdrxYOJqFSg_7Ikl8AWy3JZ4Fgd8S_ku6a7fxCfElg5uLXCv0CbtpOdalBcfoR1DRzLDD-6YbJeaG-FF_oO1lB1X1v4gknyTEzOKA==",
+          "fields": []
+        },
+        {
+          "name": "patsnap.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ext9I2vPCwBTflpyElBsFu7SVxFZr0p354Qr1N4-fRA6TB73aNFgwU1s3AzTL7Cb0ZdvY5LxnloxamXiL3YNlBldTywq-8y5TXg66POrtHd6b7rqGYNKqSWinUEBVfyDfZrQj_r1VC-T50_kzL6Qb9jPqZ08zfVsihx2",
+          "fields": []
+        },
+        {
+          "name": "getinflow.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOoQBBR93ggQm9KIWIeO-ykG__IyOt_AbBJ8aHSCer9ibmX4HniLaDflegLQAY98W4ozdKgswwOjI7WAFK8OO-te7TbcT4MZj-umlMHqc3RGq8j7wn5zVeyEuH4RK2P1bpDZ1kEyKXEnYCqnptJ1kgFmzq9ub3oYCUJM0mw8JN8wzcW_Y_Ink-qK0=",
+          "fields": []
+        },
+        {
+          "name": "sec.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJYelVwbJVt0vHEPaMyUJ-pPpDzHOgZxpJjTkI5KV2ATYbXlW_qYA_j2Sl11NoTzb3bACbzDa4nBy_8BcCx9QHQy6UgrOYlUPyXe6xvf7BZB_mXDqNOwMnxCdaDiZYcCsvaAyJSlEE-slqAmrppBfF7GDbxHLpdf2BKWhQaq0ufbFYAEELJG-1sIo9NxNTFA==",
+          "fields": []
+        },
+        {
+          "name": "clinicaltrialsarena.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcoLaYV0bwoE9VFzANn4JEGeBxjSL6lGNimWhe6mItfqLKspomw3MLUr1nuM3KPdmrfoBPEoPWr3z6X_2PHOPxOufIQyBysnIhg6zjzgnyTApPzFTE_PSqCxLooHw9QXjuT8CLgTahNPZ3NU-dYxCccEZogqs5A5UrUbMN7mOASU2oYl-DmScdLU-T16jJaprEOHZLNuc=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHffza8piGHFdpIWjmtUWV4GZxlH1Pkjy376ieQ9ZNjQbyEBe7NO6sZW5s1mLzTT3Av8aYEW6wE3dosmJLHfOldkFuaP87Olyj-7nlMKhXV4NpBOmcm72_vV0u-nvyz8puYFtUsEW3G5k0WmtfH5-YJgDDw5gM=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOd2JM6tfnUdvkQeZVX4_8VBfnjLMP9pDTr1VMO9Uotvr2YBhVIweuctXWdX-MCdv1ZMekWfK2vnyVKNIpIrLK2xVyDNTeSd6wVOhbX-9RduSBfbVR0DS3-Bx9ZlzAcZwMrPS-mlrRdozB718XxuqfczS2YaEjwD53-RyAyE9tTCmWxuI9v5s=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Niche API Market Dynamics & Pipeline",
+      "confidence": "low",
+      "completeness": 0.25,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Estimated market share of Embio for its top 3-5 APIs",
+        "Average selling price trends for key APIs (last 3-5 years)",
+        "Number of new APIs in development pipeline (pre-clinical, clinical, filing stages)",
+        "Target therapeutic areas for pipeline products",
+        "Expected launch timelines for key pipeline products",
+        "Patent expiry dates for innovator drugs corresponding to Embio's APIs"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms a potentially attractive niche market with clear growth drivers and Embio's competitive positioning, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Identifies specific API products and pipeline assets that could form the basis of future M&A or financing pitches, making the company more relevant for active deal consideration.",
+        "credit_analyst": "Provides insight into market stability and competitive pressures for Embio's core products, informing the assessment of revenue predictability and credit risk.",
+        "consultant": "Highlights pipeline development and target therapeutic areas, offering potential avenues for operational improvement or strategic market entry analysis."
+      }
+    },
+    {
+      "heading": "New Product Pipeline & Growth Drivers",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Market size (USD Mn) and CAGR for key APIs (e.g., Pseudoephedrine API, Lisdexamfetamine API)",
+          "value": [
+            {
+              "api_name": "Lisdexamfetamine API",
+              "market_size_usd_mn": 1200,
+              "year": 2024,
+              "cagr_percent": 7.5,
+              "cagr_period": "2024-2034",
+              "projected_market_size_usd_mn": 2500,
+              "projected_year": 2034
+            },
+            {
+              "api_name": "Lisdexamfetamine Dimesylate API",
+              "market_size_usd_mn": 3800,
+              "year": 2025,
+              "cagr_percent": 7.2,
+              "cagr_period": "2026-2034"
+            }
+          ],
+          "sources": []
+        },
+        {
+          "label": "Key competitors for Embio's primary API products",
+          "value": [
+            {
+              "api": "Pseudoephedrine Hydrochloride",
+              "competitors": [
+                "Malladi Drugs & Pharmaceuticals",
+                "Chifeng Arker Pharmaceutical Technology",
+                "Arch Pharmalabs",
+                "Teva Pharmaceutical Industries Ltd.",
+                "Sanofi S.A.",
+                "GlaxoSmithKline plc",
+                "Abbott Laboratories",
+                "Perrigo Company plc",
+                "Amneal Pharmaceuticals LLC"
+              ]
+            },
+            {
+              "api": "Lisdexamfetamine Dimesylate",
+              "competitors": [
+                "Teva Pharmaceuticals",
+                "Aurobindo Pharma",
+                "Veranova",
+                "Fermion Oy",
+                "Temad Co",
+                "Cohance Lifesciences"
+              ]
+            }
+          ],
+          "sources": []
+        }
+      ],
+      "bullets": [
+        "Market size (USD Mn) and CAGR for key APIs (e.g., Pseudoephedrine API, Lisdexamfetamine API): [{\"api_name\": \"Lisdexamfetamine API\", \"market_size_usd_mn\": 1200, \"year\": 2024, \"cagr_percent\": 7.5, \"cagr_period\": \"2024-2034\", \"projected_market_size_usd_mn\": 2500, \"projected_year\": 2034}, {\"api_name\": \"Lisdexamfetamine Dimesylate API\", \"market_size_usd_mn\": 3800, \"year\": 2025, \"cagr_percent\": 7.2, \"cagr_period\": \"2026-2034\"}]",
+        "Key competitors for Embio's primary API products: [{\"api\": \"Pseudoephedrine Hydrochloride\", \"competitors\": [\"Malladi Drugs & Pharmaceuticals\", \"Chifeng Arker Pharmaceutical Technology\", \"Arch Pharmalabs\", \"Teva Pharmaceutical Industries Ltd.\", \"Sanofi S.A.\", \"GlaxoSmithKline plc\", \"Abbott Laboratories\", \"Perrigo Company plc\", \"Amneal Pharmaceuticals LLC\"]}, {\"api\": \"Lisdexamfetamine Dimesylate\", \"competitors\": [\"Teva Pharmaceuticals\", \"Aurobindo Pharma\", \"Veranova\", \"Fermion Oy\", \"Temad Co\", \"Cohance Lifesciences\"]}]"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOZuzWVzcQmWsErMM7ZX8UiIC0a1BckamNI_NZn6TiXSDeeEQTsH7OWiiKCtn9TMTv0oyXQn_dp2mX3RNPtZMvMBQvcyl1UtDhGBZuNfOb7bUlOmXQUtxjs3RGu-voDncZgv4jdWCApfTVAv75WqZYIPDTBXlyC0FXpd1-mKK1fcsQ4Ms7sBAqYoKE-7I=",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6gWBPacOv7oYgJ1_fhEwrhUhW28qKcOJiD_anb0DJadbQWqwBqcFgUmJNxVeT1vN1I00e9K8lWfEJ3ZgcA6iMxngeyJ26ICYQpEe72TzoulGPKJ2Zf8c6evuq4PdWqsoIIHjShCDvt1ynjJiSheAqQR76P2arf_AfyPSnRfG9WgN7YrUBZ4tA-AUfOCnclvzsFH4j3Gzl7EJatiGIu79Q",
+          "fields": []
+        },
+        {
+          "name": "reportsanddata.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMXFrH28wGXiay7AF8nn7EPyistnjWNjJzMaUHkdMO2wRTo5xMvgWMJEozc2ysE_3It1EO2PAMXL8pmcdZvWsvKeSY4KxNX2ycy1FCI2_t1O8XN2pJh5--9if5bIYh33aG_QyzMdwsVIxlReFj-7XGZkq8K5bqg8Qfh8nM6Cz31jkYLw==",
+          "fields": []
+        },
+        {
+          "name": "dataintelo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU_Y77EhjHS68g_5zFhNjoPEp3QJzo7QJPecVXHtEAxPAZ0pH2CBnwlHCLd28F7N8JDUhPnC2cBh8lx4Sw_6gaQHgDvTEuX2waQGiW-P05S3RqAblwhLaldRZFtwCpxSkHXnqu6am5Isdm9alMmpG-t_3-jkSpmLRArtI=",
+          "fields": []
+        },
+        {
+          "name": "verifiedmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpuRKjuTJmlYxxTMn4K526PWttoVv6nVFxN0CTuBL1YxEGlY_sR4yv99PECdlvETl8vXeR--RfqPUv3wYCjfeEsE3WGMlZiyDrKIrwVsj6HA9i2JiGs26coiIT3EW05pLlfoBRfCmt848zlwr85CWFvKoHaoAR_AavTAddNzil4BXe",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_ql0V0-Hp499smFf494h_-aXvOSb_6fGoveF_MMmDIZDAVfZ5NL9AZH3KppdhtePliW5NTNJJUnww9M-xWsAwykN7ZkrYI7AZ364S7cPumKWQLdj6MpJkv2mat38hcomKcGtFp55txrn2pzz1WjqTkCghi0WU4BfQNMai5haFemvkk-4kGw==",
+          "fields": []
+        },
+        {
+          "name": "archivemarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QmTbxOdtskPK9df9-2COKGS9VusQsaPFy7wpEmEww2bB2YsENn-RCb-qdhDN6CW6hYEjqeV7LJjeqoT0AOCOA62VHLmo2qrfbtEDYrOvOkUIEGJrua3xxT5QyKXTNhIQJA-RGkOrgc0Om6ILAjxnYd49ZN2piK5-8ZwUuY9k",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCJ_IqjmAQIhUlz-CNmAFC6Zhw3fm1NRh58vyFWrwt2EULLC1U58pwl8fiU6WzFVYgnXGaP1cSiok8Y2Tmqghhyf38SV-o-OGQ3TgyEsJ-j6a8QoRy9KGzylylkVkAmsdSaQdiJGjlLA1Y6q5uH4qRTjAviObrq5V_pATneDEUruF7prwc_5XpIzl2QFIdUhaA7arMVw==",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCJEp4TA5PbdmuhkVjV2N8k9Vat_WKE4vLX5NsRmOy-jm91BVNU0571ftgZ_weymdnjEeavXGM4AAv-ER_HUpysZfEDfisPkDHEKkaD6XuSGzm6t8GmkI=",
+          "fields": []
+        },
+        {
+          "name": "intelmarketresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNu-ZlNDzOkD4N1esfKAlpJ8mVPHNgy55Sb27HsxsizaX65bKMYGhQZ_BwvOcRn7W0FwpkYPGo1naUwk8jw4NThEsbsldD8MqPG7k8RjIsoR23ySC6GZhJ8xh_ibUeyTWR9XTWOyEuiTqOHvOP9onzLLzCTqDopGwCqQaJkiFb5CocPPqYrPztMJwr",
+          "fields": []
+        },
+        {
+          "name": "fortunebusinessinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrl4h2k7uGi6A86HodPqlBtnvRGhYPXK6xPXreSnPmEV4VVy63yLL_XKJSx3Ykh5Xh3Fj1j_R-xLSBm1v2duSg4BfKs8dt--n6WcAk52LJgOwjtqfnIwb2gYRULSBskWJY80zRsBVQxj0OIZ-_g98Ao_PzPjyVagCkumkQRI1lS4_RPE2U4rkA7Cbe9W-_miINEkjAg==",
+          "fields": []
+        },
+        {
+          "name": "pharmasource.global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0iYB8Cf79_s6InE0ae6XsZVnRI8EQLvWBwa4JCnmWo1U18KGQl2tP_grMW9zRlKH-OSonGzWfjqYc3Ww5A3X2vqUv3jBqPHjEw_2wgSSu8z-s7azDF82y-G3qCACh77slFuXzAXUomIwv6g==",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzz0oD6aeBAwoLV8JygH58RzU5NTwsuf1az4FLKdxekeqkLNu6GctNgGYAc6NpExvWwytCxVPwpuZn_keu1xA6qyzHX5ikBl1TRdTmi3rfCw0urk-cZeXDX6tlFlwByJKCXkWd2g1gtn8YhpOPAW2a96wtilXxtbc=",
+          "fields": []
+        },
+        {
+          "name": "reddit.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXfkUwP2B_Tr6xYFjuUn6iaZ2bY3izHdFGF5lRiBVlU0uEbj1l97lxea9FVoW5sU1tGZu3Y730nxebsb8kStCdtmRG5ZkaZWv-HIIdz_PrpBja-5-oSu9xHUOtgHvkgVCwWCmTzGsmmeVYk5eixujLfYdoXDg2Wysj3khrmaWkbtXnNivfliDBv3NXaBuz",
+          "fields": []
+        },
+        {
+          "name": "patentcliff.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6NkM5fIUGB4tgPhJ3A7ElBi4WuABtnYV9yqt2IkJCkNZOWl6NXzQdLwei0z9NU4EUnvbstYDkOBXyWGHe4dGnpxkxAwteYKfaa3i01F6Vvvpbnd850OQdgVQE1SiBshkWVU041AvDeWM5Q==",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9mv4Nyi_BuJRHcQs7pFUNxfdl2xdHncnlauzynnHI35O22UYKJ-oGPTdWzXAXRtd3_eD6R9jqx5GiqVRFLW6mNvyuTM0FWaJ5eYC1cKxB9UtH5b1ojL6arpii7geu0wyce8k0M9CCFFmmr-r0JIN7nnHzcOrEDrLAmrfT5M3j_AAlStzH",
+          "fields": []
+        },
+        {
+          "name": "google.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7DncIgsaqQkagSqYVBNJbPAW4czdMcLvWIFOHnGu2p-YxEiId77JtfVoKgPhYGszN6NwYqA3NvhJC-soGbtCvefSWUUT1_rJLMV6ctP2PYEyQxXNgmc1VDqstxh46ZzVFyhkf1i3fpJiAA==",
+          "fields": []
+        },
+        {
+          "name": "Current time information in Konkan Division, IN.",
+          "url": "https://www.google.com/search?q=time+in+Konkan+Division,+IN",
+          "fields": []
+        },
+        {
+          "name": "qyobo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoUtNW_DfreiC6z08i9NNbfbnj_BX1QdMQXLNqoYfunqte0NA5_iXU32EBOTgf-AJZiBJDUv8V1cqabsJ0B7Ybu4xke1qBXv-gwaOxN7oI9C5rICxIyccE5wRFDGI9UM-wata6YsWp8LjxwLBJgcHl7X1Obq_rYZP7sbWivhuj",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc6ljossb8XTekYH1SrUGNthZRaEDFjxleN_2Tv343-eYShZhlg2UKEs5yXZrbrd8Qgfeaq7dtgws09XhSwTVUL12fbzpxTPhJ4l0nNvPC3az0I5iV94NZIT-7QvNJ7JGcJ2gBLLV5pKp9B4m6qWAjqYTVtqLTj6row70Nk262NorZ1azxlw==",
+          "fields": []
+        },
+        {
+          "name": "qualifyze.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYpnQV6shpDKETJwXJ65HBEeIr0VYeBWdxBOlIFWnNbydZD5hqbUb44xiNvpF2vtQciljk9DEKei18OpOwXee0kJEtHaHhgXnwDHjH1EyZF-YzFhyk92Rfg1MeXq37Tm00jcUK2CD2GEu-fmacjeOzCfQvb3QPcDUaDVRU3GIvUrJvtvp5voDmg2s=",
+          "fields": []
+        },
+        {
+          "name": "echemi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo0U_QRMdsABsGG-FaitdvJ0iQ721Jc1ggREG242tqOFnctpzA27VsuT0mn9GIL0y0qdHYbYrLerV-5Us4FzhC4hAOAm1sHgYc9DHVuLW82CgQ5tb5qFQbttLvHs5WGRLjv8AZtpQSOowGAqWvT1xxzHstWJdqJX2txyVFuncx2fyXz1pJ_nCkP9xkSwFqtBCZ4l1N9adXqgNq4kGqNt8gKcYy_XbC",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPOqmQ47Q61CTeF6QPw6X8MzlvK0VZJuoaezXdom_aVWTvzQhIZ2jX8Uj5aPEssyCzOTy3BeD5Cq2nQkU4tg8xq2OoT7JXeO2OucPT1DCQpCC-NGkfN-azTeMaJjb0KsWbGA_ynIY9La5x4EksjtYrgqcdiPDz7WwsVdv-dnolSqnPy3P8TT8TQKzs",
+          "fields": []
+        },
+        {
+          "name": "drugpatentwatch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAAjcaZus0ch9rQcYi_yEXaiJ9xVkUerc2kOUZGmAepCwtVK3Viq70WvvkTAiI_ear_FHFooULjT6qt3iO2TNBG8wZLOe-81bOWTD_s5rRMP64p5-bs43SxsHZel3y58ybm_4PWv_0hWqwNTBaHzx5J4S2ic8d8_923u8S1M5v9ToIK1A=",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCXwpjr7T-ziOlouj6V-BQ1FfZtJS-whbGyxJl1s0Z4MQ820XX9N0wNVzlL8ZH9bLjFTQMcqilQyMc_jUeR0hwZU49XlwceHhpXOF5U3U3uV9K18QcLSoy9-wb0GEZOZMIE7WyMMlk4DK-o7XetIqLhfNpJgfJ02CBbo4LQvmODGdq8zsOpeQTH7fgsIelP-4XessUqdE=",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ6J8M8okeZmYZWgYoe4WqAJDd3NMluDZe2wgU1G282Fs51ML89MucVRPhmqinl41Kuxfbpdv5ESIOOmWZlxoIcojE_eCGUWCMQjo_DoLMQ1Dxo5ExRe03vqJOvWZfTbzNp4iq0wkMGvTxYVW3zuzb_uxwf_CWbDRTDz8FsbTxRG5YHwXzlQ==",
+          "fields": []
+        },
+        {
+          "name": "ensun.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExfJ7Kr3YaHjrM4OJz4TO3F7F--yocu0px6f3RGKSIeqFtkRmjTF8pvh2a5FQsRBGM_1rtsaOCjrczBZ-XRud9PW7binlUrWmXaIqSMeGVBiwrdbKIvmjpGtTZwqqo8Q==",
+          "fields": []
+        },
+        {
+          "name": "pharmacompass.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6OD_TXLRE7AtvC2bABS1XNPpo-WhU6iR2EtXO4sl04CkPpwIb70BqCNzckWqEepcgCvZDE9E9edDtHVYj88bYs0F9xdjYFhCUT7AV18MxJrvTOBqxAB5ktwLuX3oNirMz9UDAGFMcyrAmroz5IKXbx2pgWsixLIiYXk3N4sQpmQmzw==",
+          "fields": []
+        },
+        {
+          "name": "pharmaoffer.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYVPtsvCsYsaQ0pxLdfEF_1OwRiYnOrCKAmeURi4dAsZT3FjYLwAY4gK2vbErzIbX6EWYKv1QpeOgLx0arVLU4vz_O2ewXgNglC7vOMcWYDYCjrVWggCj8Kuu_2UgcelPOGEEtWWv5MGKYBQqXIvJ-oCrMqqMrrqyYSywze9c6ZEs6t6Q=",
+          "fields": []
+        },
+        {
+          "name": "coherentmarketinsights.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTf5EPdSanyewvGgFMoiF3hWHdttAMDkxs6GeIP_Hw2xHTyFZPCPSn6ISwaguEmZHyW3owlpHE5VTsG46RdAo7OnXoPFJxkXtm8--qeMUpgWSbhAJ2TISYw1rHClkes8xD7JEiAD6icQfy-UF2tDdVfyxiw-4-s4JhCO6S6kpa6tyone64MsuG_gAsncEy36LgOL31",
+          "fields": []
+        },
+        {
+          "name": "nih.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtptIAvnyIVNh6H-HS4SMAzQuNW1SnJuPCF2e8IHVLQR-BWbsQP5xOHmTNLwLmZb7efJQerVqvVtNkV0Cme4CIlgkaAYksdjAvfTGMfZH1s_DfhgpRu-UT1zaRZ5hSgY3Rgl57CNhL_iwH5iI0",
+          "fields": []
+        },
+        {
+          "name": "kalapa-clinic.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf65N7z2PKOGtcQD-Xr5ZqmIXjlY6Gj2AifTZmnCoAMK1L2UBQbQqK_PuZRvYQPT_uM3FNJoyfBWmMuNziEYVDiMJvM0uzJ2JnqHgpqjlm4dMFOS1JoFzhycumeTkmUjuCINNb7RgC641r5fBalscQQUhwR_i9unSiiG52LHpBQQOXcPmm5XhtS-FMW5CzT0me-ZGLkCICIjtbioB6EOk998HwFJdBlsWFCLYp7pA=",
+          "fields": []
+        },
+        {
+          "name": "researchgate.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER6MTdhOn3jWOWg5wZbylUPmTY1cAgW3Hf5IM0S2D8qvKqGfyxabkihbikHJnf5tvYa4VeCwm5g6sYo0J6OfBjrSdFapaQedvFJp8kPLa6i8KxB_AWK3INIqEeePzD5WcEBaiqoqcnYkoQgx8GRKpDvEm95VIykz9q7oltimNpJS1EVu0lETgOsbA7lWtHmuVUdq6coRj3SDe9UdM1BDOzU7BA1ANXo4kz",
+          "fields": []
+        },
+        {
+          "name": "mdpi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL0k6k52ixXHpEGMop0AenDgePdJkzFo3-A_t0MLeOi15HfL2dv0Zs-A-p33fXYQsifqqa_HES4MB1LjBdbBVOOZa8Cr7oln95ZLIGdjGN48ihVjgNmhK9WJP6MDEClNAXpzQV",
+          "fields": []
+        },
+        {
+          "name": "psu.edu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxThDxnjdK2nv08F-qrrcerUbXMHKItQ-o94Pxl4Bmyjhsvcynbs_ORXZTOayGCP5CmpCK85GwdctxxauGwi95WBT3TiHC5fb1ZP8e5CVK2dkon-e-_b5hCrKZHD9pjIxqXHQpSYsoyM742-D8NUL0W6FYT3oMptIGzXoGUI2Fudz3kRjwx68d0RlCnEU2yW4KYHgVnYU43jxAdjw=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwnPiH30TjAkbRIr_jlMjFIItRw-mhHmerPCaQ5_sLQCuNXDOc-TqEkshGHI6bfa2uUy5NR4X3qoyUtyZpfRC1WfqXAK3GtDXQGVOw7Sqtyr8Ksv7MVoiRov5oR0eTNSlOdzdrxYOJqFSg_7Ikl8AWy3JZ4Fgd8S_ku6a7fxCfElg5uLXCv0CbtpOdalBcfoR1DRzLDD-6YbJeaG-FF_oO1lB1X1v4gknyTEzOKA==",
+          "fields": []
+        },
+        {
+          "name": "patsnap.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ext9I2vPCwBTflpyElBsFu7SVxFZr0p354Qr1N4-fRA6TB73aNFgwU1s3AzTL7Cb0ZdvY5LxnloxamXiL3YNlBldTywq-8y5TXg66POrtHd6b7rqGYNKqSWinUEBVfyDfZrQj_r1VC-T50_kzL6Qb9jPqZ08zfVsihx2",
+          "fields": []
+        },
+        {
+          "name": "getinflow.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOoQBBR93ggQm9KIWIeO-ykG__IyOt_AbBJ8aHSCer9ibmX4HniLaDflegLQAY98W4ozdKgswwOjI7WAFK8OO-te7TbcT4MZj-umlMHqc3RGq8j7wn5zVeyEuH4RK2P1bpDZ1kEyKXEnYCqnptJ1kgFmzq9ub3oYCUJM0mw8JN8wzcW_Y_Ink-qK0=",
+          "fields": []
+        },
+        {
+          "name": "sec.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJYelVwbJVt0vHEPaMyUJ-pPpDzHOgZxpJjTkI5KV2ATYbXlW_qYA_j2Sl11NoTzb3bACbzDa4nBy_8BcCx9QHQy6UgrOYlUPyXe6xvf7BZB_mXDqNOwMnxCdaDiZYcCsvaAyJSlEE-slqAmrppBfF7GDbxHLpdf2BKWhQaq0ufbFYAEELJG-1sIo9NxNTFA==",
+          "fields": []
+        },
+        {
+          "name": "clinicaltrialsarena.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcoLaYV0bwoE9VFzANn4JEGeBxjSL6lGNimWhe6mItfqLKspomw3MLUr1nuM3KPdmrfoBPEoPWr3z6X_2PHOPxOufIQyBysnIhg6zjzgnyTApPzFTE_PSqCxLooHw9QXjuT8CLgTahNPZ3NU-dYxCccEZogqs5A5UrUbMN7mOASU2oYl-DmScdLU-T16jJaprEOHZLNuc=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHffza8piGHFdpIWjmtUWV4GZxlH1Pkjy376ieQ9ZNjQbyEBe7NO6sZW5s1mLzTT3Av8aYEW6wE3dosmJLHfOldkFuaP87Olyj-7nlMKhXV4NpBOmcm72_vV0u-nvyz8puYFtUsEW3G5k0WmtfH5-YJgDDw5gM=",
+          "fields": []
+        },
+        {
+          "name": "greyb.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOd2JM6tfnUdvkQeZVX4_8VBfnjLMP9pDTr1VMO9Uotvr2YBhVIweuctXWdX-MCdv1ZMekWfK2vnyVKNIpIrLK2xVyDNTeSd6wVOhbX-9RduSBfbVR0DS3-Bx9ZlzAcZwMrPS-mlrRdozB718XxuqfczS2YaEjwD53-RyAyE9tTCmWxuI9v5s=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Niche API Market Dynamics & Pipeline",
+      "confidence": "low",
+      "completeness": 0.25,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Estimated market share of Embio for its top 3-5 APIs",
+        "Average selling price trends for key APIs (last 3-5 years)",
+        "Number of new APIs in development pipeline (pre-clinical, clinical, filing stages)",
+        "Target therapeutic areas for pipeline products",
+        "Expected launch timelines for key pipeline products",
+        "Patent expiry dates for innovator drugs corresponding to Embio's APIs"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms a potentially attractive niche market with clear growth drivers and Embio's competitive positioning, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Identifies specific API products and pipeline assets that could form the basis of future M&A or financing pitches, making the company more relevant for active deal consideration.",
+        "credit_analyst": "Provides insight into market stability and competitive pressures for Embio's core products, informing the assessment of revenue predictability and credit risk.",
+        "consultant": "Highlights pipeline development and target therapeutic areas, offering potential avenues for operational improvement or strategic market entry analysis."
+      }
+    },
+    {
+      "heading": "USFDA & EU Regulatory Inspection Outcomes",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of USFDA Form 483 observations (last 5 years)",
+          "value": "0 observations",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            },
+            {
+              "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Number of USFDA Warning Letters issued (last 5 years)",
+          "value": "0 Warning Letters",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Status of resolution for open 483s/Warning Letters",
+          "value": "Not applicable",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Number of EU GMP certificates held",
+          "value": "Written Confirmation for EU GMP compliance",
+          "sources": [
+            {
+              "name": "Government of India - Directorate General of Health Services Central Drugs Standard Control Organisation (CDSCO)",
+              "url": null
+            },
+            {
+              "name": "EMA",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "History of EU Import Alerts or non-compliance notices",
+          "value": "No EU Import Alerts or non-compliance notices found",
+          "sources": [
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Key findings from recent Indian regulatory (e.g., CDSCO) audits",
+          "value": "No negative findings reported",
+          "sources": [
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)",
+          "value": [
+            {
+              "agency": "USFDA",
+              "dates": [
+                "May 2, 2025",
+                "January 31, 2019",
+                "April 21, 2016",
+                "June 6, 2012"
+              ],
+              "frequency": "Roughly every 3-4 years"
+            },
+            {
+              "agency": "EDQM (EU GMP)",
+              "dates": [
+                "June 11-12, 2025"
+              ],
+              "note": "Inspection by CDSCO for EU requirements; confirmation valid 3 years."
+            },
+            {
+              "agency": "CDSCO",
+              "dates": [
+                "June 11-12, 2025"
+              ],
+              "note": "For EU import requirements; facility also WHO-GMP accredited."
+            }
+          ],
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            },
+            {
+              "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+              "url": null
+            },
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            },
+            {
+              "name": "CARE Ratings report",
+              "url": null
+            },
+            {
+              "name": "WHO-GMP",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Number of USFDA Form 483 observations (last 5 years): 0 observations",
+        "Number of USFDA Warning Letters issued (last 5 years): 0 Warning Letters",
+        "Status of resolution for open 483s/Warning Letters: Not applicable",
+        "Number of EU GMP certificates held: Written Confirmation for EU GMP compliance",
+        "History of EU Import Alerts or non-compliance notices: No EU Import Alerts or non-compliance notices found",
+        "Key findings from recent Indian regulatory (e.g., CDSCO) audits: No negative findings reported",
+        "Frequency of regulatory inspections (USFDA, EDQM, CDSCO): [{\"agency\": \"USFDA\", \"dates\": [\"May 2, 2025\", \"January 31, 2019\", \"April 21, 2016\", \"June 6, 2012\"], \"frequency\": \"Roughly every 3-4 years\"}, {\"agency\": \"EDQM (EU GMP)\", \"dates\": [\"June 11-12, 2025\"], \"note\": \"Inspection by CDSCO for EU requirements; confirmation valid 3 years.\"}, {\"agency\": \"CDSCO\", \"dates\": [\"June 11-12, 2025\"], \"note\": \"For EU import requirements; facility also WHO-GMP accredited.\"}]"
+      ],
+      "references": [
+        {
+          "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+          "url": null,
+          "fields": [
+            "Number of USFDA Form 483 observations (last 5 years)",
+            "Number of USFDA Warning Letters issued (last 5 years)",
+            "Status of resolution for open 483s/Warning Letters",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+          "url": null,
+          "fields": [
+            "Number of USFDA Form 483 observations (last 5 years)",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "Government of India - Directorate General of Health Services Central Drugs Standard Control Organisation (CDSCO)",
+          "url": null,
+          "fields": [
+            "Number of EU GMP certificates held"
+          ]
+        },
+        {
+          "name": "EMA",
+          "url": null,
+          "fields": [
+            "Number of EU GMP certificates held"
+          ]
+        },
+        {
+          "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+          "url": null,
+          "fields": [
+            "History of EU Import Alerts or non-compliance notices",
+            "Key findings from recent Indian regulatory (e.g., CDSCO) audits",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "CARE Ratings report",
+          "url": null,
+          "fields": [
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "WHO-GMP",
+          "url": null,
+          "fields": [
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "propublica.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA5i-RQRaZmw-LH_Vn6ZsPg4ladPSAJ7Z7MPNm6WSbp5A968tyqBzahxqFPki6k0KlwDfjs7Y1wWwg6Qz2Ou46Ps-aa2uQQOW2gAmg00Bc0R09ZIQLIpFtAmCAUCQyAz3WeaCgNtKMKFnReIgNX_yI6BJYU9Po6OrHi55Apw==",
+          "fields": []
+        },
+        {
+          "name": "cdsco.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3RKU-fSAUBQ_Kz_6fAC-xejVXWKqQPoyfAsI59A547Ma4Vu_2EamXyKkeDnj6A8xvufYGVrUrXB2bNJR6XcOIZxEJlyypjaPS2FQAAPeQ3j00SaOwdkeBoa_MwNWYnLVlBLi1FIifutVAHrZVJ-jgTz15utTxsfDYrs_ULh1VC6HLjWWA5pj5hZUFax9xGImaznMhzxiKlVKBSa2tSHUexQVfpklbi8uO4w==",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb6IXzoVZ5zFgAcKcJppAjnkQSF7_MlRrHKCZagvU7kKFfX6lxbjz0du6_9xEz6cmCrXUwaDoXxsqYHtkiCe5Cx7Fu9qnMFaIa56PFDLX1Y4ifWA==",
+          "fields": []
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKyx31w2R1sg8TvixuKpPF_OTC8F1WY9hUkE3B5eJ9Myw0xIRbyoM0b08DReBQI7CSzf_oCxBQkpm_MFH-ywbD_CKSlvdSg8yUoaYiB1n3Idrp8K-EtV0mHib9w4JUrDfavD2s6Pn8Vf9EKDfy6E4QUC5AnKVAb_wCE5ERY3WhY_vJ7G9JD9Gr_viS",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory Compliance & Inspection History",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 7,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A history of significant USFDA 483 observations or Warning Letters, especially if unresolved, would significantly increase diligence risk and potentially lead to a 'pass' decision.",
+        "banker": "Frequent or severe regulatory issues (e.g., Warning Letters, Import Alerts) could signal operational instability, making the company a less attractive M&A or financing target and potentially leading to a 'pass'.",
+        "credit_analyst": "Unresolved USFDA 483s or Warning Letters, or a pattern of non-compliance, would raise concerns about operational continuity and potential fines, negatively impacting the credit risk assessment and potentially leading to a 'pass'.",
+        "consultant": "A high number of regulatory observations or unresolved issues would indicate significant operational inefficiencies and compliance gaps, presenting a clear opportunity for consulting engagement and a 'pursue' decision."
+      }
+    },
+    {
+      "heading": "Indian Regulatory Audit History",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Number of USFDA Form 483 observations (last 5 years)",
+          "value": "0 observations",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            },
+            {
+              "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Number of USFDA Warning Letters issued (last 5 years)",
+          "value": "0 Warning Letters",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Status of resolution for open 483s/Warning Letters",
+          "value": "Not applicable",
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Number of EU GMP certificates held",
+          "value": "Written Confirmation for EU GMP compliance",
+          "sources": [
+            {
+              "name": "Government of India - Directorate General of Health Services Central Drugs Standard Control Organisation (CDSCO)",
+              "url": null
+            },
+            {
+              "name": "EMA",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "History of EU Import Alerts or non-compliance notices",
+          "value": "No EU Import Alerts or non-compliance notices found",
+          "sources": [
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Key findings from recent Indian regulatory (e.g., CDSCO) audits",
+          "value": "No negative findings reported",
+          "sources": [
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            }
+          ]
+        },
+        {
+          "label": "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)",
+          "value": [
+            {
+              "agency": "USFDA",
+              "dates": [
+                "May 2, 2025",
+                "January 31, 2019",
+                "April 21, 2016",
+                "June 6, 2012"
+              ],
+              "frequency": "Roughly every 3-4 years"
+            },
+            {
+              "agency": "EDQM (EU GMP)",
+              "dates": [
+                "June 11-12, 2025"
+              ],
+              "note": "Inspection by CDSCO for EU requirements; confirmation valid 3 years."
+            },
+            {
+              "agency": "CDSCO",
+              "dates": [
+                "June 11-12, 2025"
+              ],
+              "note": "For EU import requirements; facility also WHO-GMP accredited."
+            }
+          ],
+          "sources": [
+            {
+              "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+              "url": null
+            },
+            {
+              "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+              "url": null
+            },
+            {
+              "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+              "url": null
+            },
+            {
+              "name": "CARE Ratings report",
+              "url": null
+            },
+            {
+              "name": "WHO-GMP",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "bullets": [
+        "Number of USFDA Form 483 observations (last 5 years): 0 observations",
+        "Number of USFDA Warning Letters issued (last 5 years): 0 Warning Letters",
+        "Status of resolution for open 483s/Warning Letters: Not applicable",
+        "Number of EU GMP certificates held: Written Confirmation for EU GMP compliance",
+        "History of EU Import Alerts or non-compliance notices: No EU Import Alerts or non-compliance notices found",
+        "Key findings from recent Indian regulatory (e.g., CDSCO) audits: No negative findings reported",
+        "Frequency of regulatory inspections (USFDA, EDQM, CDSCO): [{\"agency\": \"USFDA\", \"dates\": [\"May 2, 2025\", \"January 31, 2019\", \"April 21, 2016\", \"June 6, 2012\"], \"frequency\": \"Roughly every 3-4 years\"}, {\"agency\": \"EDQM (EU GMP)\", \"dates\": [\"June 11-12, 2025\"], \"note\": \"Inspection by CDSCO for EU requirements; confirmation valid 3 years.\"}, {\"agency\": \"CDSCO\", \"dates\": [\"June 11-12, 2025\"], \"note\": \"For EU import requirements; facility also WHO-GMP accredited.\"}]"
+      ],
+      "references": [
+        {
+          "name": "ProPublica FDA Inspection Reports for Embio Limited in India",
+          "url": null,
+          "fields": [
+            "Number of USFDA Form 483 observations (last 5 years)",
+            "Number of USFDA Warning Letters issued (last 5 years)",
+            "Status of resolution for open 483s/Warning Letters",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "PharmaJungle Embio Limited | FDA Inspections Database",
+          "url": null,
+          "fields": [
+            "Number of USFDA Form 483 observations (last 5 years)",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "Government of India - Directorate General of Health Services Central Drugs Standard Control Organisation (CDSCO)",
+          "url": null,
+          "fields": [
+            "Number of EU GMP certificates held"
+          ]
+        },
+        {
+          "name": "EMA",
+          "url": null,
+          "fields": [
+            "Number of EU GMP certificates held"
+          ]
+        },
+        {
+          "name": "CDSCO Written Confirmation 7-5/2013/EU/WC-0046",
+          "url": null,
+          "fields": [
+            "History of EU Import Alerts or non-compliance notices",
+            "Key findings from recent Indian regulatory (e.g., CDSCO) audits",
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "CARE Ratings report",
+          "url": null,
+          "fields": [
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "WHO-GMP",
+          "url": null,
+          "fields": [
+            "Frequency of regulatory inspections (USFDA, EDQM, CDSCO)"
+          ]
+        },
+        {
+          "name": "propublica.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA5i-RQRaZmw-LH_Vn6ZsPg4ladPSAJ7Z7MPNm6WSbp5A968tyqBzahxqFPki6k0KlwDfjs7Y1wWwg6Qz2Ou46Ps-aa2uQQOW2gAmg00Bc0R09ZIQLIpFtAmCAUCQyAz3WeaCgNtKMKFnReIgNX_yI6BJYU9Po6OrHi55Apw==",
+          "fields": []
+        },
+        {
+          "name": "cdsco.gov.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3RKU-fSAUBQ_Kz_6fAC-xejVXWKqQPoyfAsI59A547Ma4Vu_2EamXyKkeDnj6A8xvufYGVrUrXB2bNJR6XcOIZxEJlyypjaPS2FQAAPeQ3j00SaOwdkeBoa_MwNWYnLVlBLi1FIifutVAHrZVJ-jgTz15utTxsfDYrs_ULh1VC6HLjWWA5pj5hZUFax9xGImaznMhzxiKlVKBSa2tSHUexQVfpklbi8uO4w==",
+          "fields": []
+        },
+        {
+          "name": "embio.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb6IXzoVZ5zFgAcKcJppAjnkQSF7_MlRrHKCZagvU7kKFfX6lxbjz0du6_9xEz6cmCrXUwaDoXxsqYHtkiCe5Cx7Fu9qnMFaIa56PFDLX1Y4ifWA==",
+          "fields": []
+        },
+        {
+          "name": "careratings.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKyx31w2R1sg8TvixuKpPF_OTC8F1WY9hUkE3B5eJ9Myw0xIRbyoM0b08DReBQI7CSzf_oCxBQkpm_MFH-ywbD_CKSlvdSg8yUoaYiB1n3Idrp8K-EtV0mHib9w4JUrDfavD2s6Pn8Vf9EKDfy6E4QUC5AnKVAb_wCE5ERY3WhY_vJ7G9JD9Gr_viS",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory Compliance & Inspection History",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 7,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A history of significant USFDA 483 observations or Warning Letters, especially if unresolved, would significantly increase diligence risk and potentially lead to a 'pass' decision.",
+        "banker": "Frequent or severe regulatory issues (e.g., Warning Letters, Import Alerts) could signal operational instability, making the company a less attractive M&A or financing target and potentially leading to a 'pass'.",
+        "credit_analyst": "Unresolved USFDA 483s or Warning Letters, or a pattern of non-compliance, would raise concerns about operational continuity and potential fines, negatively impacting the credit risk assessment and potentially leading to a 'pass'.",
+        "consultant": "A high number of regulatory observations or unresolved issues would indicate significant operational inefficiencies and compliance gaps, presenting a clear opportunity for consulting engagement and a 'pursue' decision."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "cost": {
+    "phase1_sector_research_usd": 0.020476,
+    "domain_research_usd": 0.19761,
+    "actual_total_usd": 0.218086,
+    "actual_calls": 26,
+    "elapsed_seconds": 253.2,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.049403,
+      "estimated_generic_domains_usd": 0.296415,
+      "estimated_synthesis_usd": 0.19761,
+      "estimated_total_usd": 0.712111
+    }
+  }
+}
