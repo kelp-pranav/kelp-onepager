@@ -62,6 +62,19 @@ def _slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_") or "company"
 
 
+def _name_from_url(url: str) -> str:
+    """Best-effort company display name from a website, e.g.
+    'https://www.theobroma.in/menu' -> 'Theobroma'. Strips scheme/www/path and the TLD,
+    takes the second-level domain label, and title-cases it. Imperfect for acronym brands
+    (hul.co.in -> 'Hul') — the website itself is passed to research as the real anchor."""
+    u = (url or "").strip().lower()
+    u = re.sub(r"^[a-z]+://", "", u)        # drop scheme
+    u = u.split("/")[0].split("?")[0]        # host only
+    u = re.sub(r"^www\d?\.", "", u)          # drop leading www.
+    label = u.split(".")[0] if "." in u else u
+    return re.sub(r"[-_]+", " ", label).strip().title()
+
+
 @st.cache_data(show_spinner=False)
 def _list_runs(_cache_buster: float):
     """All saved sector-only runs (archived + canonical), newest first per company.
@@ -984,7 +997,10 @@ def _section_html(idx: int, heading: str, conf: str, tag_label: str, pairs: list
 # --------------------------------------------------------------------------- #
 with st.sidebar:
     st.header("🧭 Sector Section Explorer")
-    company = st.text_input("Company name", placeholder="e.g. Coca-Cola")
+    website = st.text_input("Company website", placeholder="e.g. theobroma.in")
+    st.caption("The website anchors the research to the exact company (no name ambiguity).")
+    company = st.text_input("Company name (optional — auto-detected from the website)",
+                            placeholder="leave blank to use the site")
     sector_hint = st.text_input("Sector hint (optional)", placeholder="e.g. consumer / FMCG")
     description = st.text_input("Business description hint (optional)",
                                 placeholder="one line about what they do")
@@ -1037,17 +1053,27 @@ with st.sidebar:
                     st.error(f"Could not load run: {exc}")
 
 if run:
-    if not company.strip():
-        st.sidebar.error("Company name is required.")
+    # Website is the primary input; the company name is derived from it unless overridden.
+    _site = website.strip()
+    company = company.strip() or _name_from_url(_site)
+    if not company:
+        st.sidebar.error("Enter a company website (or a company name).")
         st.stop()
 
-    # gen_sector_only.py takes (company, description). Fold the sector hint into the
-    # description so it still informs the planner.
-    desc_arg = description.strip()
+    # gen_sector_only.py takes (company, description). Fold the WEBSITE in as the research
+    # anchor (so the planner/grounded search ties to the exact company), plus the sector hint.
+    desc_parts = []
+    if _site:
+        desc_parts.append(f"Official website: {_site}")
+    if description.strip():
+        desc_parts.append(description.strip())
     if sector_hint.strip():
-        desc_arg = (desc_arg + f" (Sector: {sector_hint.strip()})").strip()
+        desc_parts.append(f"Sector: {sector_hint.strip()}")
+    desc_arg = ". ".join(desc_parts)
 
-    cmd = [sys.executable, GEN_SCRIPT, company.strip(), desc_arg]
+    # Pass the website as a 3rd arg so gen injects it as a PRIMARY source for every
+    # domain's grounded search (not just a hint in the description).
+    cmd = [sys.executable, GEN_SCRIPT, company, desc_arg, _site]
     with st.status(f"Running sector-specific research for “{company.strip()}”… "
                    "(live LLM, typically ~2–4 min)", expanded=True) as status:
         st.write(f"`{' '.join(cmd)}`")

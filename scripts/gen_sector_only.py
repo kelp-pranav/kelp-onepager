@@ -84,12 +84,20 @@ def _reasoning(pr) -> dict:
     }
 
 
-async def main(company: str, description: str) -> None:
+async def main(company: str, description: str, website: str = "") -> None:
     before = sf.snapshot()                       # t0 — cost/call/grounded snapshot
     wall0 = time.perf_counter()
-    inp = PipelineInput(company_name=company, business_description=description or None)
+    # Fold the official website into the business description so sector research (Phase 1)
+    # anchors to the exact company and can pull from the site.
+    desc = description or ""
+    if website and website not in desc:
+        desc = (f"Official company website (authoritative primary source): {website}. "
+                + desc).strip()
+    inp = PipelineInput(company_name=company, business_description=desc or None)
 
     print(f"Running {company} (SECTOR-ONLY — no generic domains, no synthesis)…\n")
+    if website:
+        print(f"  research anchor: {website}")
 
     # PHASE 0 — load local ground-truth documents from input/
     documents, doc_names = sf.load_input_documents()
@@ -99,6 +107,13 @@ async def main(company: str, description: str) -> None:
     # PHASE 1 — Sector Research (also returns the rejected candidates + reasoning)
     t = time.perf_counter()
     sector_result, rejected = await sector_research.run_with_rejected(inp, documents=documents)
+    # Make the official website a PRIMARY source for EVERY domain's grounded search, so the
+    # research actively pulls company facts (products, leadership, locations, segments) from it.
+    if website:
+        anchor = f"{company} official website ({website})"
+        for d in sector_result.sector_domains:
+            if anchor not in d.recommended_sources:
+                d.recommended_sources.insert(0, anchor)
     profile = _build_profile(sector_result, inp)
     snap1 = sf.snapshot()
     phase1_cost = snap1[0] - before[0]
@@ -306,6 +321,10 @@ async def main(company: str, description: str) -> None:
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print('Usage: python3 gen_sector_only.py "<Company Name>" ["<description>"]')
+        print('Usage: python3 gen_sector_only.py "<Company Name>" ["<description>"] ["<website>"]')
         sys.exit(1)
-    asyncio.run(main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else ""))
+    asyncio.run(main(
+        sys.argv[1],
+        sys.argv[2] if len(sys.argv) > 2 else "",
+        sys.argv[3] if len(sys.argv) > 3 else "",
+    ))
