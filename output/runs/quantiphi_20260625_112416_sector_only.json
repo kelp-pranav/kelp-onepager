@@ -1,0 +1,2261 @@
+{
+  "company_name": "Quantiphi",
+  "generated_at": "20260625_112416",
+  "resolved_subsector": "AI-first digital engineering and data science services with a focus on cloud-native solutions and proprietary AI platforms",
+  "sections": [
+    {
+      "heading": "Global Delivery Footprint",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total global employee count (most recent FY)",
+          "value": [
+            {
+              "period": "May 2026",
+              "value": "Approximately 4,100 employees"
+            },
+            {
+              "period": "December 2025",
+              "value": "4,764 employees"
+            },
+            {
+              "period": "April 2026",
+              "value": "Approximately 4,000 employees"
+            },
+            {
+              "period": "2026",
+              "value": "3,927 total employees"
+            }
+          ],
+          "sources": [
+            {
+              "name": "leadiq.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjmWwieNm9xwrTWorO4XqK5rV-3tzzzmGMIlazMCFd3mk07pggxZ4cYxDtzJgrw_4pfA9bFwu-lZqWmq_Hf6Kk66HszZXOx1jlrM1SC9nrWkNn7Dy4fJzrWHrtaG_PU7XqiUemG86nfVzT8RoZFaENpJg="
+            },
+            {
+              "name": "reveliolabs.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs="
+            },
+            {
+              "name": "leadiq.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Employee count for Indian entity (most recent FY)",
+          "value": [
+            {
+              "period": "April 2026",
+              "value": "Approximately 2,900 employees in India"
+            },
+            {
+              "period": "March 1, 2026",
+              "value": "2,820 employees for Quantiphi Analytics Solutions Private Limited"
+            }
+          ],
+          "sources": [
+            {
+              "name": "leadiq.com",
+              "url": null
+            },
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Year-over-year employee growth rate (global)",
+          "value": [
+            {
+              "period": "December 2025",
+              "value": "-1.9%"
+            },
+            {
+              "period": "May 2025",
+              "value": "4.0% lower than May 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "reveliolabs.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of global delivery centers (by country/city)",
+          "value": [
+            {
+              "country": "United States",
+              "cities": "Marlborough (Headquarters), Boston, Princeton, San Jose"
+            },
+            {
+              "country": "Canada",
+              "cities": "Toronto, Fredericton"
+            },
+            {
+              "country": "India",
+              "cities": "Mumbai, Bengaluru"
+            },
+            {
+              "country": "UK&I",
+              "description": "Virtual Presence/Teams in London"
+            },
+            {
+              "country": "EMEA",
+              "description": "Virtual Presence/Teams in Amsterdam"
+            },
+            {
+              "country": "APAC",
+              "description": "Virtual Presence/Teams in Singapore"
+            },
+            {
+              "description": "Employees across 6 continents, including Asia, North America, and Europe"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total number of technical certifications held by employees (aggregate)",
+          "value": [
+            {
+              "value": "Over 112 Partner Expertise credentials across Google Cloud products, solutions, and industries",
+              "note": "Date not specified, mentioned in an October 2022 article"
+            },
+            {
+              "period": "July 2019",
+              "value": "Over 100 Google Cloud Platform (GCP) certifications"
+            },
+            {
+              "value": "80+ Certifications",
+              "note": "Date not specified, on careers page"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering",
+          "value": [
+            {
+              "description": "First Google Cloud partner to achieve the Global Machine Learning Specialization"
+            },
+            {
+              "description": "Added the Global Specialization for Data Analytics"
+            },
+            {
+              "value": "One in three Google Cloud dedicated team members is Google Cloud certified",
+              "note": "Date not specified, mentioned in an October 2022 article"
+            },
+            {
+              "period": "July 2019",
+              "description": "Certifications include Professional Cloud Architects, Professional Data Engineers, and Associate Cloud Engineers on GCP"
+            },
+            {
+              "description": "Google Cloud Professional Machine Learning Engineer certification is a preferred qualification for Senior Machine Learning Engineer roles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "remoterocketship.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total global employee count (most recent FY): [{\"period\": \"May 2026\", \"value\": \"Approximately 4,100 employees\"}, {\"period\": \"December 2025\", \"value\": \"4,764 employees\"}, {\"period\": \"April 2026\", \"value\": \"Approximately 4,000 employees\"}, {\"period\": \"2026\", \"value\": \"3,927 total employees\"}]",
+        "Employee count for Indian entity (most recent FY): [{\"period\": \"April 2026\", \"value\": \"Approximately 2,900 employees in India\"}, {\"period\": \"March 1, 2026\", \"value\": \"2,820 employees for Quantiphi Analytics Solutions Private Limited\"}]",
+        "Year-over-year employee growth rate (global): [{\"period\": \"December 2025\", \"value\": \"-1.9%\"}, {\"period\": \"May 2025\", \"value\": \"4.0% lower than May 2024\"}]",
+        "Number of global delivery centers (by country/city): [{\"country\": \"United States\", \"cities\": \"Marlborough (Headquarters), Boston, Princeton, San Jose\"}, {\"country\": \"Canada\", \"cities\": \"Toronto, Fredericton\"}, {\"country\": \"India\", \"cities\": \"Mumbai, Bengaluru\"}, {\"country\": \"UK&I\", \"description\": \"Virtual Presence/Teams in London\"}, {\"country\": \"EMEA\", \"description\": \"Virtual Presence/Teams in Amsterdam\"}, {\"country\": \"APAC\", \"description\": \"Virtual Presence/Teams in Singapore\"}, {\"description\": \"Employees across 6 continents, including Asia, North America, and Europe\"}]",
+        "Total number of technical certifications held by employees (aggregate): [{\"value\": \"Over 112 Partner Expertise credentials across Google Cloud products, solutions, and industries\", \"note\": \"Date not specified, mentioned in an October 2022 article\"}, {\"period\": \"July 2019\", \"value\": \"Over 100 Google Cloud Platform (GCP) certifications\"}, {\"value\": \"80+ Certifications\", \"note\": \"Date not specified, on careers page\"}]",
+        "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering: [{\"description\": \"First Google Cloud partner to achieve the Global Machine Learning Specialization\"}, {\"description\": \"Added the Global Specialization for Data Analytics\"}, {\"value\": \"One in three Google Cloud dedicated team members is Google Cloud certified\", \"note\": \"Date not specified, mentioned in an October 2022 article\"}, {\"period\": \"July 2019\", \"description\": \"Certifications include Professional Cloud Architects, Professional Data Engineers, and Associate Cloud Engineers on GCP\"}, {\"description\": \"Google Cloud Professional Machine Learning Engineer certification is a preferred qualification for Senior Machine Learning Engineer roles\"}]"
+      ],
+      "references": [
+        {
+          "name": "leadiq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjmWwieNm9xwrTWorO4XqK5rV-3tzzzmGMIlazMCFd3mk07pggxZ4cYxDtzJgrw_4pfA9bFwu-lZqWmq_Hf6Kk66HszZXOx1jlrM1SC9nrWkNn7Dy4fJzrWHrtaG_PU7XqiUemG86nfVzT8RoZFaENpJg=",
+          "fields": [
+            "Total global employee count (most recent FY)"
+          ]
+        },
+        {
+          "name": "reveliolabs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs=",
+          "fields": [
+            "Total global employee count (most recent FY)",
+            "Year-over-year employee growth rate (global)"
+          ]
+        },
+        {
+          "name": "leadiq.com",
+          "url": null,
+          "fields": [
+            "Total global employee count (most recent FY)",
+            "Employee count for Indian entity (most recent FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Employee count for Indian entity (most recent FY)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Number of global delivery centers (by country/city)",
+            "Total number of technical certifications held by employees (aggregate)",
+            "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering"
+          ]
+        },
+        {
+          "name": "remoterocketship.com",
+          "url": null,
+          "fields": [
+            "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering"
+          ]
+        },
+        {
+          "name": "leadiq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqUfpk2MThrWmnZJVdKt0wpao1cQbEs2fH5_OY--7IxM8R5XpBMg7rdR7W-KEzYaw-goYC_NE_peTWR9fy1xw8FrEKRYFy2MYcfZhgs6cshm1FmkTSiLZot9mJoWCjeAUN4ZUMHA1jOo3-GEqHGjs2h3IXKmUwhhNeNskYj5WiU68zdqE",
+          "fields": []
+        },
+        {
+          "name": "pitchbook.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0QaUCnVMqWsXn0GSOOdennoSe41gvidsoLIVohqwXWuCcbRdLFYByLFZOFqT5U6zAhBdqhpzAOzwr8RKftAuG94vc-1vkSawaB8SSgD6NzR9A9JIrILY-wmEdBteDQbfdgei2_rUxeQ-5w==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoJaXDtvpO0rSsv9h4itJU--SjYnzecM1HBO3nxuQpxbk-ENY0zPt540YZzo5vnGyzooA0Dfepxu57HNUpMfp6CRAiGlautKufs9bkE26phHWrQbcIKRSrYb_b4LngOMm4eZE3xQR6VxEXU2sb96TAATgC6ksjl1PgtZSADi3ba8hoV2uRAk4IbD9JA08dpDbM",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbgyYRB6P5K_-j2VDyr8DSCaoDsUaaiyU92G3oQWJ7pUZYPMifScreOt8cWqcMr_fQbWvuRMustPNIhO68h88PvZciGw3pGH9-lL0aeYRGJFeKoJUpw0Y4g==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3riJt1rZNJEptdaPvtKOLpapvEo-IarpJK8WXYj3ksP09kEFicLexzWCjcQFI9LaRx6fkJ18ilF1_1nfJXNAh6cHZjAXzcpOLflTxUSPc0QbV9t3qBdi3yW36l-hiTCdKLWn17nujYjwpD-VCn0nn_K2GLOmpzulbgx5LHWpS42sa_cqG5WYeoRZSicaBG3soZcBSLfgxbLsmMO7E",
+          "fields": []
+        },
+        {
+          "name": "talent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHY_Zjcnuo7hupYY-eCx3naLuLgScMOmtxikqqXZsgeWiv0huL9llQYvtkD6uV3cIMxQ32-fig-Xjgdl8IirurdJ7HbdRc3kUqvm_GWTOmGa0PO3oZIEswTBwMJH31Sgg0kTSAHtokDJiIQ==",
+          "fields": []
+        },
+        {
+          "name": "remoterocketship.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG96s6X5ynPoZwPsW28P8br4ilqzO5p2zK5ccrWH4uf8WJxtNY4nhe9ixCSCngnQbGUTe1TXLhE_G21NlEpbpQvGptUwAtu9NkKqnhy9jTB08pflDMqv24FGEuVhkfuNew1xcYNt49UkDfF5eD91xFNpYE8PsMMa2fFLsHGmAPnsDU6DXb_i5eVIqrBBEVehs7vDnaN7jNFKsAGte-du2iXsEtulDTzFYTw2DQUqtrp0NTT",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHweYBiWZ-pbqPeBz_tZVqwryblGvB6B6lV8pwDdkamPAUO0Z5K66VSoq2pW1P2B8NzhJeZcxHAlbjaw4kcEC2NM4FkHd9EgYBm95rw7CDKxGXS_0hWsY5eWfHby2qgwKzLmaatdbJhVfLit5EtLGwFINpzXSfqJCrcp94qpzTzQtPXjKFYnS8y1jPn2q0QopTfzph0V0tCp6JtmVAY-hMKrg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Global Talent & Delivery Model",
+      "confidence": "high",
+      "completeness": 0.75,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Number of employees with advanced degrees (e.g., PhDs, Masters in AI/ML) (if disclosed)",
+        "Employee distribution by key technology stack (e.g., Python, Java, specific cloud platforms) (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms scale and geographic diversification of talent, supporting potential for global client delivery and operational efficiency, thus increasing pursuit likelihood.",
+        "banker": "Provides insight into the company's operational capacity and talent depth, which is relevant for assessing deal feasibility and potential client fit for M&A or capital raising.",
+        "credit_analyst": "The employee growth rate and distribution by location are key indicators of operational stability and scalability, influencing the assessment of creditworthiness.",
+        "consultant": "Highlights the availability of specialized talent and certifications in AI/ML and cloud, directly informing potential engagements around digital transformation and AI strategy."
+      }
+    },
+    {
+      "heading": "Talent Pool & Key Certifications",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total global employee count (most recent FY)",
+          "value": [
+            {
+              "period": "May 2026",
+              "value": "Approximately 4,100 employees"
+            },
+            {
+              "period": "December 2025",
+              "value": "4,764 employees"
+            },
+            {
+              "period": "April 2026",
+              "value": "Approximately 4,000 employees"
+            },
+            {
+              "period": "2026",
+              "value": "3,927 total employees"
+            }
+          ],
+          "sources": [
+            {
+              "name": "leadiq.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjmWwieNm9xwrTWorO4XqK5rV-3tzzzmGMIlazMCFd3mk07pggxZ4cYxDtzJgrw_4pfA9bFwu-lZqWmq_Hf6Kk66HszZXOx1jlrM1SC9nrWkNn7Dy4fJzrWHrtaG_PU7XqiUemG86nfVzT8RoZFaENpJg="
+            },
+            {
+              "name": "reveliolabs.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs="
+            },
+            {
+              "name": "leadiq.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Employee count for Indian entity (most recent FY)",
+          "value": [
+            {
+              "period": "April 2026",
+              "value": "Approximately 2,900 employees in India"
+            },
+            {
+              "period": "March 1, 2026",
+              "value": "2,820 employees for Quantiphi Analytics Solutions Private Limited"
+            }
+          ],
+          "sources": [
+            {
+              "name": "leadiq.com",
+              "url": null
+            },
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Year-over-year employee growth rate (global)",
+          "value": [
+            {
+              "period": "December 2025",
+              "value": "-1.9%"
+            },
+            {
+              "period": "May 2025",
+              "value": "4.0% lower than May 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "reveliolabs.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of global delivery centers (by country/city)",
+          "value": [
+            {
+              "country": "United States",
+              "cities": "Marlborough (Headquarters), Boston, Princeton, San Jose"
+            },
+            {
+              "country": "Canada",
+              "cities": "Toronto, Fredericton"
+            },
+            {
+              "country": "India",
+              "cities": "Mumbai, Bengaluru"
+            },
+            {
+              "country": "UK&I",
+              "description": "Virtual Presence/Teams in London"
+            },
+            {
+              "country": "EMEA",
+              "description": "Virtual Presence/Teams in Amsterdam"
+            },
+            {
+              "country": "APAC",
+              "description": "Virtual Presence/Teams in Singapore"
+            },
+            {
+              "description": "Employees across 6 continents, including Asia, North America, and Europe"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total number of technical certifications held by employees (aggregate)",
+          "value": [
+            {
+              "value": "Over 112 Partner Expertise credentials across Google Cloud products, solutions, and industries",
+              "note": "Date not specified, mentioned in an October 2022 article"
+            },
+            {
+              "period": "July 2019",
+              "value": "Over 100 Google Cloud Platform (GCP) certifications"
+            },
+            {
+              "value": "80+ Certifications",
+              "note": "Date not specified, on careers page"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering",
+          "value": [
+            {
+              "description": "First Google Cloud partner to achieve the Global Machine Learning Specialization"
+            },
+            {
+              "description": "Added the Global Specialization for Data Analytics"
+            },
+            {
+              "value": "One in three Google Cloud dedicated team members is Google Cloud certified",
+              "note": "Date not specified, mentioned in an October 2022 article"
+            },
+            {
+              "period": "July 2019",
+              "description": "Certifications include Professional Cloud Architects, Professional Data Engineers, and Associate Cloud Engineers on GCP"
+            },
+            {
+              "description": "Google Cloud Professional Machine Learning Engineer certification is a preferred qualification for Senior Machine Learning Engineer roles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "remoterocketship.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total global employee count (most recent FY): [{\"period\": \"May 2026\", \"value\": \"Approximately 4,100 employees\"}, {\"period\": \"December 2025\", \"value\": \"4,764 employees\"}, {\"period\": \"April 2026\", \"value\": \"Approximately 4,000 employees\"}, {\"period\": \"2026\", \"value\": \"3,927 total employees\"}]",
+        "Employee count for Indian entity (most recent FY): [{\"period\": \"April 2026\", \"value\": \"Approximately 2,900 employees in India\"}, {\"period\": \"March 1, 2026\", \"value\": \"2,820 employees for Quantiphi Analytics Solutions Private Limited\"}]",
+        "Year-over-year employee growth rate (global): [{\"period\": \"December 2025\", \"value\": \"-1.9%\"}, {\"period\": \"May 2025\", \"value\": \"4.0% lower than May 2024\"}]",
+        "Number of global delivery centers (by country/city): [{\"country\": \"United States\", \"cities\": \"Marlborough (Headquarters), Boston, Princeton, San Jose\"}, {\"country\": \"Canada\", \"cities\": \"Toronto, Fredericton\"}, {\"country\": \"India\", \"cities\": \"Mumbai, Bengaluru\"}, {\"country\": \"UK&I\", \"description\": \"Virtual Presence/Teams in London\"}, {\"country\": \"EMEA\", \"description\": \"Virtual Presence/Teams in Amsterdam\"}, {\"country\": \"APAC\", \"description\": \"Virtual Presence/Teams in Singapore\"}, {\"description\": \"Employees across 6 continents, including Asia, North America, and Europe\"}]",
+        "Total number of technical certifications held by employees (aggregate): [{\"value\": \"Over 112 Partner Expertise credentials across Google Cloud products, solutions, and industries\", \"note\": \"Date not specified, mentioned in an October 2022 article\"}, {\"period\": \"July 2019\", \"value\": \"Over 100 Google Cloud Platform (GCP) certifications\"}, {\"value\": \"80+ Certifications\", \"note\": \"Date not specified, on careers page\"}]",
+        "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering: [{\"description\": \"First Google Cloud partner to achieve the Global Machine Learning Specialization\"}, {\"description\": \"Added the Global Specialization for Data Analytics\"}, {\"value\": \"One in three Google Cloud dedicated team members is Google Cloud certified\", \"note\": \"Date not specified, mentioned in an October 2022 article\"}, {\"period\": \"July 2019\", \"description\": \"Certifications include Professional Cloud Architects, Professional Data Engineers, and Associate Cloud Engineers on GCP\"}, {\"description\": \"Google Cloud Professional Machine Learning Engineer certification is a preferred qualification for Senior Machine Learning Engineer roles\"}]"
+      ],
+      "references": [
+        {
+          "name": "leadiq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjmWwieNm9xwrTWorO4XqK5rV-3tzzzmGMIlazMCFd3mk07pggxZ4cYxDtzJgrw_4pfA9bFwu-lZqWmq_Hf6Kk66HszZXOx1jlrM1SC9nrWkNn7Dy4fJzrWHrtaG_PU7XqiUemG86nfVzT8RoZFaENpJg=",
+          "fields": [
+            "Total global employee count (most recent FY)"
+          ]
+        },
+        {
+          "name": "reveliolabs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9uZD7mqNe16u9TJ3hztlrFtbaCMIotqZx6cL10TcPDyHBGG91ciG6ndHkvkFqkiryyjkR0Dr6obJhy_-iOdBwUxLvDwc2Bl92qd2SsM_G097kmWLXzBoZu23uiR4kpNnwHqSGkQPvnwcjlFRcaPfrxU9xWs=",
+          "fields": [
+            "Total global employee count (most recent FY)",
+            "Year-over-year employee growth rate (global)"
+          ]
+        },
+        {
+          "name": "leadiq.com",
+          "url": null,
+          "fields": [
+            "Total global employee count (most recent FY)",
+            "Employee count for Indian entity (most recent FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Employee count for Indian entity (most recent FY)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Number of global delivery centers (by country/city)",
+            "Total number of technical certifications held by employees (aggregate)",
+            "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering"
+          ]
+        },
+        {
+          "name": "remoterocketship.com",
+          "url": null,
+          "fields": [
+            "Number of employees with specific certifications in AI/ML, Data Science, Cloud Engineering"
+          ]
+        },
+        {
+          "name": "leadiq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqUfpk2MThrWmnZJVdKt0wpao1cQbEs2fH5_OY--7IxM8R5XpBMg7rdR7W-KEzYaw-goYC_NE_peTWR9fy1xw8FrEKRYFy2MYcfZhgs6cshm1FmkTSiLZot9mJoWCjeAUN4ZUMHA1jOo3-GEqHGjs2h3IXKmUwhhNeNskYj5WiU68zdqE",
+          "fields": []
+        },
+        {
+          "name": "pitchbook.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0QaUCnVMqWsXn0GSOOdennoSe41gvidsoLIVohqwXWuCcbRdLFYByLFZOFqT5U6zAhBdqhpzAOzwr8RKftAuG94vc-1vkSawaB8SSgD6NzR9A9JIrILY-wmEdBteDQbfdgei2_rUxeQ-5w==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoJaXDtvpO0rSsv9h4itJU--SjYnzecM1HBO3nxuQpxbk-ENY0zPt540YZzo5vnGyzooA0Dfepxu57HNUpMfp6CRAiGlautKufs9bkE26phHWrQbcIKRSrYb_b4LngOMm4eZE3xQR6VxEXU2sb96TAATgC6ksjl1PgtZSADi3ba8hoV2uRAk4IbD9JA08dpDbM",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbgyYRB6P5K_-j2VDyr8DSCaoDsUaaiyU92G3oQWJ7pUZYPMifScreOt8cWqcMr_fQbWvuRMustPNIhO68h88PvZciGw3pGH9-lL0aeYRGJFeKoJUpw0Y4g==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3riJt1rZNJEptdaPvtKOLpapvEo-IarpJK8WXYj3ksP09kEFicLexzWCjcQFI9LaRx6fkJ18ilF1_1nfJXNAh6cHZjAXzcpOLflTxUSPc0QbV9t3qBdi3yW36l-hiTCdKLWn17nujYjwpD-VCn0nn_K2GLOmpzulbgx5LHWpS42sa_cqG5WYeoRZSicaBG3soZcBSLfgxbLsmMO7E",
+          "fields": []
+        },
+        {
+          "name": "talent.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHY_Zjcnuo7hupYY-eCx3naLuLgScMOmtxikqqXZsgeWiv0huL9llQYvtkD6uV3cIMxQ32-fig-Xjgdl8IirurdJ7HbdRc3kUqvm_GWTOmGa0PO3oZIEswTBwMJH31Sgg0kTSAHtokDJiIQ==",
+          "fields": []
+        },
+        {
+          "name": "remoterocketship.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG96s6X5ynPoZwPsW28P8br4ilqzO5p2zK5ccrWH4uf8WJxtNY4nhe9ixCSCngnQbGUTe1TXLhE_G21NlEpbpQvGptUwAtu9NkKqnhy9jTB08pflDMqv24FGEuVhkfuNew1xcYNt49UkDfF5eD91xFNpYE8PsMMa2fFLsHGmAPnsDU6DXb_i5eVIqrBBEVehs7vDnaN7jNFKsAGte-du2iXsEtulDTzFYTw2DQUqtrp0NTT",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHweYBiWZ-pbqPeBz_tZVqwryblGvB6B6lV8pwDdkamPAUO0Z5K66VSoq2pW1P2B8NzhJeZcxHAlbjaw4kcEC2NM4FkHd9EgYBm95rw7CDKxGXS_0hWsY5eWfHby2qgwKzLmaatdbJhVfLit5EtLGwFINpzXSfqJCrcp94qpzTzQtPXjKFYnS8y1jPn2q0QopTfzph0V0tCp6JtmVAY-hMKrg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Global Talent & Delivery Model",
+      "confidence": "high",
+      "completeness": 0.75,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Number of employees with advanced degrees (e.g., PhDs, Masters in AI/ML) (if disclosed)",
+        "Employee distribution by key technology stack (e.g., Python, Java, specific cloud platforms) (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms scale and geographic diversification of talent, supporting potential for global client delivery and operational efficiency, thus increasing pursuit likelihood.",
+        "banker": "Provides insight into the company's operational capacity and talent depth, which is relevant for assessing deal feasibility and potential client fit for M&A or capital raising.",
+        "credit_analyst": "The employee growth rate and distribution by location are key indicators of operational stability and scalability, influencing the assessment of creditworthiness.",
+        "consultant": "Highlights the availability of specialized talent and certifications in AI/ML and cloud, directly informing potential engagements around digital transformation and AI strategy."
+      }
+    },
+    {
+      "heading": "Hyperscaler Partner Awards & Specializations",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of Google Cloud Partner of the Year awards (by category, by year)",
+          "value": [
+            {
+              "year": 2026,
+              "category": "Google Cloud Databases Partner of the Year – North America"
+            },
+            {
+              "year": 2026,
+              "category": "Google Cloud Country Partner of the Year – Singapore"
+            },
+            {
+              "year": 2026,
+              "category": "Google Cloud Services and Industry Solutions Partner of the Year – Gaming"
+            },
+            {
+              "year": 2025,
+              "category": "Artificial Intelligence Partner of the Year for North America"
+            },
+            {
+              "year": 2025,
+              "category": "Country Partner of the Year in Singapore"
+            },
+            {
+              "year": 2025,
+              "category": "Industry Solutions Partner of the Year for Gaming"
+            },
+            {
+              "year": 2025,
+              "category": "Talent Development Partner of the Year for North America"
+            },
+            {
+              "year": 2024,
+              "category": "Public Sector Partner of the Year for North America – US Education"
+            },
+            {
+              "year": 2024,
+              "category": "Services Partner of the Year for North America"
+            },
+            {
+              "year": 2024,
+              "category": "Specialization Partner of the Year for Contact Center AI (CCAI)"
+            },
+            {
+              "year": 2021,
+              "category": "Breakthrough Partner of the Year for the North American region"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw3lVulDZVchihefbIihx9YK_QU6vUMdn3RxgpxPqnt3UCx1NzWGTTeWMaE0WuvLyMkBjww4n27_T0e_zgjQJnpvyK3E0hvVyRcA63C9YS0Ro68o3cKW55L0DMkAaHDvhVAD7IHXDKjqlWed-uuMDDxnq-SbbI5cQz-t4l1K44AE3YVI37_TY4UeIQW7RMoGah3g1N4tAnjF2d0DS4etqaN-7ifwelBz2dcMrng=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AWS Partner of the Year awards (by category, by year)",
+          "value": [
+            {
+              "year": 2025,
+              "category": "AWS Public Sector Global GenAI Consulting Partner of the Year"
+            },
+            {
+              "year": 2022,
+              "category": "Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America"
+            },
+            {
+              "year": 2022,
+              "category": "Industry Partner of the Year in North America"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of NVIDIA Partner Network awards (by category, by year)",
+          "value": [
+            {
+              "year": 2025,
+              "category": "AWS Public Sector Global GenAI Consulting Partner of the Year"
+            },
+            {
+              "year": 2022,
+              "category": "Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America"
+            },
+            {
+              "year": 2022,
+              "category": "Industry Partner of the Year in North America"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)",
+          "value": [
+            {
+              "specialization": "Data Management – Services",
+              "date_achieved_or_noted": "August 7, 2025",
+              "note": "Eleventh active Partner Advanced Specialization"
+            },
+            {
+              "specialization": "Data Analytics Migration – Services",
+              "date_achieved_or_noted": "January 16, 2025"
+            },
+            {
+              "specialization": "Application Development – Services",
+              "date_achieved_or_noted": "November 18, 2024"
+            },
+            {
+              "specialization": "Machine Learning – Services"
+            },
+            {
+              "specialization": "Contact Center AI – Services"
+            },
+            {
+              "specialization": "Generative AI – Services"
+            },
+            {
+              "specialization": "Data Analytics – Services"
+            },
+            {
+              "specialization": "Marketing Analytics – Services"
+            },
+            {
+              "specialization": "Infrastructure – Services"
+            },
+            {
+              "specialization": "Security – Services"
+            },
+            {
+              "specialization": "Global Machine Learning Specialization",
+              "note": "First Google Cloud partner to achieve this"
+            },
+            {
+              "specialization": "Global Specialization for Data Analytics"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4IjXq2JaIHP47I_3G1at4PwC2fcoUG8pjYJuUfZs77_7vKkUp7oRV5e7OQE0b8YJ19EXRSrO2vu-928yH5tz8ilRA0d5Tfb8Ctk46DabaJjA7PB9rlEfegk1f0YES1f9kv4vwAsAf54wJ-h_kbrKKuprY74jt_c7ceyr_4d4tBPJ7OXEgFLm-cKUsK3NFXYUGU6Rb2VG7r6JpRUFDp36tWPHSbzWAeEl"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)",
+          "value": "Approximately 667+ Google Cloud certified professionals (proxy — 1/3 of 2,000+ Google Cloud team members)",
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYTdOMV2NMGnEMSDQFL-cFMOl0fwcSTprmW6anTnqvOb9u_ToJVTOrJ7K4Zg1oPQs-GErkGvjTzGY9aeIozlgfmjoo_Vo90f5Lbz12UrTGEZhAw5KVSARlrGGopMJjhgGb6rUITKHODIgXm4O4pe_fw8oMBBSuzXLVC64ha8wnNA8FeXrwsuxPi3_JdgSXJIakBfXY4_X1Q9Sqaq0="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe3ujxDXq4KQbMX7hKrozZbi1ZyZ7If3BcQqYxMgAMFA442X2XsMbgt1SpyME0obgIpIytu_pfGZlL6R7fffubZQAfu5p6UlxU7m6JO6GNqMFyIuXPzZUSRdwdZCq3OgpdzXKJdbwO4Rf1G9w2wb0QRcAeT1O2AqUT-ftXgxUOu2swhrLayobG5uu3ZnB8HlQiY4lrUcZNdNdrdVFbHg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Google Cloud Partner of the Year awards (by category, by year): [{\"year\": 2026, \"category\": \"Google Cloud Databases Partner of the Year – North America\"}, {\"year\": 2026, \"category\": \"Google Cloud Country Partner of the Year – Singapore\"}, {\"year\": 2026, \"category\": \"Google Cloud Services and Industry Solutions Partner of the Year – Gaming\"}, {\"year\": 2025, \"category\": \"Artificial Intelligence Partner of the Year for North America\"}, {\"year\": 2025, \"category\": \"Country Partner of the Year in Singapore\"}, {\"year\": 2025, \"category\": \"Industry Solutions Partner of the Year for Gaming\"}, {\"year\": 2025, \"category\": \"Talent Development Partner of the Year for North America\"}, {\"year\": 2024, \"category\": \"Public Sector Partner of the Year for North America – US Education\"}, {\"year\": 2024, \"category\": \"Services Partner of the Year for North America\"}, {\"year\": 2024, \"category\": \"Specialization Partner of the Year for Contact Center AI (CCAI)\"}, {\"year\": 2021, \"category\": \"Breakthrough Partner of the Year for the North American region\"}]",
+        "Number of AWS Partner of the Year awards (by category, by year): [{\"year\": 2025, \"category\": \"AWS Public Sector Global GenAI Consulting Partner of the Year\"}, {\"year\": 2022, \"category\": \"Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America\"}, {\"year\": 2022, \"category\": \"Industry Partner of the Year in North America\"}]",
+        "Number of NVIDIA Partner Network awards (by category, by year): [{\"year\": 2025, \"category\": \"AWS Public Sector Global GenAI Consulting Partner of the Year\"}, {\"year\": 2022, \"category\": \"Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America\"}, {\"year\": 2022, \"category\": \"Industry Partner of the Year in North America\"}]",
+        "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security): [{\"specialization\": \"Data Management – Services\", \"date_achieved_or_noted\": \"August 7, 2025\", \"note\": \"Eleventh active Partner Advanced Specialization\"}, {\"specialization\": \"Data Analytics Migration – Services\", \"date_achieved_or_noted\": \"January 16, 2025\"}, {\"specialization\": \"Application Development – Services\", \"date_achieved_or_noted\": \"November 18, 2024\"}, {\"specialization\": \"Machine Learning – Services\"}, {\"specialization\": \"Contact Center AI – Services\"}, {\"specialization\": \"Generative AI – Services\"}, {\"specialization\": \"Data Analytics – Services\"}, {\"specialization\": \"Marketing Analytics – Services\"}, {\"specialization\": \"Infrastructure – Services\"}, {\"specialization\": \"Security – Services\"}, {\"specialization\": \"Global Machine Learning Specialization\", \"note\": \"First Google Cloud partner to achieve this\"}, {\"specialization\": \"Global Specialization for Data Analytics\"}]",
+        "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer): Approximately 667+ Google Cloud certified professionals (proxy — 1/3 of 2,000+ Google Cloud team members)"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw3lVulDZVchihefbIihx9YK_QU6vUMdn3RxgpxPqnt3UCx1NzWGTTeWMaE0WuvLyMkBjww4n27_T0e_zgjQJnpvyK3E0hvVyRcA63C9YS0Ro68o3cKW55L0DMkAaHDvhVAD7IHXDKjqlWed-uuMDDxnq-SbbI5cQz-t4l1K44AE3YVI37_TY4UeIQW7RMoGah3g1N4tAnjF2d0DS4etqaN-7ifwelBz2dcMrng==",
+          "fields": [
+            "Number of Google Cloud Partner of the Year awards (by category, by year)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Number of AWS Partner of the Year awards (by category, by year)",
+            "Number of NVIDIA Partner Network awards (by category, by year)",
+            "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4IjXq2JaIHP47I_3G1at4PwC2fcoUG8pjYJuUfZs77_7vKkUp7oRV5e7OQE0b8YJ19EXRSrO2vu-928yH5tz8ilRA0d5Tfb8Ctk46DabaJjA7PB9rlEfegk1f0YES1f9kv4vwAsAf54wJ-h_kbrKKuprY74jt_c7ceyr_4d4tBPJ7OXEgFLm-cKUsK3NFXYUGU6Rb2VG7r6JpRUFDp36tWPHSbzWAeEl",
+          "fields": [
+            "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYTdOMV2NMGnEMSDQFL-cFMOl0fwcSTprmW6anTnqvOb9u_ToJVTOrJ7K4Zg1oPQs-GErkGvjTzGY9aeIozlgfmjoo_Vo90f5Lbz12UrTGEZhAw5KVSARlrGGopMJjhgGb6rUITKHODIgXm4O4pe_fw8oMBBSuzXLVC64ha8wnNA8FeXrwsuxPi3_JdgSXJIakBfXY4_X1Q9Sqaq0=",
+          "fields": [
+            "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe3ujxDXq4KQbMX7hKrozZbi1ZyZ7If3BcQqYxMgAMFA442X2XsMbgt1SpyME0obgIpIytu_pfGZlL6R7fffubZQAfu5p6UlxU7m6JO6GNqMFyIuXPzZUSRdwdZCq3OgpdzXKJdbwO4Rf1G9w2wb0QRcAeT1O2AqUT-ftXgxUOu2swhrLayobG5uu3ZnB8HlQiY4lrUcZNdNdrdVFbHg==",
+          "fields": [
+            "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh6qsGSPJGDr2DabEK8GHskKPVJpv6hB652D6riPGGVVeibleq0Z80O7r6yQzU_wypMCaSWsJvU3wAch4W9iiD9-rZOEUEAzPHWXTcO7prWXGOWsXFY6gopPhTDKkfD_XuREZgJ4-88-Sni_mmIqTm0O6biv9wlxygAtV4d_XbsLvNuYU0BW3PqbvO6a-eR5X8qPKeqcSlM39yGLK95LW1Xxb4Ck4PluA=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJQJlJh6IjTW4rT5IdVtyqDO1H1LNW6CanOmyodjdEM9Shzrw1mlEHUxGScrAfbyDaavpbgNYSO2A266qNKS7uGbVT4oa--ZkyJQXMfvdvZJeMOTYwWLEq-bWrvEAnMuljSDRxvzw4clXny57Jv00a3bfVz0cAj0JNP9PyvB8FLrQlTK0hB0zaCCYRNvzvU7yBU9Jpo2hMQPXNMCjIm8_D_RfQig5Gg==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83SjwAoNu1ixuVgFOp4qdX40CMfQmBS624baLslYY4U8dv2Ul-E44qkrTiUtTDYZzIdplp5UynzMB-W9JrhTETgx8DXqJYzseIJYiJon0s1XJKzR1nQFicXHJfU6rBSmgZdQ3KVk2yu5M_W9tP3hs7ZEIa1uLLVI5e9JJWN6xp3jjXhDZJ1BLq8OszZLzL14DYZDbFumki-NKRrNuilRdQq5QvJGcVNolHEkZj6mu9IeV_xjKgOWnOokj-VGOtCJT1s66X4rBUojRA0c82g==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRieITyooJ4mCC5s6P4nVim8iDjecPHaQ3tBEAXnUe_w_PVn0U4PR_wNbcWPdWqvx3NfAyKJB4AN10D0zuAKGGxpySDqlihL-RlM5IYCxoEVHbG2bP9hNdwmyIKs90sEKKR5h9iJ5UXn21qI0UxKWHbUAGyFmJXIBB3eYyVPRsyrbkZS5w83KwxCTmVGfcX6ed27pqDKcl7rAur76IQ2xzdjL94Fq9mAZvgfp_npD1m5OPCEgtBORsnIamMCpZ6Cgg2dxkWbA=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLpr6DglRiapa8Szo0o9BG8zVxvTjBL0fjiRQp1oTpN5LNCioDIcGsU9RB_WrtauVXDt_mlGYxjE2quEtsWvOOxOFxUgHYXkGdfe4zSf5AaI_o8Vw9UzO89aIAo60DUfGLiwtYgIA1sw2Tf2WEubsgXeKGE9VciAUnKW-6Bc6eD2l4nTsKaOytFysq25GYNGieA4wZv9zER0Od-OGYFEvwqxk=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbzZuvx6HMW00vQX6fPACzy6x_ggFzpL9MDQj3SzJc_Dfvks9WJEkYeSJDfkr0_GavCCPVjj8v2ubpztivKDS_rnE58NVyVi7WkzaI99hnMwfZ46DboQab2cI1ocRWPVpzv67W3_qtkbPtVyqnKAn8TPSfe9LRn8YVBU3UE7X7oc3zj6AlFxDiLifuIuzAMfpOhZGSZZG_Zy7Yp6Wq0mokK9Yr0u1VxUjNEKlczwXaGz2OwtnBwl0BQ9SlnJdWY3ufJZ5tV7ma2ySqd1jsH4fuDXBGiDFstqza4m7mGND_",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe0oJCd8WqhFNEIfb5h6-jApf0Sg7EwrN3oDtHNpkgzJqRw-jwCMXKK6Sh1TP9G5v2mDOSYkvvUaQeqotkGLSuKPjDQ0T5NzJtyKhTSfC2TaPrA5X5f58rAXbQ9EjHtf5CTjCvYz8t2QUZeJz9isniDwujDTU-4q6SfY5Lkw5RVOBncnS-zF0UPxSoPuHgZcOeDJQj3acCJgCgne3ZMT6TUrOv-NyyoBxbJ0ZoAxAX4dU=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG759XBVTmBlinWKWSD1XU77hZA1Yy3HLYtCwzLeMVsYKRp_jeS3x1xU6mUp95gEQ9cBTV4Qfp8WTn72d9rhyI2V5oiBOyeWoAPstB8I9oRIeGLgScxja4dyQwvSZ9pGvnUvdwtfwYyX5Ym1xGCOca1ZpVq6KKm0A0fWPMM4Z1ozlzoh7YGgxSrNARbaGN465U7lFFPQuQqK_npW61XeeVLjCSRlk-QtBNIKG9Y16o9J0k=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ehDX6rZp5dbAXvs9rKxEWuOMH0mrBhOX48bUU9wgQrAgYaY2DrS_YJyCt2N-NYlfce1cX2Lrl08VI3Xi7GmEQlGpXihMGFORdXTr9NgMomPaOh_KjNnspq20_y7iBTJsig-v7FGSItYxuJnytleuI3J9WdRAwFnntwXuyB0LaVID2rsK-b61H1B9uG3GDGhvKYnhxbl8JYwR9hxI",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptf_rR_Kv-gdYEScqPvnJ_grmQfAvvD5QyIZMrU-Hi28fGRGIuqos_dyJ5ulRwJuAFUpRYTzAIIr7_4zx4dPG6_th_QJa6Gvjw3OC_YgBFbCwsM4poHyPU5JeWGZkbYrrg1Dum8pnp_18csty5YTR8wrGjK-wlPZcHLZfqddadboVgZLxggCd4hwlx-sfsLQTMjvJnf2HVJ_tPKixL9YU",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFkPWB5vsbGf9dDCpW917D0fmEhtj54l3dESRwKAwAddGiNQdVITTcJEJapo4Y7HSf-BqBM8rdmEbtrK3ypOzG1XH9-UvGNqZVGk_st3gfw7KCyfYC3D-FwMFvqHEVj8a19YN9AjBhq3YNvbLSVjlvSSUp3MCXuHaPn5ETTsMBoK695J5IlQ4GHMfuuDQDAK04gbMq5HTr_xfa07xL4yX64dSqvlrouP5kNnJ6iBXk",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWaWT8YNFk6WS3R1uDYmqtmpiB2UxxCmOlXCSYNT5ntYA2ap70tBa2iuBwkSiETVevZeHPqLPtGJBbHUto3g4hB2_kvGmMkFM7paYI3QaXRvtrUvwsMb9RfPkeO5PrdmsGRt6dd2psYWqqGoX6lECptSKYdqEMvTP1cCdK8rIgW4tSCp90qTBU6T7QYcV3mtu0Vv_NwV2Mozhd",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh-dTYBuU5LhzJyn4azMitVTiz8jpWkVUNFnt997RwWfVvRCrnLlKiwtmGu105zIStXn4Q4JihWwR2jpcPF3H804akyoTtKyzo13LymQwk_sCCR7epBNnEx75sQCVo7DvjQPb--enSw2B04aIin91iqh7thoyGXTQiboZ-7Pe-aDg-61uZ5a8rzQiZSi4s2HzGPs3RP5BIajAEDkdEHi0D",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOWm6nlzj9nkxeEmaTUBipj1mxk6kVU1L2yjT2pX7u3QwEOUFDQS5f2QI5iqcA9nRkXqOjSgaSY_vdMWek8wkFS_1BLKdWikpb7Qo2qrfNmDnmYElnfsAtqwOAZ2ml2i6SRVeZWjAXhnMRmuatT6Wxss1fq_g1sAahu-a7rxrYYVLebmZkJ3jWwzvVrnGMI2g-KlFjNVYpdI08ToVdgciWXhMOfPtdF5T2P39TjvG0fVIgWBt9Sxn75BFVqJO2dbnkcNzmbL4WA==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjXSbYy-KHXJLm2kC7Q218Irqy0S1OTIvRSMteL37Gj-wBc_wKnUgBDj3Gzjh3ym3Auhi7Ddq93euDk7xsUzh6hBjL5N9Vrej43Salx1vQHuq9HOpfJShg6dYG6DzL1Gds5roELrnv78h8o-QWtaQA__mjaAVJakWqHz7XeqsFgqIGOCZXAXAPlfKP6to0ho7DxbN4CX8tiWoCkKFwxPc0GSxR8z5UwngH-sa-AmbZ_HxgQ93IR0uJM_VxFImxixaNuwOi6ij36FPezbLY6kXRrdbpfuEQRWDeVRyC5oc_",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqP-6fwYNhwPTIfHR6OghxVG4VNGzrJ1mMOd51xY0OYw_LSF72hMASv9aK5qEOR0rsTEvfCUCebbF-50N76l9JviOsnYKCzsO8rBu8ByiXhe0VwSOTnkWDgbensJ-hn0d4zErAgEc0Ly5h-7lm6BUjJiWQMflRMK1lyHcWjJkRNPVEeDwtIFoX_A3ZrZqamnNKKg4MKIWzPTwb4X_kNYBO9Y_SV_W5Ct4ADXzcyj4ckkBRg==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv5AnL4df9Z9OljZH921vJZRkuTVyvRyXAKaq6SHxVETOWuBi4zOGkWO_58P_BcsBk-GJtoVDPmTFOSPmp__SAwu_5NqjJFq1ls8EHELp5QRr59uk5Md2p3jmEjDtl6nrJt66dRLeo3gLyZzvTpDSpgyoaeijU9NJV8YfjKr6OOJ73GeBT9XxMyJNBpJnILzVYNBfj_DnOsUp6dlepluDctnO1OTIQHrFnJU-Z8igro2BbwA==",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWsLb22f_kjAPsEjzPE7Yy4tbiuVxubgiamvIl5y0DPhvY63GPWaUtUm8niKIl7ig3mZGAx3jD80AAhf2P741a4__xemlB0jzpLM4qC9rkxTxdBgJoVuknRQInh8sxR1spwbGNMH0=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-jE_2orcWXqycdBwLvUWGcyqEIwhv6UppunCjBIjd6SgYGEI8iSqmre_Ica8Wn1jLa_fW3u7HuQOy9DExyaoC79mOn7ZzqqdTV1qxi2zKEH9h10giS5Uv06ycdenjSGJoCZ1WmzsicM1A_ORLG8w=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Cloud Hyperscaler Partnership Ecosystem",
+      "confidence": "medium",
+      "completeness": 0.556,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "List of AWS Competencies achieved (e.g., Machine Learning, Data & Analytics, DevOps)",
+        "Total number of certified professionals across all hyperscalers",
+        "Number of AWS certified professionals (e.g., Solutions Architect Professional, Machine Learning Specialist)",
+        "Number of NVIDIA certified professionals (e.g., Deep Learning Institute certifications)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A high number of recent hyperscaler awards and specializations, particularly in AI/ML and Data Analytics, would increase the likelihood of pursuing Quantiphi for deeper diligence due to demonstrated market validation and technical depth.",
+        "banker": "Significant achievements in Google Cloud and AWS specializations, especially those aligned with current market demand for AI/ML services, would strengthen the case for pitching Quantiphi as a potential M&A target or strategic partner.",
+        "credit_analyst": "Null",
+        "consultant": "A strong and diverse set of hyperscaler competencies and certifications, particularly in areas like AI/ML and cloud-native solutions, would signal Quantiphi's capability to execute complex digital transformation projects, warranting further investigation."
+      }
+    },
+    {
+      "heading": "Certified Professionals & Competencies",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of Google Cloud Partner of the Year awards (by category, by year)",
+          "value": [
+            {
+              "year": 2026,
+              "category": "Google Cloud Databases Partner of the Year – North America"
+            },
+            {
+              "year": 2026,
+              "category": "Google Cloud Country Partner of the Year – Singapore"
+            },
+            {
+              "year": 2026,
+              "category": "Google Cloud Services and Industry Solutions Partner of the Year – Gaming"
+            },
+            {
+              "year": 2025,
+              "category": "Artificial Intelligence Partner of the Year for North America"
+            },
+            {
+              "year": 2025,
+              "category": "Country Partner of the Year in Singapore"
+            },
+            {
+              "year": 2025,
+              "category": "Industry Solutions Partner of the Year for Gaming"
+            },
+            {
+              "year": 2025,
+              "category": "Talent Development Partner of the Year for North America"
+            },
+            {
+              "year": 2024,
+              "category": "Public Sector Partner of the Year for North America – US Education"
+            },
+            {
+              "year": 2024,
+              "category": "Services Partner of the Year for North America"
+            },
+            {
+              "year": 2024,
+              "category": "Specialization Partner of the Year for Contact Center AI (CCAI)"
+            },
+            {
+              "year": 2021,
+              "category": "Breakthrough Partner of the Year for the North American region"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw3lVulDZVchihefbIihx9YK_QU6vUMdn3RxgpxPqnt3UCx1NzWGTTeWMaE0WuvLyMkBjww4n27_T0e_zgjQJnpvyK3E0hvVyRcA63C9YS0Ro68o3cKW55L0DMkAaHDvhVAD7IHXDKjqlWed-uuMDDxnq-SbbI5cQz-t4l1K44AE3YVI37_TY4UeIQW7RMoGah3g1N4tAnjF2d0DS4etqaN-7ifwelBz2dcMrng=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AWS Partner of the Year awards (by category, by year)",
+          "value": [
+            {
+              "year": 2025,
+              "category": "AWS Public Sector Global GenAI Consulting Partner of the Year"
+            },
+            {
+              "year": 2022,
+              "category": "Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America"
+            },
+            {
+              "year": 2022,
+              "category": "Industry Partner of the Year in North America"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of NVIDIA Partner Network awards (by category, by year)",
+          "value": [
+            {
+              "year": 2025,
+              "category": "AWS Public Sector Global GenAI Consulting Partner of the Year"
+            },
+            {
+              "year": 2022,
+              "category": "Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America"
+            },
+            {
+              "year": 2022,
+              "category": "Industry Partner of the Year in North America"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)",
+          "value": [
+            {
+              "specialization": "Data Management – Services",
+              "date_achieved_or_noted": "August 7, 2025",
+              "note": "Eleventh active Partner Advanced Specialization"
+            },
+            {
+              "specialization": "Data Analytics Migration – Services",
+              "date_achieved_or_noted": "January 16, 2025"
+            },
+            {
+              "specialization": "Application Development – Services",
+              "date_achieved_or_noted": "November 18, 2024"
+            },
+            {
+              "specialization": "Machine Learning – Services"
+            },
+            {
+              "specialization": "Contact Center AI – Services"
+            },
+            {
+              "specialization": "Generative AI – Services"
+            },
+            {
+              "specialization": "Data Analytics – Services"
+            },
+            {
+              "specialization": "Marketing Analytics – Services"
+            },
+            {
+              "specialization": "Infrastructure – Services"
+            },
+            {
+              "specialization": "Security – Services"
+            },
+            {
+              "specialization": "Global Machine Learning Specialization",
+              "note": "First Google Cloud partner to achieve this"
+            },
+            {
+              "specialization": "Global Specialization for Data Analytics"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4IjXq2JaIHP47I_3G1at4PwC2fcoUG8pjYJuUfZs77_7vKkUp7oRV5e7OQE0b8YJ19EXRSrO2vu-928yH5tz8ilRA0d5Tfb8Ctk46DabaJjA7PB9rlEfegk1f0YES1f9kv4vwAsAf54wJ-h_kbrKKuprY74jt_c7ceyr_4d4tBPJ7OXEgFLm-cKUsK3NFXYUGU6Rb2VG7r6JpRUFDp36tWPHSbzWAeEl"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)",
+          "value": "Approximately 667+ Google Cloud certified professionals (proxy — 1/3 of 2,000+ Google Cloud team members)",
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYTdOMV2NMGnEMSDQFL-cFMOl0fwcSTprmW6anTnqvOb9u_ToJVTOrJ7K4Zg1oPQs-GErkGvjTzGY9aeIozlgfmjoo_Vo90f5Lbz12UrTGEZhAw5KVSARlrGGopMJjhgGb6rUITKHODIgXm4O4pe_fw8oMBBSuzXLVC64ha8wnNA8FeXrwsuxPi3_JdgSXJIakBfXY4_X1Q9Sqaq0="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe3ujxDXq4KQbMX7hKrozZbi1ZyZ7If3BcQqYxMgAMFA442X2XsMbgt1SpyME0obgIpIytu_pfGZlL6R7fffubZQAfu5p6UlxU7m6JO6GNqMFyIuXPzZUSRdwdZCq3OgpdzXKJdbwO4Rf1G9w2wb0QRcAeT1O2AqUT-ftXgxUOu2swhrLayobG5uu3ZnB8HlQiY4lrUcZNdNdrdVFbHg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Google Cloud Partner of the Year awards (by category, by year): [{\"year\": 2026, \"category\": \"Google Cloud Databases Partner of the Year – North America\"}, {\"year\": 2026, \"category\": \"Google Cloud Country Partner of the Year – Singapore\"}, {\"year\": 2026, \"category\": \"Google Cloud Services and Industry Solutions Partner of the Year – Gaming\"}, {\"year\": 2025, \"category\": \"Artificial Intelligence Partner of the Year for North America\"}, {\"year\": 2025, \"category\": \"Country Partner of the Year in Singapore\"}, {\"year\": 2025, \"category\": \"Industry Solutions Partner of the Year for Gaming\"}, {\"year\": 2025, \"category\": \"Talent Development Partner of the Year for North America\"}, {\"year\": 2024, \"category\": \"Public Sector Partner of the Year for North America – US Education\"}, {\"year\": 2024, \"category\": \"Services Partner of the Year for North America\"}, {\"year\": 2024, \"category\": \"Specialization Partner of the Year for Contact Center AI (CCAI)\"}, {\"year\": 2021, \"category\": \"Breakthrough Partner of the Year for the North American region\"}]",
+        "Number of AWS Partner of the Year awards (by category, by year): [{\"year\": 2025, \"category\": \"AWS Public Sector Global GenAI Consulting Partner of the Year\"}, {\"year\": 2022, \"category\": \"Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America\"}, {\"year\": 2022, \"category\": \"Industry Partner of the Year in North America\"}]",
+        "Number of NVIDIA Partner Network awards (by category, by year): [{\"year\": 2025, \"category\": \"AWS Public Sector Global GenAI Consulting Partner of the Year\"}, {\"year\": 2022, \"category\": \"Machine Learning/Artificial Intelligence (ML/AI) Partner of the Year in North America\"}, {\"year\": 2022, \"category\": \"Industry Partner of the Year in North America\"}]",
+        "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security): [{\"specialization\": \"Data Management – Services\", \"date_achieved_or_noted\": \"August 7, 2025\", \"note\": \"Eleventh active Partner Advanced Specialization\"}, {\"specialization\": \"Data Analytics Migration – Services\", \"date_achieved_or_noted\": \"January 16, 2025\"}, {\"specialization\": \"Application Development – Services\", \"date_achieved_or_noted\": \"November 18, 2024\"}, {\"specialization\": \"Machine Learning – Services\"}, {\"specialization\": \"Contact Center AI – Services\"}, {\"specialization\": \"Generative AI – Services\"}, {\"specialization\": \"Data Analytics – Services\"}, {\"specialization\": \"Marketing Analytics – Services\"}, {\"specialization\": \"Infrastructure – Services\"}, {\"specialization\": \"Security – Services\"}, {\"specialization\": \"Global Machine Learning Specialization\", \"note\": \"First Google Cloud partner to achieve this\"}, {\"specialization\": \"Global Specialization for Data Analytics\"}]",
+        "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer): Approximately 667+ Google Cloud certified professionals (proxy — 1/3 of 2,000+ Google Cloud team members)"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw3lVulDZVchihefbIihx9YK_QU6vUMdn3RxgpxPqnt3UCx1NzWGTTeWMaE0WuvLyMkBjww4n27_T0e_zgjQJnpvyK3E0hvVyRcA63C9YS0Ro68o3cKW55L0DMkAaHDvhVAD7IHXDKjqlWed-uuMDDxnq-SbbI5cQz-t4l1K44AE3YVI37_TY4UeIQW7RMoGah3g1N4tAnjF2d0DS4etqaN-7ifwelBz2dcMrng==",
+          "fields": [
+            "Number of Google Cloud Partner of the Year awards (by category, by year)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Number of AWS Partner of the Year awards (by category, by year)",
+            "Number of NVIDIA Partner Network awards (by category, by year)",
+            "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4IjXq2JaIHP47I_3G1at4PwC2fcoUG8pjYJuUfZs77_7vKkUp7oRV5e7OQE0b8YJ19EXRSrO2vu-928yH5tz8ilRA0d5Tfb8Ctk46DabaJjA7PB9rlEfegk1f0YES1f9kv4vwAsAf54wJ-h_kbrKKuprY74jt_c7ceyr_4d4tBPJ7OXEgFLm-cKUsK3NFXYUGU6Rb2VG7r6JpRUFDp36tWPHSbzWAeEl",
+          "fields": [
+            "List of Google Cloud Specializations achieved (e.g., AI/ML, Data Analytics, Security)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYTdOMV2NMGnEMSDQFL-cFMOl0fwcSTprmW6anTnqvOb9u_ToJVTOrJ7K4Zg1oPQs-GErkGvjTzGY9aeIozlgfmjoo_Vo90f5Lbz12UrTGEZhAw5KVSARlrGGopMJjhgGb6rUITKHODIgXm4O4pe_fw8oMBBSuzXLVC64ha8wnNA8FeXrwsuxPi3_JdgSXJIakBfXY4_X1Q9Sqaq0=",
+          "fields": [
+            "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe3ujxDXq4KQbMX7hKrozZbi1ZyZ7If3BcQqYxMgAMFA442X2XsMbgt1SpyME0obgIpIytu_pfGZlL6R7fffubZQAfu5p6UlxU7m6JO6GNqMFyIuXPzZUSRdwdZCq3OgpdzXKJdbwO4Rf1G9w2wb0QRcAeT1O2AqUT-ftXgxUOu2swhrLayobG5uu3ZnB8HlQiY4lrUcZNdNdrdVFbHg==",
+          "fields": [
+            "Number of Google Cloud certified professionals (e.g., Professional Cloud Architect, Machine Learning Engineer)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh6qsGSPJGDr2DabEK8GHskKPVJpv6hB652D6riPGGVVeibleq0Z80O7r6yQzU_wypMCaSWsJvU3wAch4W9iiD9-rZOEUEAzPHWXTcO7prWXGOWsXFY6gopPhTDKkfD_XuREZgJ4-88-Sni_mmIqTm0O6biv9wlxygAtV4d_XbsLvNuYU0BW3PqbvO6a-eR5X8qPKeqcSlM39yGLK95LW1Xxb4Ck4PluA=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJQJlJh6IjTW4rT5IdVtyqDO1H1LNW6CanOmyodjdEM9Shzrw1mlEHUxGScrAfbyDaavpbgNYSO2A266qNKS7uGbVT4oa--ZkyJQXMfvdvZJeMOTYwWLEq-bWrvEAnMuljSDRxvzw4clXny57Jv00a3bfVz0cAj0JNP9PyvB8FLrQlTK0hB0zaCCYRNvzvU7yBU9Jpo2hMQPXNMCjIm8_D_RfQig5Gg==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83SjwAoNu1ixuVgFOp4qdX40CMfQmBS624baLslYY4U8dv2Ul-E44qkrTiUtTDYZzIdplp5UynzMB-W9JrhTETgx8DXqJYzseIJYiJon0s1XJKzR1nQFicXHJfU6rBSmgZdQ3KVk2yu5M_W9tP3hs7ZEIa1uLLVI5e9JJWN6xp3jjXhDZJ1BLq8OszZLzL14DYZDbFumki-NKRrNuilRdQq5QvJGcVNolHEkZj6mu9IeV_xjKgOWnOokj-VGOtCJT1s66X4rBUojRA0c82g==",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRieITyooJ4mCC5s6P4nVim8iDjecPHaQ3tBEAXnUe_w_PVn0U4PR_wNbcWPdWqvx3NfAyKJB4AN10D0zuAKGGxpySDqlihL-RlM5IYCxoEVHbG2bP9hNdwmyIKs90sEKKR5h9iJ5UXn21qI0UxKWHbUAGyFmJXIBB3eYyVPRsyrbkZS5w83KwxCTmVGfcX6ed27pqDKcl7rAur76IQ2xzdjL94Fq9mAZvgfp_npD1m5OPCEgtBORsnIamMCpZ6Cgg2dxkWbA=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLpr6DglRiapa8Szo0o9BG8zVxvTjBL0fjiRQp1oTpN5LNCioDIcGsU9RB_WrtauVXDt_mlGYxjE2quEtsWvOOxOFxUgHYXkGdfe4zSf5AaI_o8Vw9UzO89aIAo60DUfGLiwtYgIA1sw2Tf2WEubsgXeKGE9VciAUnKW-6Bc6eD2l4nTsKaOytFysq25GYNGieA4wZv9zER0Od-OGYFEvwqxk=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbzZuvx6HMW00vQX6fPACzy6x_ggFzpL9MDQj3SzJc_Dfvks9WJEkYeSJDfkr0_GavCCPVjj8v2ubpztivKDS_rnE58NVyVi7WkzaI99hnMwfZ46DboQab2cI1ocRWPVpzv67W3_qtkbPtVyqnKAn8TPSfe9LRn8YVBU3UE7X7oc3zj6AlFxDiLifuIuzAMfpOhZGSZZG_Zy7Yp6Wq0mokK9Yr0u1VxUjNEKlczwXaGz2OwtnBwl0BQ9SlnJdWY3ufJZ5tV7ma2ySqd1jsH4fuDXBGiDFstqza4m7mGND_",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe0oJCd8WqhFNEIfb5h6-jApf0Sg7EwrN3oDtHNpkgzJqRw-jwCMXKK6Sh1TP9G5v2mDOSYkvvUaQeqotkGLSuKPjDQ0T5NzJtyKhTSfC2TaPrA5X5f58rAXbQ9EjHtf5CTjCvYz8t2QUZeJz9isniDwujDTU-4q6SfY5Lkw5RVOBncnS-zF0UPxSoPuHgZcOeDJQj3acCJgCgne3ZMT6TUrOv-NyyoBxbJ0ZoAxAX4dU=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG759XBVTmBlinWKWSD1XU77hZA1Yy3HLYtCwzLeMVsYKRp_jeS3x1xU6mUp95gEQ9cBTV4Qfp8WTn72d9rhyI2V5oiBOyeWoAPstB8I9oRIeGLgScxja4dyQwvSZ9pGvnUvdwtfwYyX5Ym1xGCOca1ZpVq6KKm0A0fWPMM4Z1ozlzoh7YGgxSrNARbaGN465U7lFFPQuQqK_npW61XeeVLjCSRlk-QtBNIKG9Y16o9J0k=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4ehDX6rZp5dbAXvs9rKxEWuOMH0mrBhOX48bUU9wgQrAgYaY2DrS_YJyCt2N-NYlfce1cX2Lrl08VI3Xi7GmEQlGpXihMGFORdXTr9NgMomPaOh_KjNnspq20_y7iBTJsig-v7FGSItYxuJnytleuI3J9WdRAwFnntwXuyB0LaVID2rsK-b61H1B9uG3GDGhvKYnhxbl8JYwR9hxI",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptf_rR_Kv-gdYEScqPvnJ_grmQfAvvD5QyIZMrU-Hi28fGRGIuqos_dyJ5ulRwJuAFUpRYTzAIIr7_4zx4dPG6_th_QJa6Gvjw3OC_YgBFbCwsM4poHyPU5JeWGZkbYrrg1Dum8pnp_18csty5YTR8wrGjK-wlPZcHLZfqddadboVgZLxggCd4hwlx-sfsLQTMjvJnf2HVJ_tPKixL9YU",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFkPWB5vsbGf9dDCpW917D0fmEhtj54l3dESRwKAwAddGiNQdVITTcJEJapo4Y7HSf-BqBM8rdmEbtrK3ypOzG1XH9-UvGNqZVGk_st3gfw7KCyfYC3D-FwMFvqHEVj8a19YN9AjBhq3YNvbLSVjlvSSUp3MCXuHaPn5ETTsMBoK695J5IlQ4GHMfuuDQDAK04gbMq5HTr_xfa07xL4yX64dSqvlrouP5kNnJ6iBXk",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWaWT8YNFk6WS3R1uDYmqtmpiB2UxxCmOlXCSYNT5ntYA2ap70tBa2iuBwkSiETVevZeHPqLPtGJBbHUto3g4hB2_kvGmMkFM7paYI3QaXRvtrUvwsMb9RfPkeO5PrdmsGRt6dd2psYWqqGoX6lECptSKYdqEMvTP1cCdK8rIgW4tSCp90qTBU6T7QYcV3mtu0Vv_NwV2Mozhd",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh-dTYBuU5LhzJyn4azMitVTiz8jpWkVUNFnt997RwWfVvRCrnLlKiwtmGu105zIStXn4Q4JihWwR2jpcPF3H804akyoTtKyzo13LymQwk_sCCR7epBNnEx75sQCVo7DvjQPb--enSw2B04aIin91iqh7thoyGXTQiboZ-7Pe-aDg-61uZ5a8rzQiZSi4s2HzGPs3RP5BIajAEDkdEHi0D",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOWm6nlzj9nkxeEmaTUBipj1mxk6kVU1L2yjT2pX7u3QwEOUFDQS5f2QI5iqcA9nRkXqOjSgaSY_vdMWek8wkFS_1BLKdWikpb7Qo2qrfNmDnmYElnfsAtqwOAZ2ml2i6SRVeZWjAXhnMRmuatT6Wxss1fq_g1sAahu-a7rxrYYVLebmZkJ3jWwzvVrnGMI2g-KlFjNVYpdI08ToVdgciWXhMOfPtdF5T2P39TjvG0fVIgWBt9Sxn75BFVqJO2dbnkcNzmbL4WA==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjXSbYy-KHXJLm2kC7Q218Irqy0S1OTIvRSMteL37Gj-wBc_wKnUgBDj3Gzjh3ym3Auhi7Ddq93euDk7xsUzh6hBjL5N9Vrej43Salx1vQHuq9HOpfJShg6dYG6DzL1Gds5roELrnv78h8o-QWtaQA__mjaAVJakWqHz7XeqsFgqIGOCZXAXAPlfKP6to0ho7DxbN4CX8tiWoCkKFwxPc0GSxR8z5UwngH-sa-AmbZ_HxgQ93IR0uJM_VxFImxixaNuwOi6ij36FPezbLY6kXRrdbpfuEQRWDeVRyC5oc_",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqP-6fwYNhwPTIfHR6OghxVG4VNGzrJ1mMOd51xY0OYw_LSF72hMASv9aK5qEOR0rsTEvfCUCebbF-50N76l9JviOsnYKCzsO8rBu8ByiXhe0VwSOTnkWDgbensJ-hn0d4zErAgEc0Ly5h-7lm6BUjJiWQMflRMK1lyHcWjJkRNPVEeDwtIFoX_A3ZrZqamnNKKg4MKIWzPTwb4X_kNYBO9Y_SV_W5Ct4ADXzcyj4ckkBRg==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv5AnL4df9Z9OljZH921vJZRkuTVyvRyXAKaq6SHxVETOWuBi4zOGkWO_58P_BcsBk-GJtoVDPmTFOSPmp__SAwu_5NqjJFq1ls8EHELp5QRr59uk5Md2p3jmEjDtl6nrJt66dRLeo3gLyZzvTpDSpgyoaeijU9NJV8YfjKr6OOJ73GeBT9XxMyJNBpJnILzVYNBfj_DnOsUp6dlepluDctnO1OTIQHrFnJU-Z8igro2BbwA==",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWsLb22f_kjAPsEjzPE7Yy4tbiuVxubgiamvIl5y0DPhvY63GPWaUtUm8niKIl7ig3mZGAx3jD80AAhf2P741a4__xemlB0jzpLM4qC9rkxTxdBgJoVuknRQInh8sxR1spwbGNMH0=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-jE_2orcWXqycdBwLvUWGcyqEIwhv6UppunCjBIjd6SgYGEI8iSqmre_Ica8Wn1jLa_fW3u7HuQOy9DExyaoC79mOn7ZzqqdTV1qxi2zKEH9h10giS5Uv06ycdenjSGJoCZ1WmzsicM1A_ORLG8w=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Cloud Hyperscaler Partnership Ecosystem",
+      "confidence": "medium",
+      "completeness": 0.556,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "List of AWS Competencies achieved (e.g., Machine Learning, Data & Analytics, DevOps)",
+        "Total number of certified professionals across all hyperscalers",
+        "Number of AWS certified professionals (e.g., Solutions Architect Professional, Machine Learning Specialist)",
+        "Number of NVIDIA certified professionals (e.g., Deep Learning Institute certifications)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A high number of recent hyperscaler awards and specializations, particularly in AI/ML and Data Analytics, would increase the likelihood of pursuing Quantiphi for deeper diligence due to demonstrated market validation and technical depth.",
+        "banker": "Significant achievements in Google Cloud and AWS specializations, especially those aligned with current market demand for AI/ML services, would strengthen the case for pitching Quantiphi as a potential M&A target or strategic partner.",
+        "credit_analyst": "Null",
+        "consultant": "A strong and diverse set of hyperscaler competencies and certifications, particularly in areas like AI/ML and cloud-native solutions, would signal Quantiphi's capability to execute complex digital transformation projects, warranting further investigation."
+      }
+    },
+    {
+      "heading": "Proprietary AI Platforms & Products",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)",
+          "value": [
+            {
+              "name": "Codeaira",
+              "launch_date": "October 24, 2024"
+            },
+            {
+              "name": "baioniq",
+              "availability_snowflake_marketplace": "January 13, 2025",
+              "trial_subscription_available": "July 18, 2024"
+            },
+            {
+              "name": "Dociphi"
+            },
+            {
+              "name": "Qollective.CX"
+            },
+            {
+              "name": "QDox"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ1FE1u3h1OvixihCHErJvt3EMvNmjvUh9AbIOKnf4mzOgQsv_unlQiJ4C3HkXHa5gMxGCF8RSsWN0C6rJJBHpNTtnqqGQXDxw3kCjep-XjW536Z3fj6SOkNM="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlNHglbhG94zn7MXt6jeD7zWaXMZCbQDXgNI4lM0YzdJrfiXHPJ7O1EFqVpK0IUcglWY2hM59K0zlTA18u_ilBC6RgAL1rmgU5DglR0-X2OB0R0ZlzBCQYmhAgJ7KujBkJ9uVX91Vr1VAyZskynr_hhZoFtzc_32-6hiDQcX4ICr5dVSJRBPdgQeXIxcCs86zxYMyRCyOo3w5wLNFdbYgpDD-iknqFv0vD1kbf-YMIY9s8Mmgl3-up0ohHMOqzO1ylooz9UB9OIHzOSeKQh2_yuFBwaW1GlXZgYtZxJFUSlqLOosFu"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3I_1Qo9T5MBkx0qSOpU6pV7NhQ2jWelKaEFZKWft5Skyd8UdccDKcN7qtsqFinsHZKO5vNOaT8l7omA5iKm2MeDXJr8EokDLjch8VylR6E7K_XMW14-qwA_-FBhzqqrWvyrLKo4Z0HsKLagYKmFEQIHGtNv9Ow=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcOGmWj20hOGj1BYEN2tPCVLyo8q2O9m2Fw40m79iLCJJw_oiOkYqcPnINpVkLs2fGhZfdLKc64JRd7n-a6VMu_meY5Pf2veAplyoMf_K5hhn2KyvNP__cauM-OfUtSqSoAdvEdxiq3bUNpA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira): [{\"name\": \"Codeaira\", \"launch_date\": \"October 24, 2024\"}, {\"name\": \"baioniq\", \"availability_snowflake_marketplace\": \"January 13, 2025\", \"trial_subscription_available\": \"July 18, 2024\"}, {\"name\": \"Dociphi\"}, {\"name\": \"Qollective.CX\"}, {\"name\": \"QDox\"}]"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ1FE1u3h1OvixihCHErJvt3EMvNmjvUh9AbIOKnf4mzOgQsv_unlQiJ4C3HkXHa5gMxGCF8RSsWN0C6rJJBHpNTtnqqGQXDxw3kCjep-XjW536Z3fj6SOkNM=",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlNHglbhG94zn7MXt6jeD7zWaXMZCbQDXgNI4lM0YzdJrfiXHPJ7O1EFqVpK0IUcglWY2hM59K0zlTA18u_ilBC6RgAL1rmgU5DglR0-X2OB0R0ZlzBCQYmhAgJ7KujBkJ9uVX91Vr1VAyZskynr_hhZoFtzc_32-6hiDQcX4ICr5dVSJRBPdgQeXIxcCs86zxYMyRCyOo3w5wLNFdbYgpDD-iknqFv0vD1kbf-YMIY9s8Mmgl3-up0ohHMOqzO1ylooz9UB9OIHzOSeKQh2_yuFBwaW1GlXZgYtZxJFUSlqLOosFu",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3I_1Qo9T5MBkx0qSOpU6pV7NhQ2jWelKaEFZKWft5Skyd8UdccDKcN7qtsqFinsHZKO5vNOaT8l7omA5iKm2MeDXJr8EokDLjch8VylR6E7K_XMW14-qwA_-FBhzqqrWvyrLKo4Z0HsKLagYKmFEQIHGtNv9Ow==",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcOGmWj20hOGj1BYEN2tPCVLyo8q2O9m2Fw40m79iLCJJw_oiOkYqcPnINpVkLs2fGhZfdLKc64JRd7n-a6VMu_meY5Pf2veAplyoMf_K5hhn2KyvNP__cauM-OfUtSqSoAdvEdxiq3bUNpA==",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUBjZR3mOjriVfAi4Zjo6e9p7cz_3Ii3-veMBma6nBySKRu6xPI9EckndwqRINE4fp_9P0yB5_SKBurz2nUfn3WsygJVkw8_GopfkFk-PZIctzCgp2s9AVyXxmwqUGWfyyDNbFTnyQqygRPUzAqCgW0_iNOgwXqm0I4oM9iTImqLVI4huqHFWsdE3cdA9OYU7VjAUgUUEFvnXmkGllsebL84WTQo74QIcy4bsiAQBXA1bL",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfneFU8otgzv6D2bbhIFskz6T2LoP-KshviZpmxKBODHPKXN5JkVse6vnBt99mtpRsuNj8kI5GFCWoaD8y-diIi6UK_1iH_SiCXrkO-4FoL-cS02lXXJ4o56SpD9MCtx2vGBDgMy9NsC4=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKXwNq5-wujCXfIgXoZNeASF5MMeO4QiaeRCkI3emLCgq-EOUelWKnpFZIq7pGZrKITQhZt_A6AXuTvRUFAv_5OScJHome6bhlDGAlDMXeZf4LXUQm4OSUyftGdtFFQCJvlqAxGJoKE2HCJyhX6OgJw9_zkRRPGjgxaFwOSw90aI5vhvom6Fxcvczm2EA2VXZcmwBdL-QrsP_67ElhO67Ki2fo7v6ZyVIYUXhHfGMeRdIHvzeK6WQfgMvs4d6_wlt19tKn1dkWh8otOmIYgjs5pMp6vgLL",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8rGVBcKmqR1bzBwm2mqfiZIrQC8PqsXQmNp52dRrgsWtt5p15QZ-LAfsDoeaytvaNHQTGDF9505qDFBmRXjPM9fheFJoIRvZCYwHWCfkcW_pxDYzWCMUd_-b9xxr06TelEG-YMStDNI4kM0wO7uuBCGhTBT-SLaCPA7WdFVC1V46LTAt7s3A4qDBCQzUjJKkWKYLki3SWEY6ipl9FsjgIfXjT5t06TB7hc9PXolZbgIjNECy92-C1anXIq536ZnEyniACiow-aEf01ugPVzC5tLwHg==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHACPamEmLXPb0Zm9d-AabmeM_Pee3WAdUQS-MVxc-hsBp1cguMFnxLaSpHRlMyOIVbn82xxyUtYwr2zDW42XM54q8Xc8Aa9pNvziFOlIHdI63pDkD9g7C5d3Z8NYM3cnNpPoef4Ofo9OzDfD7kZ5K1Lnqm72pfDffpTNpkRf3R5CE=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxmJiHA9KZw1kMsFrb-Lj-PvGvOr9M9_uGQUcm5cTo0sfkUnsaQvJTcYzsWlWmA6VPI9l4HZfF1fYf_8kO0pmlCzBOj6GD2TbYaHfPHY6XVowObaqJwzVuYdEeyYGvNJpKL8G4WIld8VweZ3AiCS89LIywxBUTI9S9Vjzh3mwBxhif4-1S12Di23QXyC_88WGgDHpUPFTmOani-8skgUOKn9TEiu2FVDvNb8Y7mkb5gLiWaRUXoMLffCyFH2I-bwvhnE08DQ==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJWPqKMVGQpJRnz0aPHJ1mWSb6qvt3T15ckv3l5C4UnxCDKYYP2AaSc01OQqAjfzgsYBNBslTnZ9OvRWg2AHvDxQGhgNdEuj59LHbs2ek20AdrL8AcLG8KdxQSwd1hBX7uskceQMo69qcXHcpnomDJ701kbaCA5gJpxZoKY1WBlmW_O3sFA-zWqGuSOeWXvO2UCTdMQVC3QoE7eN-Jvm2-KRVXNcL2JZ5pSRyu6R8TO3x-H6j7dzK9slVGYDkM1Ynt72ViebsR7kLukiNiIw7em7y3pQB0B11WJD9pAxggKBE=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZwYNpsaOLSCESqKrc8WWb59bynI5Fd854pTFfPkfgvt77HTn9C_ojr9fDraosF2A7cQmNlcQPalmCySpzWXmozh8CHqlEe8vBmJfcYp_QCfRW-cK6TQNExg2MCtH_zDcrdlyQiYE75uiWeO43qADG_AmKaotM1Nm4FsN2mMJlpT-Myb-aIIElvB2r5hRy-HKI1fujAIvEb-nHFnD1Bin-dfVA9rNp62JgrMynsIf25zBZVKLKKRYNt4AJf-BLgDFO744XVFDGLqs1fuOFHhk6wowRXic=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPy26dZCxcdPSmmqoxe5iiunDVvazMvCIzm103pzNSSxsvmlHgZYA2eJCemHrrkMeEtBwrwIVTEx3WEbA6VQjR0wLhZ3gP8FI_C_tiBW-IHp-TVU_nHlTvkdd9StJ0gks7QgB96T2-njib639JwzTKBeHEE76mpq8gTNkEx4QtM91t1PHlKTdFnm3wsppcrLWCo76RMFaSBApPmYwdT1fY-eTcXhtl3QZxmEkpJD1DmCssRSAclMtgfiqO5wbjCSrkGOvHiAC93WET1S4Fd1z6Wa3W_zIrRxSoNfwR7XbfSxQn5iEahRL5BwzKXV1EqQCb3zL_lfWi3T4=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBu_RnZriRGqzs-VwPazOICTXF5pRyfMPrY4YN3xyHVnjrOrcZfyqrlt5eRpfd0QpW7LZ5oxaGfEwF0eNhXvUvTAPUK2VSKv51FeJ0fT5do419ERUdUnVdmkPzPrz5Wr4yMa-9cvOqDfcvbD8txo43O3qt49a4LOW4QP2kmEwnScagGOwl8i2xG4e-7kHU6eTlz95bNR0Z-V9EcwhLRKUtU8QR",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoKds4SL7-MehMmWHv17Z2DVUk7KTbCmPABCr7G_rYxIKWoiwaJKAMC9uHzgXfQV57dy8hddenDqS6LoLa_S-ewZ5r-UEHEYobD4hcES3Ato8t40dFd02czSLHoH5-tkNB64alyi3RGxwJ4Wj89-2GEv2D84iSH34riVOEzFE_soPELoAdbx4E2oBWLa_73PYx6xJJ3jv03RBOHXQ5jtJoY9t_ovkpOoCjWT5P28o=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-bx2PmAUysDOttMXb1ptQUQhcIMMN3sVk3UYHe2EllvRO3kLEyqR0Car73C9GxIQ8lYDCyk7nwffXpTTp0gvq33GT9-hl3Z4_szVRXjdXmZ0w6a_9-_a87BgR2A8YKBPalbYAK0Yivo=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_PR1WD4UcyiuQEQzuz5QQ4n5lx2GFbNlYyMBN-Ec6THwiLTM8KN4NlqAWMdiy4xlOK0-1x9xCizv58douWVf1voDoiUnl5GzAlMj8ZjD8Fid8XB41aWCqAT4FYlM2ZmW7HXvdXclm0KtPcCyohPjixyoUOal4_YK9ePKyx9_vqtccTX3KLVv2il6op1jAkZj1FySn",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwhrA8B15K0dR68KAw1BzyGo2mWTeccVqnGr74M3dUmaEtGCQB4n1lJALxsZF1Rs9ldb0Myo0q--3C_7v6xykZ-TiMZTfAwOHoCPgvLMahrCyMKhqdlH4TpdB677t-lVLrLLqs9ZLFs1xtHr3fYkeLyq4qHtr9ng==",
+          "fields": []
+        },
+        {
+          "name": "siliconangle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmm8sxX31ahx0MfxGHHn1TXpyHGoVghudD-84a1wiH6B4Ubm1NNxexF_YfMMrEZSZ8bFcUm03d-BYaMMJyjzSaGUYcZOJN8qcKK7UDNzxKO-3OmalLzNHbbKY1oqsR-VTq1cEbn58l100COuXtH9UFoFjEtCT89NYZPkxWex7v9uYYFCda5YGEUGpLC7L6A0OscUdxm95ohDhvAqqMdUo=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqJ0MHqvhIMDhJw3GdRxcnfHYJyIKbCqmU1oBJ8A2k_PrWKIaDh2l9jO2dw6vcMz3XcvdxHdJNEw9nj4zINzeHnxwIM589t7_jQAz9OKKKtE0tmwbntK4ug==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS7mGb-OswYMvVUBMezp6CJAe0zAIyARHCNImVV306YLTbJNvZ7KayCgiV3PHFdByJIDcrRY2gtmMAnqn2VvKPbRbwkfIuvq_z7v_erKk-RlJ9CdXCu33mwopjw-rJ7qqX7ChM6SpH4A==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_uNGKF38BXtiEWOrZ3WCxSC0JDrh2TnVWsE1ByTHfj5ZQIJNlLi2W6hXf2vJuRqc7DoGnwBbSHS4ay8PszspYit2OeF_TlqPthOfxhVK_DBN18J3UNu2GCEHCtD_WbmlmLd4fjDwd4iBicHJM2bUD5ebxdRhpy5m4ndKAgM6f_igUxui1iQ9B4_2c5MF7H8oJOZx8lot1rrBA2ONvOFY01of",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0IOgga6zjBNPK2w1oHV1Rj_CR8Qs5TLD65r3fF24_eWAV0dueFplmBf819z_y1jIOKALnuMGQVgq-APeRzYMCDxZWpNO4ojeIlTlf3KHPLv9ZawChZShg9Z0sehpCrOTuJyxDTDzUERSPCyYoO238mDml77N",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENbzWEfMWCYo3PMT4AWdc37GMguNjCZZFqlg8qWp_-imwxcXBzKlQ4bzH8KxDZ2UMXQdVlMNDEmlnkK4SjwOuKhz5pLFSk7E_igPWF-SBw_F9Atr-SUsYiL4qmhYeMDzY-5jSRJjd118-j0y6e8Zl_SHLGzYxutotaC4THXwDnIl46z_uc8SyVohMoSa_VU7mfSm-0rOwnucaJS_CagP0XCFc=",
+          "fields": []
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtBWoUkdNgNdgYjonvzBkfxJsmejhidEI30qeQ2qrNRhZEAaNZk45Kyq-hZsR0JbFNKIzMxhjOOXf_F_jfYANSAql1GDgxpS-SmgRwVQbywIcnLLh1LQHtWzCqA9pNCX_0Cy1c_vSWc8MNNBQgZarIUDRjnyqibr__EOOyzGI2UwoATaP9Nw==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRSs3Ln_mg75X0ieh4cb2RyipNALKz_6gvdH37UvvgIUEcP6xIRXghfCXB-ovnBKEG6WV6pNiQzaJt8Nkr8ThDLoH20iVfHR01G7vASzWEI0c=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Proprietary AI/ML Solutions & Industry Accelerators",
+      "confidence": "low",
+      "completeness": 0.125,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Key features and capabilities of each proprietary platform",
+        "Number of client deployments leveraging proprietary solutions (if disclosed)",
+        "Number of patents filed/granted related to AI/ML platforms (India, US, global)",
+        "Number of industry-specific solution accelerators developed (e.g., for BFS, Healthcare, Retail)",
+        "Named industry accelerators and their target use cases",
+        "Number of client case studies published featuring industry accelerators (by industry)",
+        "Estimated time-to-value reduction using proprietary accelerators (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Significantly increases pursuit likelihood by demonstrating tangible IP and competitive differentiation through proprietary platforms and accelerators, suggesting potential for higher margins and defensible market share.",
+        "banker": "Increases pursuit likelihood by highlighting potential for unique value proposition and differentiated service offerings that could support higher deal multiples or attract strategic acquirers.",
+        "credit_analyst": "Null",
+        "consultant": "Increases pursuit likelihood by providing concrete examples of industry-specific solutions and quantifiable time-to-value benefits, which are key indicators for operational efficiency and client impact."
+      }
+    },
+    {
+      "heading": "Industry-Specific Accelerators & Frameworks",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)",
+          "value": [
+            {
+              "name": "Codeaira",
+              "launch_date": "October 24, 2024"
+            },
+            {
+              "name": "baioniq",
+              "availability_snowflake_marketplace": "January 13, 2025",
+              "trial_subscription_available": "July 18, 2024"
+            },
+            {
+              "name": "Dociphi"
+            },
+            {
+              "name": "Qollective.CX"
+            },
+            {
+              "name": "QDox"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ1FE1u3h1OvixihCHErJvt3EMvNmjvUh9AbIOKnf4mzOgQsv_unlQiJ4C3HkXHa5gMxGCF8RSsWN0C6rJJBHpNTtnqqGQXDxw3kCjep-XjW536Z3fj6SOkNM="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlNHglbhG94zn7MXt6jeD7zWaXMZCbQDXgNI4lM0YzdJrfiXHPJ7O1EFqVpK0IUcglWY2hM59K0zlTA18u_ilBC6RgAL1rmgU5DglR0-X2OB0R0ZlzBCQYmhAgJ7KujBkJ9uVX91Vr1VAyZskynr_hhZoFtzc_32-6hiDQcX4ICr5dVSJRBPdgQeXIxcCs86zxYMyRCyOo3w5wLNFdbYgpDD-iknqFv0vD1kbf-YMIY9s8Mmgl3-up0ohHMOqzO1ylooz9UB9OIHzOSeKQh2_yuFBwaW1GlXZgYtZxJFUSlqLOosFu"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3I_1Qo9T5MBkx0qSOpU6pV7NhQ2jWelKaEFZKWft5Skyd8UdccDKcN7qtsqFinsHZKO5vNOaT8l7omA5iKm2MeDXJr8EokDLjch8VylR6E7K_XMW14-qwA_-FBhzqqrWvyrLKo4Z0HsKLagYKmFEQIHGtNv9Ow=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcOGmWj20hOGj1BYEN2tPCVLyo8q2O9m2Fw40m79iLCJJw_oiOkYqcPnINpVkLs2fGhZfdLKc64JRd7n-a6VMu_meY5Pf2veAplyoMf_K5hhn2KyvNP__cauM-OfUtSqSoAdvEdxiq3bUNpA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira): [{\"name\": \"Codeaira\", \"launch_date\": \"October 24, 2024\"}, {\"name\": \"baioniq\", \"availability_snowflake_marketplace\": \"January 13, 2025\", \"trial_subscription_available\": \"July 18, 2024\"}, {\"name\": \"Dociphi\"}, {\"name\": \"Qollective.CX\"}, {\"name\": \"QDox\"}]"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ1FE1u3h1OvixihCHErJvt3EMvNmjvUh9AbIOKnf4mzOgQsv_unlQiJ4C3HkXHa5gMxGCF8RSsWN0C6rJJBHpNTtnqqGQXDxw3kCjep-XjW536Z3fj6SOkNM=",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlNHglbhG94zn7MXt6jeD7zWaXMZCbQDXgNI4lM0YzdJrfiXHPJ7O1EFqVpK0IUcglWY2hM59K0zlTA18u_ilBC6RgAL1rmgU5DglR0-X2OB0R0ZlzBCQYmhAgJ7KujBkJ9uVX91Vr1VAyZskynr_hhZoFtzc_32-6hiDQcX4ICr5dVSJRBPdgQeXIxcCs86zxYMyRCyOo3w5wLNFdbYgpDD-iknqFv0vD1kbf-YMIY9s8Mmgl3-up0ohHMOqzO1ylooz9UB9OIHzOSeKQh2_yuFBwaW1GlXZgYtZxJFUSlqLOosFu",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3I_1Qo9T5MBkx0qSOpU6pV7NhQ2jWelKaEFZKWft5Skyd8UdccDKcN7qtsqFinsHZKO5vNOaT8l7omA5iKm2MeDXJr8EokDLjch8VylR6E7K_XMW14-qwA_-FBhzqqrWvyrLKo4Z0HsKLagYKmFEQIHGtNv9Ow==",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcOGmWj20hOGj1BYEN2tPCVLyo8q2O9m2Fw40m79iLCJJw_oiOkYqcPnINpVkLs2fGhZfdLKc64JRd7n-a6VMu_meY5Pf2veAplyoMf_K5hhn2KyvNP__cauM-OfUtSqSoAdvEdxiq3bUNpA==",
+          "fields": [
+            "Named proprietary AI platforms (e.g., Baioniq, Dociphi, Codeaira)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUBjZR3mOjriVfAi4Zjo6e9p7cz_3Ii3-veMBma6nBySKRu6xPI9EckndwqRINE4fp_9P0yB5_SKBurz2nUfn3WsygJVkw8_GopfkFk-PZIctzCgp2s9AVyXxmwqUGWfyyDNbFTnyQqygRPUzAqCgW0_iNOgwXqm0I4oM9iTImqLVI4huqHFWsdE3cdA9OYU7VjAUgUUEFvnXmkGllsebL84WTQo74QIcy4bsiAQBXA1bL",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfneFU8otgzv6D2bbhIFskz6T2LoP-KshviZpmxKBODHPKXN5JkVse6vnBt99mtpRsuNj8kI5GFCWoaD8y-diIi6UK_1iH_SiCXrkO-4FoL-cS02lXXJ4o56SpD9MCtx2vGBDgMy9NsC4=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKXwNq5-wujCXfIgXoZNeASF5MMeO4QiaeRCkI3emLCgq-EOUelWKnpFZIq7pGZrKITQhZt_A6AXuTvRUFAv_5OScJHome6bhlDGAlDMXeZf4LXUQm4OSUyftGdtFFQCJvlqAxGJoKE2HCJyhX6OgJw9_zkRRPGjgxaFwOSw90aI5vhvom6Fxcvczm2EA2VXZcmwBdL-QrsP_67ElhO67Ki2fo7v6ZyVIYUXhHfGMeRdIHvzeK6WQfgMvs4d6_wlt19tKn1dkWh8otOmIYgjs5pMp6vgLL",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT8rGVBcKmqR1bzBwm2mqfiZIrQC8PqsXQmNp52dRrgsWtt5p15QZ-LAfsDoeaytvaNHQTGDF9505qDFBmRXjPM9fheFJoIRvZCYwHWCfkcW_pxDYzWCMUd_-b9xxr06TelEG-YMStDNI4kM0wO7uuBCGhTBT-SLaCPA7WdFVC1V46LTAt7s3A4qDBCQzUjJKkWKYLki3SWEY6ipl9FsjgIfXjT5t06TB7hc9PXolZbgIjNECy92-C1anXIq536ZnEyniACiow-aEf01ugPVzC5tLwHg==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHACPamEmLXPb0Zm9d-AabmeM_Pee3WAdUQS-MVxc-hsBp1cguMFnxLaSpHRlMyOIVbn82xxyUtYwr2zDW42XM54q8Xc8Aa9pNvziFOlIHdI63pDkD9g7C5d3Z8NYM3cnNpPoef4Ofo9OzDfD7kZ5K1Lnqm72pfDffpTNpkRf3R5CE=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxmJiHA9KZw1kMsFrb-Lj-PvGvOr9M9_uGQUcm5cTo0sfkUnsaQvJTcYzsWlWmA6VPI9l4HZfF1fYf_8kO0pmlCzBOj6GD2TbYaHfPHY6XVowObaqJwzVuYdEeyYGvNJpKL8G4WIld8VweZ3AiCS89LIywxBUTI9S9Vjzh3mwBxhif4-1S12Di23QXyC_88WGgDHpUPFTmOani-8skgUOKn9TEiu2FVDvNb8Y7mkb5gLiWaRUXoMLffCyFH2I-bwvhnE08DQ==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJWPqKMVGQpJRnz0aPHJ1mWSb6qvt3T15ckv3l5C4UnxCDKYYP2AaSc01OQqAjfzgsYBNBslTnZ9OvRWg2AHvDxQGhgNdEuj59LHbs2ek20AdrL8AcLG8KdxQSwd1hBX7uskceQMo69qcXHcpnomDJ701kbaCA5gJpxZoKY1WBlmW_O3sFA-zWqGuSOeWXvO2UCTdMQVC3QoE7eN-Jvm2-KRVXNcL2JZ5pSRyu6R8TO3x-H6j7dzK9slVGYDkM1Ynt72ViebsR7kLukiNiIw7em7y3pQB0B11WJD9pAxggKBE=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZwYNpsaOLSCESqKrc8WWb59bynI5Fd854pTFfPkfgvt77HTn9C_ojr9fDraosF2A7cQmNlcQPalmCySpzWXmozh8CHqlEe8vBmJfcYp_QCfRW-cK6TQNExg2MCtH_zDcrdlyQiYE75uiWeO43qADG_AmKaotM1Nm4FsN2mMJlpT-Myb-aIIElvB2r5hRy-HKI1fujAIvEb-nHFnD1Bin-dfVA9rNp62JgrMynsIf25zBZVKLKKRYNt4AJf-BLgDFO744XVFDGLqs1fuOFHhk6wowRXic=",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPy26dZCxcdPSmmqoxe5iiunDVvazMvCIzm103pzNSSxsvmlHgZYA2eJCemHrrkMeEtBwrwIVTEx3WEbA6VQjR0wLhZ3gP8FI_C_tiBW-IHp-TVU_nHlTvkdd9StJ0gks7QgB96T2-njib639JwzTKBeHEE76mpq8gTNkEx4QtM91t1PHlKTdFnm3wsppcrLWCo76RMFaSBApPmYwdT1fY-eTcXhtl3QZxmEkpJD1DmCssRSAclMtgfiqO5wbjCSrkGOvHiAC93WET1S4Fd1z6Wa3W_zIrRxSoNfwR7XbfSxQn5iEahRL5BwzKXV1EqQCb3zL_lfWi3T4=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBu_RnZriRGqzs-VwPazOICTXF5pRyfMPrY4YN3xyHVnjrOrcZfyqrlt5eRpfd0QpW7LZ5oxaGfEwF0eNhXvUvTAPUK2VSKv51FeJ0fT5do419ERUdUnVdmkPzPrz5Wr4yMa-9cvOqDfcvbD8txo43O3qt49a4LOW4QP2kmEwnScagGOwl8i2xG4e-7kHU6eTlz95bNR0Z-V9EcwhLRKUtU8QR",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoKds4SL7-MehMmWHv17Z2DVUk7KTbCmPABCr7G_rYxIKWoiwaJKAMC9uHzgXfQV57dy8hddenDqS6LoLa_S-ewZ5r-UEHEYobD4hcES3Ato8t40dFd02czSLHoH5-tkNB64alyi3RGxwJ4Wj89-2GEv2D84iSH34riVOEzFE_soPELoAdbx4E2oBWLa_73PYx6xJJ3jv03RBOHXQ5jtJoY9t_ovkpOoCjWT5P28o=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-bx2PmAUysDOttMXb1ptQUQhcIMMN3sVk3UYHe2EllvRO3kLEyqR0Car73C9GxIQ8lYDCyk7nwffXpTTp0gvq33GT9-hl3Z4_szVRXjdXmZ0w6a_9-_a87BgR2A8YKBPalbYAK0Yivo=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_PR1WD4UcyiuQEQzuz5QQ4n5lx2GFbNlYyMBN-Ec6THwiLTM8KN4NlqAWMdiy4xlOK0-1x9xCizv58douWVf1voDoiUnl5GzAlMj8ZjD8Fid8XB41aWCqAT4FYlM2ZmW7HXvdXclm0KtPcCyohPjixyoUOal4_YK9ePKyx9_vqtccTX3KLVv2il6op1jAkZj1FySn",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwhrA8B15K0dR68KAw1BzyGo2mWTeccVqnGr74M3dUmaEtGCQB4n1lJALxsZF1Rs9ldb0Myo0q--3C_7v6xykZ-TiMZTfAwOHoCPgvLMahrCyMKhqdlH4TpdB677t-lVLrLLqs9ZLFs1xtHr3fYkeLyq4qHtr9ng==",
+          "fields": []
+        },
+        {
+          "name": "siliconangle.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmm8sxX31ahx0MfxGHHn1TXpyHGoVghudD-84a1wiH6B4Ubm1NNxexF_YfMMrEZSZ8bFcUm03d-BYaMMJyjzSaGUYcZOJN8qcKK7UDNzxKO-3OmalLzNHbbKY1oqsR-VTq1cEbn58l100COuXtH9UFoFjEtCT89NYZPkxWex7v9uYYFCda5YGEUGpLC7L6A0OscUdxm95ohDhvAqqMdUo=",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqJ0MHqvhIMDhJw3GdRxcnfHYJyIKbCqmU1oBJ8A2k_PrWKIaDh2l9jO2dw6vcMz3XcvdxHdJNEw9nj4zINzeHnxwIM589t7_jQAz9OKKKtE0tmwbntK4ug==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS7mGb-OswYMvVUBMezp6CJAe0zAIyARHCNImVV306YLTbJNvZ7KayCgiV3PHFdByJIDcrRY2gtmMAnqn2VvKPbRbwkfIuvq_z7v_erKk-RlJ9CdXCu33mwopjw-rJ7qqX7ChM6SpH4A==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_uNGKF38BXtiEWOrZ3WCxSC0JDrh2TnVWsE1ByTHfj5ZQIJNlLi2W6hXf2vJuRqc7DoGnwBbSHS4ay8PszspYit2OeF_TlqPthOfxhVK_DBN18J3UNu2GCEHCtD_WbmlmLd4fjDwd4iBicHJM2bUD5ebxdRhpy5m4ndKAgM6f_igUxui1iQ9B4_2c5MF7H8oJOZx8lot1rrBA2ONvOFY01of",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0IOgga6zjBNPK2w1oHV1Rj_CR8Qs5TLD65r3fF24_eWAV0dueFplmBf819z_y1jIOKALnuMGQVgq-APeRzYMCDxZWpNO4ojeIlTlf3KHPLv9ZawChZShg9Z0sehpCrOTuJyxDTDzUERSPCyYoO238mDml77N",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENbzWEfMWCYo3PMT4AWdc37GMguNjCZZFqlg8qWp_-imwxcXBzKlQ4bzH8KxDZ2UMXQdVlMNDEmlnkK4SjwOuKhz5pLFSk7E_igPWF-SBw_F9Atr-SUsYiL4qmhYeMDzY-5jSRJjd118-j0y6e8Zl_SHLGzYxutotaC4THXwDnIl46z_uc8SyVohMoSa_VU7mfSm-0rOwnucaJS_CagP0XCFc=",
+          "fields": []
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtBWoUkdNgNdgYjonvzBkfxJsmejhidEI30qeQ2qrNRhZEAaNZk45Kyq-hZsR0JbFNKIzMxhjOOXf_F_jfYANSAql1GDgxpS-SmgRwVQbywIcnLLh1LQHtWzCqA9pNCX_0Cy1c_vSWc8MNNBQgZarIUDRjnyqibr__EOOyzGI2UwoATaP9Nw==",
+          "fields": []
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRSs3Ln_mg75X0ieh4cb2RyipNALKz_6gvdH37UvvgIUEcP6xIRXghfCXB-ovnBKEG6WV6pNiQzaJt8Nkr8ThDLoH20iVfHR01G7vASzWEI0c=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Proprietary AI/ML Solutions & Industry Accelerators",
+      "confidence": "low",
+      "completeness": 0.125,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Key features and capabilities of each proprietary platform",
+        "Number of client deployments leveraging proprietary solutions (if disclosed)",
+        "Number of patents filed/granted related to AI/ML platforms (India, US, global)",
+        "Number of industry-specific solution accelerators developed (e.g., for BFS, Healthcare, Retail)",
+        "Named industry accelerators and their target use cases",
+        "Number of client case studies published featuring industry accelerators (by industry)",
+        "Estimated time-to-value reduction using proprietary accelerators (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Significantly increases pursuit likelihood by demonstrating tangible IP and competitive differentiation through proprietary platforms and accelerators, suggesting potential for higher margins and defensible market share.",
+        "banker": "Increases pursuit likelihood by highlighting potential for unique value proposition and differentiated service offerings that could support higher deal multiples or attract strategic acquirers.",
+        "credit_analyst": "Null",
+        "consultant": "Increases pursuit likelihood by providing concrete examples of industry-specific solutions and quantifiable time-to-value benefits, which are key indicators for operational efficiency and client impact."
+      }
+    },
+    {
+      "heading": "Generative AI Offerings & Capabilities",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development)",
+          "value": 10,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+          "value": [
+            {
+              "name": "baioniq™",
+              "description": "A powerful search and generative AI agent, an enterprise-ready GenAI platform, also available with Gemini Ultra. Launched on Snowflake Marketplace on June 6, 2024."
+            },
+            {
+              "name": "Codeaira",
+              "description": "Quantiphi's generative AI-powered assistant designed to boost developer productivity."
+            },
+            {
+              "name": "Dociphi",
+              "description": "An intelligent document processing SaaS platform, a GenAI-powered document processing platform. Launched on Snowflake Marketplace on June 6, 2024."
+            },
+            {
+              "name": "QChat",
+              "description": "GenAI-powered Virtual Chatbot."
+            },
+            {
+              "name": "QAgent",
+              "description": "GenAI-powered Custom Web App for Amazon Connect."
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)",
+          "value": 4,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0SKR59ooWa7JQ4MoGm4rkarFol1HBo32A3VnTczna4eB1dGAq0qyyfD-0gYJGu3hRBRWuSmvSWtHd5VjLmPTIfhR9zaMLFL5kM5jIBTNxn9vVgxsCgr1MKzZLo-sq33bAvE="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of client case studies specifically highlighting GenAI implementations",
+          "value": 6,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key industries served by GenAI solutions",
+          "value": [
+            {
+              "industry": "Healthcare & Life Sciences"
+            },
+            {
+              "industry": "Banking and Financial Services"
+            },
+            {
+              "industry": "Retail (and Consumer Packaged Goods)"
+            },
+            {
+              "industry": "Manufacturing (also Automotive & Manufacturing)"
+            },
+            {
+              "industry": "Insurance"
+            },
+            {
+              "industry": "Technology and Communications"
+            },
+            {
+              "industry": "Media & Entertainment"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development): 10",
+        "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira): [{\"name\": \"baioniq™\", \"description\": \"A powerful search and generative AI agent, an enterprise-ready GenAI platform, also available with Gemini Ultra. Launched on Snowflake Marketplace on June 6, 2024.\"}, {\"name\": \"Codeaira\", \"description\": \"Quantiphi's generative AI-powered assistant designed to boost developer productivity.\"}, {\"name\": \"Dociphi\", \"description\": \"An intelligent document processing SaaS platform, a GenAI-powered document processing platform. Launched on Snowflake Marketplace on June 6, 2024.\"}, {\"name\": \"QChat\", \"description\": \"GenAI-powered Virtual Chatbot.\"}, {\"name\": \"QAgent\", \"description\": \"GenAI-powered Custom Web App for Amazon Connect.\"}]",
+        "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud): 4",
+        "Number of client case studies specifically highlighting GenAI implementations: 6",
+        "Key industries served by GenAI solutions: [{\"industry\": \"Healthcare & Life Sciences\"}, {\"industry\": \"Banking and Financial Services\"}, {\"industry\": \"Retail (and Consumer Packaged Goods)\"}, {\"industry\": \"Manufacturing (also Automotive & Manufacturing)\"}, {\"industry\": \"Insurance\"}, {\"industry\": \"Technology and Communications\"}, {\"industry\": \"Media & Entertainment\"}]"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0",
+          "fields": [
+            "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development)",
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)",
+            "Number of client case studies specifically highlighting GenAI implementations",
+            "Key industries served by GenAI solutions"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg==",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA=",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0SKR59ooWa7JQ4MoGm4rkarFol1HBo32A3VnTczna4eB1dGAq0qyyfD-0gYJGu3hRBRWuSmvSWtHd5VjLmPTIfhR9zaMLFL5kM5jIBTNxn9vVgxsCgr1MKzZLo-sq33bAvE=",
+          "fields": [
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKKU78ceoSxDVD8-LHkIC4TetYm0N5Rrfxa4-vDLaffpsjWGzLmtuIbKv6a1nbUH0u1Kmn3G5gxISli4Ar7E0wn9B87b5Z5glgXmuyBb2hV-3gqdGPuw2nN1Bj9uepNkgy78id2DYNVwstFN_KqsniQsbdymS8pYyjA-2waCoA2nWKOLLI",
+          "fields": []
+        },
+        {
+          "name": "getsaasweekly.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdxMQozC4XFIGjeVHDynLIN24cVcYz0kAN8w4MB-Jd6h2tsF6Hr7EyCNJ967_s24Zjoy4j5yUV9ZUaIPRhKDP-Z7WfiKINMO9SyK1HLXRmp2Mfv78LEOQD7KGSrDvYI8wJjiBraKhOAe8S4n9XEBUTeRIxDvE_354T1NeAMgKTPZc=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Generative AI Focus & Adoption",
+      "confidence": "high",
+      "completeness": 0.714,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Estimated percentage of total revenue derived from Generative AI projects (if disclosed)",
+        "Number of GenAI-specific awards or recognitions received"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: Quantiphi's specific GenAI offerings, proprietary platforms, and client engagement metrics directly inform the potential for market leadership and revenue growth in a high-demand sector, warranting deeper diligence.",
+        "banker": "Pursue: The presence of named GenAI platforms and strategic partnerships suggests potential for unique value propositions and deal flow in the rapidly evolving AI M&A landscape.",
+        "credit_analyst": "Null",
+        "consultant": "Pursue: Quantiphi's detailed GenAI offerings, client case studies, and industry focus provide concrete examples of operational capabilities and potential for client value creation, justifying further operational assessment."
+      }
+    },
+    {
+      "heading": "GenAI Client Engagements & Impact",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development)",
+          "value": 10,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+          "value": [
+            {
+              "name": "baioniq™",
+              "description": "A powerful search and generative AI agent, an enterprise-ready GenAI platform, also available with Gemini Ultra. Launched on Snowflake Marketplace on June 6, 2024."
+            },
+            {
+              "name": "Codeaira",
+              "description": "Quantiphi's generative AI-powered assistant designed to boost developer productivity."
+            },
+            {
+              "name": "Dociphi",
+              "description": "An intelligent document processing SaaS platform, a GenAI-powered document processing platform. Launched on Snowflake Marketplace on June 6, 2024."
+            },
+            {
+              "name": "QChat",
+              "description": "GenAI-powered Virtual Chatbot."
+            },
+            {
+              "name": "QAgent",
+              "description": "GenAI-powered Custom Web App for Amazon Connect."
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)",
+          "value": 4,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": null
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q"
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg=="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA="
+            },
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0SKR59ooWa7JQ4MoGm4rkarFol1HBo32A3VnTczna4eB1dGAq0qyyfD-0gYJGu3hRBRWuSmvSWtHd5VjLmPTIfhR9zaMLFL5kM5jIBTNxn9vVgxsCgr1MKzZLo-sq33bAvE="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of client case studies specifically highlighting GenAI implementations",
+          "value": 6,
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key industries served by GenAI solutions",
+          "value": [
+            {
+              "industry": "Healthcare & Life Sciences"
+            },
+            {
+              "industry": "Banking and Financial Services"
+            },
+            {
+              "industry": "Retail (and Consumer Packaged Goods)"
+            },
+            {
+              "industry": "Manufacturing (also Automotive & Manufacturing)"
+            },
+            {
+              "industry": "Insurance"
+            },
+            {
+              "industry": "Technology and Communications"
+            },
+            {
+              "industry": "Media & Entertainment"
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantiphi.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development): 10",
+        "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira): [{\"name\": \"baioniq™\", \"description\": \"A powerful search and generative AI agent, an enterprise-ready GenAI platform, also available with Gemini Ultra. Launched on Snowflake Marketplace on June 6, 2024.\"}, {\"name\": \"Codeaira\", \"description\": \"Quantiphi's generative AI-powered assistant designed to boost developer productivity.\"}, {\"name\": \"Dociphi\", \"description\": \"An intelligent document processing SaaS platform, a GenAI-powered document processing platform. Launched on Snowflake Marketplace on June 6, 2024.\"}, {\"name\": \"QChat\", \"description\": \"GenAI-powered Virtual Chatbot.\"}, {\"name\": \"QAgent\", \"description\": \"GenAI-powered Custom Web App for Amazon Connect.\"}]",
+        "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud): 4",
+        "Number of client case studies specifically highlighting GenAI implementations: 6",
+        "Key industries served by GenAI solutions: [{\"industry\": \"Healthcare & Life Sciences\"}, {\"industry\": \"Banking and Financial Services\"}, {\"industry\": \"Retail (and Consumer Packaged Goods)\"}, {\"industry\": \"Manufacturing (also Automotive & Manufacturing)\"}, {\"industry\": \"Insurance\"}, {\"industry\": \"Technology and Communications\"}, {\"industry\": \"Media & Entertainment\"}]"
+      ],
+      "references": [
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFOeJUdW5LY-shP-7CtXQS-gP1H6nTcbOHebYVCwtm8gZkuiGQKvYNEzyLdfyO8cChOMX_2-RhqBUOvPQ2_WYMkNG_kb8bLSapUzLg_C8a2PSRmvhhsbTNr1hOHoT4w2BKxs0",
+          "fields": [
+            "Number of distinct Generative AI service offerings (e.g., GenAI strategy, model fine-tuning, application development)",
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)",
+            "Number of client case studies specifically highlighting GenAI implementations",
+            "Key industries served by GenAI solutions"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": null,
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92Eug6odFVeJo1w5QKuVZx2ZcDH222mU0pzPQ2e7TDu5BBtKlKWtsgDwgcDuybUz9JqG78tDnTD9e8zjbLoRbfI1UgAImhDcBUd-FLOEWGqObqialja9_QfVibfQGhOgDHB5ANZhoDfLyJeRk9Ai7_2QcPusHYayQI7Vvczy0pp1Q",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4tcmLolI6Kg5oBIoqI0sqjMEnWusV7N112cf4B888J8Xt2-50VLlA2H9-iFdKGCGdN7k2zFpUDvyADCmMp0BdfGUDO9w1GtyAk_dt2zkbuvE_pRKhAGe_aDKwDQWLtNwd45uaU5GtDv2J-g0wpdQoPlvZtg==",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXarCQ-Hmec430V2Rg2CLvD7vkxHUovhwnekA6FcnMkTlzuIYueLYJ_UucTPi4PtmxmJeQ_Ds8qHKRr6nbV6d32VgTy2ThaSKEW8V2QW7C_YmcCw3wmfzQ0mioTmEKv-WWXHeNO1Nz5tOfQudEYyQLn8a_k02HxteyqA=",
+          "fields": [
+            "Named proprietary GenAI platforms/tools (e.g., Baioniq, Codeaira)",
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0SKR59ooWa7JQ4MoGm4rkarFol1HBo32A3VnTczna4eB1dGAq0qyyfD-0gYJGu3hRBRWuSmvSWtHd5VjLmPTIfhR9zaMLFL5kM5jIBTNxn9vVgxsCgr1MKzZLo-sq33bAvE=",
+          "fields": [
+            "Number of GenAI-focused strategic partnerships (e.g., with NVIDIA, Google Cloud)"
+          ]
+        },
+        {
+          "name": "quantiphi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKKU78ceoSxDVD8-LHkIC4TetYm0N5Rrfxa4-vDLaffpsjWGzLmtuIbKv6a1nbUH0u1Kmn3G5gxISli4Ar7E0wn9B87b5Z5glgXmuyBb2hV-3gqdGPuw2nN1Bj9uepNkgy78id2DYNVwstFN_KqsniQsbdymS8pYyjA-2waCoA2nWKOLLI",
+          "fields": []
+        },
+        {
+          "name": "getsaasweekly.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdxMQozC4XFIGjeVHDynLIN24cVcYz0kAN8w4MB-Jd6h2tsF6Hr7EyCNJ967_s24Zjoy4j5yUV9ZUaIPRhKDP-Z7WfiKINMO9SyK1HLXRmp2Mfv78LEOQD7KGSrDvYI8wJjiBraKhOAe8S4n9XEBUTeRIxDvE_354T1NeAMgKTPZc=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Generative AI Focus & Adoption",
+      "confidence": "high",
+      "completeness": 0.714,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Estimated percentage of total revenue derived from Generative AI projects (if disclosed)",
+        "Number of GenAI-specific awards or recognitions received"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: Quantiphi's specific GenAI offerings, proprietary platforms, and client engagement metrics directly inform the potential for market leadership and revenue growth in a high-demand sector, warranting deeper diligence.",
+        "banker": "Pursue: The presence of named GenAI platforms and strategic partnerships suggests potential for unique value propositions and deal flow in the rapidly evolving AI M&A landscape.",
+        "credit_analyst": "Null",
+        "consultant": "Pursue: Quantiphi's detailed GenAI offerings, client case studies, and industry focus provide concrete examples of operational capabilities and potential for client value creation, justifying further operational assessment."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 34
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.054332,
+    "domain_research_usd": 0.657631,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.151963,
+    "grounding_usd": 0.56,
+    "grounded_calls": 16,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.711963,
+    "actual_calls": 21,
+    "elapsed_seconds": 168.5,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.164408,
+      "estimated_generic_domains_usd": 0.986447,
+      "estimated_synthesis_usd": 0.657631,
+      "estimated_total_usd": 2.35604
+    }
+  }
+}
