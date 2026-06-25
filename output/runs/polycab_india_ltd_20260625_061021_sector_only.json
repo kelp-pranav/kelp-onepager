@@ -1,0 +1,1633 @@
+{
+  "company_name": "Polycab India Ltd.",
+  "generated_at": "20260625_061021",
+  "resolved_subsector": "Integrated Electrical Solutions Manufacturer (Wires & Cables, FMEG, EPC)",
+  "sections": [
+    {
+      "heading": "Wires & Cables Market Share & Product Mix",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Domestic W&C organized market share (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "30-31%"
+            },
+            {
+              "period": "FY25",
+              "value": "26-27%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "EHV/SPC revenue contribution to W&C (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "Low single digits",
+              "note": "for SPC cables"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "EHV/SPC revenue growth YoY (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "description": "SPC cables are among the fastest-growing verticals"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "W&C volume growth YoY (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "18%",
+              "note": "domestic volume growth"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "40%",
+              "note": "domestic volume growth"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "PVC resin price (India, INR/kg, quarterly average)",
+          "value": [
+            {
+              "period": "Q1 2026",
+              "value": "INR 70.33/kg",
+              "note": "average of USD 793/MT converted at ~88.7 INR/USD"
+            },
+            {
+              "period": "Q4 2025",
+              "value": "INR 74.96/kg",
+              "note": "average of USD 846/MT converted at ~88.7 INR/USD"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Inventory days for W&C segment",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "94 days",
+              "note": "Inventory days"
+            },
+            {
+              "period": "FY25",
+              "value": "99 days",
+              "note": "Inventory days"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "25 days",
+              "note": "Net working capital days (proxy)"
+            },
+            {
+              "period": "FY26",
+              "value": "40 days",
+              "note": "Receivable days (proxy)"
+            },
+            {
+              "period": "Q3 FY26",
+              "": "~40-45 days",
+              "note": "Channel inventory - elevated (proxy)"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "~30 days",
+              "note": "Channel inventory - normal (proxy)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Domestic W&C organized market share (%): [{\"period\": \"FY26\", \"value\": \"30-31%\"}, {\"period\": \"FY25\", \"value\": \"26-27%\"}]",
+        "EHV/SPC revenue contribution to W&C (%): [{\"period\": \"FY26\", \"value\": \"Low single digits\", \"note\": \"for SPC cables\"}]",
+        "EHV/SPC revenue growth YoY (%): [{\"period\": \"FY26\", \"description\": \"SPC cables are among the fastest-growing verticals\"}]",
+        "W&C volume growth YoY (%): [{\"period\": \"FY26\", \"value\": \"18%\", \"note\": \"domestic volume growth\"}, {\"period\": \"Q3 FY26\", \"value\": \"40%\", \"note\": \"domestic volume growth\"}]",
+        "PVC resin price (India, INR/kg, quarterly average): [{\"period\": \"Q1 2026\", \"value\": \"INR 70.33/kg\", \"note\": \"average of USD 793/MT converted at ~88.7 INR/USD\"}, {\"period\": \"Q4 2025\", \"value\": \"INR 74.96/kg\", \"note\": \"average of USD 846/MT converted at ~88.7 INR/USD\"}]",
+        "Inventory days for W&C segment: [{\"period\": \"FY26\", \"value\": \"94 days\", \"note\": \"Inventory days\"}, {\"period\": \"FY25\", \"value\": \"99 days\", \"note\": \"Inventory days\"}, {\"period\": \"Q4 FY26\", \"value\": \"25 days\", \"note\": \"Net working capital days (proxy)\"}, {\"period\": \"FY26\", \"value\": \"40 days\", \"note\": \"Receivable days (proxy)\"}, {\"period\": \"Q3 FY26\", \"\": \"~40-45 days\", \"note\": \"Channel inventory - elevated (proxy)\"}, {\"period\": \"Q3 FY26\", \"value\": \"~30 days\", \"note\": \"Channel inventory - normal (proxy)\"}]"
+      ],
+      "references": [
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi",
+          "fields": [
+            "Domestic W&C organized market share (%)",
+            "EHV/SPC revenue contribution to W&C (%)",
+            "EHV/SPC revenue growth YoY (%)",
+            "W&C volume growth YoY (%)",
+            "PVC resin price (India, INR/kg, quarterly average)",
+            "Inventory days for W&C segment"
+          ]
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtzJiSlQh8CwzGLoUnLIzaEF9PIpALFuvjpjc7dERxNEUF96zAqy42Xt8eoh7tIEOCEBu-ycUoXHI4SGxQi0iwhshEEbxFRqkYEyFmxChB7vMxDDy5NsXv-dSIKm3tnanIxFrlx1soRxvS91uj7gILUWI9hH4h7wJ8hd6BxZU=",
+          "fields": []
+        },
+        {
+          "name": "imarcgroup.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEksnpg-HtIZckYy340IA2Loe47VgHIK1VA_JpFSK1AKoi_0bccj1h2fV_yeQgJr4My0pZ7OlGI44y3S7jkmII5q_1n8n-U5ReJm3wsmhP2H9x4jCn5kHpe_feXaAtf9P_V4c1i16W3U0CLDRIcSy88-g4qWxfH5A==",
+          "fields": []
+        },
+        {
+          "name": "openpr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDW-bsArLd-hQVeP56W66KZif3YPs7osbYZ-rw6L5aVUgOEEXxqWkRIhqm5dvBJ7_OnRnqW1DHr2O7ty_5Y4PyxqQc18frugzNbojDMQJ8l454ACJ7VdPn3DxIId6ucbCJJRoSeZHXdpz0HN2sQTVF290aPrd3vEjS_lLL_58FMy_jKuSWuhy7FUlXmpFXXVCYdlN6M-0_iIk1E2VQU1U=",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJa96rX3yzQysHvUeeTv99ju54SRKqOFfY1x4ozFnbCw8MfSvie1_-06Aw7G8wVPjHSEhl6H_3ZCaj2W8aw_JJ89dWda2tXD1DcNttNMY8XFHSWU37V2wmWihm57fRowOvhntNWnUPs_Stdo6OGo111Cy4536u-ZMaB4lhQY8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Wires & Cables Segment Deep Dive",
+      "confidence": "high",
+      "completeness": 0.667,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "LME Copper spot price (INR/tonne, quarterly average)",
+        "LME Aluminum spot price (INR/tonne, quarterly average)",
+        "Raw material cost as % of W&C segment revenue"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "The detailed breakdown of W&C market share, product mix (especially EHV/SPC contribution and growth), and raw material price trends directly informs valuation multiples and competitive positioning, making this a 'pursue' signal.",
+        "banker": "Understanding the revenue drivers within the W&C segment and the sensitivity to raw material prices is crucial for assessing potential deal structures and identifying growth opportunities for M&A or financing, thus a 'pursue' signal.",
+        "credit_analyst": "The data on inventory days and raw material cost as a percentage of revenue, combined with price trends for key inputs like copper, aluminum, and PVC, provides critical insights into working capital management and margin stability, supporting a 'pursue' decision for deeper underwriting.",
+        "consultant": "The granular data on market share, product mix, and raw material cost sensitivity offers a strong foundation for identifying operational efficiencies, supply chain optimization, and potential market expansion strategies, making this a 'pursue' signal."
+      }
+    },
+    {
+      "heading": "Raw Material Price Trends & Impact",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Domestic W&C organized market share (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "30-31%"
+            },
+            {
+              "period": "FY25",
+              "value": "26-27%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "EHV/SPC revenue contribution to W&C (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "Low single digits",
+              "note": "for SPC cables"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "EHV/SPC revenue growth YoY (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "description": "SPC cables are among the fastest-growing verticals"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "W&C volume growth YoY (%)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "18%",
+              "note": "domestic volume growth"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "40%",
+              "note": "domestic volume growth"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "PVC resin price (India, INR/kg, quarterly average)",
+          "value": [
+            {
+              "period": "Q1 2026",
+              "value": "INR 70.33/kg",
+              "note": "average of USD 793/MT converted at ~88.7 INR/USD"
+            },
+            {
+              "period": "Q4 2025",
+              "value": "INR 74.96/kg",
+              "note": "average of USD 846/MT converted at ~88.7 INR/USD"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Inventory days for W&C segment",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "94 days",
+              "note": "Inventory days"
+            },
+            {
+              "period": "FY25",
+              "value": "99 days",
+              "note": "Inventory days"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "25 days",
+              "note": "Net working capital days (proxy)"
+            },
+            {
+              "period": "FY26",
+              "value": "40 days",
+              "note": "Receivable days (proxy)"
+            },
+            {
+              "period": "Q3 FY26",
+              "": "~40-45 days",
+              "note": "Channel inventory - elevated (proxy)"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "~30 days",
+              "note": "Channel inventory - normal (proxy)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Domestic W&C organized market share (%): [{\"period\": \"FY26\", \"value\": \"30-31%\"}, {\"period\": \"FY25\", \"value\": \"26-27%\"}]",
+        "EHV/SPC revenue contribution to W&C (%): [{\"period\": \"FY26\", \"value\": \"Low single digits\", \"note\": \"for SPC cables\"}]",
+        "EHV/SPC revenue growth YoY (%): [{\"period\": \"FY26\", \"description\": \"SPC cables are among the fastest-growing verticals\"}]",
+        "W&C volume growth YoY (%): [{\"period\": \"FY26\", \"value\": \"18%\", \"note\": \"domestic volume growth\"}, {\"period\": \"Q3 FY26\", \"value\": \"40%\", \"note\": \"domestic volume growth\"}]",
+        "PVC resin price (India, INR/kg, quarterly average): [{\"period\": \"Q1 2026\", \"value\": \"INR 70.33/kg\", \"note\": \"average of USD 793/MT converted at ~88.7 INR/USD\"}, {\"period\": \"Q4 2025\", \"value\": \"INR 74.96/kg\", \"note\": \"average of USD 846/MT converted at ~88.7 INR/USD\"}]",
+        "Inventory days for W&C segment: [{\"period\": \"FY26\", \"value\": \"94 days\", \"note\": \"Inventory days\"}, {\"period\": \"FY25\", \"value\": \"99 days\", \"note\": \"Inventory days\"}, {\"period\": \"Q4 FY26\", \"value\": \"25 days\", \"note\": \"Net working capital days (proxy)\"}, {\"period\": \"FY26\", \"value\": \"40 days\", \"note\": \"Receivable days (proxy)\"}, {\"period\": \"Q3 FY26\", \"\": \"~40-45 days\", \"note\": \"Channel inventory - elevated (proxy)\"}, {\"period\": \"Q3 FY26\", \"value\": \"~30 days\", \"note\": \"Channel inventory - normal (proxy)\"}]"
+      ],
+      "references": [
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvBWB0lcmhoLuD6NKGa9xU733aIy0Ucnh3WL2q4QfXIB_lEr-qFtB10JKhCEJtvTitRB0c2_XnoushJ3ihK6yk3gwphQh83QPWD2U5-OcQORXsHBiqiJi",
+          "fields": [
+            "Domestic W&C organized market share (%)",
+            "EHV/SPC revenue contribution to W&C (%)",
+            "EHV/SPC revenue growth YoY (%)",
+            "W&C volume growth YoY (%)",
+            "PVC resin price (India, INR/kg, quarterly average)",
+            "Inventory days for W&C segment"
+          ]
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtzJiSlQh8CwzGLoUnLIzaEF9PIpALFuvjpjc7dERxNEUF96zAqy42Xt8eoh7tIEOCEBu-ycUoXHI4SGxQi0iwhshEEbxFRqkYEyFmxChB7vMxDDy5NsXv-dSIKm3tnanIxFrlx1soRxvS91uj7gILUWI9hH4h7wJ8hd6BxZU=",
+          "fields": []
+        },
+        {
+          "name": "imarcgroup.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEksnpg-HtIZckYy340IA2Loe47VgHIK1VA_JpFSK1AKoi_0bccj1h2fV_yeQgJr4My0pZ7OlGI44y3S7jkmII5q_1n8n-U5ReJm3wsmhP2H9x4jCn5kHpe_feXaAtf9P_V4c1i16W3U0CLDRIcSy88-g4qWxfH5A==",
+          "fields": []
+        },
+        {
+          "name": "openpr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDW-bsArLd-hQVeP56W66KZif3YPs7osbYZ-rw6L5aVUgOEEXxqWkRIhqm5dvBJ7_OnRnqW1DHr2O7ty_5Y4PyxqQc18frugzNbojDMQJ8l454ACJ7VdPn3DxIId6ucbCJJRoSeZHXdpz0HN2sQTVF290aPrd3vEjS_lLL_58FMy_jKuSWuhy7FUlXmpFXXVCYdlN6M-0_iIk1E2VQU1U=",
+          "fields": []
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJa96rX3yzQysHvUeeTv99ju54SRKqOFfY1x4ozFnbCw8MfSvie1_-06Aw7G8wVPjHSEhl6H_3ZCaj2W8aw_JJ89dWda2tXD1DcNttNMY8XFHSWU37V2wmWihm57fRowOvhntNWnUPs_Stdo6OGo111Cy4536u-ZMaB4lhQY8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Wires & Cables Segment Deep Dive",
+      "confidence": "high",
+      "completeness": 0.667,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "LME Copper spot price (INR/tonne, quarterly average)",
+        "LME Aluminum spot price (INR/tonne, quarterly average)",
+        "Raw material cost as % of W&C segment revenue"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "The detailed breakdown of W&C market share, product mix (especially EHV/SPC contribution and growth), and raw material price trends directly informs valuation multiples and competitive positioning, making this a 'pursue' signal.",
+        "banker": "Understanding the revenue drivers within the W&C segment and the sensitivity to raw material prices is crucial for assessing potential deal structures and identifying growth opportunities for M&A or financing, thus a 'pursue' signal.",
+        "credit_analyst": "The data on inventory days and raw material cost as a percentage of revenue, combined with price trends for key inputs like copper, aluminum, and PVC, provides critical insights into working capital management and margin stability, supporting a 'pursue' decision for deeper underwriting.",
+        "consultant": "The granular data on market share, product mix, and raw material cost sensitivity offers a strong foundation for identifying operational efficiencies, supply chain optimization, and potential market expansion strategies, making this a 'pursue' signal."
+      }
+    },
+    {
+      "heading": "EPC Order Book & Project Wins",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total EPC order book value (INR Mn)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": 113000
+            },
+            {
+              "period": "FY25 end",
+              "value": 70000
+            }
+          ],
+          "sources": [
+            {
+              "name": "investorfeed.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQuCoopF18_UxW4xsLrFp2pYTalKC4bm0kGcz3tyTW31vf2GnJcc41NOg621DrwrhMNiUQK0FbYhwJ5I_29pgyZct5sPNG5lQt_Cp9ge3Dh_C-1eJms0AZkRuBCq1TfPZfhUJ4mlcmRzkG2b9wEOB3YSgcdToVWHpqeGkR1o="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New EPC order intake value (annual, INR Mn)",
+          "value": [
+            {
+              "period": "FY25 to FY26",
+              "description": "Order book grew 65% year-on-year"
+            },
+            {
+              "period": "March 2025",
+              "scheme": "BharatNet project (Bihar)",
+              "value": 3002.99,
+              "note": "inclusive of GST"
+            },
+            {
+              "period": "June 2025",
+              "scheme": "BharatNet Phase-III project (Karnataka, Goa, Puducherry)",
+              "value": 6447.54,
+              "note": "inclusive of GST"
+            }
+          ],
+          "sources": [
+            {
+              "name": "investorfeed.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQuCoopF18_UxW4xsLrFp2pYTalKC4bm0kGcz3tyTW31vf2GnJcc41NOg621DrwrhMNiUQK0FbYhwJ5I_29pgyZct5sPNG5lQt_Cp9ge3Dh_C-1eJms0AZkRuBCq1TfPZfhUJ4mlcmRzkG2b9wEOB3YSgcdToVWHpqeGkR1o="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key government scheme participation (e.g., BharatNet, RDSS project value, INR Mn)",
+          "value": [
+            {
+              "scheme": "RDSS project",
+              "period": "FY25 end",
+              "value": 40000,
+              "note": "part of EPC order book"
+            },
+            {
+              "scheme": "BharatNet project",
+              "period": "FY25 end",
+              "value": 30000,
+              "note": "part of EPC order book"
+            },
+            {
+              "scheme": "BharatNet project (Bihar Telecom Circle, Package No. 7)",
+              "period": "March 2025",
+              "value": 3002.99,
+              "note": "inclusive of GST"
+            },
+            {
+              "scheme": "BharatNet Phase-III project (Karnataka, Goa, Puducherry Telecom Circle, Package No. 4)",
+              "period": "June 2025",
+              "value": 6447.54,
+              "note": "inclusive of GST"
+            }
+          ],
+          "sources": [
+            {
+              "name": "investorfeed.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQuCoopF18_UxW4xsLrFp2pYTalKC4bm0kGcz3tyTW31vf2GnJcc41NOg621DrwrhMNiUQK0FbYhwJ5I_29pgyZct5sPNG5lQt_Cp9ge3Dh_C-1eJms0AZkRuBCq1TfPZfhUJ4mlcmRzkG2b9wEOB3YSgcdToVWHpqeGkR1o="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "EPC segment revenue recognition method (e.g., percentage-of-completion)",
+          "value": "Contract revenue is measured based on the proportion of contract costs incurred for work performed to date relative to the estimated total contract costs, used to determine the percentage of completion of the relevant performance obligation.",
+          "sources": [
+            {
+              "name": "investorfeed.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQuCoopF18_UxW4xsLrFp2pYTalKC4bm0kGcz3tyTW31vf2GnJcc41NOg621DrwrhMNiUQK0FbYhwJ5I_29pgyZct5sPNG5lQt_Cp9ge3Dh_C-1eJms0AZkRuBCq1TfPZfhUJ4mlcmRzkG2b9wEOB3YSgcdToVWHpqeGkR1o="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total EPC order book value (INR Mn): [{\"period\": \"FY26\", \"value\": 113000}, {\"period\": \"FY25 end\", \"value\": 70000}]",
+        "New EPC order intake value (annual, INR Mn): [{\"period\": \"FY25 to FY26\", \"description\": \"Order book grew 65% year-on-year\"}, {\"period\": \"March 2025\", \"scheme\": \"BharatNet project (Bihar)\", \"value\": 3002.99, \"note\": \"inclusive of GST\"}, {\"period\": \"June 2025\", \"scheme\": \"BharatNet Phase-III project (Karnataka, Goa, Puducherry)\", \"value\": 6447.54, \"note\": \"inclusive of GST\"}]",
+        "Key government scheme participation (e.g., BharatNet, RDSS project value, INR Mn): [{\"scheme\": \"RDSS project\", \"period\": \"FY25 end\", \"value\": 40000, \"note\": \"part of EPC order book\"}, {\"scheme\": \"BharatNet project\", \"period\": \"FY25 end\", \"value\": 30000, \"note\": \"part of EPC order book\"}, {\"scheme\": \"BharatNet project (Bihar Telecom Circle, Package No. 7)\", \"period\": \"March 2025\", \"value\": 3002.99, \"note\": \"inclusive of GST\"}, {\"scheme\": \"BharatNet Phase-III project (Karnataka, Goa, Puducherry Telecom Circle, Package No. 4)\", \"period\": \"June 2025\", \"value\": 6447.54, \"note\": \"inclusive of GST\"}]",
+        "EPC segment revenue recognition method (e.g., percentage-of-completion): Contract revenue is measured based on the proportion of contract costs incurred for work performed to date relative to the estimated total contract costs, used to determine the percentage of completion of the relevant performance obligation."
+      ],
+      "references": [
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTQuCoopF18_UxW4xsLrFp2pYTalKC4bm0kGcz3tyTW31vf2GnJcc41NOg621DrwrhMNiUQK0FbYhwJ5I_29pgyZct5sPNG5lQt_Cp9ge3Dh_C-1eJms0AZkRuBCq1TfPZfhUJ4mlcmRzkG2b9wEOB3YSgcdToVWHpqeGkR1o=",
+          "fields": [
+            "Total EPC order book value (INR Mn)",
+            "New EPC order intake value (annual, INR Mn)",
+            "Key government scheme participation (e.g., BharatNet, RDSS project value, INR Mn)",
+            "EPC segment revenue recognition method (e.g., percentage-of-completion)"
+          ]
+        },
+        {
+          "name": "newsonprojects.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_SEUg0WBFBDhXQ7ANme6HDrMq2outxpaVbvyViFMMyhhSdS_cB84Ycd2TiFGz34YUiEsZ6fHLorcYR03uunNrx_n5GTAEgCXSOieBB73Xq0z-L1GAKTCL88a61ezRSCKSdzi-MXH964AGk_TKMHjFWn0iQLVK-YU0Qxnl5T4HbOolfhS2XFEHxRUkHw==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDwGBhMqrJ-qJkXizqDQPfXq3YcQ5C4_ta1u9K8pSI88SkMHhemd5n6KG-2EMuBvip1tGm8A0ekNX6vmPPHCL8c44FlstokTunoYE07SlEQ8DNspDaD0g9qT4yx7pyLbahkasv_pLQRC0j18HdIjoXLYU7cbvEz5-1afARkuNMZuSLV0JZNccE2FZro55IYJbeowvuh__k5Ej5DGCnT7t7i8eAU4M_3hgxxR2QpnIavHEmcxEtgVdo2GUultVYPh2elcdsB0vAKFSH2_zhMIOPEWUtWU9Uo49J3WxQPK0=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE2gewrqHXsMeh0rNDtyNfwEuBvt_5Oe3v11A7IBlaIV3TBz4aN5Zo4WFd3rcBQnheaHgyclbgiaI02_QXeXB3FOl9KV9v37b7Otb4vi0QTiZVvaTur3oTPkl5A_o=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9XUuhOtgt6nNHgkSfg1CvyBWw6Inatdk9DrIs1Ma2UNRBubp-nucufpzggpodKGRuNdkbNCkVrbHW9KU-oKcVL74RUGeR654H8hDEP9xvZRzL6XRbBhhBrpGu9fy3tYLlfUXuZKdAXnx4DZG8lk5vqHNjsf4kmbGMmBxTKNGrZX-8ZYmvydy4wBG9OrVmUnJUvZ3v95zN",
+          "fields": []
+        }
+      ],
+      "domain_name": "EPC Order Book & Execution",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 5,
+      "missing_fields": [
+        "Number of active EPC projects"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "A growing EPC order book and participation in key government schemes like RDSS would increase the likelihood of pursuing Polycab for deeper investment diligence, suggesting strong future revenue potential.",
+        "banker": "Understanding the EPC order book value and new intake is crucial for assessing potential deal flow and the company's ability to execute large projects, influencing a banker's decision to pitch or explore M&A opportunities.",
+        "credit_analyst": "The EPC segment's revenue recognition method (e.g., percentage-of-completion) and the value of government scheme participation are critical for assessing revenue quality and predictability, directly impacting a credit analyst's decision to underwrite.",
+        "consultant": "Information on the EPC order book and government scheme participation would inform a consultant's assessment of Polycab's strategic growth avenues and operational capacity, potentially leading to a deeper dive into operational efficiency or market expansion strategies."
+      }
+    },
+    {
+      "heading": "International Business Growth & Market Focus",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "International revenue (absolute, INR Mn)",
+          "value": [
+            {
+              "period": "FY2026",
+              "value": 12997.71,
+              "note": "Calculated as 4.5% of consolidated revenue (₹288,838 Mn)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "nseindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiYOr_eHCMaMtCD-W1vDtkpICPZzttQzmT66MBhJRvLliHGXv_cXR1vi4u9hDBTtDQw-7wSvhn2-iNhxNuKhd9spd1N83af5bQ7Y81zhl7yiLjZbqzD5iHN8iAzhllpTLCFYOg7EkrhfM43urBCPJZhoXubXOHkvuKQN7U_OF4aFSxCTYAi3ordyY74Rgp1lPZKYgAAFkoxw=="
+            },
+            {
+              "name": "polycab.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "International revenue as % of consolidated revenue",
+          "value": [
+            {
+              "period": "FY2026",
+              "value": "4.5%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "nseindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiYOr_eHCMaMtCD-W1vDtkpICPZzttQzmT66MBhJRvLliHGXv_cXR1vi4u9hDBTtDQw-7wSvhn2-iNhxNuKhd9spd1N83af5bQ7Y81zhl7yiLjZbqzD5iHN8iAzhllpTLCFYOg7EkrhfM43urBCPJZhoXubXOHkvuKQN7U_OF4aFSxCTYAi3ordyY74Rgp1lPZKYgAAFkoxw=="
+            },
+            {
+              "name": "polycab.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY international revenue growth (%)",
+          "value": [
+            {
+              "period": "Q1 FY2026",
+              "value": "24% YoY (quarterly growth)"
+            },
+            {
+              "period": "Q4 FY2026",
+              "value": "18% YoY (quarterly growth)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "nseindia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiYOr_eHCMaMtCD-W1vDtkpICPZzttQzmT66MBhJRvLliHGXv_cXR1vi4u9hDBTtDQw-7wSvhn2-iNhxNuKhd9spd1N83af5bQ7Y81zhl7yiLjZbqzD5iHN8iAzhllpTLCFYOg7EkrhfM43urBCPJZhoXubXOHkvuKQN7U_OF4aFSxCTYAi3ordyY74Rgp1lPZKYgAAFkoxw=="
+            },
+            {
+              "name": "polycab.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of countries exported to",
+          "value": [
+            {
+              "period": "Q4 FY2026",
+              "value": 94
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key international certifications obtained (e.g., CE, UL, VDE)",
+          "value": [
+            {
+              "name": "UL (Underwriters Laboratories)"
+            },
+            {
+              "name": "BASEC (British Approvals Service for Cables)"
+            },
+            {
+              "name": "IEC (International Electrotechnical Commission)"
+            },
+            {
+              "name": "ISO 9001:2015"
+            },
+            {
+              "name": "ISO 14001:2015"
+            },
+            {
+              "name": "ISO 45001:2018"
+            },
+            {
+              "name": "ISO 50001:2018"
+            },
+            {
+              "name": "IATF 16949:2016"
+            }
+          ],
+          "sources": [
+            {
+              "name": "polycab.com",
+              "url": null
+            },
+            {
+              "name": "dqsglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "International revenue (absolute, INR Mn): [{\"period\": \"FY2026\", \"value\": 12997.71, \"note\": \"Calculated as 4.5% of consolidated revenue (₹288,838 Mn)\"}]",
+        "International revenue as % of consolidated revenue: [{\"period\": \"FY2026\", \"value\": \"4.5%\"}]",
+        "YoY international revenue growth (%): [{\"period\": \"Q1 FY2026\", \"value\": \"24% YoY (quarterly growth)\"}, {\"period\": \"Q4 FY2026\", \"value\": \"18% YoY (quarterly growth)\"}]",
+        "Number of countries exported to: [{\"period\": \"Q4 FY2026\", \"value\": 94}]",
+        "Key international certifications obtained (e.g., CE, UL, VDE): [{\"name\": \"UL (Underwriters Laboratories)\"}, {\"name\": \"BASEC (British Approvals Service for Cables)\"}, {\"name\": \"IEC (International Electrotechnical Commission)\"}, {\"name\": \"ISO 9001:2015\"}, {\"name\": \"ISO 14001:2015\"}, {\"name\": \"ISO 45001:2018\"}, {\"name\": \"ISO 50001:2018\"}, {\"name\": \"IATF 16949:2016\"}]"
+      ],
+      "references": [
+        {
+          "name": "nseindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiYOr_eHCMaMtCD-W1vDtkpICPZzttQzmT66MBhJRvLliHGXv_cXR1vi4u9hDBTtDQw-7wSvhn2-iNhxNuKhd9spd1N83af5bQ7Y81zhl7yiLjZbqzD5iHN8iAzhllpTLCFYOg7EkrhfM43urBCPJZhoXubXOHkvuKQN7U_OF4aFSxCTYAi3ordyY74Rgp1lPZKYgAAFkoxw==",
+          "fields": [
+            "International revenue (absolute, INR Mn)",
+            "International revenue as % of consolidated revenue",
+            "YoY international revenue growth (%)"
+          ]
+        },
+        {
+          "name": "polycab.com",
+          "url": null,
+          "fields": [
+            "International revenue (absolute, INR Mn)",
+            "International revenue as % of consolidated revenue",
+            "YoY international revenue growth (%)",
+            "Number of countries exported to",
+            "Key international certifications obtained (e.g., CE, UL, VDE)"
+          ]
+        },
+        {
+          "name": "dqsglobal.com",
+          "url": null,
+          "fields": [
+            "Key international certifications obtained (e.g., CE, UL, VDE)"
+          ]
+        },
+        {
+          "name": "constructionworld.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmqnFtZWpN9IvS5mym35giCnWo5UnAE4ijj1-lcql21_kIz7lFfytgPrvEEXxHoOEoRFlTGDI7-gPNhfLUL2ikSaQlVz23iFjYm6RMHmGxxOmtiqexfPJ5kPLUf88vXwTQXSKEhL-QN5rGRwjykeJVLAhVDQeYPF58qbTS50BRgCJDF6p4z_coRX17o529iYXGwGoeAiOvo3xZ4c9c7aCK9F-qO8GntVmFMWfJU0WiuHw-XsGrUhQ=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVht7uRyCflpzRlnz3L8JhWuCz5a59Q-Nz9vVPl2DqgOZD0SEPQUYN0TH8JxukCyfWWVvK3_IEQIk6_hp7-6Fan1z-72JuIqAvJigiUpL9hSqTzYpcOh4UaS5Nx342i4Ce88ydUIxdJ8rOlmkaXJmLnHXxNBV3q_kJ",
+          "fields": []
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Ek8cqT1WixVaUDQcY0mhLxQJTlgt5sVXvftR3Cpv5eMESmMcyQ9X2Q8kh4LxotdsufTJZ2LqDQ1krtkPVKWjSPiyrl_1uFF-26np1NnIViSgAh5RakBkB60V_teq_smBuLZbjiErOuTYHgzUhguTPEOltvimKuJamdDoGErV4tasQp860AU32b2VuEVoGWFPjxnIjje64hhEgG9ZYvReNytfOaWNxeOQ9QBXU7Hw3VndMlJ8DYdKuHzbmNck4KvysRBRLg==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1XtWiBkfnmGsQkXMI4NurR3TrDhMlRz7T1N24PQWOo7FPENQwVDuyS5U5zpvAZFP3dDGnXcD0BkWmJ4WvzmUbxvIoxj0Ee1W5VuPubin5PhPYw9C5Q0wZcagF8HH3aJEoBJnvjA==",
+          "fields": []
+        },
+        {
+          "name": "dqsglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvnlCRIieYhNtrYJmpFrAu9i9F82z1al01g-eu1SE-c-72w9ZMdfARdqbcpWAJ3kkA-z_5vw0A5kP04bJG0ISuVQr8mpWUViuxUOGKhLmCI6gBbT33_l4V9_-WyT5HKsP2IfMrLK65R9Sd9vl6hK-EorCOJw8qJL8HwG6CjIc=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGczPKeZd-DBmv2jUF1RPrsA2r6dMzlFT_zebX99YNIrEj_b4dWn_6kg4efVRXbfMCwuCWGIm40XMyJMxhEzGS2ctpoVPcjf8ulf4Xpl4049KxvWik5ECY5HBrCG08Kahr6VLqRXmzyROGtFs-FkPts4GiHaINn_oGySCQMUrq8KoJTmeZtWafME16DKFc0xrS4IvqSD0BqowLsemGA",
+          "fields": []
+        }
+      ],
+      "domain_name": "International Business Expansion Strategy",
+      "confidence": "high",
+      "completeness": 0.833,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "New international market entries (named countries)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Pursue: Demonstrates tangible growth levers beyond the domestic market and provides specific data points (revenue, country count, certifications) that can be used to assess the scalability and risk of international expansion.",
+        "banker": "Pursue: Provides concrete evidence of international reach and growth, suggesting potential for cross-border M&A, debt financing for international operations, or advisory on market entry strategies.",
+        "credit_analyst": "Pursue: Offers critical data on revenue diversification and geographic risk through international revenue figures and growth rates, directly impacting the assessment of financial stability and creditworthiness.",
+        "consultant": "Pursue: Directly addresses the 'International Business Expansion Strategy' research domain by detailing market focus, growth, and entry points, providing a strong foundation for operational and strategic consulting engagements."
+      }
+    },
+    {
+      "heading": "FMEG Category-wise Performance",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "FMEG revenue by sub-category (Solar, Fans, Lighting, Switchgear) (INR Mn)",
+          "value": [
+            {
+              "period": "FY26",
+              "category": "Total FMEG Revenue",
+              "value": 20693
+            },
+            {
+              "period": "FY26",
+              "category": "Solar Products",
+              "description": "Largest category within FMEG portfolio"
+            },
+            {
+              "period": "FY26",
+              "category": "Fans (Premium contribution)",
+              "value": "approx. 25% of fan segment revenue"
+            },
+            {
+              "period": "FY26",
+              "category": "Lighting",
+              "value": "Not Available"
+            },
+            {
+              "period": "FY26",
+              "category": "Switchgear",
+              "value": "Not Available"
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY growth for each FMEG sub-category (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "47%"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "17%"
+            },
+            {
+              "period": "9M FY26",
+              "category": "FMEG Segment Overall",
+              "value": "16%"
+            },
+            {
+              "period": "Q1 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "18%"
+            },
+            {
+              "period": "FY25",
+              "category": "FMEG Segment Overall",
+              "value": "29%"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Solar products",
+              "value": "~2x YoY growth",
+              "note": "Became the largest category within the FMEG portfolio"
+            },
+            {
+              "period": "Q4 FY26",
+              "category": "Solar products",
+              "description": "Fastest-growing vertical and largest contributor within the FMEG segment"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Switchgears, conduit pipes & fittings, and switches",
+              "description": "Delivered healthy growth due to sustained demand from real estate sectors"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Fans",
+              "description": "Demand was muted due to early rains in the summer season"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "FMEG EBITDA margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "metric": "EBIT margin",
+              "value": "4.1%"
+            },
+            {
+              "period": "Q3 FY26",
+              "metric": "FMEG Margins",
+              "value": "2.8%",
+              "note": "Improved from losses in Q3 FY25"
+            },
+            {
+              "period": "Q1 FY26",
+              "metric": "FMEG OPM",
+              "value": "2.1%"
+            },
+            {
+              "period": "FY26",
+              "metric": "FMEG Profitability",
+              "description": "Achieved profitability in Q4 FY25 and remained profitable for 4+ consecutive quarters through FY26"
+            },
+            {
+              "period": "FY30 Target",
+              "metric": "EBITDA margin",
+              "value": "8-10%",
+              "note": "Under Project Spring"
+            },
+            {
+              "period": "FY26",
+              "metric": "Solar Margin",
+              "value": "High single-digit margins"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of FMEG distributors (YoY change)",
+          "value": [
+            {
+              "period": "January 2026",
+              "value": "~3,400 Pan-India FMEG dealers and distributors"
+            },
+            {
+              "period": "FY25 (as of FY24)",
+              "value": "~2,900 FMEG distributors",
+              "note": "Stated gap vs. industry leader having over 16,000"
+            },
+            {
+              "period": "FY23",
+              "value": "Added 371 new FMEG distributors"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of FMEG retail touchpoints (YoY change)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "190,000+ retail outlets",
+              "change_vs_prior_period": "Decrease of approximately 10,000 vs FY25"
+            },
+            {
+              "period": "FY25",
+              "value": "200,000+ retail outlets"
+            },
+            {
+              "period": "FY24",
+              "value": "205,000+ retail outlets"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New FMEG product launches (count)",
+          "value": [
+            {
+              "date": "October 2025",
+              "product_name": "Super ROI range of BLDC fans",
+              "description": "Energy-efficient, high-performance solutions"
+            },
+            {
+              "date": "October 2025",
+              "product_name": "Gliss range of COB lights"
+            },
+            {
+              "date": "October 2025",
+              "product_name": "Fabelle range of switches",
+              "description": "Aimed at modern homes"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Brand awareness/recall scores (if publicly reported by company/third-party)",
+          "value": [
+            {
+              "period": "FY25",
+              "metric": "CSAT Score",
+              "value": "96%",
+              "note": "For W&C and FMEG products"
+            },
+            {
+              "metric": "Brand Recall",
+              "description": "Polycab has a strong brand recall"
+            },
+            {
+              "metric": "Brand Recognition",
+              "description": "Polycab is strengthening brand recognition"
+            },
+            {
+              "metric": "Brand Building Investment",
+              "description": "The company is investing in brand building"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "FMEG revenue by sub-category (Solar, Fans, Lighting, Switchgear) (INR Mn): [{\"period\": \"FY26\", \"category\": \"Total FMEG Revenue\", \"value\": 20693}, {\"period\": \"FY26\", \"category\": \"Solar Products\", \"description\": \"Largest category within FMEG portfolio\"}, {\"period\": \"FY26\", \"category\": \"Fans (Premium contribution)\", \"value\": \"approx. 25% of fan segment revenue\"}, {\"period\": \"FY26\", \"category\": \"Lighting\", \"value\": \"Not Available\"}, {\"period\": \"FY26\", \"category\": \"Switchgear\", \"value\": \"Not Available\"}]",
+        "YoY growth for each FMEG sub-category (%): [{\"period\": \"Q4 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"47%\"}, {\"period\": \"Q3 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"17%\"}, {\"period\": \"9M FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"16%\"}, {\"period\": \"Q1 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"18%\"}, {\"period\": \"FY25\", \"category\": \"FMEG Segment Overall\", \"value\": \"29%\"}, {\"period\": \"Q3 FY26\", \"category\": \"Solar products\", \"value\": \"~2x YoY growth\", \"note\": \"Became the largest category within the FMEG portfolio\"}, {\"period\": \"Q4 FY26\", \"category\": \"Solar products\", \"description\": \"Fastest-growing vertical and largest contributor within the FMEG segment\"}, {\"period\": \"Q3 FY26\", \"category\": \"Switchgears, conduit pipes & fittings, and switches\", \"description\": \"Delivered healthy growth due to sustained demand from real estate sectors\"}, {\"period\": \"Q3 FY26\", \"category\": \"Fans\", \"description\": \"Demand was muted due to early rains in the summer season\"}]",
+        "FMEG EBITDA margin (%): [{\"period\": \"Q4 FY26\", \"metric\": \"EBIT margin\", \"value\": \"4.1%\"}, {\"period\": \"Q3 FY26\", \"metric\": \"FMEG Margins\", \"value\": \"2.8%\", \"note\": \"Improved from losses in Q3 FY25\"}, {\"period\": \"Q1 FY26\", \"metric\": \"FMEG OPM\", \"value\": \"2.1%\"}, {\"period\": \"FY26\", \"metric\": \"FMEG Profitability\", \"description\": \"Achieved profitability in Q4 FY25 and remained profitable for 4+ consecutive quarters through FY26\"}, {\"period\": \"FY30 Target\", \"metric\": \"EBITDA margin\", \"value\": \"8-10%\", \"note\": \"Under Project Spring\"}, {\"period\": \"FY26\", \"metric\": \"Solar Margin\", \"value\": \"High single-digit margins\"}]",
+        "Number of FMEG distributors (YoY change): [{\"period\": \"January 2026\", \"value\": \"~3,400 Pan-India FMEG dealers and distributors\"}, {\"period\": \"FY25 (as of FY24)\", \"value\": \"~2,900 FMEG distributors\", \"note\": \"Stated gap vs. industry leader having over 16,000\"}, {\"period\": \"FY23\", \"value\": \"Added 371 new FMEG distributors\"}]",
+        "Number of FMEG retail touchpoints (YoY change): [{\"period\": \"FY26\", \"value\": \"190,000+ retail outlets\", \"change_vs_prior_period\": \"Decrease of approximately 10,000 vs FY25\"}, {\"period\": \"FY25\", \"value\": \"200,000+ retail outlets\"}, {\"period\": \"FY24\", \"value\": \"205,000+ retail outlets\"}]",
+        "New FMEG product launches (count): [{\"date\": \"October 2025\", \"product_name\": \"Super ROI range of BLDC fans\", \"description\": \"Energy-efficient, high-performance solutions\"}, {\"date\": \"October 2025\", \"product_name\": \"Gliss range of COB lights\"}, {\"date\": \"October 2025\", \"product_name\": \"Fabelle range of switches\", \"description\": \"Aimed at modern homes\"}]",
+        "Brand awareness/recall scores (if publicly reported by company/third-party): [{\"period\": \"FY25\", \"metric\": \"CSAT Score\", \"value\": \"96%\", \"note\": \"For W&C and FMEG products\"}, {\"metric\": \"Brand Recall\", \"description\": \"Polycab has a strong brand recall\"}, {\"metric\": \"Brand Recognition\", \"description\": \"Polycab is strengthening brand recognition\"}, {\"metric\": \"Brand Building Investment\", \"description\": \"The company is investing in brand building\"}]"
+      ],
+      "references": [
+        {
+          "name": "sharekhan.com",
+          "url": null,
+          "fields": [
+            "YoY growth for each FMEG sub-category (%)",
+            "FMEG EBITDA margin (%)",
+            "Number of FMEG distributors (YoY change)",
+            "Number of FMEG retail touchpoints (YoY change)",
+            "New FMEG product launches (count)",
+            "Brand awareness/recall scores (if publicly reported by company/third-party)"
+          ]
+        },
+        {
+          "name": "constructionworld.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKowFNsWiFWV-vyWbAZP7uD4xUq6457vL1IfQ-iPXqSH-89gQijwcVHEmA1i6ra7nCa_ULV-j753zHRe-lAOPU3OnT1PtfUWGLm9tBlVQU1XSczpWO6XoH4roI5YpwrjlsRLDNR8zCIP9nQZ_cnuzl-JjKQZt1HmX1QsFhJm77Isp9o52Kh_3vuRgBaIcER0nzVAsc4kTL1NrUWaLY6Vis54XPCWNu_riW-Rq6p0J6YY-xlJTIoWkN",
+          "fields": []
+        },
+        {
+          "name": "plindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRB5C_6Tj8t-tEvP4CqsJxgFAlTfcV2o5_nxXyNsJXOVXv_EK7D70oQQmoeICyacN51wyQ5S0O0oTnzlKUYbnP0qJNlJpNPe59Wo4fvXhUmUsJ5RuUW8vDW4pwdmaVfFJRK_VEd8Z99DyBdeOdzA==",
+          "fields": []
+        },
+        {
+          "name": "businesstoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4PaL3QkMXWLjI_J_j1vTynXHw5D7GuTInYztu2h2-ixVzXYqEWjWRzMbMB47XBqaNqXAvtqBfn82gYBeRebrL1-eOHsn8dt7g9nDMUz8x7mjQ7tjG3kRvPcnkfntscbLUs9dcyTWhcKuRVggdnk0F-uLOABJdjnR0tj9et0B-8QbVESqqlVA9jPAj5SIw-diDNrh8tNNLnCyqYuhNkirTNKDDR-wkFhXOReHb7MFiynglTWutAvbCQfuqpd3Oj8q_0RH0jrT7q_NP-edbkr-Tl4uke52r",
+          "fields": []
+        },
+        {
+          "name": "quartr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQf1Qd2qiKHKa_XyS_62--aArkUNAnvVV0cYPCMswSJ-Pp-D3UTvnKU3NMTDKt9F2n1fA0KRtOg7nY6whxKNuAcxjFdRbcywTz3T2iiUTtQ7ZrAnhtrHwU9BAcINtUJOcLBMUBgnKzGHeNP0ntwa9aOmw=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfzh_dhIlxTG3-appXtVwkRU-hUatJB9lUi9PJEUJPUO3wWjemmB5Npei4voTKGaN9VjXnGUhAY8fIPVV2OXhEDhLSCCxn-bfSYYbLWuyetAkfd0nMQSYUn9nonCNxkkEu9_Cv-EKHlo2ldNsagJQk1eF0SGv9s5WxA==",
+          "fields": []
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cHah9YzfSie4EICVAZ_jC-VExLMe02IcQVWK9X3xKpFtDPoixi05WdUE9RDbaP2-FI8RVjBt1GxHr_pW6Yq4CtkhLc_pMgGN0I1yUsBJnFdvxDaPQC9jcs5uDwY0vlMrY8oBuhM9P3muQGxpHe1qvXyNEsyUtDqGviPM0Ww=",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpob3venEQ1I7F65IOUxcMw1ZHB6W5MMZ38OTIKgQAbDxs5WVHjMIa8QMCHsOsp_qi5RAsnsPy3_6tFSTD8q4BEllKuJNmf5wNs78Ivo9RLjuxlTIWCZVjKuS9h84aG1hmL5BBzPvd255FWA5z37E9wUPYqhXC-U57cYzhQ_R6S79z8UN-v2GobJGNV0zpxmfpkZKQ9XY2rAS7Gpo1fhZr8dVXKDN8t4QJuPYwTMAJ9VCv_y6qMCAM8qPWWfdrkdsKneCuYXwnbS9fTZ5cP3zZPsVJraWZ4i7Vx3uzPFDsRFT5TzjlBnHTCoCETscoNheHWW3XddFSbktbnixHhvx81R7lCMg-X6fxoDo=",
+          "fields": []
+        },
+        {
+          "name": "exchange4media.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLdG4lL6SVyCepGR4Yurvn8iBm0sNMq-IiVOutnhzAbLUCjuPWokw8QfVDeyZkQhtlXDNdnvxPnfe6yaLORsqKiDBzwLThfsj3xWSfKSwujYjNxIqtK48Pfz6daXfhWURidJN3MSywR7csk0AFIXz-pg-aPpYkuUmCWJHo2l--8EYqPaLIv1Z8ICXgMppTbTInivnATZ1efH0mN5oh6C9YWiJZmifAkVpkhawDJqPPO2j715eqZdM=",
+          "fields": []
+        },
+        {
+          "name": "indiainfoline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnwNCexhuFDscrQDdAZ3R-nbH2FVVlPZ2SDLLvjway_aJwL4BId6YxGC-dyDzOxkAdC8FeDDRKwA40n1WyO2FsAaosAg_-CXhHqdntNDLflmHqZI-D-WFb9VMZHu5xVfKc1ulNiH_7TY7Jce-xw8EXB1CTdIXvRYg8BnQroQ3vvlIx9N-6Sk44-QlZG-wSddMyhDZ1QAwCsOR4WfdVhLxa9NfFIl42iJlc02OyBQp8UHjmLBwCf37vjfliLlyxRZVjPZ0-kaffpaBH",
+          "fields": []
+        },
+        {
+          "name": "sharekhan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWf2tMB64Fgvn7BIQEBT2UqxGQpgQ53Wz9O5U2OWqwn7Op6Ufnr9U9T5MpLBOid54t6RcsePxe0haXvKHXxYkJRV3mLCOgQsU0BkQmNEI2fSJUTO6b8UeMcvNRtQc_DJYCRQF0qMcqhWVHmbiBhLlyJEykr0ENzBer4h-eVsvMFuqh9zs466Qq5DfqDFKPFYng==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf-YVHOg1wWm2AvbKFkDrLu7QL5qmodS6h16syT-GS5wZ5RntJUYhwKqFS9-p1nfkGlstF9GSMsVhEsIUi8gR3KrktOyBK6z3WDWYRtoJ-jpdbhAr_q9Ffsu-iw2Z0plRGbaOmSdlyYJJbOTrWB8DJC7RgTZaO5-jaqduOrLDAbxIl1g==",
+          "fields": []
+        },
+        {
+          "name": "sharekhan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKxU4wsFBKT4LGavT8I91T7V95nr5omOc0lz0DpC4oDUyuGGB3shA9czp6WcKSQNzO9QDE8bV7bUYr_sDrwHRxyfvCsKgm8I7VKSkhSy3QX1ieFgdJDIcWJxv3VIOXRu-ctELMmaZzklaFRQ0_S2eGwAGK1N05LRdtXMxsZ5IBLZo=",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERsUTpw_5lRmfFBnb9MxVKzBPE1Xz0Z0a-zAWoGiDIxIPqVaf28WUFH9nAcXKwNVrytCwEyrvSpgTUTDMDagWP1pNyBEPm_KzI_QeT2vPSMrL1PSlwi0Lqvk91N1UwGK35FhKj4KFMUNxnbw_0qPltJKQyqecv23eJ856DIs7BxB3jqNHcSBvXNnNq0V0-cubECEc6duuNwV0HuYUsIyxJEP4pIX5FU4XuWYnTbSwUTAAbU0wskxkZ9u1KFGwYQVdKVpgQbJMJ9fefnSvVlxxc0XSAUyyDHoXJC8kKrmJxWwIbB2LwcX2OXVpOWalXlE5qYtn7CFJbDVfW2kFZpdhv9uCuW7C-4iUvRfo=",
+          "fields": []
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFihFnbII07uVaQ-gZCkgLFRrq_rxrMO8Rg2keezuNQS4IbVh_Z-qbRz001oGZPnSd6KfmOw76ine4ajVTIp2mdwQD2jC2ClNwmVQpIlwZ4lEahFruPVrc3T2YUAWh9_8s7aHN1iWfTw1J8y3N5Koq-54Jpy53jbkLqbgNLVUc=",
+          "fields": []
+        },
+        {
+          "name": "stockaxis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvxxKjj8L8TzH3tJg99bTce5a2WoZ5gW5o-M9vepiq142Rq869oRy-ZD9p7H8gDWc-Tk8K6OKD_HQw7VbEB21yjbQPHS8FQ3wNcjCk4AD5OqjCQWgxRGfqYF-soaZgMQWJK_7oFnKXHqhjlZecIwbCyXevVaTuT1N5Fx6kHxkYZpQ=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKUJiLZforaw82O8Zqo5NOaKV6pEwpOox2juU-tOsvxvg9D7YqYz_8xW5RrupX2TJOz2G3h8Q8FPZmyiE_qlt13UN7jzYgUVWv6y-2DNFYMQfs1Dc05mASW-49EIRsASCSP0ubE7sulZ7ezrdNRq8keSN9IVfIXS0GuBPNOjKBbLDjK9K2Mu7whufM4-sw5A==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyFv_qbrNWZd84Fr3QsNv_2Ql_o9gfkMbjV4-ZL63z__O1Q1Dx62QCDNlORIBLXCpjqIQgwS2DhD-Kv3hWCsHVAabeiE2SWM6AgUknTuEZOUpv1H9ALtLpAx2CpiGzkEidmCGkd07x3ue2Fr9Ll5mvMJJ7FBFYUSRdV_vKGE7VQcOF6Q==",
+          "fields": []
+        },
+        {
+          "name": "quartr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrkwDwogp8OBrWGOJzP7BzUz9eCuWPhw9ck4vIwSlZHHizDHc4XM5xI6LOX0LSGt5WMYo-zluEP-xX_JWRwOwYlmTdBtzMLriUHHhB7h148SDQpBF0LdK5ZMYPQ03cGQq1BtM2VUEIPzwnAGDWTAKcHib4eHnX9SoPFgIj5lKEN2qXK9XaQa39eXR8l-JJXiw2hw==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwJNSNbRHh0gWKo0VBvyOw68YljZNkSdSg-SpeZs6Xq7XqkXYK9mwhWCriGLM8i5cVgJnr_GF43AoF89tha42O2L9bIK-sTmKk494QIV556ohRnYjbqXy0u11gjfgc3LcGWnSNNXzEKRSjjTW7oyT7HVKlstmv7R14nlhOw==",
+          "fields": []
+        },
+        {
+          "name": "scribd.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH526df5ncqBpVGDonaXQXmVO4-5BLBhQQRdeiD3wUShIFrLzSF443YvlvhOn1cHpKLice0enZEmG3S3uk7DqwwRhyRwLbwY1G_q3AVcYTBp7Hp9ZRxOKPZcSLXtLM5ORoJzOeGsVQLzRbg8xee8VurFXepdFYhJKIOogFFMp-YaNxCAdMF-X6AVqBkyMBS_rmA",
+          "fields": []
+        }
+      ],
+      "domain_name": "FMEG Segment Growth & Category Performance",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 7,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The detailed FMEG sub-category revenue and growth data, alongside EBITDA margins, would significantly influence a pursue decision by indicating specific areas of strength or weakness within Polycab's diversification strategy, warranting deeper diligence into market share and competitive positioning.",
+        "banker": "Null",
+        "credit_analyst": "The YoY growth figures for FMEG sub-categories and changes in distributor/retail touchpoints are crucial for assessing the company's top-line momentum and market penetration, directly impacting the credit analyst's view on revenue stability and future cash flow generation.",
+        "consultant": "The data on new FMEG product launches and brand awareness scores would be highly relevant for a consultant, potentially highlighting opportunities for operational improvements, go-to-market strategy enhancements, or competitive benchmarking."
+      }
+    },
+    {
+      "heading": "FMEG Distribution & Brand Reach",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "FMEG revenue by sub-category (Solar, Fans, Lighting, Switchgear) (INR Mn)",
+          "value": [
+            {
+              "period": "FY26",
+              "category": "Total FMEG Revenue",
+              "value": 20693
+            },
+            {
+              "period": "FY26",
+              "category": "Solar Products",
+              "description": "Largest category within FMEG portfolio"
+            },
+            {
+              "period": "FY26",
+              "category": "Fans (Premium contribution)",
+              "value": "approx. 25% of fan segment revenue"
+            },
+            {
+              "period": "FY26",
+              "category": "Lighting",
+              "value": "Not Available"
+            },
+            {
+              "period": "FY26",
+              "category": "Switchgear",
+              "value": "Not Available"
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY growth for each FMEG sub-category (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "47%"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "17%"
+            },
+            {
+              "period": "9M FY26",
+              "category": "FMEG Segment Overall",
+              "value": "16%"
+            },
+            {
+              "period": "Q1 FY26",
+              "category": "FMEG Segment Overall",
+              "value": "18%"
+            },
+            {
+              "period": "FY25",
+              "category": "FMEG Segment Overall",
+              "value": "29%"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Solar products",
+              "value": "~2x YoY growth",
+              "note": "Became the largest category within the FMEG portfolio"
+            },
+            {
+              "period": "Q4 FY26",
+              "category": "Solar products",
+              "description": "Fastest-growing vertical and largest contributor within the FMEG segment"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Switchgears, conduit pipes & fittings, and switches",
+              "description": "Delivered healthy growth due to sustained demand from real estate sectors"
+            },
+            {
+              "period": "Q3 FY26",
+              "category": "Fans",
+              "description": "Demand was muted due to early rains in the summer season"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "FMEG EBITDA margin (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "metric": "EBIT margin",
+              "value": "4.1%"
+            },
+            {
+              "period": "Q3 FY26",
+              "metric": "FMEG Margins",
+              "value": "2.8%",
+              "note": "Improved from losses in Q3 FY25"
+            },
+            {
+              "period": "Q1 FY26",
+              "metric": "FMEG OPM",
+              "value": "2.1%"
+            },
+            {
+              "period": "FY26",
+              "metric": "FMEG Profitability",
+              "description": "Achieved profitability in Q4 FY25 and remained profitable for 4+ consecutive quarters through FY26"
+            },
+            {
+              "period": "FY30 Target",
+              "metric": "EBITDA margin",
+              "value": "8-10%",
+              "note": "Under Project Spring"
+            },
+            {
+              "period": "FY26",
+              "metric": "Solar Margin",
+              "value": "High single-digit margins"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of FMEG distributors (YoY change)",
+          "value": [
+            {
+              "period": "January 2026",
+              "value": "~3,400 Pan-India FMEG dealers and distributors"
+            },
+            {
+              "period": "FY25 (as of FY24)",
+              "value": "~2,900 FMEG distributors",
+              "note": "Stated gap vs. industry leader having over 16,000"
+            },
+            {
+              "period": "FY23",
+              "value": "Added 371 new FMEG distributors"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of FMEG retail touchpoints (YoY change)",
+          "value": [
+            {
+              "period": "FY26",
+              "value": "190,000+ retail outlets",
+              "change_vs_prior_period": "Decrease of approximately 10,000 vs FY25"
+            },
+            {
+              "period": "FY25",
+              "value": "200,000+ retail outlets"
+            },
+            {
+              "period": "FY24",
+              "value": "205,000+ retail outlets"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New FMEG product launches (count)",
+          "value": [
+            {
+              "date": "October 2025",
+              "product_name": "Super ROI range of BLDC fans",
+              "description": "Energy-efficient, high-performance solutions"
+            },
+            {
+              "date": "October 2025",
+              "product_name": "Gliss range of COB lights"
+            },
+            {
+              "date": "October 2025",
+              "product_name": "Fabelle range of switches",
+              "description": "Aimed at modern homes"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Brand awareness/recall scores (if publicly reported by company/third-party)",
+          "value": [
+            {
+              "period": "FY25",
+              "metric": "CSAT Score",
+              "value": "96%",
+              "note": "For W&C and FMEG products"
+            },
+            {
+              "metric": "Brand Recall",
+              "description": "Polycab has a strong brand recall"
+            },
+            {
+              "metric": "Brand Recognition",
+              "description": "Polycab is strengthening brand recognition"
+            },
+            {
+              "metric": "Brand Building Investment",
+              "description": "The company is investing in brand building"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sharekhan.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "FMEG revenue by sub-category (Solar, Fans, Lighting, Switchgear) (INR Mn): [{\"period\": \"FY26\", \"category\": \"Total FMEG Revenue\", \"value\": 20693}, {\"period\": \"FY26\", \"category\": \"Solar Products\", \"description\": \"Largest category within FMEG portfolio\"}, {\"period\": \"FY26\", \"category\": \"Fans (Premium contribution)\", \"value\": \"approx. 25% of fan segment revenue\"}, {\"period\": \"FY26\", \"category\": \"Lighting\", \"value\": \"Not Available\"}, {\"period\": \"FY26\", \"category\": \"Switchgear\", \"value\": \"Not Available\"}]",
+        "YoY growth for each FMEG sub-category (%): [{\"period\": \"Q4 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"47%\"}, {\"period\": \"Q3 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"17%\"}, {\"period\": \"9M FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"16%\"}, {\"period\": \"Q1 FY26\", \"category\": \"FMEG Segment Overall\", \"value\": \"18%\"}, {\"period\": \"FY25\", \"category\": \"FMEG Segment Overall\", \"value\": \"29%\"}, {\"period\": \"Q3 FY26\", \"category\": \"Solar products\", \"value\": \"~2x YoY growth\", \"note\": \"Became the largest category within the FMEG portfolio\"}, {\"period\": \"Q4 FY26\", \"category\": \"Solar products\", \"description\": \"Fastest-growing vertical and largest contributor within the FMEG segment\"}, {\"period\": \"Q3 FY26\", \"category\": \"Switchgears, conduit pipes & fittings, and switches\", \"description\": \"Delivered healthy growth due to sustained demand from real estate sectors\"}, {\"period\": \"Q3 FY26\", \"category\": \"Fans\", \"description\": \"Demand was muted due to early rains in the summer season\"}]",
+        "FMEG EBITDA margin (%): [{\"period\": \"Q4 FY26\", \"metric\": \"EBIT margin\", \"value\": \"4.1%\"}, {\"period\": \"Q3 FY26\", \"metric\": \"FMEG Margins\", \"value\": \"2.8%\", \"note\": \"Improved from losses in Q3 FY25\"}, {\"period\": \"Q1 FY26\", \"metric\": \"FMEG OPM\", \"value\": \"2.1%\"}, {\"period\": \"FY26\", \"metric\": \"FMEG Profitability\", \"description\": \"Achieved profitability in Q4 FY25 and remained profitable for 4+ consecutive quarters through FY26\"}, {\"period\": \"FY30 Target\", \"metric\": \"EBITDA margin\", \"value\": \"8-10%\", \"note\": \"Under Project Spring\"}, {\"period\": \"FY26\", \"metric\": \"Solar Margin\", \"value\": \"High single-digit margins\"}]",
+        "Number of FMEG distributors (YoY change): [{\"period\": \"January 2026\", \"value\": \"~3,400 Pan-India FMEG dealers and distributors\"}, {\"period\": \"FY25 (as of FY24)\", \"value\": \"~2,900 FMEG distributors\", \"note\": \"Stated gap vs. industry leader having over 16,000\"}, {\"period\": \"FY23\", \"value\": \"Added 371 new FMEG distributors\"}]",
+        "Number of FMEG retail touchpoints (YoY change): [{\"period\": \"FY26\", \"value\": \"190,000+ retail outlets\", \"change_vs_prior_period\": \"Decrease of approximately 10,000 vs FY25\"}, {\"period\": \"FY25\", \"value\": \"200,000+ retail outlets\"}, {\"period\": \"FY24\", \"value\": \"205,000+ retail outlets\"}]",
+        "New FMEG product launches (count): [{\"date\": \"October 2025\", \"product_name\": \"Super ROI range of BLDC fans\", \"description\": \"Energy-efficient, high-performance solutions\"}, {\"date\": \"October 2025\", \"product_name\": \"Gliss range of COB lights\"}, {\"date\": \"October 2025\", \"product_name\": \"Fabelle range of switches\", \"description\": \"Aimed at modern homes\"}]",
+        "Brand awareness/recall scores (if publicly reported by company/third-party): [{\"period\": \"FY25\", \"metric\": \"CSAT Score\", \"value\": \"96%\", \"note\": \"For W&C and FMEG products\"}, {\"metric\": \"Brand Recall\", \"description\": \"Polycab has a strong brand recall\"}, {\"metric\": \"Brand Recognition\", \"description\": \"Polycab is strengthening brand recognition\"}, {\"metric\": \"Brand Building Investment\", \"description\": \"The company is investing in brand building\"}]"
+      ],
+      "references": [
+        {
+          "name": "sharekhan.com",
+          "url": null,
+          "fields": [
+            "YoY growth for each FMEG sub-category (%)",
+            "FMEG EBITDA margin (%)",
+            "Number of FMEG distributors (YoY change)",
+            "Number of FMEG retail touchpoints (YoY change)",
+            "New FMEG product launches (count)",
+            "Brand awareness/recall scores (if publicly reported by company/third-party)"
+          ]
+        },
+        {
+          "name": "constructionworld.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKowFNsWiFWV-vyWbAZP7uD4xUq6457vL1IfQ-iPXqSH-89gQijwcVHEmA1i6ra7nCa_ULV-j753zHRe-lAOPU3OnT1PtfUWGLm9tBlVQU1XSczpWO6XoH4roI5YpwrjlsRLDNR8zCIP9nQZ_cnuzl-JjKQZt1HmX1QsFhJm77Isp9o52Kh_3vuRgBaIcER0nzVAsc4kTL1NrUWaLY6Vis54XPCWNu_riW-Rq6p0J6YY-xlJTIoWkN",
+          "fields": []
+        },
+        {
+          "name": "plindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRB5C_6Tj8t-tEvP4CqsJxgFAlTfcV2o5_nxXyNsJXOVXv_EK7D70oQQmoeICyacN51wyQ5S0O0oTnzlKUYbnP0qJNlJpNPe59Wo4fvXhUmUsJ5RuUW8vDW4pwdmaVfFJRK_VEd8Z99DyBdeOdzA==",
+          "fields": []
+        },
+        {
+          "name": "businesstoday.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4PaL3QkMXWLjI_J_j1vTynXHw5D7GuTInYztu2h2-ixVzXYqEWjWRzMbMB47XBqaNqXAvtqBfn82gYBeRebrL1-eOHsn8dt7g9nDMUz8x7mjQ7tjG3kRvPcnkfntscbLUs9dcyTWhcKuRVggdnk0F-uLOABJdjnR0tj9et0B-8QbVESqqlVA9jPAj5SIw-diDNrh8tNNLnCyqYuhNkirTNKDDR-wkFhXOReHb7MFiynglTWutAvbCQfuqpd3Oj8q_0RH0jrT7q_NP-edbkr-Tl4uke52r",
+          "fields": []
+        },
+        {
+          "name": "quartr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQf1Qd2qiKHKa_XyS_62--aArkUNAnvVV0cYPCMswSJ-Pp-D3UTvnKU3NMTDKt9F2n1fA0KRtOg7nY6whxKNuAcxjFdRbcywTz3T2iiUTtQ7ZrAnhtrHwU9BAcINtUJOcLBMUBgnKzGHeNP0ntwa9aOmw=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfzh_dhIlxTG3-appXtVwkRU-hUatJB9lUi9PJEUJPUO3wWjemmB5Npei4voTKGaN9VjXnGUhAY8fIPVV2OXhEDhLSCCxn-bfSYYbLWuyetAkfd0nMQSYUn9nonCNxkkEu9_Cv-EKHlo2ldNsagJQk1eF0SGv9s5WxA==",
+          "fields": []
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8cHah9YzfSie4EICVAZ_jC-VExLMe02IcQVWK9X3xKpFtDPoixi05WdUE9RDbaP2-FI8RVjBt1GxHr_pW6Yq4CtkhLc_pMgGN0I1yUsBJnFdvxDaPQC9jcs5uDwY0vlMrY8oBuhM9P3muQGxpHe1qvXyNEsyUtDqGviPM0Ww=",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpob3venEQ1I7F65IOUxcMw1ZHB6W5MMZ38OTIKgQAbDxs5WVHjMIa8QMCHsOsp_qi5RAsnsPy3_6tFSTD8q4BEllKuJNmf5wNs78Ivo9RLjuxlTIWCZVjKuS9h84aG1hmL5BBzPvd255FWA5z37E9wUPYqhXC-U57cYzhQ_R6S79z8UN-v2GobJGNV0zpxmfpkZKQ9XY2rAS7Gpo1fhZr8dVXKDN8t4QJuPYwTMAJ9VCv_y6qMCAM8qPWWfdrkdsKneCuYXwnbS9fTZ5cP3zZPsVJraWZ4i7Vx3uzPFDsRFT5TzjlBnHTCoCETscoNheHWW3XddFSbktbnixHhvx81R7lCMg-X6fxoDo=",
+          "fields": []
+        },
+        {
+          "name": "exchange4media.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLdG4lL6SVyCepGR4Yurvn8iBm0sNMq-IiVOutnhzAbLUCjuPWokw8QfVDeyZkQhtlXDNdnvxPnfe6yaLORsqKiDBzwLThfsj3xWSfKSwujYjNxIqtK48Pfz6daXfhWURidJN3MSywR7csk0AFIXz-pg-aPpYkuUmCWJHo2l--8EYqPaLIv1Z8ICXgMppTbTInivnATZ1efH0mN5oh6C9YWiJZmifAkVpkhawDJqPPO2j715eqZdM=",
+          "fields": []
+        },
+        {
+          "name": "indiainfoline.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnwNCexhuFDscrQDdAZ3R-nbH2FVVlPZ2SDLLvjway_aJwL4BId6YxGC-dyDzOxkAdC8FeDDRKwA40n1WyO2FsAaosAg_-CXhHqdntNDLflmHqZI-D-WFb9VMZHu5xVfKc1ulNiH_7TY7Jce-xw8EXB1CTdIXvRYg8BnQroQ3vvlIx9N-6Sk44-QlZG-wSddMyhDZ1QAwCsOR4WfdVhLxa9NfFIl42iJlc02OyBQp8UHjmLBwCf37vjfliLlyxRZVjPZ0-kaffpaBH",
+          "fields": []
+        },
+        {
+          "name": "sharekhan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaWf2tMB64Fgvn7BIQEBT2UqxGQpgQ53Wz9O5U2OWqwn7Op6Ufnr9U9T5MpLBOid54t6RcsePxe0haXvKHXxYkJRV3mLCOgQsU0BkQmNEI2fSJUTO6b8UeMcvNRtQc_DJYCRQF0qMcqhWVHmbiBhLlyJEykr0ENzBer4h-eVsvMFuqh9zs466Qq5DfqDFKPFYng==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf-YVHOg1wWm2AvbKFkDrLu7QL5qmodS6h16syT-GS5wZ5RntJUYhwKqFS9-p1nfkGlstF9GSMsVhEsIUi8gR3KrktOyBK6z3WDWYRtoJ-jpdbhAr_q9Ffsu-iw2Z0plRGbaOmSdlyYJJbOTrWB8DJC7RgTZaO5-jaqduOrLDAbxIl1g==",
+          "fields": []
+        },
+        {
+          "name": "sharekhan.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKxU4wsFBKT4LGavT8I91T7V95nr5omOc0lz0DpC4oDUyuGGB3shA9czp6WcKSQNzO9QDE8bV7bUYr_sDrwHRxyfvCsKgm8I7VKSkhSy3QX1ieFgdJDIcWJxv3VIOXRu-ctELMmaZzklaFRQ0_S2eGwAGK1N05LRdtXMxsZ5IBLZo=",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERsUTpw_5lRmfFBnb9MxVKzBPE1Xz0Z0a-zAWoGiDIxIPqVaf28WUFH9nAcXKwNVrytCwEyrvSpgTUTDMDagWP1pNyBEPm_KzI_QeT2vPSMrL1PSlwi0Lqvk91N1UwGK35FhKj4KFMUNxnbw_0qPltJKQyqecv23eJ856DIs7BxB3jqNHcSBvXNnNq0V0-cubECEc6duuNwV0HuYUsIyxJEP4pIX5FU4XuWYnTbSwUTAAbU0wskxkZ9u1KFGwYQVdKVpgQbJMJ9fefnSvVlxxc0XSAUyyDHoXJC8kKrmJxWwIbB2LwcX2OXVpOWalXlE5qYtn7CFJbDVfW2kFZpdhv9uCuW7C-4iUvRfo=",
+          "fields": []
+        },
+        {
+          "name": "investorfeed.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFihFnbII07uVaQ-gZCkgLFRrq_rxrMO8Rg2keezuNQS4IbVh_Z-qbRz001oGZPnSd6KfmOw76ine4ajVTIp2mdwQD2jC2ClNwmVQpIlwZ4lEahFruPVrc3T2YUAWh9_8s7aHN1iWfTw1J8y3N5Koq-54Jpy53jbkLqbgNLVUc=",
+          "fields": []
+        },
+        {
+          "name": "stockaxis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvxxKjj8L8TzH3tJg99bTce5a2WoZ5gW5o-M9vepiq142Rq869oRy-ZD9p7H8gDWc-Tk8K6OKD_HQw7VbEB21yjbQPHS8FQ3wNcjCk4AD5OqjCQWgxRGfqYF-soaZgMQWJK_7oFnKXHqhjlZecIwbCyXevVaTuT1N5Fx6kHxkYZpQ=",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKUJiLZforaw82O8Zqo5NOaKV6pEwpOox2juU-tOsvxvg9D7YqYz_8xW5RrupX2TJOz2G3h8Q8FPZmyiE_qlt13UN7jzYgUVWv6y-2DNFYMQfs1Dc05mASW-49EIRsASCSP0ubE7sulZ7ezrdNRq8keSN9IVfIXS0GuBPNOjKBbLDjK9K2Mu7whufM4-sw5A==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyFv_qbrNWZd84Fr3QsNv_2Ql_o9gfkMbjV4-ZL63z__O1Q1Dx62QCDNlORIBLXCpjqIQgwS2DhD-Kv3hWCsHVAabeiE2SWM6AgUknTuEZOUpv1H9ALtLpAx2CpiGzkEidmCGkd07x3ue2Fr9Ll5mvMJJ7FBFYUSRdV_vKGE7VQcOF6Q==",
+          "fields": []
+        },
+        {
+          "name": "quartr.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrkwDwogp8OBrWGOJzP7BzUz9eCuWPhw9ck4vIwSlZHHizDHc4XM5xI6LOX0LSGt5WMYo-zluEP-xX_JWRwOwYlmTdBtzMLriUHHhB7h148SDQpBF0LdK5ZMYPQ03cGQq1BtM2VUEIPzwnAGDWTAKcHib4eHnX9SoPFgIj5lKEN2qXK9XaQa39eXR8l-JJXiw2hw==",
+          "fields": []
+        },
+        {
+          "name": "polycab.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwJNSNbRHh0gWKo0VBvyOw68YljZNkSdSg-SpeZs6Xq7XqkXYK9mwhWCriGLM8i5cVgJnr_GF43AoF89tha42O2L9bIK-sTmKk494QIV556ohRnYjbqXy0u11gjfgc3LcGWnSNNXzEKRSjjTW7oyT7HVKlstmv7R14nlhOw==",
+          "fields": []
+        },
+        {
+          "name": "scribd.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH526df5ncqBpVGDonaXQXmVO4-5BLBhQQRdeiD3wUShIFrLzSF443YvlvhOn1cHpKLice0enZEmG3S3uk7DqwwRhyRwLbwY1G_q3AVcYTBp7Hp9ZRxOKPZcSLXtLM5ORoJzOeGsVQLzRbg8xee8VurFXepdFYhJKIOogFFMp-YaNxCAdMF-X6AVqBkyMBS_rmA",
+          "fields": []
+        }
+      ],
+      "domain_name": "FMEG Segment Growth & Category Performance",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 7,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The detailed FMEG sub-category revenue and growth data, alongside EBITDA margins, would significantly influence a pursue decision by indicating specific areas of strength or weakness within Polycab's diversification strategy, warranting deeper diligence into market share and competitive positioning.",
+        "banker": "Null",
+        "credit_analyst": "The YoY growth figures for FMEG sub-categories and changes in distributor/retail touchpoints are crucial for assessing the company's top-line momentum and market penetration, directly impacting the credit analyst's view on revenue stability and future cash flow generation.",
+        "consultant": "The data on new FMEG product launches and brand awareness scores would be highly relevant for a consultant, potentially highlighting opportunities for operational improvements, go-to-market strategy enhancements, or competitive benchmarking."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 35
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.050978,
+    "domain_research_usd": 0.46974,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.100718,
+    "grounding_usd": 0.42,
+    "grounded_calls": 12,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.520718,
+    "actual_calls": 17,
+    "elapsed_seconds": 134.5,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.117435,
+      "estimated_generic_domains_usd": 0.70461,
+      "estimated_synthesis_usd": 0.46974,
+      "estimated_total_usd": 1.695068
+    }
+  }
+}
