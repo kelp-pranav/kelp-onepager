@@ -21,3 +21,6 @@ archive/
 # Runtime-written cost ledgers (recreated on the server; keep local spend private)
 cost_ledger.json
 API_EXPENSES.md
+
+# Reviewer comments (runtime-written, ephemeral)
+output/comments/

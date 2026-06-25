@@ -107,6 +107,47 @@ def _load_polished(company: str):
         return None
 
 
+# --------------------------------------------------------------------------- #
+# Reviewer comments — managers leave feedback on a company's output            #
+# Stored as output/comments/<slug>.json (a list of {author, section, text,     #
+# ts}). NOTE: on Streamlit Cloud this disk is EPHEMERAL — comments survive page #
+# reloads and other viewers, but a redeploy/restart clears them. Swap          #
+# _load_comments/_save_comment for a DB or Google Sheet for durable storage.    #
+# --------------------------------------------------------------------------- #
+_COMMENTS_DIR = os.path.join(OUTPUT_DIR, "comments")
+
+
+def _comments_path(company: str) -> str:
+    return os.path.join(_COMMENTS_DIR, f"{_slug(company)}.json")
+
+
+def _load_comments(company: str) -> list:
+    try:
+        with open(_comments_path(company), "r", encoding="utf-8") as fh:
+            data = json.load(fh)
+            return data if isinstance(data, list) else []
+    except (OSError, json.JSONDecodeError):
+        return []
+
+
+def _save_comment(company: str, author: str, section: str, text: str) -> None:
+    """Append one comment (newest stored last). Best-effort; never raises into the UI."""
+    from datetime import datetime
+    comments = _load_comments(company)
+    comments.append({
+        "author": (author or "Anonymous").strip()[:80],
+        "section": (section or "General").strip(),
+        "text": text.strip()[:4000],
+        "ts": datetime.now().strftime("%Y-%m-%d %H:%M"),
+    })
+    try:
+        os.makedirs(_COMMENTS_DIR, exist_ok=True)
+        with open(_comments_path(company), "w", encoding="utf-8") as fh:
+            json.dump(comments, fh, indent=2, ensure_ascii=False)
+    except OSError as exc:
+        st.warning(f"Could not save comment: {exc}")
+
+
 def _runs_mtime() -> float:
     """Latest mtime across saved run files — used to bust the _list_runs cache."""
     paths = (glob.glob(os.path.join(OUTPUT_DIR, "runs", "*_sector_only.json"))
@@ -1272,3 +1313,45 @@ st.html(
     + "".join(f'<span class="pill pn">{_h(n)}</span>' for n in _generic)
     + "</div>"
 )
+
+# 6) Reviewer comments — managers leave feedback on this output -----------------
+st.divider()
+_company = data.get("company_name", "Company")
+_comments = _load_comments(_company)
+st.header(f"💬 Reviewer comments — {len(_comments)}")
+st.caption("Leave feedback on this one-pager — flag anything wrong, missing, or worth "
+           "pursuing. Comments are tied to this company and visible to everyone viewing it.")
+
+# Existing comments, newest first.
+if _comments:
+    for c in reversed(_comments):
+        sec = c.get("section") or "General"
+        tag = "pn" if sec == "General" else "pb"
+        st.html(
+            '<div class="kelp-op" style="border:0.5px solid #E5E8EE;border-radius:6px;'
+            'padding:8px 10px;margin:4px 0;">'
+            f'<div style="font-size:10px;color:#5A6878;margin-bottom:3px;">'
+            f'<b style="color:#1A2332;">{_h(c.get("author") or "Anonymous")}</b> '
+            f'<span class="pill {tag}">{_h(sec)}</span> '
+            f'<span style="color:#8A9AB0;">· {_h(c.get("ts") or "")}</span></div>'
+            f'<div style="font-size:11px;color:#1A2332;line-height:1.5;white-space:pre-wrap;">'
+            f'{_h(c.get("text") or "")}</div></div>'
+        )
+else:
+    st.info("No comments yet — be the first to leave feedback below.")
+
+# Post a new comment.
+_section_opts = ["General"] + [s.get("heading", "(untitled)") for s in sections]
+with st.form("add_comment", clear_on_submit=True):
+    cc1, cc2 = st.columns([1, 2])
+    _author = cc1.text_input("Your name", placeholder="e.g. Priya (manager)")
+    _section = cc2.selectbox("About which section?", _section_opts)
+    _text = st.text_area("Comment", placeholder="What's wrong, missing, or worth pursuing?",
+                         height=90)
+    _submitted = st.form_submit_button("💬 Post comment", type="primary")
+    if _submitted:
+        if _text.strip():
+            _save_comment(_company, _author, _section, _text)
+            st.rerun()
+        else:
+            st.warning("Write a comment before posting.")
