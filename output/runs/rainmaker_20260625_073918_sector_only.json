@@ -1,0 +1,1913 @@
+{
+  "company_name": "Rainmaker",
+  "generated_at": "20260625_073918",
+  "resolved_subsector": "drone-based weather modification & climate technology services",
+  "sections": [
+    {
+      "heading": "Validated Precipitation & Impact",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM",
+          "value": [
+            {
+              "period": "YTD/LTM as of April 2026",
+              "value": "143 million gallons (438.8 acre-feet)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of unambiguous seeding signatures YTD/LTM",
+          "value": [
+            {
+              "period": "YTD/LTM as of April 2026",
+              "value": 82
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of households served by validated water (annual equivalent)",
+          "value": [
+            {
+              "period": "Annual equivalent as of April 2026",
+              "value": 1750
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Targeted area coverage (acres/sq km)",
+          "value": [
+            {
+              "description": "for independent clients",
+              "value": "10,000 square acres"
+            },
+            {
+              "project": "Project Precipitation Enhancement (2025)",
+              "region": "Gulf of Mexico coastline",
+              "value": "1,236 square miles (3,200 km²)"
+            },
+            {
+              "project": "Project South Texas Weather Modification Association (2025)",
+              "region": "South Texas region",
+              "value": "10,830 square miles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "rainmaker.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Customer case study examples (list)",
+          "value": [
+            {
+              "name": "Oregon residents"
+            },
+            {
+              "name": "Utah residents"
+            },
+            {
+              "name": "Utah Department of Natural Resources"
+            },
+            {
+              "name": "Colorado Department of Natural Resources"
+            },
+            {
+              "name": "Oregon Department of Agriculture"
+            },
+            {
+              "name": "Cities throughout Texas"
+            },
+            {
+              "name": "Cities throughout California"
+            },
+            {
+              "name": "Snowbird Ski Resort (Utah)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "rainmaker.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+          "value": "Rainmaker's validation methodology adapts the 2017 SNOWIE study, using advanced weather radar (including dual-polarization), satellite data, and a weather awareness platform to identify \"unambiguous seeding signatures\" and \"Quantitative Precipitation Estimation (QPE)\". Radar distinguishes water droplets from ice crystals to prove seeding-caused precipitation. Proprietary forecasting and \"nowcasting\" platforms identify optimal seeding windows.",
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "List of third-party validation partners/auditors",
+          "value": [
+            {
+              "name": "National Center for Atmospheric Research (NCAR)",
+              "note": "SNOWSCAPE field campaign partner (2026), foundational SNOWIE study"
+            },
+            {
+              "name": "University of Utah",
+              "note": "SNOWSCAPE field campaign partner (2026)"
+            },
+            {
+              "name": "Utah State University",
+              "note": "SNOWSCAPE field campaign partner (2026)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Publication status of scientific validation papers",
+          "value": [
+            {
+              "description": "Methodology based on 2017 SNOWIE study, which demonstrated unambiguous measurement of human-caused precipitation."
+            },
+            {
+              "description": "As of April 2026, Rainmaker announced validation results via press release, becoming the first private company to do so."
+            },
+            {
+              "description": "No specific Rainmaker-authored peer-reviewed scientific validation papers explicitly mentioned as published."
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key findings from independent validation reports (summary)",
+          "value": [
+            {
+              "report": "2017 SNOWIE Study (NCAR)"
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM: [{\"period\": \"YTD/LTM as of April 2026\", \"value\": \"143 million gallons (438.8 acre-feet)\"}]",
+        "Number of unambiguous seeding signatures YTD/LTM: [{\"period\": \"YTD/LTM as of April 2026\", \"value\": 82}]",
+        "Number of households served by validated water (annual equivalent): [{\"period\": \"Annual equivalent as of April 2026\", \"value\": 1750}]",
+        "Targeted area coverage (acres/sq km): [{\"description\": \"for independent clients\", \"value\": \"10,000 square acres\"}, {\"project\": \"Project Precipitation Enhancement (2025)\", \"region\": \"Gulf of Mexico coastline\", \"value\": \"1,236 square miles (3,200 km²)\"}, {\"project\": \"Project South Texas Weather Modification Association (2025)\", \"region\": \"South Texas region\", \"value\": \"10,830 square miles\"}]",
+        "Customer case study examples (list): [{\"name\": \"Oregon residents\"}, {\"name\": \"Utah residents\"}, {\"name\": \"Utah Department of Natural Resources\"}, {\"name\": \"Colorado Department of Natural Resources\"}, {\"name\": \"Oregon Department of Agriculture\"}, {\"name\": \"Cities throughout Texas\"}, {\"name\": \"Cities throughout California\"}, {\"name\": \"Snowbird Ski Resort (Utah)\"}]",
+        "Description of validation methodology (e.g., radar reflectivity, ground sensors): Rainmaker's validation methodology adapts the 2017 SNOWIE study, using advanced weather radar (including dual-polarization), satellite data, and a weather awareness platform to identify \"unambiguous seeding signatures\" and \"Quantitative Precipitation Estimation (QPE)\". Radar distinguishes water droplets from ice crystals to prove seeding-caused precipitation. Proprietary forecasting and \"nowcasting\" platforms identify optimal seeding windows.",
+        "List of third-party validation partners/auditors: [{\"name\": \"National Center for Atmospheric Research (NCAR)\", \"note\": \"SNOWSCAPE field campaign partner (2026), foundational SNOWIE study\"}, {\"name\": \"University of Utah\", \"note\": \"SNOWSCAPE field campaign partner (2026)\"}, {\"name\": \"Utah State University\", \"note\": \"SNOWSCAPE field campaign partner (2026)\"}]",
+        "Publication status of scientific validation papers: [{\"description\": \"Methodology based on 2017 SNOWIE study, which demonstrated unambiguous measurement of human-caused precipitation.\"}, {\"description\": \"As of April 2026, Rainmaker announced validation results via press release, becoming the first private company to do so.\"}, {\"description\": \"No specific Rainmaker-authored peer-reviewed scientific validation papers explicitly mentioned as published.\"}]",
+        "Key findings from independent validation reports (summary): [{\"report\": \"2017 SNOWIE Study (NCAR)\"}]"
+      ],
+      "references": [
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg==",
+          "fields": [
+            "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM",
+            "Number of unambiguous seeding signatures YTD/LTM",
+            "Number of households served by validated water (annual equivalent)",
+            "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+            "List of third-party validation partners/auditors",
+            "Publication status of scientific validation papers"
+          ]
+        },
+        {
+          "name": "rainmaker.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg==",
+          "fields": [
+            "Targeted area coverage (acres/sq km)",
+            "Customer case study examples (list)"
+          ]
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ==",
+          "fields": [
+            "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+            "List of third-party validation partners/auditors",
+            "Publication status of scientific validation papers"
+          ]
+        },
+        {
+          "name": "gearjunkie.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfmd_C-X3gBD7Cjmue4E-bs142AFyErs9oip7CC6pI2cN9nizjDSR8Uq5AE_eHwTR1Jp84v0qDvP9DXdkwODqWBMvDtCBRKExcqaIuivMabGif8J-gUkvuZ5kvVhml_zS0MpGTb6k_KK4fFlOUNt-ePO9niLzS02r1co8=",
+          "fields": []
+        },
+        {
+          "name": "atmo.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7M8fq4-cmgNAqiSAqL6qPgJ8CVvxOm6AY3oj0D9FpR3U8ALoUYUM-gX5ecFD4pqN0MPwdT0ZKNoGfA68Yy-vyL_je37LvB_KeSp-tlLGKXOUq0DyLgWeuBspBNhA4pf18NuUmHzdW3euqUvbKASzfm5asRboN3ThU2z1-c2bA6Ks3IpraN3cSxy_EXI-V66mJ2GYsg05iXyDwOOx8xIIqD84ZDtfXjupzeXcx5vZv5WL-3whwvffeGTdz65ysKWdFFGcx0c54IXeLpvhpwTzJ-fQ=",
+          "fields": []
+        },
+        {
+          "name": "lowercarbon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv99S4tB0Y3LZafKImIlkoAD8pAIqTpUvXzU2adZ5P-J6r3oR2_Y3Rbec3D-kUhsmNdAegBbQ4XtMzigPR8hoN7nlq4T3QQFCwCiU7maTVttluv_3noQ1gmzUddmlVubWz-g-A1DAmV-FatDCk0xrm",
+          "fields": []
+        },
+        {
+          "name": "mcj.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtrPTgBC0uKt--5JKLyQxxlYwUA6wIRnllF--Q3B7gvKE9u8EQhXNw1WZbpfiIHOTYdTILgMki5jFlqdy199BqoE48GqgXmHK24dYBX5YVL6wd6GRDlA7nLk3R1dlL-0gGq2g35A==",
+          "fields": []
+        },
+        {
+          "name": "glitchwire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyY_InsFFpRcgtju3cz04c3fwr1Ax84eb0-SRAt_RMuKBSgQ92KXSriPMVwgGOK2vKeHNQD_7o02aq1DRqp23j0k7CfzGg_Z1dthMiYBcA9NH3CcFQd0C9aSRZuoORD1DSykJNevDhvM5AKI6nue9FePc6nag17XmmLAUQRzgobox-GBXD1QJFA36ydSj1uJTSo7gxg3bFpoR6N_DhwllSWdJRxT4B",
+          "fields": []
+        }
+      ],
+      "domain_name": "Weather Modification Efficacy & Validation",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 9,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "This data directly addresses the core question of Rainmaker's technological effectiveness and market validation, making it a critical factor in deciding whether to pursue deeper investment diligence.",
+        "banker": "The validation data and third-party audits are crucial for assessing the credibility and potential market traction of Rainmaker's technology, influencing whether to pitch this company for M&A or financing.",
+        "credit_analyst": "The 'Validated Precipitation & Impact' and 'Validation Methodology' sections provide quantifiable evidence of operational success and technological reliability, directly impacting the assessment of credit risk and the decision to underwrite.",
+        "consultant": "The detailed methodology and third-party validation reports offer insights into the operational execution and scientific rigor of Rainmaker's services, informing whether to explore operational improvement or market entry strategies."
+      }
+    },
+    {
+      "heading": "Validation Methodology & Third-Party Audits",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM",
+          "value": [
+            {
+              "period": "YTD/LTM as of April 2026",
+              "value": "143 million gallons (438.8 acre-feet)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of unambiguous seeding signatures YTD/LTM",
+          "value": [
+            {
+              "period": "YTD/LTM as of April 2026",
+              "value": 82
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of households served by validated water (annual equivalent)",
+          "value": [
+            {
+              "period": "Annual equivalent as of April 2026",
+              "value": 1750
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Targeted area coverage (acres/sq km)",
+          "value": [
+            {
+              "description": "for independent clients",
+              "value": "10,000 square acres"
+            },
+            {
+              "project": "Project Precipitation Enhancement (2025)",
+              "region": "Gulf of Mexico coastline",
+              "value": "1,236 square miles (3,200 km²)"
+            },
+            {
+              "project": "Project South Texas Weather Modification Association (2025)",
+              "region": "South Texas region",
+              "value": "10,830 square miles"
+            }
+          ],
+          "sources": [
+            {
+              "name": "rainmaker.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Customer case study examples (list)",
+          "value": [
+            {
+              "name": "Oregon residents"
+            },
+            {
+              "name": "Utah residents"
+            },
+            {
+              "name": "Utah Department of Natural Resources"
+            },
+            {
+              "name": "Colorado Department of Natural Resources"
+            },
+            {
+              "name": "Oregon Department of Agriculture"
+            },
+            {
+              "name": "Cities throughout Texas"
+            },
+            {
+              "name": "Cities throughout California"
+            },
+            {
+              "name": "Snowbird Ski Resort (Utah)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "rainmaker.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+          "value": "Rainmaker's validation methodology adapts the 2017 SNOWIE study, using advanced weather radar (including dual-polarization), satellite data, and a weather awareness platform to identify \"unambiguous seeding signatures\" and \"Quantitative Precipitation Estimation (QPE)\". Radar distinguishes water droplets from ice crystals to prove seeding-caused precipitation. Proprietary forecasting and \"nowcasting\" platforms identify optimal seeding windows.",
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "List of third-party validation partners/auditors",
+          "value": [
+            {
+              "name": "National Center for Atmospheric Research (NCAR)",
+              "note": "SNOWSCAPE field campaign partner (2026), foundational SNOWIE study"
+            },
+            {
+              "name": "University of Utah",
+              "note": "SNOWSCAPE field campaign partner (2026)"
+            },
+            {
+              "name": "Utah State University",
+              "note": "SNOWSCAPE field campaign partner (2026)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Publication status of scientific validation papers",
+          "value": [
+            {
+              "description": "Methodology based on 2017 SNOWIE study, which demonstrated unambiguous measurement of human-caused precipitation."
+            },
+            {
+              "description": "As of April 2026, Rainmaker announced validation results via press release, becoming the first private company to do so."
+            },
+            {
+              "description": "No specific Rainmaker-authored peer-reviewed scientific validation papers explicitly mentioned as published."
+            }
+          ],
+          "sources": [
+            {
+              "name": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg=="
+            },
+            {
+              "name": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key findings from independent validation reports (summary)",
+          "value": [
+            {
+              "report": "2017 SNOWIE Study (NCAR)"
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM: [{\"period\": \"YTD/LTM as of April 2026\", \"value\": \"143 million gallons (438.8 acre-feet)\"}]",
+        "Number of unambiguous seeding signatures YTD/LTM: [{\"period\": \"YTD/LTM as of April 2026\", \"value\": 82}]",
+        "Number of households served by validated water (annual equivalent): [{\"period\": \"Annual equivalent as of April 2026\", \"value\": 1750}]",
+        "Targeted area coverage (acres/sq km): [{\"description\": \"for independent clients\", \"value\": \"10,000 square acres\"}, {\"project\": \"Project Precipitation Enhancement (2025)\", \"region\": \"Gulf of Mexico coastline\", \"value\": \"1,236 square miles (3,200 km²)\"}, {\"project\": \"Project South Texas Weather Modification Association (2025)\", \"region\": \"South Texas region\", \"value\": \"10,830 square miles\"}]",
+        "Customer case study examples (list): [{\"name\": \"Oregon residents\"}, {\"name\": \"Utah residents\"}, {\"name\": \"Utah Department of Natural Resources\"}, {\"name\": \"Colorado Department of Natural Resources\"}, {\"name\": \"Oregon Department of Agriculture\"}, {\"name\": \"Cities throughout Texas\"}, {\"name\": \"Cities throughout California\"}, {\"name\": \"Snowbird Ski Resort (Utah)\"}]",
+        "Description of validation methodology (e.g., radar reflectivity, ground sensors): Rainmaker's validation methodology adapts the 2017 SNOWIE study, using advanced weather radar (including dual-polarization), satellite data, and a weather awareness platform to identify \"unambiguous seeding signatures\" and \"Quantitative Precipitation Estimation (QPE)\". Radar distinguishes water droplets from ice crystals to prove seeding-caused precipitation. Proprietary forecasting and \"nowcasting\" platforms identify optimal seeding windows.",
+        "List of third-party validation partners/auditors: [{\"name\": \"National Center for Atmospheric Research (NCAR)\", \"note\": \"SNOWSCAPE field campaign partner (2026), foundational SNOWIE study\"}, {\"name\": \"University of Utah\", \"note\": \"SNOWSCAPE field campaign partner (2026)\"}, {\"name\": \"Utah State University\", \"note\": \"SNOWSCAPE field campaign partner (2026)\"}]",
+        "Publication status of scientific validation papers: [{\"description\": \"Methodology based on 2017 SNOWIE study, which demonstrated unambiguous measurement of human-caused precipitation.\"}, {\"description\": \"As of April 2026, Rainmaker announced validation results via press release, becoming the first private company to do so.\"}, {\"description\": \"No specific Rainmaker-authored peer-reviewed scientific validation papers explicitly mentioned as published.\"}]",
+        "Key findings from independent validation reports (summary): [{\"report\": \"2017 SNOWIE Study (NCAR)\"}]"
+      ],
+      "references": [
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kshPTL2_OfL3VLb653YTqoayThAc9f11ZoLvoniwk3n2lTb0KAni_qHN1qe4QS-gXdg5a-U7lg5kQshqbS0Ch7SbYMEnDMNkRWztFKsGZTKo7DBVPSzUn7ySuUNy-tTmpxAPxxV4idUcQAmvKlYcdhuNkb7c6kyhCD1sXRolGaJg7i-c1o7v6hSK3F3gwMQ1quZXXpkn-CZp9qI9_ZX1Ya1zYqrCDOlddbz107ZqKzOztQZSW2sL5hIELmLhRf0rAMyIFSFLl_yZTKrSAGXE18ZLZbohf1_tCRHn3oohJg==",
+          "fields": [
+            "Total validated incremental precipitation (gallons/acre-feet) YTD/LTM",
+            "Number of unambiguous seeding signatures YTD/LTM",
+            "Number of households served by validated water (annual equivalent)",
+            "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+            "List of third-party validation partners/auditors",
+            "Publication status of scientific validation papers"
+          ]
+        },
+        {
+          "name": "rainmaker.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyigA-vZBcUSTBFKocDiux5-8zmTq98luG01TsaoPGRFnM23wviUkXnPZj48Ks2D4BzbyFJXCs6VFA4GPbMynBH6JR3-Y_htP-coeGAMa4rgjidnI7ypESbHUXg==",
+          "fields": [
+            "Targeted area coverage (acres/sq km)",
+            "Customer case study examples (list)"
+          ]
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-b9sraU_Xf6M9qpD4TJvfRTHLzf7zxRfiIwVdZRXwDODFVMb-KxPgRlYywsXf2MLGMj9Dj2prUqIo5XuHEq_gdPsJUe5Lpeo8I5Imt0a22jkMNv7aBq9100gq0Yds9_5QovoamdHiz1eVg-j4H9-RMwbYUKYxCPN3pdS9uIhO7NhK2zmwjcSrWfrHoxnOdm5JvnIQqBeG1yUUX6KlQ==",
+          "fields": [
+            "Description of validation methodology (e.g., radar reflectivity, ground sensors)",
+            "List of third-party validation partners/auditors",
+            "Publication status of scientific validation papers"
+          ]
+        },
+        {
+          "name": "gearjunkie.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfmd_C-X3gBD7Cjmue4E-bs142AFyErs9oip7CC6pI2cN9nizjDSR8Uq5AE_eHwTR1Jp84v0qDvP9DXdkwODqWBMvDtCBRKExcqaIuivMabGif8J-gUkvuZ5kvVhml_zS0MpGTb6k_KK4fFlOUNt-ePO9niLzS02r1co8=",
+          "fields": []
+        },
+        {
+          "name": "atmo.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7M8fq4-cmgNAqiSAqL6qPgJ8CVvxOm6AY3oj0D9FpR3U8ALoUYUM-gX5ecFD4pqN0MPwdT0ZKNoGfA68Yy-vyL_je37LvB_KeSp-tlLGKXOUq0DyLgWeuBspBNhA4pf18NuUmHzdW3euqUvbKASzfm5asRboN3ThU2z1-c2bA6Ks3IpraN3cSxy_EXI-V66mJ2GYsg05iXyDwOOx8xIIqD84ZDtfXjupzeXcx5vZv5WL-3whwvffeGTdz65ysKWdFFGcx0c54IXeLpvhpwTzJ-fQ=",
+          "fields": []
+        },
+        {
+          "name": "lowercarbon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv99S4tB0Y3LZafKImIlkoAD8pAIqTpUvXzU2adZ5P-J6r3oR2_Y3Rbec3D-kUhsmNdAegBbQ4XtMzigPR8hoN7nlq4T3QQFCwCiU7maTVttluv_3noQ1gmzUddmlVubWz-g-A1DAmV-FatDCk0xrm",
+          "fields": []
+        },
+        {
+          "name": "mcj.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtrPTgBC0uKt--5JKLyQxxlYwUA6wIRnllF--Q3B7gvKE9u8EQhXNw1WZbpfiIHOTYdTILgMki5jFlqdy199BqoE48GqgXmHK24dYBX5YVL6wd6GRDlA7nLk3R1dlL-0gGq2g35A==",
+          "fields": []
+        },
+        {
+          "name": "glitchwire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyY_InsFFpRcgtju3cz04c3fwr1Ax84eb0-SRAt_RMuKBSgQ92KXSriPMVwgGOK2vKeHNQD_7o02aq1DRqp23j0k7CfzGg_Z1dthMiYBcA9NH3CcFQd0C9aSRZuoORD1DSykJNevDhvM5AKI6nue9FePc6nag17XmmLAUQRzgobox-GBXD1QJFA36ydSj1uJTSo7gxg3bFpoR6N_DhwllSWdJRxT4B",
+          "fields": []
+        }
+      ],
+      "domain_name": "Weather Modification Efficacy & Validation",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 9,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "This data directly addresses the core question of Rainmaker's technological effectiveness and market validation, making it a critical factor in deciding whether to pursue deeper investment diligence.",
+        "banker": "The validation data and third-party audits are crucial for assessing the credibility and potential market traction of Rainmaker's technology, influencing whether to pitch this company for M&A or financing.",
+        "credit_analyst": "The 'Validated Precipitation & Impact' and 'Validation Methodology' sections provide quantifiable evidence of operational success and technological reliability, directly impacting the assessment of credit risk and the decision to underwrite.",
+        "consultant": "The detailed methodology and third-party validation reports offer insights into the operational execution and scientific rigor of Rainmaker's services, informing whether to explore operational improvement or market entry strategies."
+      }
+    },
+    {
+      "heading": "Drone Fleet & Vertical Integration Metrics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total number of operational Elijah drones",
+          "value": 75,
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+          "value": "Vertically integrated model, owning and operating drone fleet, dispersion hardware, radar validation systems, and weather modeling software. Includes drone manufacturing, chemical procurement, and internal design and manufacturing of radar systems. Tech stack designed and manufactured in the United States.",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Types and number of proprietary radar systems (e.g., Eden)",
+          "value": [
+            {
+              "type": "Proprietary ground-based phased-array radar system",
+              "name": "Eden",
+              "note": "Used for validating outcomes, measuring reflectivity changes and incremental precipitation"
+            },
+            {
+              "type": "Custom-built meteorological radar systems",
+              "note": "Built systems costing 1/10th of top-of-the-line commercial systems; described as 'custom radar systems bound for mountaintops' and part of an 'always-on radar and satellite monitoring' system"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average cost per flight hour (all-in, including chemicals/batteries)",
+          "value": "$50",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Comparison to traditional aircraft-based cloud seeding cost per hour",
+          "value": "$2,000 to $4,000 per flight hour (traditional aircraft-based cloud seeding)",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of operational states/regions",
+          "value": 7,
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "utah.gov",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total flight hours logged YTD/LTM",
+          "value": "80+ hours",
+          "sources": [
+            {
+              "name": "utah.gov",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Planned new operational regions/countries",
+          "value": [
+            {
+              "region": "Florida",
+              "country": "U.S.",
+              "note": "Aquifer-stressed area"
+            },
+            {
+              "region": "Middle East"
+            },
+            {
+              "region": "Australia"
+            },
+            {
+              "region": "North America"
+            },
+            {
+              "region": "Pacific"
+            },
+            {
+              "region": "Africa"
+            },
+            {
+              "region": "Sahel",
+              "note": "Water-stressed region"
+            },
+            {
+              "region": "Punjab",
+              "note": "Water-stressed region"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": null
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of operational Elijah drones: 75",
+        "In-house manufacturing capabilities (e.g., drone assembly, payload production): Vertically integrated model, owning and operating drone fleet, dispersion hardware, radar validation systems, and weather modeling software. Includes drone manufacturing, chemical procurement, and internal design and manufacturing of radar systems. Tech stack designed and manufactured in the United States.",
+        "Types and number of proprietary radar systems (e.g., Eden): [{\"type\": \"Proprietary ground-based phased-array radar system\", \"name\": \"Eden\", \"note\": \"Used for validating outcomes, measuring reflectivity changes and incremental precipitation\"}, {\"type\": \"Custom-built meteorological radar systems\", \"note\": \"Built systems costing 1/10th of top-of-the-line commercial systems; described as 'custom radar systems bound for mountaintops' and part of an 'always-on radar and satellite monitoring' system\"}]",
+        "Average cost per flight hour (all-in, including chemicals/batteries): $50",
+        "Comparison to traditional aircraft-based cloud seeding cost per hour: $2,000 to $4,000 per flight hour (traditional aircraft-based cloud seeding)",
+        "Number of operational states/regions: 7",
+        "Total flight hours logged YTD/LTM: 80+ hours",
+        "Planned new operational regions/countries: [{\"region\": \"Florida\", \"country\": \"U.S.\", \"note\": \"Aquifer-stressed area\"}, {\"region\": \"Middle East\"}, {\"region\": \"Australia\"}, {\"region\": \"North America\"}, {\"region\": \"Pacific\"}, {\"region\": \"Africa\"}, {\"region\": \"Sahel\", \"note\": \"Water-stressed region\"}, {\"region\": \"Punjab\", \"note\": \"Water-stressed region\"}]"
+      ],
+      "references": [
+        {
+          "name": "sacra.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag==",
+          "fields": [
+            "Total number of operational Elijah drones",
+            "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+            "Types and number of proprietary radar systems (e.g., Eden)",
+            "Average cost per flight hour (all-in, including chemicals/batteries)",
+            "Comparison to traditional aircraft-based cloud seeding cost per hour",
+            "Number of operational states/regions"
+          ]
+        },
+        {
+          "name": "lowercarbon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g==",
+          "fields": [
+            "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+            "Types and number of proprietary radar systems (e.g., Eden)",
+            "Average cost per flight hour (all-in, including chemicals/batteries)",
+            "Comparison to traditional aircraft-based cloud seeding cost per hour",
+            "Planned new operational regions/countries"
+          ]
+        },
+        {
+          "name": "utah.gov",
+          "url": null,
+          "fields": [
+            "Number of operational states/regions",
+            "Total flight hours logged YTD/LTM"
+          ]
+        },
+        {
+          "name": "sacra.com",
+          "url": null,
+          "fields": [
+            "Planned new operational regions/countries"
+          ]
+        },
+        {
+          "name": "fastcompany.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXksba3QiIw72F7rRdpMjc2riPGliU4UhPeOMdSQjCicXGsNIqtOrIhM-Itckn8S_hIStkXo9xh0MrO1uVi5YaKmWtt4N8y0H5Qi8tViNECSsMd04OEspsToF8P7sK1VhheVZdrzG3v0xs4UGG-Tf5bfAiO0RZOVncs6xxUUziaia_tzPhPw==",
+          "fields": []
+        },
+        {
+          "name": "utah.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG22GW5plI1sOw2bqiUUOn2v59KCBlFrgKblR4Q_F3PmFhVyFA296R8sZHMvJh5SLbOGzF4izzlXunBOklXmLw5KQi7LgklyVpBdW3X_Z_STn_2kaO748GN1pxLs0nUd5seMUimd9mhgwjfDArijqxF8KGmvvy1hc3YpO_lUnbS612Bf08bDVZY9ku9AgVl8SQg7BrRYDtPmNXcPQ==",
+          "fields": []
+        },
+        {
+          "name": "sourcery.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrpAgLTiG_TdF83hNgkIJQ-yLmqOkhAph4vrmLJKF6xHMY454HS4o-T_zar9EPOl0NLMSXDHWrWLabrezzHHsQfzY99GkUo22GpffYEUzt7IfLgatervYgJ1JRsMSz8KFPypEYSKhZPS0EdCRVzp4Qn4gY7xvKs5M=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Operational Technology & Scalability",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Backward integration percentage (e.g., % of drone components sourced internally)",
+        "R&D expenditure on hardware development (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The detailed breakdown of drone fleet size, in-house manufacturing, and backward integration directly informs the assessment of Rainmaker's ability to scale operations and control costs, a key factor in evaluating its long-term investment potential.",
+        "banker": "Information on operational states/regions and planned expansion is crucial for identifying potential M&A or capital raise opportunities, indicating the company's growth trajectory and market penetration.",
+        "credit_analyst": "The cost efficiency metrics (cost per flight hour, comparison to traditional methods) and operational footprint (number of states/regions) provide vital data points for assessing financial viability and operational risk.",
+        "consultant": "The data on in-house manufacturing capabilities, backward integration, and proprietary radar systems highlights potential areas for operational optimization and competitive advantage that warrant deeper investigation."
+      }
+    },
+    {
+      "heading": "Cost Efficiency & Operational Footprint",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total number of operational Elijah drones",
+          "value": 75,
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+          "value": "Vertically integrated model, owning and operating drone fleet, dispersion hardware, radar validation systems, and weather modeling software. Includes drone manufacturing, chemical procurement, and internal design and manufacturing of radar systems. Tech stack designed and manufactured in the United States.",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Types and number of proprietary radar systems (e.g., Eden)",
+          "value": [
+            {
+              "type": "Proprietary ground-based phased-array radar system",
+              "name": "Eden",
+              "note": "Used for validating outcomes, measuring reflectivity changes and incremental precipitation"
+            },
+            {
+              "type": "Custom-built meteorological radar systems",
+              "note": "Built systems costing 1/10th of top-of-the-line commercial systems; described as 'custom radar systems bound for mountaintops' and part of an 'always-on radar and satellite monitoring' system"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average cost per flight hour (all-in, including chemicals/batteries)",
+          "value": "$50",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Comparison to traditional aircraft-based cloud seeding cost per hour",
+          "value": "$2,000 to $4,000 per flight hour (traditional aircraft-based cloud seeding)",
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of operational states/regions",
+          "value": 7,
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag=="
+            },
+            {
+              "name": "utah.gov",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total flight hours logged YTD/LTM",
+          "value": "80+ hours",
+          "sources": [
+            {
+              "name": "utah.gov",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Planned new operational regions/countries",
+          "value": [
+            {
+              "region": "Florida",
+              "country": "U.S.",
+              "note": "Aquifer-stressed area"
+            },
+            {
+              "region": "Middle East"
+            },
+            {
+              "region": "Australia"
+            },
+            {
+              "region": "North America"
+            },
+            {
+              "region": "Pacific"
+            },
+            {
+              "region": "Africa"
+            },
+            {
+              "region": "Sahel",
+              "note": "Water-stressed region"
+            },
+            {
+              "region": "Punjab",
+              "note": "Water-stressed region"
+            }
+          ],
+          "sources": [
+            {
+              "name": "sacra.com",
+              "url": null
+            },
+            {
+              "name": "lowercarbon.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of operational Elijah drones: 75",
+        "In-house manufacturing capabilities (e.g., drone assembly, payload production): Vertically integrated model, owning and operating drone fleet, dispersion hardware, radar validation systems, and weather modeling software. Includes drone manufacturing, chemical procurement, and internal design and manufacturing of radar systems. Tech stack designed and manufactured in the United States.",
+        "Types and number of proprietary radar systems (e.g., Eden): [{\"type\": \"Proprietary ground-based phased-array radar system\", \"name\": \"Eden\", \"note\": \"Used for validating outcomes, measuring reflectivity changes and incremental precipitation\"}, {\"type\": \"Custom-built meteorological radar systems\", \"note\": \"Built systems costing 1/10th of top-of-the-line commercial systems; described as 'custom radar systems bound for mountaintops' and part of an 'always-on radar and satellite monitoring' system\"}]",
+        "Average cost per flight hour (all-in, including chemicals/batteries): $50",
+        "Comparison to traditional aircraft-based cloud seeding cost per hour: $2,000 to $4,000 per flight hour (traditional aircraft-based cloud seeding)",
+        "Number of operational states/regions: 7",
+        "Total flight hours logged YTD/LTM: 80+ hours",
+        "Planned new operational regions/countries: [{\"region\": \"Florida\", \"country\": \"U.S.\", \"note\": \"Aquifer-stressed area\"}, {\"region\": \"Middle East\"}, {\"region\": \"Australia\"}, {\"region\": \"North America\"}, {\"region\": \"Pacific\"}, {\"region\": \"Africa\"}, {\"region\": \"Sahel\", \"note\": \"Water-stressed region\"}, {\"region\": \"Punjab\", \"note\": \"Water-stressed region\"}]"
+      ],
+      "references": [
+        {
+          "name": "sacra.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0C8Jc9B8lDtbLTalH30bdn3F8Lc5RCtnL1PSwD03bAy_0rsuHtQexzLKyTZ5MfANZ3hGBugFSOK4_wPITq-KVeAEl-D8v1xfU48i5xKzyoeMPLY8DVsv3Ag==",
+          "fields": [
+            "Total number of operational Elijah drones",
+            "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+            "Types and number of proprietary radar systems (e.g., Eden)",
+            "Average cost per flight hour (all-in, including chemicals/batteries)",
+            "Comparison to traditional aircraft-based cloud seeding cost per hour",
+            "Number of operational states/regions"
+          ]
+        },
+        {
+          "name": "lowercarbon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBguU9kNXumUm_pCAx0AGXC7_B-JIq-gDKzbw4wFW31lqxWKanxRjHZtqW5kXZogCt51jjG-_YqpvyKOQzehrFh6YhaCRSAOtuVj7gRdOCb_xTxYoXxHBT9CoO8AAYBkUgIruyTYJGgd5atfO7cNco_g==",
+          "fields": [
+            "In-house manufacturing capabilities (e.g., drone assembly, payload production)",
+            "Types and number of proprietary radar systems (e.g., Eden)",
+            "Average cost per flight hour (all-in, including chemicals/batteries)",
+            "Comparison to traditional aircraft-based cloud seeding cost per hour",
+            "Planned new operational regions/countries"
+          ]
+        },
+        {
+          "name": "utah.gov",
+          "url": null,
+          "fields": [
+            "Number of operational states/regions",
+            "Total flight hours logged YTD/LTM"
+          ]
+        },
+        {
+          "name": "sacra.com",
+          "url": null,
+          "fields": [
+            "Planned new operational regions/countries"
+          ]
+        },
+        {
+          "name": "fastcompany.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXksba3QiIw72F7rRdpMjc2riPGliU4UhPeOMdSQjCicXGsNIqtOrIhM-Itckn8S_hIStkXo9xh0MrO1uVi5YaKmWtt4N8y0H5Qi8tViNECSsMd04OEspsToF8P7sK1VhheVZdrzG3v0xs4UGG-Tf5bfAiO0RZOVncs6xxUUziaia_tzPhPw==",
+          "fields": []
+        },
+        {
+          "name": "utah.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG22GW5plI1sOw2bqiUUOn2v59KCBlFrgKblR4Q_F3PmFhVyFA296R8sZHMvJh5SLbOGzF4izzlXunBOklXmLw5KQi7LgklyVpBdW3X_Z_STn_2kaO748GN1pxLs0nUd5seMUimd9mhgwjfDArijqxF8KGmvvy1hc3YpO_lUnbS612Bf08bDVZY9ku9AgVl8SQg7BrRYDtPmNXcPQ==",
+          "fields": []
+        },
+        {
+          "name": "sourcery.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrpAgLTiG_TdF83hNgkIJQ-yLmqOkhAph4vrmLJKF6xHMY454HS4o-T_zar9EPOl0NLMSXDHWrWLabrezzHHsQfzY99GkUo22GpffYEUzt7IfLgatervYgJ1JRsMSz8KFPypEYSKhZPS0EdCRVzp4Qn4gY7xvKs5M=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Operational Technology & Scalability",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Backward integration percentage (e.g., % of drone components sourced internally)",
+        "R&D expenditure on hardware development (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The detailed breakdown of drone fleet size, in-house manufacturing, and backward integration directly informs the assessment of Rainmaker's ability to scale operations and control costs, a key factor in evaluating its long-term investment potential.",
+        "banker": "Information on operational states/regions and planned expansion is crucial for identifying potential M&A or capital raise opportunities, indicating the company's growth trajectory and market penetration.",
+        "credit_analyst": "The cost efficiency metrics (cost per flight hour, comparison to traditional methods) and operational footprint (number of states/regions) provide vital data points for assessing financial viability and operational risk.",
+        "consultant": "The data on in-house manufacturing capabilities, backward integration, and proprietary radar systems highlights potential areas for operational optimization and competitive advantage that warrant deeper investigation."
+      }
+    },
+    {
+      "heading": "Contract Structure & Customer Base",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of active service contracts",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "More than 1,200 deployed systems across 40+ countries (proxy for active service contracts, as revenue model includes service/maintenance contracts)",
+            "Rainmaker Technology Corporation (Cloud Seeding)": [
+              {
+                "description": "Contracts with the state of Utah"
+              },
+              {
+                "description": "Contracts with local soil and water conservation districts in Texas"
+              },
+              {
+                "description": "Partnership with Snowbird Resort in Utah"
+              },
+              {
+                "period": "2025",
+                "description": "Four documented weather modification projects in Texas: Project Precipitation Enhancement, Project South Texas Weather Modification Association, Project Trans-Pecos Weather Modification Association, Project West Texas Weather Modification"
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average contract duration (years)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available (business model based on multi-year service contracts, but no specific average duration given)"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "type": "General",
+                "description": "Municipalities, industries, and communities worldwide"
+              },
+              {
+                "type": "Specific applications",
+                "description": "Water-scarce environments, remote and island communities, remote mining and energy operations, disaster response and military operations, humanitarian settlements, bottled beverage production, coastal and island communities, tourism and hospitality operations, industrial and manufacturing operations, and food and beverage processing"
+              },
+              {
+                "type": "Mexico focus",
+                "description": "Hospitality sector, commercial applications, and large-scale infrastructure projects"
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": [
+              {
+                "type": "Primary",
+                "description": "Government water agencies, irrigation districts, and agricultural customers"
+              },
+              {
+                "type": "Specific examples",
+                "description": "State governments (e.g., Utah, Colorado, Oregon, Idaho, California), municipalities (e.g., Santa Barbara, San Luis Obispo), counties in Texas, and ski resorts (e.g., Snowbird Resort)"
+              },
+              {
+                "type": "Emerging markets",
+                "description": "Corporate water stewardship programs for sectors like beverages, semiconductors"
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of new contracts signed YTD/LTM",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "date": "Jan 22, 2026",
+                "description": "Strengthened North American growth pipeline with an affiliate partnership supporting Ontario's housing expansion, involving its subsidiary Miranda Water Technologies"
+              },
+              {
+                "date": "Jan 20, 2026",
+                "description": "Expanded U.S. operations with ATMOCELL 5K and R/OCell® deployments in the Permian Basin, enhancing recurring-revenue potential"
+              },
+              {
+                "date": "Oct 29, 2025",
+                "description": "Affiliate Miranda Water Technologies chosen for an Ontario project expanding rural housing with sustainable wastewater technology"
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key contract terms (e.g., payment structure, performance clauses - if publicly available)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "period": "2020",
+                "description": "Joint Venture (JV) agreement with Rainmaker Water PVT LTD in Sri Lanka: Rainmaker Worldwide Inc. provided a $112,000 USD Partner Fee as an investment and ensured maintenance and upgrades of units. The JV agreed to provide water at competitive market rates."
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Description of revenue recognition policy (e.g., service delivery, operational readiness)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Dual revenue model combining product sales with Water-as-a-Service (WaaS) offerings, providing both upfront revenue and recurring income streams.",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total contract value (TCV) of current backlog",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Annual Recurring Revenue (ARR) from service contracts",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available (company expects significant growth in 2026 with a strategy built on expanding installations and strengthening market access for sustainable revenue growth, but no specific ARR figure disclosed)",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Contract renewal rate (if disclosed)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Impact of contract milestones on revenue recognition",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "period": "2020",
+                "description": "In a JV agreement, Rainmaker Worldwide Inc. was to be issued an additional 5% ownership for every Air-to-Water (AW) unit deployed, up to a maximum of 49% of the JV."
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of active service contracts: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"More than 1,200 deployed systems across 40+ countries (proxy for active service contracts, as revenue model includes service/maintenance contracts)\", \"Rainmaker Technology Corporation (Cloud Seeding)\": [{\"description\": \"Contracts with the state of Utah\"}, {\"description\": \"Contracts with local soil and water conservation districts in Texas\"}, {\"description\": \"Partnership with Snowbird Resort in Utah\"}, {\"period\": \"2025\", \"description\": \"Four documented weather modification projects in Texas: Project Precipitation Enhancement, Project South Texas Weather Modification Association, Project Trans-Pecos Weather Modification Association, Project West Texas Weather Modification\"}]}",
+        "Average contract duration (years): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available (business model based on multi-year service contracts, but no specific average duration given)\"}",
+        "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"type\": \"General\", \"description\": \"Municipalities, industries, and communities worldwide\"}, {\"type\": \"Specific applications\", \"description\": \"Water-scarce environments, remote and island communities, remote mining and energy operations, disaster response and military operations, humanitarian settlements, bottled beverage production, coastal and island communities, tourism and hospitality operations, industrial and manufacturing operations, and food and beverage processing\"}, {\"type\": \"Mexico focus\", \"description\": \"Hospitality sector, commercial applications, and large-scale infrastructure projects\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": [{\"type\": \"Primary\", \"description\": \"Government water agencies, irrigation districts, and agricultural customers\"}, {\"type\": \"Specific examples\", \"description\": \"State governments (e.g., Utah, Colorado, Oregon, Idaho, California), municipalities (e.g., Santa Barbara, San Luis Obispo), counties in Texas, and ski resorts (e.g., Snowbird Resort)\"}, {\"type\": \"Emerging markets\", \"description\": \"Corporate water stewardship programs for sectors like beverages, semiconductors\"}]}",
+        "Number of new contracts signed YTD/LTM: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"date\": \"Jan 22, 2026\", \"description\": \"Strengthened North American growth pipeline with an affiliate partnership supporting Ontario's housing expansion, involving its subsidiary Miranda Water Technologies\"}, {\"date\": \"Jan 20, 2026\", \"description\": \"Expanded U.S. operations with ATMOCELL 5K and R/OCell® deployments in the Permian Basin, enhancing recurring-revenue potential\"}, {\"date\": \"Oct 29, 2025\", \"description\": \"Affiliate Miranda Water Technologies chosen for an Ontario project expanding rural housing with sustainable wastewater technology\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Key contract terms (e.g., payment structure, performance clauses - if publicly available): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"period\": \"2020\", \"description\": \"Joint Venture (JV) agreement with Rainmaker Water PVT LTD in Sri Lanka: Rainmaker Worldwide Inc. provided a $112,000 USD Partner Fee as an investment and ensured maintenance and upgrades of units. The JV agreed to provide water at competitive market rates.\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Description of revenue recognition policy (e.g., service delivery, operational readiness): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Dual revenue model combining product sales with Water-as-a-Service (WaaS) offerings, providing both upfront revenue and recurring income streams.\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Total contract value (TCV) of current backlog: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Annual Recurring Revenue (ARR) from service contracts: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available (company expects significant growth in 2026 with a strategy built on expanding installations and strengthening market access for sustainable revenue growth, but no specific ARR figure disclosed)\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Contract renewal rate (if disclosed): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Impact of contract milestones on revenue recognition: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"period\": \"2020\", \"description\": \"In a JV agreement, Rainmaker Worldwide Inc. was to be issued an additional 5% ownership for every Air-to-Water (AW) unit deployed, up to a maximum of 49% of the JV.\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}"
+      ],
+      "references": [
+        {
+          "name": "rainmakerww.com",
+          "url": null,
+          "fields": [
+            "Number of active service contracts",
+            "Average contract duration (years)",
+            "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural)",
+            "Number of new contracts signed YTD/LTM",
+            "Key contract terms (e.g., payment structure, performance clauses - if publicly available)",
+            "Description of revenue recognition policy (e.g., service delivery, operational readiness)",
+            "Annual Recurring Revenue (ARR) from service contracts",
+            "Impact of contract milestones on revenue recognition"
+          ]
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuiwvwIy6Cd_iAJjgRJQLJsGVfxN3tSKw2nsFVEe_RCkf-_Ul_L3lfFGvFAxkwDg4TDXZY2cskEZaIY3Ci9e3a9539szNKfA3yAZJwcxnj8qZ1V1cfTlbEzV_hg==",
+          "fields": []
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVQ6lnrUOyDMoTZ3J0PylyPtCEz3sb0G_EIwmucN_GLJ3OCZuOBrybAUMDhU-rD2D5AKtOtTXg4dEpZEBLEzi0_2DUhMCth_x_Bize4spKEbKktJPN-tdPeWD_Sw==",
+          "fields": []
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE26h3o94Uk4tkHCFBqtPzB9FPCMqSTuDGtU_kcvKBj91WkM-D26LArExTUBFFXdQsGT8_F3GB_um7LtncUn17Yotz3LFyxRKzB9s7_vzRH6wusLBuWYXFGDQU3W1u-TyZUWat5Zo_ZHTMY-UPiwzgVFERJJ_fmjsLYbg==",
+          "fields": []
+        },
+        {
+          "name": "sec.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHus_RyZDvs1NilgLhigcbgKo064CYWTR62XbHnxUEDYvSLq4KmDQL52-BBkv5zFDDTMGLNasA7KyJEh3G_n37kjXSLNvXriXLVvGQNwdbFspTuLKVh0imLUyzkgHeSf84LQzqWxSuVjxNjCV9be4p7KoTa12_cFUl7fCU40Ol3ZRw8Zavwq-Sr",
+          "fields": []
+        },
+        {
+          "name": "vanderbiltreport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbPdd88c8oljMJ5TTDr3jbnqU__glIxTCR_eN0i2uN8VtjW0pVQBQJcVHgltELFoV5ydXisGEM15KrhKGeG8Gfe9eoNMSIluQbbHtyqLEIW9GxXnQJVojuygGQKD-S8xH8Fq9o3RQrPbFIHQ==",
+          "fields": []
+        },
+        {
+          "name": "sacra.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_EJ-_G38PNcvBx_iDfq94AU7Jr--fjSR6NxS2CzlWQTbGijuMD-ZkEOtIpqrZFEqsdyIyJzjTB5jQS0Us-5sy1T66Gz_ykv4urrg-m5PzsmVRWnRxtyF3",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9djmQtf0E7bMxE4Sjq0-g7OceJQbSMkixL5Ar6cgwW28IG40IY0NbICx2vBzG4kO9xz6S_rRxFeVhR9hPgCd05dHeldWuwQtCn5JjaNdWH65wPO0NbCrsVj2mty6kOs36OnW5JccOSBz3FbfcUmyyZyikAaHOu6P7qjuxxvPgXwCrA6Gqtp3D4PLIm8QWhoVR8k1452aIPHJz28TNoHRwcYGlf8MGfTdLnzCP0kd-8v4vOlF9AVtTky-7AmE-fQ2fk_3I_nlrhruwza0XjRaJftpS405eQOdyDAEmETnJHw==",
+          "fields": []
+        },
+        {
+          "name": "mcj.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxtd10r_nfsLL7BFZS9nxwgGEZjewTuUR1AGGbyeS1a41zQtH_4wZonF3fV_aQHd6ba21XPMCXHLDPjF9bflL_1iSx203PejbhucoJZ-JQIabET5NjwSvKjgalJaOaALClzRhmrw==",
+          "fields": []
+        },
+        {
+          "name": "outdoorsportswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT_aqHwI9NZqHU6fxI_AAHmJEcmepF_L_ylgJ2TaIWzGUWEY1j4IqRcew1PaHmKbO2NTz-VrLaBcO_AB3i8y8l9aIT_ILV6KFfw33PwjxksOsayB1iynyYKVuQF8CAC90GurDGK80wU8-G1AiVDe7P4t1oTriu7I_nThZuUjC3XcujeqqDqCaeZcEMOYcYG4w_shEXzoygGc_wCh3HDgo=",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Y9W9LHDZ7qDttUw14BRY3_UckvDIUu_QGiaA5FKxDTJLfZ3s71-swFW4ogDKvX8u9kl9rNvMFh2Nej9HdacFF80bk33IeaT3_NrhdbUrJeg-jIBcd5f8kb0hq2N2ouI5c2D5lZCdomNyoF__tkNvZNqjsc7ipjrPEHctLVF5gmNCrU7HAXJpxlWdVW4_eNL1Pusm0wWq7BqU_USarg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Service Contracting & Revenue Model",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 10,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms recurring revenue streams and customer stickiness, increasing the likelihood of a pursue decision by demonstrating a predictable revenue base.",
+        "banker": "Provides insight into the stability and growth of revenue, directly impacting the valuation and potential deal structure, thus supporting a pursue decision.",
+        "credit_analyst": "Highlights revenue predictability and contract terms, which are critical for assessing repayment capacity and debt service ability, potentially moving a pass to a pursue for deeper underwriting.",
+        "consultant": "Reveals customer concentration and contract structure, offering potential angles for operational efficiency improvements or strategic partnership opportunities, thus supporting a pursue decision."
+      }
+    },
+    {
+      "heading": "Revenue Recognition & Backlog",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of active service contracts",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "More than 1,200 deployed systems across 40+ countries (proxy for active service contracts, as revenue model includes service/maintenance contracts)",
+            "Rainmaker Technology Corporation (Cloud Seeding)": [
+              {
+                "description": "Contracts with the state of Utah"
+              },
+              {
+                "description": "Contracts with local soil and water conservation districts in Texas"
+              },
+              {
+                "description": "Partnership with Snowbird Resort in Utah"
+              },
+              {
+                "period": "2025",
+                "description": "Four documented weather modification projects in Texas: Project Precipitation Enhancement, Project South Texas Weather Modification Association, Project Trans-Pecos Weather Modification Association, Project West Texas Weather Modification"
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average contract duration (years)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available (business model based on multi-year service contracts, but no specific average duration given)"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "type": "General",
+                "description": "Municipalities, industries, and communities worldwide"
+              },
+              {
+                "type": "Specific applications",
+                "description": "Water-scarce environments, remote and island communities, remote mining and energy operations, disaster response and military operations, humanitarian settlements, bottled beverage production, coastal and island communities, tourism and hospitality operations, industrial and manufacturing operations, and food and beverage processing"
+              },
+              {
+                "type": "Mexico focus",
+                "description": "Hospitality sector, commercial applications, and large-scale infrastructure projects"
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": [
+              {
+                "type": "Primary",
+                "description": "Government water agencies, irrigation districts, and agricultural customers"
+              },
+              {
+                "type": "Specific examples",
+                "description": "State governments (e.g., Utah, Colorado, Oregon, Idaho, California), municipalities (e.g., Santa Barbara, San Luis Obispo), counties in Texas, and ski resorts (e.g., Snowbird Resort)"
+              },
+              {
+                "type": "Emerging markets",
+                "description": "Corporate water stewardship programs for sectors like beverages, semiconductors"
+              }
+            ]
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of new contracts signed YTD/LTM",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "date": "Jan 22, 2026",
+                "description": "Strengthened North American growth pipeline with an affiliate partnership supporting Ontario's housing expansion, involving its subsidiary Miranda Water Technologies"
+              },
+              {
+                "date": "Jan 20, 2026",
+                "description": "Expanded U.S. operations with ATMOCELL 5K and R/OCell® deployments in the Permian Basin, enhancing recurring-revenue potential"
+              },
+              {
+                "date": "Oct 29, 2025",
+                "description": "Affiliate Miranda Water Technologies chosen for an Ontario project expanding rural housing with sustainable wastewater technology"
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key contract terms (e.g., payment structure, performance clauses - if publicly available)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "period": "2020",
+                "description": "Joint Venture (JV) agreement with Rainmaker Water PVT LTD in Sri Lanka: Rainmaker Worldwide Inc. provided a $112,000 USD Partner Fee as an investment and ensured maintenance and upgrades of units. The JV agreed to provide water at competitive market rates."
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Description of revenue recognition policy (e.g., service delivery, operational readiness)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Dual revenue model combining product sales with Water-as-a-Service (WaaS) offerings, providing both upfront revenue and recurring income streams.",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total contract value (TCV) of current backlog",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Annual Recurring Revenue (ARR) from service contracts",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available (company expects significant growth in 2026 with a strategy built on expanding installations and strengthening market access for sustainable revenue growth, but no specific ARR figure disclosed)",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Contract renewal rate (if disclosed)",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": "Not Available",
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Impact of contract milestones on revenue recognition",
+          "value": {
+            "Rainmaker Worldwide Inc. (OTC: RAKR)": [
+              {
+                "period": "2020",
+                "description": "In a JV agreement, Rainmaker Worldwide Inc. was to be issued an additional 5% ownership for every Air-to-Water (AW) unit deployed, up to a maximum of 49% of the JV."
+              }
+            ],
+            "Rainmaker Technology Corporation (Cloud Seeding)": "Not Available"
+          },
+          "sources": [
+            {
+              "name": "rainmakerww.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of active service contracts: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"More than 1,200 deployed systems across 40+ countries (proxy for active service contracts, as revenue model includes service/maintenance contracts)\", \"Rainmaker Technology Corporation (Cloud Seeding)\": [{\"description\": \"Contracts with the state of Utah\"}, {\"description\": \"Contracts with local soil and water conservation districts in Texas\"}, {\"description\": \"Partnership with Snowbird Resort in Utah\"}, {\"period\": \"2025\", \"description\": \"Four documented weather modification projects in Texas: Project Precipitation Enhancement, Project South Texas Weather Modification Association, Project Trans-Pecos Weather Modification Association, Project West Texas Weather Modification\"}]}",
+        "Average contract duration (years): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available (business model based on multi-year service contracts, but no specific average duration given)\"}",
+        "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"type\": \"General\", \"description\": \"Municipalities, industries, and communities worldwide\"}, {\"type\": \"Specific applications\", \"description\": \"Water-scarce environments, remote and island communities, remote mining and energy operations, disaster response and military operations, humanitarian settlements, bottled beverage production, coastal and island communities, tourism and hospitality operations, industrial and manufacturing operations, and food and beverage processing\"}, {\"type\": \"Mexico focus\", \"description\": \"Hospitality sector, commercial applications, and large-scale infrastructure projects\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": [{\"type\": \"Primary\", \"description\": \"Government water agencies, irrigation districts, and agricultural customers\"}, {\"type\": \"Specific examples\", \"description\": \"State governments (e.g., Utah, Colorado, Oregon, Idaho, California), municipalities (e.g., Santa Barbara, San Luis Obispo), counties in Texas, and ski resorts (e.g., Snowbird Resort)\"}, {\"type\": \"Emerging markets\", \"description\": \"Corporate water stewardship programs for sectors like beverages, semiconductors\"}]}",
+        "Number of new contracts signed YTD/LTM: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"date\": \"Jan 22, 2026\", \"description\": \"Strengthened North American growth pipeline with an affiliate partnership supporting Ontario's housing expansion, involving its subsidiary Miranda Water Technologies\"}, {\"date\": \"Jan 20, 2026\", \"description\": \"Expanded U.S. operations with ATMOCELL 5K and R/OCell® deployments in the Permian Basin, enhancing recurring-revenue potential\"}, {\"date\": \"Oct 29, 2025\", \"description\": \"Affiliate Miranda Water Technologies chosen for an Ontario project expanding rural housing with sustainable wastewater technology\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Key contract terms (e.g., payment structure, performance clauses - if publicly available): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"period\": \"2020\", \"description\": \"Joint Venture (JV) agreement with Rainmaker Water PVT LTD in Sri Lanka: Rainmaker Worldwide Inc. provided a $112,000 USD Partner Fee as an investment and ensured maintenance and upgrades of units. The JV agreed to provide water at competitive market rates.\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Description of revenue recognition policy (e.g., service delivery, operational readiness): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Dual revenue model combining product sales with Water-as-a-Service (WaaS) offerings, providing both upfront revenue and recurring income streams.\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Total contract value (TCV) of current backlog: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Annual Recurring Revenue (ARR) from service contracts: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available (company expects significant growth in 2026 with a strategy built on expanding installations and strengthening market access for sustainable revenue growth, but no specific ARR figure disclosed)\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Contract renewal rate (if disclosed): {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": \"Not Available\", \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}",
+        "Impact of contract milestones on revenue recognition: {\"Rainmaker Worldwide Inc. (OTC: RAKR)\": [{\"period\": \"2020\", \"description\": \"In a JV agreement, Rainmaker Worldwide Inc. was to be issued an additional 5% ownership for every Air-to-Water (AW) unit deployed, up to a maximum of 49% of the JV.\"}], \"Rainmaker Technology Corporation (Cloud Seeding)\": \"Not Available\"}"
+      ],
+      "references": [
+        {
+          "name": "rainmakerww.com",
+          "url": null,
+          "fields": [
+            "Number of active service contracts",
+            "Average contract duration (years)",
+            "Breakdown of customer types (e.g., government water agencies, irrigation districts, agricultural)",
+            "Number of new contracts signed YTD/LTM",
+            "Key contract terms (e.g., payment structure, performance clauses - if publicly available)",
+            "Description of revenue recognition policy (e.g., service delivery, operational readiness)",
+            "Annual Recurring Revenue (ARR) from service contracts",
+            "Impact of contract milestones on revenue recognition"
+          ]
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuiwvwIy6Cd_iAJjgRJQLJsGVfxN3tSKw2nsFVEe_RCkf-_Ul_L3lfFGvFAxkwDg4TDXZY2cskEZaIY3Ci9e3a9539szNKfA3yAZJwcxnj8qZ1V1cfTlbEzV_hg==",
+          "fields": []
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVQ6lnrUOyDMoTZ3J0PylyPtCEz3sb0G_EIwmucN_GLJ3OCZuOBrybAUMDhU-rD2D5AKtOtTXg4dEpZEBLEzi0_2DUhMCth_x_Bize4spKEbKktJPN-tdPeWD_Sw==",
+          "fields": []
+        },
+        {
+          "name": "rainmakerww.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE26h3o94Uk4tkHCFBqtPzB9FPCMqSTuDGtU_kcvKBj91WkM-D26LArExTUBFFXdQsGT8_F3GB_um7LtncUn17Yotz3LFyxRKzB9s7_vzRH6wusLBuWYXFGDQU3W1u-TyZUWat5Zo_ZHTMY-UPiwzgVFERJJ_fmjsLYbg==",
+          "fields": []
+        },
+        {
+          "name": "sec.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHus_RyZDvs1NilgLhigcbgKo064CYWTR62XbHnxUEDYvSLq4KmDQL52-BBkv5zFDDTMGLNasA7KyJEh3G_n37kjXSLNvXriXLVvGQNwdbFspTuLKVh0imLUyzkgHeSf84LQzqWxSuVjxNjCV9be4p7KoTa12_cFUl7fCU40Ol3ZRw8Zavwq-Sr",
+          "fields": []
+        },
+        {
+          "name": "vanderbiltreport.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbPdd88c8oljMJ5TTDr3jbnqU__glIxTCR_eN0i2uN8VtjW0pVQBQJcVHgltELFoV5ydXisGEM15KrhKGeG8Gfe9eoNMSIluQbbHtyqLEIW9GxXnQJVojuygGQKD-S8xH8Fq9o3RQrPbFIHQ==",
+          "fields": []
+        },
+        {
+          "name": "sacra.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_EJ-_G38PNcvBx_iDfq94AU7Jr--fjSR6NxS2CzlWQTbGijuMD-ZkEOtIpqrZFEqsdyIyJzjTB5jQS0Us-5sy1T66Gz_ykv4urrg-m5PzsmVRWnRxtyF3",
+          "fields": []
+        },
+        {
+          "name": "prnewswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9djmQtf0E7bMxE4Sjq0-g7OceJQbSMkixL5Ar6cgwW28IG40IY0NbICx2vBzG4kO9xz6S_rRxFeVhR9hPgCd05dHeldWuwQtCn5JjaNdWH65wPO0NbCrsVj2mty6kOs36OnW5JccOSBz3FbfcUmyyZyikAaHOu6P7qjuxxvPgXwCrA6Gqtp3D4PLIm8QWhoVR8k1452aIPHJz28TNoHRwcYGlf8MGfTdLnzCP0kd-8v4vOlF9AVtTky-7AmE-fQ2fk_3I_nlrhruwza0XjRaJftpS405eQOdyDAEmETnJHw==",
+          "fields": []
+        },
+        {
+          "name": "mcj.vc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxtd10r_nfsLL7BFZS9nxwgGEZjewTuUR1AGGbyeS1a41zQtH_4wZonF3fV_aQHd6ba21XPMCXHLDPjF9bflL_1iSx203PejbhucoJZ-JQIabET5NjwSvKjgalJaOaALClzRhmrw==",
+          "fields": []
+        },
+        {
+          "name": "outdoorsportswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT_aqHwI9NZqHU6fxI_AAHmJEcmepF_L_ylgJ2TaIWzGUWEY1j4IqRcew1PaHmKbO2NTz-VrLaBcO_AB3i8y8l9aIT_ILV6KFfw33PwjxksOsayB1iynyYKVuQF8CAC90GurDGK80wU8-G1AiVDe7P4t1oTriu7I_nThZuUjC3XcujeqqDqCaeZcEMOYcYG4w_shEXzoygGc_wCh3HDgo=",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Y9W9LHDZ7qDttUw14BRY3_UckvDIUu_QGiaA5FKxDTJLfZ3s71-swFW4ogDKvX8u9kl9rNvMFh2Nej9HdacFF80bk33IeaT3_NrhdbUrJeg-jIBcd5f8kb0hq2N2ouI5c2D5lZCdomNyoF__tkNvZNqjsc7ipjrPEHctLVF5gmNCrU7HAXJpxlWdVW4_eNL1Pusm0wWq7BqU_USarg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Service Contracting & Revenue Model",
+      "confidence": "high",
+      "completeness": 1.0,
+      "planned_field_count": 10,
+      "missing_fields": [],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms recurring revenue streams and customer stickiness, increasing the likelihood of a pursue decision by demonstrating a predictable revenue base.",
+        "banker": "Provides insight into the stability and growth of revenue, directly impacting the valuation and potential deal structure, thus supporting a pursue decision.",
+        "credit_analyst": "Highlights revenue predictability and contract terms, which are critical for assessing repayment capacity and debt service ability, potentially moving a pass to a pursue for deeper underwriting.",
+        "consultant": "Reveals customer concentration and contract structure, offering potential angles for operational efficiency improvements or strategic partnership opportunities, thus supporting a pursue decision."
+      }
+    },
+    {
+      "heading": "State-Level Cloud Seeding Regulations & Permits",
+      "content_type": "table",
+      "fields": [],
+      "bullets": [],
+      "references": [
+        {
+          "name": "coloradovirtuallibrary.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6G68Pn5cBVJgd5DYSocglab0i2L0hgzXyc9KC2oKCXFirGz-bhWio9dTJ_YjT8EANWc0tkGzEPYermkDCpduLBPzttoC8F26gEFkKrHI6ioq3JtzftlAcT3RoT8zb7CfA2eJFRvN9if17Gk9oNEioQhYzzehnAZdluuQ6Ab0N9C_hm0g_n6497goJWHL-_MT9dunA3QKg3nk=",
+          "fields": []
+        },
+        {
+          "name": "idahopower.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKXpqcyUoFqNQcgX36nWaHQ8pJxc4x8p5L6OJwdcSlgdocJyjh3MW5e_qYOAkzVga-7pNaqRf6_OQ73d3iUFabMVIX9PoUCv5XekTMTUck1ygFrQTnJoEygJYurG9Lh5K-Fd6TtVBE6DplbTSA40uD88uGA_MZx7C1zDupRn1nfoDRzEdxY9GLkXJrsukaZYoGhLNIfHICzgKE",
+          "fields": []
+        },
+        {
+          "name": "idaho.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWvi3smb-rE7FNHnanT-gKrgyfcQU7DyaLpJDnF9y4dqlsu_nvG-nnOCYjru1jpRwKS8zJKml6_kdOK0OBH9TWU6sG6mbx2wD3eG7GHT0XCkqnfWGAYl6FThlA_aeSVq6cJzAG5rzAH43ElIWPrY6h5b1PwzwE24zzS04rwbM6TPu-51gMvzYjeyFOaJSYbEpmu7zytS6tL-WiCFtBmqxtcbW1Lmc5tPofiI6tEh9-RD45LUIoHkGVSEbf1e_54i91-XvTaxLz-dPHKA==",
+          "fields": []
+        },
+        {
+          "name": "scholasticahq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDFQmWnh9xq_5wyGoB9IFRuz_-DRo-WIb02Y6cmj1qm2oWZk2g-rEjqfy3dMFnXAhFX-Xognfdrzh4HBjX0pkLWjMcP2ziW3Cb2ReAZT_WrLVkmd6Z500r_Vkcrv4pwdX8vJIZa56nYXN6MJeh_G7mgqHRqjMGPArIXy8kVz7wy09e4LKtRXAjbzfzeq0N-VTTkLSLpEfZ0pHsF62XcSQWJwQ1Bfxgd7D2sJKNFYWPfw1g5OdhM5EtHdKMlGoL6eeQr8EGjA71oGon4T8RXMYJ_Chx2rufxZn77zQg4NEa_ghdTnVrGYCwTcse7BpPI6QxaFIxpba6iyo=",
+          "fields": []
+        },
+        {
+          "name": "tid.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFslgk--yy94slVqrpsEQzHS94sZBIeboW6uvhSMbs36ynHkwvbALaofXCfX4_xERm9gQFIQLJsnH6nJxAxyu9A_SLWx_q4E4yF4-hZWT3wT6A-HajAe5tGHZoALffNYKSRFk7Mt_2XkEiIWvd",
+          "fields": []
+        },
+        {
+          "name": "idahofb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX_6I3ghTjQ4UIx4W6mGZgyN7gGvQn1-7gNX-hDlnEGmaBSpKD7TAP3_IoikMcj2DclJ18JVsQAkxehY6OEpCbDdrtGDECwVoS4ScpZe1GVaeA1s_YZtDxouMn1QAn9tZbXJr9frQR8npMbJKNkw2s",
+          "fields": []
+        },
+        {
+          "name": "waterinfo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrge_67Url7-hy4eSQEUGAFcaQN0S59VqQsSISX9IK8QQC59H1-k5926AuZfLAHA4k38uYeqGyM2H6yEopDo-rsXI3tJqJQfG9Z1YwdvBWwleYfb1xiH1am4gYuzhFV3xFOsMAQCr1hg==",
+          "fields": []
+        },
+        {
+          "name": "billtrack50.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ_KP2Bg7aTNwdxcRwUZ3UasBn5H6_puXhVf38yaPN5mx-1b46CF3vZzYIUpdizQI_wLND_0hzWmCj94GgdiCMINd30lj_uEwqwwRWpbkrsC8DMPQoOgsV1wyI3IvsTnoNaGAB7hLHYw==",
+          "fields": []
+        },
+        {
+          "name": "idahofreedom.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8IzxeSy1koTg2Pln526rUfYvCp3tOtHlDqOQYa5VkYWeAX4uv5cfynD-BySsFoCS7wpo7tog5-NQIkZf9J86SKbwkiVp40WNvi4NC1s13YfAv3X2iQrRJJ5zji5CyzuEqBsMEM9jEvzIh2fKe6cfHz2Iup3c7pTdtEz76F_MYviSSBZu5QqTpRhGCI2urkG5Z-6UpfdS4gjksqbfcwxwk6_ylIg==",
+          "fields": []
+        },
+        {
+          "name": "zerogeoengineering.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6euROjVYOXP6hD1oqVcJpZn_k4g6PC42Vq5z4JGfSmjWi--EiTrVlzEnWajONhbI3dQNbew3_nYC5jDdMY6Z-hkIDQjA3FT_iYbDTfIo6A0P0_LkxOI5NqM95qumNwwLj8GAkemDLtF7KL3mrGqKYiaiMLuDDLoNgz_d1nArrvS4KdIxuuqQ_oKn4T2Y-8ycn98UYFQ==",
+          "fields": []
+        },
+        {
+          "name": "idaho.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj84n-H5DjgZr-YKhTuQT7E3ilSXu4XwZY1RuUn8jTr35__a1Xyma75v3mJxl8gAivFsVLRznz2YLGW5QYP-_lWsCpuQ5oXR19NgSrUhZBLNPUftlbQaDeTzyKV9h_b7dQLezDkbqH7j5koTxnuxMJW0ZVMqPhRx6mE9pnAdRjuAxcDrgB0N-yGWi8DA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory & Environmental Landscape",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "List of states with active cloud seeding permits",
+        "Permit issuing authority per state (e.g., state water resource board)",
+        "Permit expiry dates",
+        "Specific permit conditions or restrictions (summary)",
+        "Regulatory compliance history (e.g., violations, fines)",
+        "Status of Environmental Impact Assessments (EIAs) per operational region",
+        "Key findings/mitigation measures from EIAs",
+        "Public sentiment indicators (e.g., local media coverage sentiment, community meeting outcomes)",
+        "Number of legal challenges/complaints related to operations",
+        "Community engagement programs (list)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms regulatory hurdles and potential public opposition, increasing diligence required on the company's ability to navigate these, potentially shifting from 'pursue' to 'pass' if significant roadblocks are identified.",
+        "banker": "Null",
+        "credit_analyst": "Highlights potential operational risks and compliance costs associated with state-level regulations and environmental concerns, necessitating a deeper look into the company's risk management and financial reserves.",
+        "consultant": "Identifies key operational challenges and stakeholder management needs related to environmental impact and public acceptance, suggesting a potential consulting engagement to address these areas."
+      }
+    },
+    {
+      "heading": "Environmental Impact Assessments & Public Acceptance",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [
+        {
+          "name": "coloradovirtuallibrary.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6G68Pn5cBVJgd5DYSocglab0i2L0hgzXyc9KC2oKCXFirGz-bhWio9dTJ_YjT8EANWc0tkGzEPYermkDCpduLBPzttoC8F26gEFkKrHI6ioq3JtzftlAcT3RoT8zb7CfA2eJFRvN9if17Gk9oNEioQhYzzehnAZdluuQ6Ab0N9C_hm0g_n6497goJWHL-_MT9dunA3QKg3nk=",
+          "fields": []
+        },
+        {
+          "name": "idahopower.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKXpqcyUoFqNQcgX36nWaHQ8pJxc4x8p5L6OJwdcSlgdocJyjh3MW5e_qYOAkzVga-7pNaqRf6_OQ73d3iUFabMVIX9PoUCv5XekTMTUck1ygFrQTnJoEygJYurG9Lh5K-Fd6TtVBE6DplbTSA40uD88uGA_MZx7C1zDupRn1nfoDRzEdxY9GLkXJrsukaZYoGhLNIfHICzgKE",
+          "fields": []
+        },
+        {
+          "name": "idaho.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWvi3smb-rE7FNHnanT-gKrgyfcQU7DyaLpJDnF9y4dqlsu_nvG-nnOCYjru1jpRwKS8zJKml6_kdOK0OBH9TWU6sG6mbx2wD3eG7GHT0XCkqnfWGAYl6FThlA_aeSVq6cJzAG5rzAH43ElIWPrY6h5b1PwzwE24zzS04rwbM6TPu-51gMvzYjeyFOaJSYbEpmu7zytS6tL-WiCFtBmqxtcbW1Lmc5tPofiI6tEh9-RD45LUIoHkGVSEbf1e_54i91-XvTaxLz-dPHKA==",
+          "fields": []
+        },
+        {
+          "name": "scholasticahq.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDFQmWnh9xq_5wyGoB9IFRuz_-DRo-WIb02Y6cmj1qm2oWZk2g-rEjqfy3dMFnXAhFX-Xognfdrzh4HBjX0pkLWjMcP2ziW3Cb2ReAZT_WrLVkmd6Z500r_Vkcrv4pwdX8vJIZa56nYXN6MJeh_G7mgqHRqjMGPArIXy8kVz7wy09e4LKtRXAjbzfzeq0N-VTTkLSLpEfZ0pHsF62XcSQWJwQ1Bfxgd7D2sJKNFYWPfw1g5OdhM5EtHdKMlGoL6eeQr8EGjA71oGon4T8RXMYJ_Chx2rufxZn77zQg4NEa_ghdTnVrGYCwTcse7BpPI6QxaFIxpba6iyo=",
+          "fields": []
+        },
+        {
+          "name": "tid.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFslgk--yy94slVqrpsEQzHS94sZBIeboW6uvhSMbs36ynHkwvbALaofXCfX4_xERm9gQFIQLJsnH6nJxAxyu9A_SLWx_q4E4yF4-hZWT3wT6A-HajAe5tGHZoALffNYKSRFk7Mt_2XkEiIWvd",
+          "fields": []
+        },
+        {
+          "name": "idahofb.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX_6I3ghTjQ4UIx4W6mGZgyN7gGvQn1-7gNX-hDlnEGmaBSpKD7TAP3_IoikMcj2DclJ18JVsQAkxehY6OEpCbDdrtGDECwVoS4ScpZe1GVaeA1s_YZtDxouMn1QAn9tZbXJr9frQR8npMbJKNkw2s",
+          "fields": []
+        },
+        {
+          "name": "waterinfo.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrge_67Url7-hy4eSQEUGAFcaQN0S59VqQsSISX9IK8QQC59H1-k5926AuZfLAHA4k38uYeqGyM2H6yEopDo-rsXI3tJqJQfG9Z1YwdvBWwleYfb1xiH1am4gYuzhFV3xFOsMAQCr1hg==",
+          "fields": []
+        },
+        {
+          "name": "billtrack50.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ_KP2Bg7aTNwdxcRwUZ3UasBn5H6_puXhVf38yaPN5mx-1b46CF3vZzYIUpdizQI_wLND_0hzWmCj94GgdiCMINd30lj_uEwqwwRWpbkrsC8DMPQoOgsV1wyI3IvsTnoNaGAB7hLHYw==",
+          "fields": []
+        },
+        {
+          "name": "idahofreedom.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8IzxeSy1koTg2Pln526rUfYvCp3tOtHlDqOQYa5VkYWeAX4uv5cfynD-BySsFoCS7wpo7tog5-NQIkZf9J86SKbwkiVp40WNvi4NC1s13YfAv3X2iQrRJJ5zji5CyzuEqBsMEM9jEvzIh2fKe6cfHz2Iup3c7pTdtEz76F_MYviSSBZu5QqTpRhGCI2urkG5Z-6UpfdS4gjksqbfcwxwk6_ylIg==",
+          "fields": []
+        },
+        {
+          "name": "zerogeoengineering.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6euROjVYOXP6hD1oqVcJpZn_k4g6PC42Vq5z4JGfSmjWi--EiTrVlzEnWajONhbI3dQNbew3_nYC5jDdMY6Z-hkIDQjA3FT_iYbDTfIo6A0P0_LkxOI5NqM95qumNwwLj8GAkemDLtF7KL3mrGqKYiaiMLuDDLoNgz_d1nArrvS4KdIxuuqQ_oKn4T2Y-8ycn98UYFQ==",
+          "fields": []
+        },
+        {
+          "name": "idaho.gov",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj84n-H5DjgZr-YKhTuQT7E3ilSXu4XwZY1RuUn8jTr35__a1Xyma75v3mJxl8gAivFsVLRznz2YLGW5QYP-_lWsCpuQ5oXR19NgSrUhZBLNPUftlbQaDeTzyKV9h_b7dQLezDkbqH7j5koTxnuxMJW0ZVMqPhRx6mE9pnAdRjuAxcDrgB0N-yGWi8DA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory & Environmental Landscape",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "List of states with active cloud seeding permits",
+        "Permit issuing authority per state (e.g., state water resource board)",
+        "Permit expiry dates",
+        "Specific permit conditions or restrictions (summary)",
+        "Regulatory compliance history (e.g., violations, fines)",
+        "Status of Environmental Impact Assessments (EIAs) per operational region",
+        "Key findings/mitigation measures from EIAs",
+        "Public sentiment indicators (e.g., local media coverage sentiment, community meeting outcomes)",
+        "Number of legal challenges/complaints related to operations",
+        "Community engagement programs (list)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms regulatory hurdles and potential public opposition, increasing diligence required on the company's ability to navigate these, potentially shifting from 'pursue' to 'pass' if significant roadblocks are identified.",
+        "banker": "Null",
+        "credit_analyst": "Highlights potential operational risks and compliance costs associated with state-level regulations and environmental concerns, necessitating a deeper look into the company's risk management and financial reserves.",
+        "consultant": "Identifies key operational challenges and stakeholder management needs related to environmental impact and public acceptance, suggesting a potential consulting engagement to address these areas."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 54
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.059003,
+    "domain_research_usd": 0.573408,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.142411,
+    "grounding_usd": 0.49,
+    "grounded_calls": 14,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.632411,
+    "actual_calls": 19,
+    "elapsed_seconds": 122.9,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.143352,
+      "estimated_generic_domains_usd": 0.860112,
+      "estimated_synthesis_usd": 0.573408,
+      "estimated_total_usd": 2.065931
+    }
+  }
+}
