@@ -1,0 +1,1305 @@
+{
+  "company_name": "Unicoconnect",
+  "generated_at": "20260625_085529",
+  "resolved_subsector": "AI-native Software Development & AI Services Provider",
+  "sections": [
+    {
+      "heading": "Client Segment Revenue & ACV",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of clients by segment (Startup, Mid-Market, Enterprise)",
+          "value": [
+            {
+              "description": "aims to onboard over 200 customers (overall, not segmented)",
+              "period": "in three years (as of January 2024)"
+            },
+            {
+              "description": "served over 33 happy customers (overall, not segmented)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oHZ3u4w0wvRctMauwKl_NMC5iM1KK3-_r-2Iynv2WtqfuFivW1yQYimG5b-K-kzZRAiqKFizFTuS3oikI2HgnSFv6Nqsn_y6to-5T_TcFsGfgiZwkMWIJn2SsA=="
+            },
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5U4OQuIKAu8H7p7jcvjO6Z_74zsujFLjJtsKfBVdN_GgNXA2CN4jEoSt41QHFRSRMTdJrp3E36qCWelcbRjJvgpdTPFQfAbm904RNaZqePOGhiWw="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of clients by segment (Startup, Mid-Market, Enterprise): [{\"description\": \"aims to onboard over 200 customers (overall, not segmented)\", \"period\": \"in three years (as of January 2024)\"}, {\"description\": \"served over 33 happy customers (overall, not segmented)\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oHZ3u4w0wvRctMauwKl_NMC5iM1KK3-_r-2Iynv2WtqfuFivW1yQYimG5b-K-kzZRAiqKFizFTuS3oikI2HgnSFv6Nqsn_y6to-5T_TcFsGfgiZwkMWIJn2SsA==",
+          "fields": [
+            "Number of clients by segment (Startup, Mid-Market, Enterprise)"
+          ]
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5U4OQuIKAu8H7p7jcvjO6Z_74zsujFLjJtsKfBVdN_GgNXA2CN4jEoSt41QHFRSRMTdJrp3E36qCWelcbRjJvgpdTPFQfAbm904RNaZqePOGhiWw=",
+          "fields": [
+            "Number of clients by segment (Startup, Mid-Market, Enterprise)"
+          ]
+        },
+        {
+          "name": "barchart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_0gDIxnoREJ2wAehyl0BD6vACjnnEPNZOI336WaW71I-v2wqzSfUsOlO_CFdGCtHpwaR-3qnHhdoCSuF2OW10sCPxjakpa_Ozf7NqZ8Z264kirz5lUsZc3hC9GA8TM6iIQ60aThRYqvP4p21sqUKf5eXZfyDkBmhn9eVPxlZyNHnkwpS-ihFJ097_hrTpcbBILJFq7xxCvgHaUL7QzKTB5Xi7ZanLIi6RQ6h0mSUOn_H7DI1fU0xcfKp4e2ouhudJTg==",
+          "fields": []
+        },
+        {
+          "name": "getlatka.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsvWWQjKAmeI3Dye3iO8LvBS6ULuD19qpHMySgd5erSpwpQthwm35LkdsPFOhFPGb3PbPJQGNEOF0R7fvmdFe-uG3__VxCVY_uurUDOwqF4t9JjX3Yvr6qMjBEVr4nRdut4Ry3qxchIEc9W-kpqpQksvshtd8LOfnwZYQ=",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvr4Go0fSsQ-IjajzL6boNc2tUizARcQT42iXPAQLNQ7l-beJzks3ahqPyOQKMhRA8gpI3YlvldygbNY44xMaxMh6QveaKuS1i6DZ0d6ZSK9oam8Nh8reOhB_VXiddJUJhswisBisZBBvK153BJRWtCNYkJ96yu66Zfor6kzBu7uhyt9iTMyvy6I26fUBjV_8QU51AKw==",
+          "fields": []
+        },
+        {
+          "name": "businesswireindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNLxYdWb3z04GrmCjJUBMKZOBTgGNz3WHXwjGTtgTHn13XuHJREdACi9Cb8Et1Bn_XeyFDeRLgzeH2JbjVptGqKqLiORnMlXk1TEkjuqHWvMSn5g8ClL9mZJbWcSxFMyqKmCaoGy7cgBwsuI8t_bx1zIyBD-2al_Qn94A0MLN7-DgAQwSJG11mGkQlhiFcnIptJMIz6m_g7foP2E9J0NZuxzUBs1yIyc8ZsA==",
+          "fields": []
+        },
+        {
+          "name": "churnkey.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfdB2oF6uqL9cIK1e3tKDlx7dpZ6Huc-OD9N2rOLJAWNnaR5wo2vAkxD5EK_Rl0J8iiLKNfISQrvzj_wyjPAdRvItKphUB5IGr3S61o4Ee_JbbCwcxJ4kJo4tOcnLcyyrxEIP21jeqzoCgi2BS23hL",
+          "fields": []
+        },
+        {
+          "name": "qualtrics.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGgI-CreJTvF1n5RoeCvli-M7yQJEZEnUSibwFbJJJgj-J0H84XycA-FaJ_Vn0RGkVz6IWqmRsbSFB9Q9H0z9YN2rjrZwkXydPdp0sGJUvwJYMlAsEpFUniwlGn2EaPl-CbwkkzfGlQHxv-Q0RhWcwl95VjyJFegwUtt_s1_fhkp4Iil4GrtCc9g=",
+          "fields": []
+        },
+        {
+          "name": "getlatka.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcuYhnJOA-w6cEkq7Y8WD7bGhpWjqeO3p996oVkWCd-wBhJ6TP-tXq6vhXxvWRd6UFFhwaHb_zwmSCTopfOjJZwkTJBvwkJN9m0xSlbZR29WjXovIuPwCLv9xRtDQFPqwllwFTWcrVGepp9AoGHLCZIxUkI_p-WX-Sw==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbigUOM2HJ1Dp4w_WUen2Hh5--ZWEnlGW--JaRVVYuTdwBu4HyIlpYT7Klv0CLYxPOxDA9HkF2Uv3Dy4u_lDC_WgR875b5og4HutFcAFnCD77rks5AGPQOwnI0VfNmSs26rJ_YnC4-to7a-Q-i8EAW9i-2jAPdywIbAmFjS0ethKBkWnJQTHrS8QSWg_7O-sqwzV61",
+          "fields": []
+        },
+        {
+          "name": "barchart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNi0VbjXls5ZIhRpYoKWm-jYUAITMYqR1hrNKgEKYjmJOhFwf8P0Eb2j9MkPinsh2FPygilr7gF21eyLgzkDchn5-Li8S2gNg2E62XiJ2fjaGtk5V2323exoI-i-ZVvX5lZpRuyscnpdVNoXrLO2KRQHwJ9ON8GPQtck3A1iC0eplKD1Pf7uN-7jYglUYo7bQjRS2fJU8WkhsuWj-tYcm0O6ZqjrqVvL8cpLr567d95Kf73wFYIY3XYjNZYK_FRrB0",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCOZB4Q_iOTU8ZjDqPdnu0nHqe5Df37mbxXXpWb-Q_AbQWbwH6XhN2OyBXyBeqlxbxPiMtegR8JG6jc7Tnwnw2HwcJREu7MJEyuvUlSYEthEHpDdlyGcABbS-Gbtf5Riv3A6mcRWy3_Ocvk3Y2whqT90VHYXeMviX4MUtN48SiZRuNfIPXci6FEEp_8yj_Pn1qS4PLtcMTCovlhUqexx30YzelWNT1cgCXlnGLq3IsR-rNqpRNYoGd3QFImSXcJo=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ5spm5HWckrkjSvBgnHdRwNWPee6_TbU2A8-yMPbKZsvFqxJmPHFKhrl6qgt0QCUMnWDkabnB-4SuQ1qBfxX3XNBqLoozeqOHxcZJ1P4uEis3sQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Client Segmentation & Value Metrics",
+      "confidence": "low",
+      "completeness": 0.091,
+      "planned_field_count": 11,
+      "missing_fields": [
+        "Revenue from Startups (current year, % of total)",
+        "Revenue from Mid-Market (current year, % of total)",
+        "Revenue from Enterprise (current year, % of total)",
+        "Average Contract Value (ACV) for Startups",
+        "ACV for Mid-Market",
+        "ACV for Enterprise",
+        "Net Revenue Retention (NRR) for Enterprise clients",
+        "Gross Revenue Retention (GRR) for Enterprise clients",
+        "Client churn rate (overall, annual)",
+        "Number of clients with multi-year contracts"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Pursue: Understanding revenue mix across segments and ACV by segment is critical for assessing growth potential and market penetration, while NRR/GRR for Enterprise clients directly informs recurring revenue quality and scalability.",
+        "banker": "Pursue: Client segmentation and retention metrics are key indicators of a stable and growing customer base, which is essential for assessing potential M&A targets or financing opportunities.",
+        "credit_analyst": "Pursue: Revenue concentration by client segment and retention rates are vital for assessing the stability and predictability of cash flows, directly impacting creditworthiness.",
+        "consultant": "Pursue: Client segmentation and retention data provide a strong foundation for identifying strategic growth opportunities, potential operational efficiencies within segments, and areas for value enhancement."
+      }
+    },
+    {
+      "heading": "Client Retention & Expansion",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of clients by segment (Startup, Mid-Market, Enterprise)",
+          "value": [
+            {
+              "description": "aims to onboard over 200 customers (overall, not segmented)",
+              "period": "in three years (as of January 2024)"
+            },
+            {
+              "description": "served over 33 happy customers (overall, not segmented)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oHZ3u4w0wvRctMauwKl_NMC5iM1KK3-_r-2Iynv2WtqfuFivW1yQYimG5b-K-kzZRAiqKFizFTuS3oikI2HgnSFv6Nqsn_y6to-5T_TcFsGfgiZwkMWIJn2SsA=="
+            },
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5U4OQuIKAu8H7p7jcvjO6Z_74zsujFLjJtsKfBVdN_GgNXA2CN4jEoSt41QHFRSRMTdJrp3E36qCWelcbRjJvgpdTPFQfAbm904RNaZqePOGhiWw="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of clients by segment (Startup, Mid-Market, Enterprise): [{\"description\": \"aims to onboard over 200 customers (overall, not segmented)\", \"period\": \"in three years (as of January 2024)\"}, {\"description\": \"served over 33 happy customers (overall, not segmented)\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oHZ3u4w0wvRctMauwKl_NMC5iM1KK3-_r-2Iynv2WtqfuFivW1yQYimG5b-K-kzZRAiqKFizFTuS3oikI2HgnSFv6Nqsn_y6to-5T_TcFsGfgiZwkMWIJn2SsA==",
+          "fields": [
+            "Number of clients by segment (Startup, Mid-Market, Enterprise)"
+          ]
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5U4OQuIKAu8H7p7jcvjO6Z_74zsujFLjJtsKfBVdN_GgNXA2CN4jEoSt41QHFRSRMTdJrp3E36qCWelcbRjJvgpdTPFQfAbm904RNaZqePOGhiWw=",
+          "fields": [
+            "Number of clients by segment (Startup, Mid-Market, Enterprise)"
+          ]
+        },
+        {
+          "name": "barchart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_0gDIxnoREJ2wAehyl0BD6vACjnnEPNZOI336WaW71I-v2wqzSfUsOlO_CFdGCtHpwaR-3qnHhdoCSuF2OW10sCPxjakpa_Ozf7NqZ8Z264kirz5lUsZc3hC9GA8TM6iIQ60aThRYqvP4p21sqUKf5eXZfyDkBmhn9eVPxlZyNHnkwpS-ihFJ097_hrTpcbBILJFq7xxCvgHaUL7QzKTB5Xi7ZanLIi6RQ6h0mSUOn_H7DI1fU0xcfKp4e2ouhudJTg==",
+          "fields": []
+        },
+        {
+          "name": "getlatka.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsvWWQjKAmeI3Dye3iO8LvBS6ULuD19qpHMySgd5erSpwpQthwm35LkdsPFOhFPGb3PbPJQGNEOF0R7fvmdFe-uG3__VxCVY_uurUDOwqF4t9JjX3Yvr6qMjBEVr4nRdut4Ry3qxchIEc9W-kpqpQksvshtd8LOfnwZYQ=",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvr4Go0fSsQ-IjajzL6boNc2tUizARcQT42iXPAQLNQ7l-beJzks3ahqPyOQKMhRA8gpI3YlvldygbNY44xMaxMh6QveaKuS1i6DZ0d6ZSK9oam8Nh8reOhB_VXiddJUJhswisBisZBBvK153BJRWtCNYkJ96yu66Zfor6kzBu7uhyt9iTMyvy6I26fUBjV_8QU51AKw==",
+          "fields": []
+        },
+        {
+          "name": "businesswireindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNLxYdWb3z04GrmCjJUBMKZOBTgGNz3WHXwjGTtgTHn13XuHJREdACi9Cb8Et1Bn_XeyFDeRLgzeH2JbjVptGqKqLiORnMlXk1TEkjuqHWvMSn5g8ClL9mZJbWcSxFMyqKmCaoGy7cgBwsuI8t_bx1zIyBD-2al_Qn94A0MLN7-DgAQwSJG11mGkQlhiFcnIptJMIz6m_g7foP2E9J0NZuxzUBs1yIyc8ZsA==",
+          "fields": []
+        },
+        {
+          "name": "churnkey.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfdB2oF6uqL9cIK1e3tKDlx7dpZ6Huc-OD9N2rOLJAWNnaR5wo2vAkxD5EK_Rl0J8iiLKNfISQrvzj_wyjPAdRvItKphUB5IGr3S61o4Ee_JbbCwcxJ4kJo4tOcnLcyyrxEIP21jeqzoCgi2BS23hL",
+          "fields": []
+        },
+        {
+          "name": "qualtrics.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGgI-CreJTvF1n5RoeCvli-M7yQJEZEnUSibwFbJJJgj-J0H84XycA-FaJ_Vn0RGkVz6IWqmRsbSFB9Q9H0z9YN2rjrZwkXydPdp0sGJUvwJYMlAsEpFUniwlGn2EaPl-CbwkkzfGlQHxv-Q0RhWcwl95VjyJFegwUtt_s1_fhkp4Iil4GrtCc9g=",
+          "fields": []
+        },
+        {
+          "name": "getlatka.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcuYhnJOA-w6cEkq7Y8WD7bGhpWjqeO3p996oVkWCd-wBhJ6TP-tXq6vhXxvWRd6UFFhwaHb_zwmSCTopfOjJZwkTJBvwkJN9m0xSlbZR29WjXovIuPwCLv9xRtDQFPqwllwFTWcrVGepp9AoGHLCZIxUkI_p-WX-Sw==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbigUOM2HJ1Dp4w_WUen2Hh5--ZWEnlGW--JaRVVYuTdwBu4HyIlpYT7Klv0CLYxPOxDA9HkF2Uv3Dy4u_lDC_WgR875b5og4HutFcAFnCD77rks5AGPQOwnI0VfNmSs26rJ_YnC4-to7a-Q-i8EAW9i-2jAPdywIbAmFjS0ethKBkWnJQTHrS8QSWg_7O-sqwzV61",
+          "fields": []
+        },
+        {
+          "name": "barchart.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNi0VbjXls5ZIhRpYoKWm-jYUAITMYqR1hrNKgEKYjmJOhFwf8P0Eb2j9MkPinsh2FPygilr7gF21eyLgzkDchn5-Li8S2gNg2E62XiJ2fjaGtk5V2323exoI-i-ZVvX5lZpRuyscnpdVNoXrLO2KRQHwJ9ON8GPQtck3A1iC0eplKD1Pf7uN-7jYglUYo7bQjRS2fJU8WkhsuWj-tYcm0O6ZqjrqVvL8cpLr567d95Kf73wFYIY3XYjNZYK_FRrB0",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCOZB4Q_iOTU8ZjDqPdnu0nHqe5Df37mbxXXpWb-Q_AbQWbwH6XhN2OyBXyBeqlxbxPiMtegR8JG6jc7Tnwnw2HwcJREu7MJEyuvUlSYEthEHpDdlyGcABbS-Gbtf5Riv3A6mcRWy3_Ocvk3Y2whqT90VHYXeMviX4MUtN48SiZRuNfIPXci6FEEp_8yj_Pn1qS4PLtcMTCovlhUqexx30YzelWNT1cgCXlnGLq3IsR-rNqpRNYoGd3QFImSXcJo=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ5spm5HWckrkjSvBgnHdRwNWPee6_TbU2A8-yMPbKZsvFqxJmPHFKhrl6qgt0QCUMnWDkabnB-4SuQ1qBfxX3XNBqLoozeqOHxcZJ1P4uEis3sQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Client Segmentation & Value Metrics",
+      "confidence": "low",
+      "completeness": 0.091,
+      "planned_field_count": 11,
+      "missing_fields": [
+        "Revenue from Startups (current year, % of total)",
+        "Revenue from Mid-Market (current year, % of total)",
+        "Revenue from Enterprise (current year, % of total)",
+        "Average Contract Value (ACV) for Startups",
+        "ACV for Mid-Market",
+        "ACV for Enterprise",
+        "Net Revenue Retention (NRR) for Enterprise clients",
+        "Gross Revenue Retention (GRR) for Enterprise clients",
+        "Client churn rate (overall, annual)",
+        "Number of clients with multi-year contracts"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Pursue: Understanding revenue mix across segments and ACV by segment is critical for assessing growth potential and market penetration, while NRR/GRR for Enterprise clients directly informs recurring revenue quality and scalability.",
+        "banker": "Pursue: Client segmentation and retention metrics are key indicators of a stable and growing customer base, which is essential for assessing potential M&A targets or financing opportunities.",
+        "credit_analyst": "Pursue: Revenue concentration by client segment and retention rates are vital for assessing the stability and predictability of cash flows, directly impacting creditworthiness.",
+        "consultant": "Pursue: Client segmentation and retention data provide a strong foundation for identifying strategic growth opportunities, potential operational efficiencies within segments, and areas for value enhancement."
+      }
+    },
+    {
+      "heading": "AI-Native Service Revenue Mix",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total number of AI projects completed (YTD/FY)",
+          "value": "350+ products shipped (overall, includes AI products)",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmsQJD5sW_grJJ9vZlRaddK7pOmVrcn7GhGFf-H_tD9GnZr4G8gHbPohlBZD9X0xKOJT3zyxMiI7uRrzlGeufzh9H2BwjOIi-vT2CvB4B_CNmWM44="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AI Agent deployments (YTD/FY)",
+          "value": [
+            {
+              "description": "WhatsApp AI agents deployed across client engagements"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Conversational AI projects (YTD/FY)",
+          "value": [
+            {
+              "description": "WhatsApp AI agents deployed for customer queries, order taking, and channel operations, including B2B ordering and voice-enabled support"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of MLOps client engagements (YTD/FY)",
+          "value": [
+            {
+              "description": "Dedicated MLOps practice announced June 24, 2026, to manage, monitor, and optimize AI systems in production"
+            }
+          ],
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWY8XCKXNsEaIDPsn_VuCf95P5zw6ovF-Hhzl1LPNk9UXbfzx0HkmPgT6QAmGBEGA-ff7SGBEIq5IfZRy0uuWM85ln7KQNXUE59nlPKVhhi3d5y--67xEBXOWjCe6N4jrSDECajhzVsQcM_BwtuAcHaC2qViyb1RsMNZvnTbVD4s4oFN7p-ysqVFAnLI6UNyPXYxlVy6R57iArSxi9aXshdItLNkuVHIGzcdYtCI35IY0bn7uAdIWPxewUzQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average project duration for AI projects (months)",
+          "value": [
+            {
+              "type": "AI agent proof-of-concept (single use case)",
+              "duration_weeks": "3-4",
+              "duration_months_approx": "0.75-1"
+            },
+            {
+              "type": "Production-grade AI agent (full integration, testing, monitoring)",
+              "duration_weeks": "8-12",
+              "duration_months_approx": "2-3"
+            },
+            {
+              "type": "Multi-agent systems",
+              "duration_months": "3-6"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of AI projects completed (YTD/FY): 350+ products shipped (overall, includes AI products)",
+        "Number of AI Agent deployments (YTD/FY): [{\"description\": \"WhatsApp AI agents deployed across client engagements\"}]",
+        "Number of Conversational AI projects (YTD/FY): [{\"description\": \"WhatsApp AI agents deployed for customer queries, order taking, and channel operations, including B2B ordering and voice-enabled support\"}]",
+        "Number of MLOps client engagements (YTD/FY): [{\"description\": \"Dedicated MLOps practice announced June 24, 2026, to manage, monitor, and optimize AI systems in production\"}]",
+        "Average project duration for AI projects (months): [{\"type\": \"AI agent proof-of-concept (single use case)\", \"duration_weeks\": \"3-4\", \"duration_months_approx\": \"0.75-1\"}, {\"type\": \"Production-grade AI agent (full integration, testing, monitoring)\", \"duration_weeks\": \"8-12\", \"duration_months_approx\": \"2-3\"}, {\"type\": \"Multi-agent systems\", \"duration_months\": \"3-6\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmsQJD5sW_grJJ9vZlRaddK7pOmVrcn7GhGFf-H_tD9GnZr4G8gHbPohlBZD9X0xKOJT3zyxMiI7uRrzlGeufzh9H2BwjOIi-vT2CvB4B_CNmWM44=",
+          "fields": [
+            "Total number of AI projects completed (YTD/FY)"
+          ]
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A",
+          "fields": [
+            "Number of AI Agent deployments (YTD/FY)",
+            "Number of Conversational AI projects (YTD/FY)",
+            "Average project duration for AI projects (months)"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWY8XCKXNsEaIDPsn_VuCf95P5zw6ovF-Hhzl1LPNk9UXbfzx0HkmPgT6QAmGBEGA-ff7SGBEIq5IfZRy0uuWM85ln7KQNXUE59nlPKVhhi3d5y--67xEBXOWjCe6N4jrSDECajhzVsQcM_BwtuAcHaC2qViyb1RsMNZvnTbVD4s4oFN7p-ysqVFAnLI6UNyPXYxlVy6R57iArSxi9aXshdItLNkuVHIGzcdYtCI35IY0bn7uAdIWPxewUzQ==",
+          "fields": [
+            "Number of MLOps client engagements (YTD/FY)"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfPlOyyBRGkIp9jfYEEsbdVOYoYPqEMWfG6A5bBP_Kjt5luUW0Ju2l9Wpa2lIDNQ8PMeQc_4MC3h0V8fKWHCsTvKOfh1-zEtIv6_YEJsrRxZkS4i2zn4MbXh_4fmSuE7f-Dcn2BUZ8NobZHdz7l8VR4q4hkOFmF34WaUNcyCf8gauyhrGtTeEOefbkL8RIieq7gSmgG7Ij2Vp-B3P4hVIHmGWpxnBC5u-dbElDFu_IxSNJS498M8K2FZVbDXEaHFnuhEjwJSTBlaewXv39",
+          "fields": []
+        },
+        {
+          "name": "clutch.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjkUccH1Cx5MzAOBbw_oyZ0mlDzeAIiEn67rqrT3Eh4Ylyv5O1oFPP1lx65NCEq53Wh8s7KogmjcjMC-PN2S5vEf8_zh6GtiWj9dgu7FJTin0xyctoTfW9XxeUtRulgbrbPs9VIzjsLLPbQb3P",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3Zcpswz4ZLKVcAfHqoJ3BZOD5ZwkdyLezhJfvjn8HnBsb0XSoPGbuhgGRXwPktb9NbBPSZrWg9x6zCpFnS-SHDpvjZrndFab9KGoetjO8GeIcVighMFQQ9z7Q47ARlmGuGULtHd3AQsckw==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1t3omSIB6rFXXjHsLGiU7WQnQyYtUFObV7IXxG2h7ISmb80jfI_7JCFtpHUbbN6QdSh6EfeaN7yvd_8zOvHkyC8sRJ-MkiEBolOPMGd67gLUlhaAYv0g74M13WKmRdEGuYmhkIqI",
+          "fields": []
+        },
+        {
+          "name": "cutshort.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOmmO-yJS9RftuG8ov8HO7nCc0MN6JKpvMSvY3tUBtkp3BZ3H4asDArTZdJLi0zZRiGlQUZerw2hM60re6srhGsDrav10cMNQf9Kq_H2FN4uzOlGny5_65OB85h_8xmARtIL0Go9nIMyxh1pIa-hU0-Yaz7MbFiPRFcLR145v3LhGBRRDppPqNVwWZELu_6g0iUERcl_o=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoxUhxRUh6Wl-Pbn9uwHbsadLnaqQQLOO-YFkTnCZxp3UQznojyGZXDhopdQLQHM5cHO1eBTdRdN3NS6Vj1YwpgXWPUzi4p6M41mR3fDPArVEFdhrI0BSoleEnHg==",
+          "fields": []
+        },
+        {
+          "name": "businesswireindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbAmtjL9mUjxoAwTCNBI0ghpMNSHQdeI8fQqr9HJCylKONPLdJEtLtqZ3iF3k_BnZgHi0zIyzz_5kmogbbIL16MZCMzRXCtomIIv8uElQ0kTqTH0UnDW5v_4zHAAnqnWxhMIxSUSE6jp71yOrtpksjDdPBV2EXpPecPtfUPKeEuhSs0lRPlLMiiqyTnRKtfAzBPs-KoWnEOn_ep9WnYMTmVxdy-rCj37alA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI Service Portfolio & Adoption",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Revenue from AI-Native Product Development (current year, % of total)",
+        "Revenue from AI Services (current year, % of total)",
+        "Growth rate for AI-Native Product Development (YoY)",
+        "Growth rate for AI Services (YoY)",
+        "Number of active AI-native product development clients"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The revenue mix between AI-native product development and AI services, along with their respective growth rates, directly informs the assessment of Unicoconnect's core business model and scalability, potentially increasing pursuit.",
+        "banker": "The volume and types of AI projects (e.g., agent deployments, MLOps) and client engagement metrics provide tangible evidence of deal flow and market traction, making it more likely to pursue for advisory services.",
+        "credit_analyst": "While project metrics offer some insight into operational activity, the lack of direct financial health indicators like profitability or debt makes this data less impactful for an initial credit underwriting screen.",
+        "consultant": "The breakdown of AI project types and deployment numbers offers critical insights into Unicoconnect's service delivery capabilities and market penetration, strengthening the case for deeper operational due diligence."
+      }
+    },
+    {
+      "heading": "AI Project Metrics & Engagement",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total number of AI projects completed (YTD/FY)",
+          "value": "350+ products shipped (overall, includes AI products)",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmsQJD5sW_grJJ9vZlRaddK7pOmVrcn7GhGFf-H_tD9GnZr4G8gHbPohlBZD9X0xKOJT3zyxMiI7uRrzlGeufzh9H2BwjOIi-vT2CvB4B_CNmWM44="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AI Agent deployments (YTD/FY)",
+          "value": [
+            {
+              "description": "WhatsApp AI agents deployed across client engagements"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Conversational AI projects (YTD/FY)",
+          "value": [
+            {
+              "description": "WhatsApp AI agents deployed for customer queries, order taking, and channel operations, including B2B ordering and voice-enabled support"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of MLOps client engagements (YTD/FY)",
+          "value": [
+            {
+              "description": "Dedicated MLOps practice announced June 24, 2026, to manage, monitor, and optimize AI systems in production"
+            }
+          ],
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWY8XCKXNsEaIDPsn_VuCf95P5zw6ovF-Hhzl1LPNk9UXbfzx0HkmPgT6QAmGBEGA-ff7SGBEIq5IfZRy0uuWM85ln7KQNXUE59nlPKVhhi3d5y--67xEBXOWjCe6N4jrSDECajhzVsQcM_BwtuAcHaC2qViyb1RsMNZvnTbVD4s4oFN7p-ysqVFAnLI6UNyPXYxlVy6R57iArSxi9aXshdItLNkuVHIGzcdYtCI35IY0bn7uAdIWPxewUzQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average project duration for AI projects (months)",
+          "value": [
+            {
+              "type": "AI agent proof-of-concept (single use case)",
+              "duration_weeks": "3-4",
+              "duration_months_approx": "0.75-1"
+            },
+            {
+              "type": "Production-grade AI agent (full integration, testing, monitoring)",
+              "duration_weeks": "8-12",
+              "duration_months_approx": "2-3"
+            },
+            {
+              "type": "Multi-agent systems",
+              "duration_months": "3-6"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of AI projects completed (YTD/FY): 350+ products shipped (overall, includes AI products)",
+        "Number of AI Agent deployments (YTD/FY): [{\"description\": \"WhatsApp AI agents deployed across client engagements\"}]",
+        "Number of Conversational AI projects (YTD/FY): [{\"description\": \"WhatsApp AI agents deployed for customer queries, order taking, and channel operations, including B2B ordering and voice-enabled support\"}]",
+        "Number of MLOps client engagements (YTD/FY): [{\"description\": \"Dedicated MLOps practice announced June 24, 2026, to manage, monitor, and optimize AI systems in production\"}]",
+        "Average project duration for AI projects (months): [{\"type\": \"AI agent proof-of-concept (single use case)\", \"duration_weeks\": \"3-4\", \"duration_months_approx\": \"0.75-1\"}, {\"type\": \"Production-grade AI agent (full integration, testing, monitoring)\", \"duration_weeks\": \"8-12\", \"duration_months_approx\": \"2-3\"}, {\"type\": \"Multi-agent systems\", \"duration_months\": \"3-6\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmsQJD5sW_grJJ9vZlRaddK7pOmVrcn7GhGFf-H_tD9GnZr4G8gHbPohlBZD9X0xKOJT3zyxMiI7uRrzlGeufzh9H2BwjOIi-vT2CvB4B_CNmWM44=",
+          "fields": [
+            "Total number of AI projects completed (YTD/FY)"
+          ]
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8JIwXJ8_VHBE_09LHMi780mibFnwojbKHDbZ3mCqeIISmGfJaGJPl9S_qEBLs0tJSyf5N9yse7TwOGEmD-uTldB2aHXLbASlMec6GXUvZsDjPXzt9sWrcdf1W4Gd_33fvKfbe0cBAQys6UiaS5QL1RONCjCTYYYZtaJpvQEIG5eXXoO_mYOQH4GUM53A",
+          "fields": [
+            "Number of AI Agent deployments (YTD/FY)",
+            "Number of Conversational AI projects (YTD/FY)",
+            "Average project duration for AI projects (months)"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWY8XCKXNsEaIDPsn_VuCf95P5zw6ovF-Hhzl1LPNk9UXbfzx0HkmPgT6QAmGBEGA-ff7SGBEIq5IfZRy0uuWM85ln7KQNXUE59nlPKVhhi3d5y--67xEBXOWjCe6N4jrSDECajhzVsQcM_BwtuAcHaC2qViyb1RsMNZvnTbVD4s4oFN7p-ysqVFAnLI6UNyPXYxlVy6R57iArSxi9aXshdItLNkuVHIGzcdYtCI35IY0bn7uAdIWPxewUzQ==",
+          "fields": [
+            "Number of MLOps client engagements (YTD/FY)"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfPlOyyBRGkIp9jfYEEsbdVOYoYPqEMWfG6A5bBP_Kjt5luUW0Ju2l9Wpa2lIDNQ8PMeQc_4MC3h0V8fKWHCsTvKOfh1-zEtIv6_YEJsrRxZkS4i2zn4MbXh_4fmSuE7f-Dcn2BUZ8NobZHdz7l8VR4q4hkOFmF34WaUNcyCf8gauyhrGtTeEOefbkL8RIieq7gSmgG7Ij2Vp-B3P4hVIHmGWpxnBC5u-dbElDFu_IxSNJS498M8K2FZVbDXEaHFnuhEjwJSTBlaewXv39",
+          "fields": []
+        },
+        {
+          "name": "clutch.co",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjkUccH1Cx5MzAOBbw_oyZ0mlDzeAIiEn67rqrT3Eh4Ylyv5O1oFPP1lx65NCEq53Wh8s7KogmjcjMC-PN2S5vEf8_zh6GtiWj9dgu7FJTin0xyctoTfW9XxeUtRulgbrbPs9VIzjsLLPbQb3P",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3Zcpswz4ZLKVcAfHqoJ3BZOD5ZwkdyLezhJfvjn8HnBsb0XSoPGbuhgGRXwPktb9NbBPSZrWg9x6zCpFnS-SHDpvjZrndFab9KGoetjO8GeIcVighMFQQ9z7Q47ARlmGuGULtHd3AQsckw==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1t3omSIB6rFXXjHsLGiU7WQnQyYtUFObV7IXxG2h7ISmb80jfI_7JCFtpHUbbN6QdSh6EfeaN7yvd_8zOvHkyC8sRJ-MkiEBolOPMGd67gLUlhaAYv0g74M13WKmRdEGuYmhkIqI",
+          "fields": []
+        },
+        {
+          "name": "cutshort.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOmmO-yJS9RftuG8ov8HO7nCc0MN6JKpvMSvY3tUBtkp3BZ3H4asDArTZdJLi0zZRiGlQUZerw2hM60re6srhGsDrav10cMNQf9Kq_H2FN4uzOlGny5_65OB85h_8xmARtIL0Go9nIMyxh1pIa-hU0-Yaz7MbFiPRFcLR145v3LhGBRRDppPqNVwWZELu_6g0iUERcl_o=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoxUhxRUh6Wl-Pbn9uwHbsadLnaqQQLOO-YFkTnCZxp3UQznojyGZXDhopdQLQHM5cHO1eBTdRdN3NS6Vj1YwpgXWPUzi4p6M41mR3fDPArVEFdhrI0BSoleEnHg==",
+          "fields": []
+        },
+        {
+          "name": "businesswireindia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbAmtjL9mUjxoAwTCNBI0ghpMNSHQdeI8fQqr9HJCylKONPLdJEtLtqZ3iF3k_BnZgHi0zIyzz_5kmogbbIL16MZCMzRXCtomIIv8uElQ0kTqTH0UnDW5v_4zHAAnqnWxhMIxSUSE6jp71yOrtpksjDdPBV2EXpPecPtfUPKeEuhSs0lRPlLMiiqyTnRKtfAzBPs-KoWnEOn_ep9WnYMTmVxdy-rCj37alA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI Service Portfolio & Adoption",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Revenue from AI-Native Product Development (current year, % of total)",
+        "Revenue from AI Services (current year, % of total)",
+        "Growth rate for AI-Native Product Development (YoY)",
+        "Growth rate for AI Services (YoY)",
+        "Number of active AI-native product development clients"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The revenue mix between AI-native product development and AI services, along with their respective growth rates, directly informs the assessment of Unicoconnect's core business model and scalability, potentially increasing pursuit.",
+        "banker": "The volume and types of AI projects (e.g., agent deployments, MLOps) and client engagement metrics provide tangible evidence of deal flow and market traction, making it more likely to pursue for advisory services.",
+        "credit_analyst": "While project metrics offer some insight into operational activity, the lack of direct financial health indicators like profitability or debt makes this data less impactful for an initial credit underwriting screen.",
+        "consultant": "The breakdown of AI project types and deployment numbers offers critical insights into Unicoconnect's service delivery capabilities and market penetration, strengthening the case for deeper operational due diligence."
+      }
+    },
+    {
+      "heading": "AI/ML Talent Pool & Growth",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Total number of employees (current)",
+          "value": "90-strong team (as of June 2026)",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AI/ML engineers (current, prior year)",
+          "value": "Not explicitly stated as a specific number. Unicoconnect is actively hiring specialized engineers for its new MLOps practice as of June 24, 2026, with open roles for AI Engineer, Senior AI Engineer, MLOps Engineer, and Senior MLOps Engineer.",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            },
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Growth rate of AI/ML talent pool (YoY)",
+          "value": "Not found. Unicoconnect announced the expansion of its AI services and capabilities through a dedicated MLOps practice on June 24, 2026, and is investing in MLOps and actively hiring specialized engineers, indicating growth.",
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer)",
+          "value": "Not found. Saurav Jagdale, a Technical Lead, is a GCP Professional Cloud Architect and drives AI enablement across engineering.",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker)",
+          "value": [
+            {
+              "category": "Experiment Tracking",
+              "tools": "MLflow or equivalent"
+            },
+            {
+              "category": "Model Deployment and Serving",
+              "tools": "SageMaker, ECS, EKS, vLLM, TGI, BentoML"
+            },
+            {
+              "category": "RAG and Vector Operations",
+              "tools": "Pinecone, Weaviate, Qdrant, pgvector, OpenSearch"
+            },
+            {
+              "category": "Data Validation",
+              "tools": "Great Expectations, Soda, Pandera"
+            },
+            {
+              "category": "Monitoring and Feedback",
+              "tools": "Evidently, WhyLabs, Arize, Langfuse, CloudWatch, Prometheus, Grafana"
+            },
+            {
+              "category": "Testing and Evaluation",
+              "tools": "Ragas, DeepEval, Promptfoo"
+            },
+            {
+              "category": "AI Security",
+              "tools": "Llama Guard, NeMo Guardrails, OWASP LLM Top 10 framework"
+            },
+            {
+              "category": "CI/CD and Infrastructure as Code",
+              "tools": "Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI"
+            },
+            {
+              "category": "Pipeline Orchestration",
+              "tools": "Airflow, SageMaker Pipelines, Kubeflow"
+            },
+            {
+              "category": "LLM Frameworks",
+              "tools": "LangChain, LlamaIndex"
+            },
+            {
+              "category": "Cloud Platforms",
+              "tools": "AWS (EC2, S3, IAM, VPC, ECR, EKS/ECS, Lambda, Step Functions), Azure, GCP"
+            },
+            {
+              "category": "Programming Languages/Databases",
+              "tools": "Python, Bash scripting, SQL (MySQL, PostgreSQL), MongoDB"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of MLOps case studies/success stories",
+          "value": "Unicoconnect launched a new MLOps practice on June 24, 2026. While they list various AI products and services, specific quantifiable MLOps case studies are not detailed. They mention building an AI-powered digital learning platform, an AI-powered content recommendation engine, and AI-Powered E-Commerce Analytics for Sellers, but these are not explicitly framed as MLOps case studies with specific numbers.",
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            },
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance)",
+          "value": [
+            {
+              "service": "Model versioning and lifecycle management"
+            },
+            {
+              "service": "Performance monitoring and drift detection"
+            },
+            {
+              "service": "Retraining and evaluation pipelines"
+            },
+            {
+              "service": "Governance and compliance controls"
+            },
+            {
+              "service": "Deployment automation and infrastructure management"
+            },
+            {
+              "service": "Continuous optimization of production AI systems"
+            },
+            {
+              "service": "LLM Operations (LLMOps)"
+            },
+            {
+              "service": "Observability and tracing for agent runs (prompt, response, tool call, token count, latency, cost)"
+            },
+            {
+              "service": "Evaluation infrastructure as a production system (automated execution in CI, eval-gated migrations)"
+            },
+            {
+              "service": "Cost operations (per-user and per-task cost attribution, budget alerts, anomaly detection)"
+            },
+            {
+              "service": "Prompt deployment (version control, staged rollout, A/B testing, instant rollback, audit history)"
+            },
+            {
+              "service": "Agent run reliability (queues, retry patterns, idempotency, failure recovery)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named senior MLOps leadership/experts",
+          "value": [
+            {
+              "name": "Malay Parekh",
+              "title": "CEO & Director",
+              "description": "Leads Unicoconnect as an AI-native software development company, combining product thinking with AI, no-code, and cloud-native development."
+            },
+            {
+              "name": "Vasim Gujrati",
+              "title": "Solutions Architect, AI & Platforms",
+              "description": "8+ years of experience owning the full SDLC across backend, AI-native, no-code, and cloud systems, building production AI with LLMs, RAG, GraphRAG, embeddings, and multi-agent orchestration."
+            },
+            {
+              "name": "Saurav Jagdale",
+              "title": "Technical Lead",
+              "description": "GCP Professional Cloud Architect, built Unicoconnect's DevOps practice and now drives AI enablement across engineering."
+            },
+            {
+              "name": "Not Available",
+              "title": "Senior MLOps Engineer",
+              "description": "Unicoconnect is actively hiring for this role, indicating plans to onboard such leadership."
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            },
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of employees (current): 90-strong team (as of June 2026)",
+        "Number of AI/ML engineers (current, prior year): Not explicitly stated as a specific number. Unicoconnect is actively hiring specialized engineers for its new MLOps practice as of June 24, 2026, with open roles for AI Engineer, Senior AI Engineer, MLOps Engineer, and Senior MLOps Engineer.",
+        "Growth rate of AI/ML talent pool (YoY): Not found. Unicoconnect announced the expansion of its AI services and capabilities through a dedicated MLOps practice on June 24, 2026, and is investing in MLOps and actively hiring specialized engineers, indicating growth.",
+        "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer): Not found. Saurav Jagdale, a Technical Lead, is a GCP Professional Cloud Architect and drives AI enablement across engineering.",
+        "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker): [{\"category\": \"Experiment Tracking\", \"tools\": \"MLflow or equivalent\"}, {\"category\": \"Model Deployment and Serving\", \"tools\": \"SageMaker, ECS, EKS, vLLM, TGI, BentoML\"}, {\"category\": \"RAG and Vector Operations\", \"tools\": \"Pinecone, Weaviate, Qdrant, pgvector, OpenSearch\"}, {\"category\": \"Data Validation\", \"tools\": \"Great Expectations, Soda, Pandera\"}, {\"category\": \"Monitoring and Feedback\", \"tools\": \"Evidently, WhyLabs, Arize, Langfuse, CloudWatch, Prometheus, Grafana\"}, {\"category\": \"Testing and Evaluation\", \"tools\": \"Ragas, DeepEval, Promptfoo\"}, {\"category\": \"AI Security\", \"tools\": \"Llama Guard, NeMo Guardrails, OWASP LLM Top 10 framework\"}, {\"category\": \"CI/CD and Infrastructure as Code\", \"tools\": \"Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI\"}, {\"category\": \"Pipeline Orchestration\", \"tools\": \"Airflow, SageMaker Pipelines, Kubeflow\"}, {\"category\": \"LLM Frameworks\", \"tools\": \"LangChain, LlamaIndex\"}, {\"category\": \"Cloud Platforms\", \"tools\": \"AWS (EC2, S3, IAM, VPC, ECR, EKS/ECS, Lambda, Step Functions), Azure, GCP\"}, {\"category\": \"Programming Languages/Databases\", \"tools\": \"Python, Bash scripting, SQL (MySQL, PostgreSQL), MongoDB\"}]",
+        "Number of MLOps case studies/success stories: Unicoconnect launched a new MLOps practice on June 24, 2026. While they list various AI products and services, specific quantifiable MLOps case studies are not detailed. They mention building an AI-powered digital learning platform, an AI-powered content recommendation engine, and AI-Powered E-Commerce Analytics for Sellers, but these are not explicitly framed as MLOps case studies with specific numbers.",
+        "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance): [{\"service\": \"Model versioning and lifecycle management\"}, {\"service\": \"Performance monitoring and drift detection\"}, {\"service\": \"Retraining and evaluation pipelines\"}, {\"service\": \"Governance and compliance controls\"}, {\"service\": \"Deployment automation and infrastructure management\"}, {\"service\": \"Continuous optimization of production AI systems\"}, {\"service\": \"LLM Operations (LLMOps)\"}, {\"service\": \"Observability and tracing for agent runs (prompt, response, tool call, token count, latency, cost)\"}, {\"service\": \"Evaluation infrastructure as a production system (automated execution in CI, eval-gated migrations)\"}, {\"service\": \"Cost operations (per-user and per-task cost attribution, budget alerts, anomaly detection)\"}, {\"service\": \"Prompt deployment (version control, staged rollout, A/B testing, instant rollback, audit history)\"}, {\"service\": \"Agent run reliability (queues, retry patterns, idempotency, failure recovery)\"}]",
+        "Named senior MLOps leadership/experts: [{\"name\": \"Malay Parekh\", \"title\": \"CEO & Director\", \"description\": \"Leads Unicoconnect as an AI-native software development company, combining product thinking with AI, no-code, and cloud-native development.\"}, {\"name\": \"Vasim Gujrati\", \"title\": \"Solutions Architect, AI & Platforms\", \"description\": \"8+ years of experience owning the full SDLC across backend, AI-native, no-code, and cloud systems, building production AI with LLMs, RAG, GraphRAG, embeddings, and multi-agent orchestration.\"}, {\"name\": \"Saurav Jagdale\", \"title\": \"Technical Lead\", \"description\": \"GCP Professional Cloud Architect, built Unicoconnect's DevOps practice and now drives AI enablement across engineering.\"}, {\"name\": \"Not Available\", \"title\": \"Senior MLOps Engineer\", \"description\": \"Unicoconnect is actively hiring for this role, indicating plans to onboard such leadership.\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK",
+          "fields": [
+            "Total number of employees (current)",
+            "Number of AI/ML engineers (current, prior year)",
+            "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer)",
+            "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker)",
+            "Number of MLOps case studies/success stories",
+            "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance)",
+            "Named senior MLOps leadership/experts"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": null,
+          "fields": [
+            "Number of AI/ML engineers (current, prior year)",
+            "Growth rate of AI/ML talent pool (YoY)",
+            "Number of MLOps case studies/success stories",
+            "Named senior MLOps leadership/experts"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdeHz0jQugWyQvUQmhFdMGaBs_Q9HlcrMO_xKcDYjMsbi0XAcQ__rYxtr7l1-Fo_CjsLHOEexxj1URJoFlcyz0cW61QB72_0efi-MQ2ZC-A-0jUpV3stMYhE0qGvjeRuexSzeFef7abiItV5ndTWG0Vs-st3r7Xwr06aHAft991fY0cuJEgXBv_pHAx59FXtlevPNfdQ==",
+          "fields": []
+        },
+        {
+          "name": "greatplacetowork.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuu2MjHlgCOxLWwRxiKLZqM4_RwTND-UqJzuk4LGoVtIK78IXuhd3lkBKaxam80m_Tz0dJNApDV8FwEDpoCqvuwamjc_UypcpfxPhhrIyDOOEtQ5LLtTKvLCCOyInhMH-wUFHk33SZSo7nSUmqQzley0bbnDUGkwKy7PJOK_ViLlor6qwt4KY=",
+          "fields": []
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEK8E7YfyPTJejvg1NsJpXtbtM8QCg6BriNIZpRF58uyN4qiD_zkqPzgE8PfcIHm1cZ_Rtc7-EuLRgMp2LEWr6zKHoDwi9qK5eI9e5E_RjEcN-wkwVpLOnWwbYjwBAXog_jRuUMVAt7yk8QGg0qy4CiHg2nWOCA7_mXcxC1NTZFIcmobKB9UXQ788IueJLrCU5s1AAMSa_4sins7dz3WA1MHisU7MTmUUzUELTbXOPQtgZDIjmj7gFIqTLYw==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwSjqVVKq6mwzgESUsAKSl0aF4ZCPrEEyDVnVhaYtfpuWOR0K4RKm08R4ODsaQZtlAv8LDDIRsrIgr2ZSr93yWd9ulFw2EYauzZjqTy1G_sJLkQUY6TfKmufiA",
+          "fields": []
+        },
+        {
+          "name": "bebee.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJbHcdfgOPzjcCdxzuAAzvswo3uHDwcpEZwxG4V3V4uAb6OFHWGX_1EHQSFLpc4AlePWhXgg7iHJ3gB0SDIUMTOm0v9B6YT0ERDOLrzELkF5x691OsCrRPfn76B8a80TsEMHClmwey8fMl55bOmoMTKLbP0kp94yroI0VjWW7vjH-YOpXcdjBQ3CddhFoamhMQs6uO_TbE4UEkeij9YhfkXolyA==",
+          "fields": []
+        },
+        {
+          "name": "jobaaj.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsPAuoPSwUV1A431iXIRin4p0wTt7194F6VIpY2LzDKXgCIYGo9oo5wikGyzGym5a-gnsSSBFT2MC1Vxx6q8bzTpIbqd2oLWTT9c86GFiqfe2WjHWWDYzZvbgy4BmwMeA8YBcESlk38Ysz7X01LxhxzISvu98ogumt7Ujg3Z3xqKbK5_tbsqw4HpQlWiL3C2_R77w2ruWIcW4f40F-MO1TKscDf8Z43Pc=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5VM_NIMa3FKrlr85YzyLkQlOpeaLXrOfDZm0yKJSAVUaHfdq_QrXSHoFmiXemEl5hXzcotCwYIRTo08_tKvkQkac1DNPt4FQnX19_KBHk9vaIyLCIl6R19GgkwH_uEJxH-tfofq1TXW8J7g==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCx4MHPNc4q3sDcnb72UZkE6U8f5RZZvn_rC0x0kLTIMik_LCWRvfkDzg9pUDRib7lEJTINICspbLo9dt72cgHtiY2eQ8yYljE5JOu2BPCeZcP3r8=",
+          "fields": []
+        },
+        {
+          "name": "getmereferred.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUzHFEH0S1_TUxjTAIRI1hQHGkbN4VKKEF6ves81iaYsvr0UMJf3wq4_MRBCMPUmrVRJhnae7_twBleCW9q3mx20GqFTHVeiNLLilVKdJgbDPrNOiMYZnhliD8OvdgUnSM1rr47nTD1AKIfqX88OegQwqpkDpVaExplc3warBW9FCDDzI53d9k5948nyRx8f478s6UR7t1Q1DPSevL1PchTaal_xXFhTHrsu9IUYqHAW67TcD-MErBHzJ7Ph2MtqOMyHNDep072sbqjxry8WkM",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI Talent & MLOps Capabilities",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Percentage of workforce in AI/ML roles",
+        "Average tenure of AI/ML staff (years)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a robust and growing AI/ML talent base and established MLOps capabilities, increasing the likelihood of successful AI product development and service delivery, thus warranting deeper diligence.",
+        "banker": "Highlights specialized AI/ML talent and MLOps expertise, suggesting potential for high-value projects and a competitive edge, which could be attractive for M&A or capital raise discussions.",
+        "credit_analyst": "Null",
+        "consultant": "Provides concrete evidence of MLOps maturity and talent, indicating a strong foundation for operational efficiency and scalability in AI initiatives, making it a compelling target for strategic advisory."
+      }
+    },
+    {
+      "heading": "MLOps Practice & Expertise",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Total number of employees (current)",
+          "value": "90-strong team (as of June 2026)",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of AI/ML engineers (current, prior year)",
+          "value": "Not explicitly stated as a specific number. Unicoconnect is actively hiring specialized engineers for its new MLOps practice as of June 24, 2026, with open roles for AI Engineer, Senior AI Engineer, MLOps Engineer, and Senior MLOps Engineer.",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            },
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Growth rate of AI/ML talent pool (YoY)",
+          "value": "Not found. Unicoconnect announced the expansion of its AI services and capabilities through a dedicated MLOps practice on June 24, 2026, and is investing in MLOps and actively hiring specialized engineers, indicating growth.",
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer)",
+          "value": "Not found. Saurav Jagdale, a Technical Lead, is a GCP Professional Cloud Architect and drives AI enablement across engineering.",
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker)",
+          "value": [
+            {
+              "category": "Experiment Tracking",
+              "tools": "MLflow or equivalent"
+            },
+            {
+              "category": "Model Deployment and Serving",
+              "tools": "SageMaker, ECS, EKS, vLLM, TGI, BentoML"
+            },
+            {
+              "category": "RAG and Vector Operations",
+              "tools": "Pinecone, Weaviate, Qdrant, pgvector, OpenSearch"
+            },
+            {
+              "category": "Data Validation",
+              "tools": "Great Expectations, Soda, Pandera"
+            },
+            {
+              "category": "Monitoring and Feedback",
+              "tools": "Evidently, WhyLabs, Arize, Langfuse, CloudWatch, Prometheus, Grafana"
+            },
+            {
+              "category": "Testing and Evaluation",
+              "tools": "Ragas, DeepEval, Promptfoo"
+            },
+            {
+              "category": "AI Security",
+              "tools": "Llama Guard, NeMo Guardrails, OWASP LLM Top 10 framework"
+            },
+            {
+              "category": "CI/CD and Infrastructure as Code",
+              "tools": "Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI"
+            },
+            {
+              "category": "Pipeline Orchestration",
+              "tools": "Airflow, SageMaker Pipelines, Kubeflow"
+            },
+            {
+              "category": "LLM Frameworks",
+              "tools": "LangChain, LlamaIndex"
+            },
+            {
+              "category": "Cloud Platforms",
+              "tools": "AWS (EC2, S3, IAM, VPC, ECR, EKS/ECS, Lambda, Step Functions), Azure, GCP"
+            },
+            {
+              "category": "Programming Languages/Databases",
+              "tools": "Python, Bash scripting, SQL (MySQL, PostgreSQL), MongoDB"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of MLOps case studies/success stories",
+          "value": "Unicoconnect launched a new MLOps practice on June 24, 2026. While they list various AI products and services, specific quantifiable MLOps case studies are not detailed. They mention building an AI-powered digital learning platform, an AI-powered content recommendation engine, and AI-Powered E-Commerce Analytics for Sellers, but these are not explicitly framed as MLOps case studies with specific numbers.",
+          "sources": [
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            },
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance)",
+          "value": [
+            {
+              "service": "Model versioning and lifecycle management"
+            },
+            {
+              "service": "Performance monitoring and drift detection"
+            },
+            {
+              "service": "Retraining and evaluation pipelines"
+            },
+            {
+              "service": "Governance and compliance controls"
+            },
+            {
+              "service": "Deployment automation and infrastructure management"
+            },
+            {
+              "service": "Continuous optimization of production AI systems"
+            },
+            {
+              "service": "LLM Operations (LLMOps)"
+            },
+            {
+              "service": "Observability and tracing for agent runs (prompt, response, tool call, token count, latency, cost)"
+            },
+            {
+              "service": "Evaluation infrastructure as a production system (automated execution in CI, eval-gated migrations)"
+            },
+            {
+              "service": "Cost operations (per-user and per-task cost attribution, budget alerts, anomaly detection)"
+            },
+            {
+              "service": "Prompt deployment (version control, staged rollout, A/B testing, instant rollback, audit history)"
+            },
+            {
+              "service": "Agent run reliability (queues, retry patterns, idempotency, failure recovery)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named senior MLOps leadership/experts",
+          "value": [
+            {
+              "name": "Malay Parekh",
+              "title": "CEO & Director",
+              "description": "Leads Unicoconnect as an AI-native software development company, combining product thinking with AI, no-code, and cloud-native development."
+            },
+            {
+              "name": "Vasim Gujrati",
+              "title": "Solutions Architect, AI & Platforms",
+              "description": "8+ years of experience owning the full SDLC across backend, AI-native, no-code, and cloud systems, building production AI with LLMs, RAG, GraphRAG, embeddings, and multi-agent orchestration."
+            },
+            {
+              "name": "Saurav Jagdale",
+              "title": "Technical Lead",
+              "description": "GCP Professional Cloud Architect, built Unicoconnect's DevOps practice and now drives AI enablement across engineering."
+            },
+            {
+              "name": "Not Available",
+              "title": "Senior MLOps Engineer",
+              "description": "Unicoconnect is actively hiring for this role, indicating plans to onboard such leadership."
+            }
+          ],
+          "sources": [
+            {
+              "name": "unicoconnect.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK"
+            },
+            {
+              "name": "newsfilecorp.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total number of employees (current): 90-strong team (as of June 2026)",
+        "Number of AI/ML engineers (current, prior year): Not explicitly stated as a specific number. Unicoconnect is actively hiring specialized engineers for its new MLOps practice as of June 24, 2026, with open roles for AI Engineer, Senior AI Engineer, MLOps Engineer, and Senior MLOps Engineer.",
+        "Growth rate of AI/ML talent pool (YoY): Not found. Unicoconnect announced the expansion of its AI services and capabilities through a dedicated MLOps practice on June 24, 2026, and is investing in MLOps and actively hiring specialized engineers, indicating growth.",
+        "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer): Not found. Saurav Jagdale, a Technical Lead, is a GCP Professional Cloud Architect and drives AI enablement across engineering.",
+        "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker): [{\"category\": \"Experiment Tracking\", \"tools\": \"MLflow or equivalent\"}, {\"category\": \"Model Deployment and Serving\", \"tools\": \"SageMaker, ECS, EKS, vLLM, TGI, BentoML\"}, {\"category\": \"RAG and Vector Operations\", \"tools\": \"Pinecone, Weaviate, Qdrant, pgvector, OpenSearch\"}, {\"category\": \"Data Validation\", \"tools\": \"Great Expectations, Soda, Pandera\"}, {\"category\": \"Monitoring and Feedback\", \"tools\": \"Evidently, WhyLabs, Arize, Langfuse, CloudWatch, Prometheus, Grafana\"}, {\"category\": \"Testing and Evaluation\", \"tools\": \"Ragas, DeepEval, Promptfoo\"}, {\"category\": \"AI Security\", \"tools\": \"Llama Guard, NeMo Guardrails, OWASP LLM Top 10 framework\"}, {\"category\": \"CI/CD and Infrastructure as Code\", \"tools\": \"Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI\"}, {\"category\": \"Pipeline Orchestration\", \"tools\": \"Airflow, SageMaker Pipelines, Kubeflow\"}, {\"category\": \"LLM Frameworks\", \"tools\": \"LangChain, LlamaIndex\"}, {\"category\": \"Cloud Platforms\", \"tools\": \"AWS (EC2, S3, IAM, VPC, ECR, EKS/ECS, Lambda, Step Functions), Azure, GCP\"}, {\"category\": \"Programming Languages/Databases\", \"tools\": \"Python, Bash scripting, SQL (MySQL, PostgreSQL), MongoDB\"}]",
+        "Number of MLOps case studies/success stories: Unicoconnect launched a new MLOps practice on June 24, 2026. While they list various AI products and services, specific quantifiable MLOps case studies are not detailed. They mention building an AI-powered digital learning platform, an AI-powered content recommendation engine, and AI-Powered E-Commerce Analytics for Sellers, but these are not explicitly framed as MLOps case studies with specific numbers.",
+        "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance): [{\"service\": \"Model versioning and lifecycle management\"}, {\"service\": \"Performance monitoring and drift detection\"}, {\"service\": \"Retraining and evaluation pipelines\"}, {\"service\": \"Governance and compliance controls\"}, {\"service\": \"Deployment automation and infrastructure management\"}, {\"service\": \"Continuous optimization of production AI systems\"}, {\"service\": \"LLM Operations (LLMOps)\"}, {\"service\": \"Observability and tracing for agent runs (prompt, response, tool call, token count, latency, cost)\"}, {\"service\": \"Evaluation infrastructure as a production system (automated execution in CI, eval-gated migrations)\"}, {\"service\": \"Cost operations (per-user and per-task cost attribution, budget alerts, anomaly detection)\"}, {\"service\": \"Prompt deployment (version control, staged rollout, A/B testing, instant rollback, audit history)\"}, {\"service\": \"Agent run reliability (queues, retry patterns, idempotency, failure recovery)\"}]",
+        "Named senior MLOps leadership/experts: [{\"name\": \"Malay Parekh\", \"title\": \"CEO & Director\", \"description\": \"Leads Unicoconnect as an AI-native software development company, combining product thinking with AI, no-code, and cloud-native development.\"}, {\"name\": \"Vasim Gujrati\", \"title\": \"Solutions Architect, AI & Platforms\", \"description\": \"8+ years of experience owning the full SDLC across backend, AI-native, no-code, and cloud systems, building production AI with LLMs, RAG, GraphRAG, embeddings, and multi-agent orchestration.\"}, {\"name\": \"Saurav Jagdale\", \"title\": \"Technical Lead\", \"description\": \"GCP Professional Cloud Architect, built Unicoconnect's DevOps practice and now drives AI enablement across engineering.\"}, {\"name\": \"Not Available\", \"title\": \"Senior MLOps Engineer\", \"description\": \"Unicoconnect is actively hiring for this role, indicating plans to onboard such leadership.\"}]"
+      ],
+      "references": [
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1cmZpVxSs4_Yvwrg4LUnSDAvGw9dg_pGZALFZBWnthmf-wBEPJKZmXXmL9de-58a-eTvb01ZtO9ssHmjpWApSp-eWktWPGs8y3SA8Ezl9filSa2MDjMixydKK",
+          "fields": [
+            "Total number of employees (current)",
+            "Number of AI/ML engineers (current, prior year)",
+            "Number of employees with relevant AI/ML certifications (e.g., AWS ML Specialty, Google AI Engineer)",
+            "Key MLOps platforms/tools utilized (e.g., MLflow, Kubeflow, Sagemaker)",
+            "Number of MLOps case studies/success stories",
+            "Specific MLOps services offered (e.g., model monitoring, pipeline automation, data governance)",
+            "Named senior MLOps leadership/experts"
+          ]
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": null,
+          "fields": [
+            "Number of AI/ML engineers (current, prior year)",
+            "Growth rate of AI/ML talent pool (YoY)",
+            "Number of MLOps case studies/success stories",
+            "Named senior MLOps leadership/experts"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdeHz0jQugWyQvUQmhFdMGaBs_Q9HlcrMO_xKcDYjMsbi0XAcQ__rYxtr7l1-Fo_CjsLHOEexxj1URJoFlcyz0cW61QB72_0efi-MQ2ZC-A-0jUpV3stMYhE0qGvjeRuexSzeFef7abiItV5ndTWG0Vs-st3r7Xwr06aHAft991fY0cuJEgXBv_pHAx59FXtlevPNfdQ==",
+          "fields": []
+        },
+        {
+          "name": "greatplacetowork.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuu2MjHlgCOxLWwRxiKLZqM4_RwTND-UqJzuk4LGoVtIK78IXuhd3lkBKaxam80m_Tz0dJNApDV8FwEDpoCqvuwamjc_UypcpfxPhhrIyDOOEtQ5LLtTKvLCCOyInhMH-wUFHk33SZSo7nSUmqQzley0bbnDUGkwKy7PJOK_ViLlor6qwt4KY=",
+          "fields": []
+        },
+        {
+          "name": "newsfilecorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEK8E7YfyPTJejvg1NsJpXtbtM8QCg6BriNIZpRF58uyN4qiD_zkqPzgE8PfcIHm1cZ_Rtc7-EuLRgMp2LEWr6zKHoDwi9qK5eI9e5E_RjEcN-wkwVpLOnWwbYjwBAXog_jRuUMVAt7yk8QGg0qy4CiHg2nWOCA7_mXcxC1NTZFIcmobKB9UXQ788IueJLrCU5s1AAMSa_4sins7dz3WA1MHisU7MTmUUzUELTbXOPQtgZDIjmj7gFIqTLYw==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwSjqVVKq6mwzgESUsAKSl0aF4ZCPrEEyDVnVhaYtfpuWOR0K4RKm08R4ODsaQZtlAv8LDDIRsrIgr2ZSr93yWd9ulFw2EYauzZjqTy1G_sJLkQUY6TfKmufiA",
+          "fields": []
+        },
+        {
+          "name": "bebee.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJbHcdfgOPzjcCdxzuAAzvswo3uHDwcpEZwxG4V3V4uAb6OFHWGX_1EHQSFLpc4AlePWhXgg7iHJ3gB0SDIUMTOm0v9B6YT0ERDOLrzELkF5x691OsCrRPfn76B8a80TsEMHClmwey8fMl55bOmoMTKLbP0kp94yroI0VjWW7vjH-YOpXcdjBQ3CddhFoamhMQs6uO_TbE4UEkeij9YhfkXolyA==",
+          "fields": []
+        },
+        {
+          "name": "jobaaj.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsPAuoPSwUV1A431iXIRin4p0wTt7194F6VIpY2LzDKXgCIYGo9oo5wikGyzGym5a-gnsSSBFT2MC1Vxx6q8bzTpIbqd2oLWTT9c86GFiqfe2WjHWWDYzZvbgy4BmwMeA8YBcESlk38Ysz7X01LxhxzISvu98ogumt7Ujg3Z3xqKbK5_tbsqw4HpQlWiL3C2_R77w2ruWIcW4f40F-MO1TKscDf8Z43Pc=",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5VM_NIMa3FKrlr85YzyLkQlOpeaLXrOfDZm0yKJSAVUaHfdq_QrXSHoFmiXemEl5hXzcotCwYIRTo08_tKvkQkac1DNPt4FQnX19_KBHk9vaIyLCIl6R19GgkwH_uEJxH-tfofq1TXW8J7g==",
+          "fields": []
+        },
+        {
+          "name": "unicoconnect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCx4MHPNc4q3sDcnb72UZkE6U8f5RZZvn_rC0x0kLTIMik_LCWRvfkDzg9pUDRib7lEJTINICspbLo9dt72cgHtiY2eQ8yYljE5JOu2BPCeZcP3r8=",
+          "fields": []
+        },
+        {
+          "name": "getmereferred.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUzHFEH0S1_TUxjTAIRI1hQHGkbN4VKKEF6ves81iaYsvr0UMJf3wq4_MRBCMPUmrVRJhnae7_twBleCW9q3mx20GqFTHVeiNLLilVKdJgbDPrNOiMYZnhliD8OvdgUnSM1rr47nTD1AKIfqX88OegQwqpkDpVaExplc3warBW9FCDDzI53d9k5948nyRx8f478s6UR7t1Q1DPSevL1PchTaal_xXFhTHrsu9IUYqHAW67TcD-MErBHzJ7Ph2MtqOMyHNDep072sbqjxry8WkM",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI Talent & MLOps Capabilities",
+      "confidence": "high",
+      "completeness": 0.8,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Percentage of workforce in AI/ML roles",
+        "Average tenure of AI/ML staff (years)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a robust and growing AI/ML talent base and established MLOps capabilities, increasing the likelihood of successful AI product development and service delivery, thus warranting deeper diligence.",
+        "banker": "Highlights specialized AI/ML talent and MLOps expertise, suggesting potential for high-value projects and a competitive edge, which could be attractive for M&A or capital raise discussions.",
+        "credit_analyst": "Null",
+        "consultant": "Provides concrete evidence of MLOps maturity and talent, indicating a strong foundation for operational efficiency and scalability in AI initiatives, making it a compelling target for strategic advisory."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 28
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.050459,
+    "domain_research_usd": 0.332375,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.067834,
+    "grounding_usd": 0.315,
+    "grounded_calls": 9,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.382834,
+    "actual_calls": 13,
+    "elapsed_seconds": 91.4,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.110792,
+      "estimated_generic_domains_usd": 0.66475,
+      "estimated_synthesis_usd": 0.443167,
+      "estimated_total_usd": 1.490751
+    }
+  }
+}
