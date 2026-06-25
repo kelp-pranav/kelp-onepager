@@ -1,0 +1,1295 @@
+{
+  "company_name": "Kelpglobal",
+  "generated_at": "20260625_093559",
+  "resolved_subsector": "Alternative Investment Management SaaS Platform",
+  "sections": [
+    {
+      "heading": "SaaS Revenue & Client Growth",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)",
+          "value": [
+            {
+              "period": "March 31, 2025",
+              "metric": "Annual Revenue (proxy for ARR)",
+              "value_inr_cr": "₹10 - ₹50 Crore",
+              "value_usd_mn": "$1.20 Mn - $6.00 Mn (approximate, 1 USD = 83.3 INR)"
+            },
+            {
+              "period": "2024",
+              "metric": "Estimated Annual Revenue (proxy for ARR)",
+              "value_usd_mn": "$5.13 Mn",
+              "note": "For 'Kelp' in Software Development, London, 51-100 employees"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            },
+            {
+              "name": "prospeo.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_yg2tdDy9LwYbHMKbsNdPTZgTCVOvaytH5JRXfX3KkCKEr5PognAOs-sLlu7SD_OgOl4vD9H332aHNggsJnl22JgILao79aY_wsId5-weVcMAZd8nxTmQ2yJwg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Funding Raised (INR Cr, USD Mn)",
+          "value": "$2.84 Million",
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Latest Funding Round Date & Amount (INR Cr, USD Mn)",
+          "value": {
+            "date": "April 18, 2024",
+            "amount": "Not disclosed/redacted",
+            "round_type": "Angel"
+          },
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of client testimonials/case studies published",
+          "value": 2,
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrmmMnMC_KT2p2VcgNIaaRzWA3gtu8cRHUUwMY-0aXXzW6w0maTYtr_3BVIybcEzCOehBmLqH-EDX6PdaSG_zzoimutKfdvx2ONkdPYmqmSi1uN64kc7GceP9LI3TbeY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (INR Cr, USD Mn): [{\"period\": \"March 31, 2025\", \"metric\": \"Annual Revenue (proxy for ARR)\", \"value_inr_cr\": \"₹10 - ₹50 Crore\", \"value_usd_mn\": \"$1.20 Mn - $6.00 Mn (approximate, 1 USD = 83.3 INR)\"}, {\"period\": \"2024\", \"metric\": \"Estimated Annual Revenue (proxy for ARR)\", \"value_usd_mn\": \"$5.13 Mn\", \"note\": \"For 'Kelp' in Software Development, London, 51-100 employees\"}]",
+        "Total Funding Raised (INR Cr, USD Mn): $2.84 Million",
+        "Latest Funding Round Date & Amount (INR Cr, USD Mn): {\"date\": \"April 18, 2024\", \"amount\": \"Not disclosed/redacted\", \"round_type\": \"Angel\"}",
+        "Number of client testimonials/case studies published: 2"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ==",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)",
+            "Total Funding Raised (INR Cr, USD Mn)",
+            "Latest Funding Round Date & Amount (INR Cr, USD Mn)"
+          ]
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_yg2tdDy9LwYbHMKbsNdPTZgTCVOvaytH5JRXfX3KkCKEr5PognAOs-sLlu7SD_OgOl4vD9H332aHNggsJnl22JgILao79aY_wsId5-weVcMAZd8nxTmQ2yJwg==",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrmmMnMC_KT2p2VcgNIaaRzWA3gtu8cRHUUwMY-0aXXzW6w0maTYtr_3BVIybcEzCOehBmLqH-EDX6PdaSG_zzoimutKfdvx2ONkdPYmqmSi1uN64kc7GceP9LI3TbeY=",
+          "fields": [
+            "Number of client testimonials/case studies published"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExChlqPf5tL2BtnpOKmpof0x2lUz57iu2_-nHbSnMZrSU1nbJSn0gbZtN4yxUSXHnsx2VpytHsxI_TS37aUkp7suDw_xDT_Q5B9JbmHOduJpGm10prDxSdgcwkNiKHQX8FqGQR_SkMXDLI6n-PRfWorv9aaG8xGqUe6z312S8SbdoE9CLx4iHkgOu9FBHGPk3HIFz9I41tJKWjFD8K6TJx",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBSxpP4Ke1Vxt5ENpWgbAJXK6pWiGDK0de_PNlh_dUVBX_52p9GDc8dNjmZx8islPlfGEyTWSaFveRxcaXwCR73n3DaHDzIjMGfxaO7BvVpbjNV2UqWLqKyNY9sCrKGAxtvQhml1TtWqIGRZfvvF4QFKlBa5kCBTXesjW_N_NBrAHxziPwGOlMjypy8ouXn4yhaGSVLKyWxDPmXJ0jG-XrBLw=",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbZxfcmKwpIqcs_tsF2OMSA5279lezxI8kuf3yKq01qGXDrT4umeKvfjNbLzjydSoPjrHKP4Cz0JGEAF0xaUyKfwSbKo3mzRdQRnAAJmfg7Uq5ATTFUw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS Growth & Client Traction",
+      "confidence": "medium",
+      "completeness": 0.444,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Average Contract Value (ACV) (INR Lakh, USD K)",
+        "Number of active client logos",
+        "Client acquisition rate (new logos per quarter/year, if reported)",
+        "Client retention rate (reported, if available)",
+        "Net Revenue Retention (NRR) (reported, if available)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The ARR, ACV, client growth, and retention metrics directly inform the potential for scalable revenue and market penetration, making Kelpglobal a more attractive investment candidate for deeper diligence.",
+        "banker": "Strong ARR growth and client traction data would signal a healthy, growing business, potentially making it a more appealing target for M&A advisory or capital raising services.",
+        "credit_analyst": "ARR and client retention rates are key indicators of revenue stability and predictability, which are crucial for assessing creditworthiness and mitigating default risk.",
+        "consultant": "Client engagement and retention data, alongside testimonials, would provide initial insights into the platform's stickiness and value proposition, guiding potential operational improvement strategies."
+      }
+    },
+    {
+      "heading": "Client Engagement & Retention",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)",
+          "value": [
+            {
+              "period": "March 31, 2025",
+              "metric": "Annual Revenue (proxy for ARR)",
+              "value_inr_cr": "₹10 - ₹50 Crore",
+              "value_usd_mn": "$1.20 Mn - $6.00 Mn (approximate, 1 USD = 83.3 INR)"
+            },
+            {
+              "period": "2024",
+              "metric": "Estimated Annual Revenue (proxy for ARR)",
+              "value_usd_mn": "$5.13 Mn",
+              "note": "For 'Kelp' in Software Development, London, 51-100 employees"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            },
+            {
+              "name": "prospeo.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_yg2tdDy9LwYbHMKbsNdPTZgTCVOvaytH5JRXfX3KkCKEr5PognAOs-sLlu7SD_OgOl4vD9H332aHNggsJnl22JgILao79aY_wsId5-weVcMAZd8nxTmQ2yJwg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Funding Raised (INR Cr, USD Mn)",
+          "value": "$2.84 Million",
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Latest Funding Round Date & Amount (INR Cr, USD Mn)",
+          "value": {
+            "date": "April 18, 2024",
+            "amount": "Not disclosed/redacted",
+            "round_type": "Angel"
+          },
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of client testimonials/case studies published",
+          "value": 2,
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrmmMnMC_KT2p2VcgNIaaRzWA3gtu8cRHUUwMY-0aXXzW6w0maTYtr_3BVIybcEzCOehBmLqH-EDX6PdaSG_zzoimutKfdvx2ONkdPYmqmSi1uN64kc7GceP9LI3TbeY="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (INR Cr, USD Mn): [{\"period\": \"March 31, 2025\", \"metric\": \"Annual Revenue (proxy for ARR)\", \"value_inr_cr\": \"₹10 - ₹50 Crore\", \"value_usd_mn\": \"$1.20 Mn - $6.00 Mn (approximate, 1 USD = 83.3 INR)\"}, {\"period\": \"2024\", \"metric\": \"Estimated Annual Revenue (proxy for ARR)\", \"value_usd_mn\": \"$5.13 Mn\", \"note\": \"For 'Kelp' in Software Development, London, 51-100 employees\"}]",
+        "Total Funding Raised (INR Cr, USD Mn): $2.84 Million",
+        "Latest Funding Round Date & Amount (INR Cr, USD Mn): {\"date\": \"April 18, 2024\", \"amount\": \"Not disclosed/redacted\", \"round_type\": \"Angel\"}",
+        "Number of client testimonials/case studies published: 2"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrN5KUFghiSQyFON1z4RNi84vHocyCRKgy0EHJ1bDyU11XEzjPT0W3uyz6WbPtPOTENt2Ux3rGHw4I9xbCumQGU_VQlLMkBf-gqXlRfaGRYWXkY8Yr5r6un7aTGMGbJcKv3D2hvd4oZ68KmbXsplTEkU-wmYxDVVMVJap72krVxELjrxKCaSmHzH9eQ==",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)",
+            "Total Funding Raised (INR Cr, USD Mn)",
+            "Latest Funding Round Date & Amount (INR Cr, USD Mn)"
+          ]
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_yg2tdDy9LwYbHMKbsNdPTZgTCVOvaytH5JRXfX3KkCKEr5PognAOs-sLlu7SD_OgOl4vD9H332aHNggsJnl22JgILao79aY_wsId5-weVcMAZd8nxTmQ2yJwg==",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (INR Cr, USD Mn)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrmmMnMC_KT2p2VcgNIaaRzWA3gtu8cRHUUwMY-0aXXzW6w0maTYtr_3BVIybcEzCOehBmLqH-EDX6PdaSG_zzoimutKfdvx2ONkdPYmqmSi1uN64kc7GceP9LI3TbeY=",
+          "fields": [
+            "Number of client testimonials/case studies published"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExChlqPf5tL2BtnpOKmpof0x2lUz57iu2_-nHbSnMZrSU1nbJSn0gbZtN4yxUSXHnsx2VpytHsxI_TS37aUkp7suDw_xDT_Q5B9JbmHOduJpGm10prDxSdgcwkNiKHQX8FqGQR_SkMXDLI6n-PRfWorv9aaG8xGqUe6z312S8SbdoE9CLx4iHkgOu9FBHGPk3HIFz9I41tJKWjFD8K6TJx",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBSxpP4Ke1Vxt5ENpWgbAJXK6pWiGDK0de_PNlh_dUVBX_52p9GDc8dNjmZx8islPlfGEyTWSaFveRxcaXwCR73n3DaHDzIjMGfxaO7BvVpbjNV2UqWLqKyNY9sCrKGAxtvQhml1TtWqIGRZfvvF4QFKlBa5kCBTXesjW_N_NBrAHxziPwGOlMjypy8ouXn4yhaGSVLKyWxDPmXJ0jG-XrBLw=",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbZxfcmKwpIqcs_tsF2OMSA5279lezxI8kuf3yKq01qGXDrT4umeKvfjNbLzjydSoPjrHKP4Cz0JGEAF0xaUyKfwSbKo3mzRdQRnAAJmfg7Uq5ATTFUw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS Growth & Client Traction",
+      "confidence": "medium",
+      "completeness": 0.444,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Average Contract Value (ACV) (INR Lakh, USD K)",
+        "Number of active client logos",
+        "Client acquisition rate (new logos per quarter/year, if reported)",
+        "Client retention rate (reported, if available)",
+        "Net Revenue Retention (NRR) (reported, if available)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The ARR, ACV, client growth, and retention metrics directly inform the potential for scalable revenue and market penetration, making Kelpglobal a more attractive investment candidate for deeper diligence.",
+        "banker": "Strong ARR growth and client traction data would signal a healthy, growing business, potentially making it a more appealing target for M&A advisory or capital raising services.",
+        "credit_analyst": "ARR and client retention rates are key indicators of revenue stability and predictability, which are crucial for assessing creditworthiness and mitigating default risk.",
+        "consultant": "Client engagement and retention data, alongside testimonials, would provide initial insights into the platform's stickiness and value proposition, guiding potential operational improvement strategies."
+      }
+    },
+    {
+      "heading": "AI Platform Capabilities",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation)",
+          "value": [
+            {
+              "name": "Precision Target Sourcing",
+              "description": "Unearths hidden opportunities from current data sources with AI-accelerated thematic deal origination."
+            },
+            {
+              "name": "Disciplined Deal Execution",
+              "description": "Drives robust diligence and builds narratives with richer intelligence, including AI-enhanced exploration tools and data-driven, AI-drafted memos."
+            },
+            {
+              "name": "Optimised Value Creation",
+              "description": "Gains greater visibility to keep investments on track with single-system collaboration and automated monitoring, and protects portfolio performance with AI-enhanced value creation software."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+          "value": "360° private company data (paid, public, proprietary); client's current data sources; 365 account; PitchBook data",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            },
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt)",
+          "value": [
+            "Private Equity",
+            "Venture Capital",
+            "Investment Banks",
+            "Family Offices",
+            "Corporate Mergers and Acquisitions",
+            "Credit Funds",
+            "Limited Partners",
+            "Sovereign/Pension Funds"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable)",
+          "value": [
+            "ISO 27001 Certified",
+            "SOC 2 Certified"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Data residency options offered (e.g., India, global)",
+          "value": "Host on your private cloud",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Technology stack highlights (if disclosed)",
+          "value": "AI-enhanced software and services, proprietary software technology, advanced algorithms",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key partnerships for data or tech integration (list)",
+          "value": [
+            {
+              "partner": "PitchBook",
+              "date": "April 9, 2024",
+              "description": "Integration of PitchBook data (financial data on private and public companies, investors, funds, limited partners, and service providers) within Kelp's software suite."
+            }
+          ],
+          "sources": [
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation): [{\"name\": \"Precision Target Sourcing\", \"description\": \"Unearths hidden opportunities from current data sources with AI-accelerated thematic deal origination.\"}, {\"name\": \"Disciplined Deal Execution\", \"description\": \"Drives robust diligence and builds narratives with richer intelligence, including AI-enhanced exploration tools and data-driven, AI-drafted memos.\"}, {\"name\": \"Optimised Value Creation\", \"description\": \"Gains greater visibility to keep investments on track with single-system collaboration and automated monitoring, and protects portfolio performance with AI-enhanced value creation software.\"}]",
+        "Number of data sources integrated (e.g., public, proprietary, client-specific): 360° private company data (paid, public, proprietary); client's current data sources; 365 account; PitchBook data",
+        "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt): [\"Private Equity\", \"Venture Capital\", \"Investment Banks\", \"Family Offices\", \"Corporate Mergers and Acquisitions\", \"Credit Funds\", \"Limited Partners\", \"Sovereign/Pension Funds\"]",
+        "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable): [\"ISO 27001 Certified\", \"SOC 2 Certified\"]",
+        "Data residency options offered (e.g., India, global): Host on your private cloud",
+        "Technology stack highlights (if disclosed): AI-enhanced software and services, proprietary software technology, advanced algorithms",
+        "Key partnerships for data or tech integration (list): [{\"partner\": \"PitchBook\", \"date\": \"April 9, 2024\", \"description\": \"Integration of PitchBook data (financial data on private and public companies, investors, funds, limited partners, and service providers) within Kelp's software suite.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA==",
+          "fields": [
+            "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation)",
+            "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+            "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt)",
+            "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable)",
+            "Data residency options offered (e.g., India, global)",
+            "Technology stack highlights (if disclosed)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI",
+          "fields": [
+            "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+            "Key partnerships for data or tech integration (list)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCxkiwunEaBBtnb8TWhF8TwxtaQNNgVKbvdzaVu-1vKPOJ4JI0RtT9dge0yKwnHLtOs9lEpnz4pp8j87L3DYYJVbVRgJCnQI7j9jEcOL7CRO9-BVn2JjPeItS1Fp8YoOIM6E4w8yiHBdIriFITX8j7xQUDRt5gU4_MNaOWPksUX_yUsejDWnjeBQjkOA==",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9H69M2KDCec0KvadooGrErkbEX16PL4aC1RVGN2tRKqi6C-NIfpPQ-dTNtdIBhsJ_JUI0pTwfroq4JBph_Bd6lym3eXZ_G4frhJOFGbI5Lnk6FDIeSc_o70TAxMXZ",
+          "fields": []
+        },
+        {
+          "name": "globalpatentfiling.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi4DxY6SP8YSZ3Sul-5Dn4B0RW6qViISsSsU-F1rFKbObSaEv83XQIL9aAo_qQI_S9iSKehdNSIFQOzEj0W5LkXe7H6ztgh9uF9Alkb0m0gk_EsVojswpEqmveq_5iBGa8pNTDmb-PC6c2ZGusd3DoZWojKES7Z5nv5eCHDJ8w48A5aKPFl6A2yruPC7RfUSisMFnFuj5WJWuR8wn5LGxYsGiveSwgjIcu12jq",
+          "fields": []
+        }
+      ],
+      "domain_name": "Platform Technology & Differentiation",
+      "confidence": "high",
+      "completeness": 0.875,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Patent filings (if any, for unique algorithms/methods, from Indian Patent Office)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms potential for competitive advantage via unique AI modules and robust data integration, warranting deeper diligence on scalability and market adoption.",
+        "banker": "Null",
+        "credit_analyst": "Highlights potential operational risks or strengths related to data security certifications and integration complexity, influencing the underwriting assessment.",
+        "consultant": "Identifies potential for operational efficiency gains and differentiation through specific AI capabilities and data integration strategies, suggesting a deeper dive into implementation and client impact."
+      }
+    },
+    {
+      "heading": "Data Integration & Security",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation)",
+          "value": [
+            {
+              "name": "Precision Target Sourcing",
+              "description": "Unearths hidden opportunities from current data sources with AI-accelerated thematic deal origination."
+            },
+            {
+              "name": "Disciplined Deal Execution",
+              "description": "Drives robust diligence and builds narratives with richer intelligence, including AI-enhanced exploration tools and data-driven, AI-drafted memos."
+            },
+            {
+              "name": "Optimised Value Creation",
+              "description": "Gains greater visibility to keep investments on track with single-system collaboration and automated monitoring, and protects portfolio performance with AI-enhanced value creation software."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+          "value": "360° private company data (paid, public, proprietary); client's current data sources; 365 account; PitchBook data",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            },
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt)",
+          "value": [
+            "Private Equity",
+            "Venture Capital",
+            "Investment Banks",
+            "Family Offices",
+            "Corporate Mergers and Acquisitions",
+            "Credit Funds",
+            "Limited Partners",
+            "Sovereign/Pension Funds"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable)",
+          "value": [
+            "ISO 27001 Certified",
+            "SOC 2 Certified"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Data residency options offered (e.g., India, global)",
+          "value": "Host on your private cloud",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Technology stack highlights (if disclosed)",
+          "value": "AI-enhanced software and services, proprietary software technology, advanced algorithms",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key partnerships for data or tech integration (list)",
+          "value": [
+            {
+              "partner": "PitchBook",
+              "date": "April 9, 2024",
+              "description": "Integration of PitchBook data (financial data on private and public companies, investors, funds, limited partners, and service providers) within Kelp's software suite."
+            }
+          ],
+          "sources": [
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation): [{\"name\": \"Precision Target Sourcing\", \"description\": \"Unearths hidden opportunities from current data sources with AI-accelerated thematic deal origination.\"}, {\"name\": \"Disciplined Deal Execution\", \"description\": \"Drives robust diligence and builds narratives with richer intelligence, including AI-enhanced exploration tools and data-driven, AI-drafted memos.\"}, {\"name\": \"Optimised Value Creation\", \"description\": \"Gains greater visibility to keep investments on track with single-system collaboration and automated monitoring, and protects portfolio performance with AI-enhanced value creation software.\"}]",
+        "Number of data sources integrated (e.g., public, proprietary, client-specific): 360° private company data (paid, public, proprietary); client's current data sources; 365 account; PitchBook data",
+        "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt): [\"Private Equity\", \"Venture Capital\", \"Investment Banks\", \"Family Offices\", \"Corporate Mergers and Acquisitions\", \"Credit Funds\", \"Limited Partners\", \"Sovereign/Pension Funds\"]",
+        "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable): [\"ISO 27001 Certified\", \"SOC 2 Certified\"]",
+        "Data residency options offered (e.g., India, global): Host on your private cloud",
+        "Technology stack highlights (if disclosed): AI-enhanced software and services, proprietary software technology, advanced algorithms",
+        "Key partnerships for data or tech integration (list): [{\"partner\": \"PitchBook\", \"date\": \"April 9, 2024\", \"description\": \"Integration of PitchBook data (financial data on private and public companies, investors, funds, limited partners, and service providers) within Kelp's software suite.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9WGY7yKuVxEUVR_qHh_9CfhJfyBl_Jee-sTUi4_AJnvpbev9tujQO_oz7akVX_ThO6RW_ASHOphNyZJZivPAshI_yzTe4XXbWNoBGNkCv-6WFhRlkA==",
+          "fields": [
+            "Key AI modules/features (e.g., Precision Target Sourcing, Disciplined Deal Execution, Optimised Value Creation)",
+            "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+            "Supported asset classes (e.g., Private Equity, Venture Capital, Real Estate, Debt)",
+            "Regulatory compliance certifications (e.g., ISO 27001, SOC 2 Type II, if applicable)",
+            "Data residency options offered (e.g., India, global)",
+            "Technology stack highlights (if disclosed)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICr43sqeCYTNe4giHRvqElnLIxsT1GXkcZxhK3z0Fut-FRu3E64cLjCN7t8re5Ylqf4vAPgEj6_MUL1CNMjtg83DN_yQHp844Wlf_Qw45l-4pFYtJkKu-jh9P5JUyUpZN2T6wd0rRHGVIi-PfpEp2ijufgk1Y--lxsnklnEzzuHxtSNKeZ7dQxhCe1WU2frddfOLDZOw75vrVHrpQizVI",
+          "fields": [
+            "Number of data sources integrated (e.g., public, proprietary, client-specific)",
+            "Key partnerships for data or tech integration (list)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCxkiwunEaBBtnb8TWhF8TwxtaQNNgVKbvdzaVu-1vKPOJ4JI0RtT9dge0yKwnHLtOs9lEpnz4pp8j87L3DYYJVbVRgJCnQI7j9jEcOL7CRO9-BVn2JjPeItS1Fp8YoOIM6E4w8yiHBdIriFITX8j7xQUDRt5gU4_MNaOWPksUX_yUsejDWnjeBQjkOA==",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9H69M2KDCec0KvadooGrErkbEX16PL4aC1RVGN2tRKqi6C-NIfpPQ-dTNtdIBhsJ_JUI0pTwfroq4JBph_Bd6lym3eXZ_G4frhJOFGbI5Lnk6FDIeSc_o70TAxMXZ",
+          "fields": []
+        },
+        {
+          "name": "globalpatentfiling.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi4DxY6SP8YSZ3Sul-5Dn4B0RW6qViISsSsU-F1rFKbObSaEv83XQIL9aAo_qQI_S9iSKehdNSIFQOzEj0W5LkXe7H6ztgh9uF9Alkb0m0gk_EsVojswpEqmveq_5iBGa8pNTDmb-PC6c2ZGusd3DoZWojKES7Z5nv5eCHDJ8w48A5aKPFl6A2yruPC7RfUSisMFnFuj5WJWuR8wn5LGxYsGiveSwgjIcu12jq",
+          "fields": []
+        }
+      ],
+      "domain_name": "Platform Technology & Differentiation",
+      "confidence": "high",
+      "completeness": 0.875,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Patent filings (if any, for unique algorithms/methods, from Indian Patent Office)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms potential for competitive advantage via unique AI modules and robust data integration, warranting deeper diligence on scalability and market adoption.",
+        "banker": "Null",
+        "credit_analyst": "Highlights potential operational risks or strengths related to data security certifications and integration complexity, influencing the underwriting assessment.",
+        "consultant": "Identifies potential for operational efficiency gains and differentiation through specific AI capabilities and data integration strategies, suggesting a deeper dive into implementation and client impact."
+      }
+    },
+    {
+      "heading": "Alternative Investment Tech Landscape",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Target client segments (e.g., by AUM range, firm type)",
+          "value": [
+            "Private equity firms",
+            "Venture capital firms",
+            "Investment banks",
+            "Family offices",
+            "Corporate mergers and acquisition teams"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key competitors (named list, India-specific and global)",
+          "value": [
+            {
+              "name": "iCapital",
+              "scope": "Top competitor (global)"
+            },
+            {
+              "name": "Juniper Square",
+              "scope": "Top competitor (global)"
+            },
+            {
+              "name": "JMAN Group",
+              "scope": "Top competitor (global)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+          "value": [
+            {
+              "description": "AI-accelerated thematic deal origination: Unearths hidden opportunities and reveals hyper-relevant companies, moving from search to prioritized shortlists more quickly."
+            },
+            {
+              "description": "AI-enhanced diligence and deal execution: Drives robust diligence, unlocks extended company and market insight with AI, and eliminates bias with data-driven, AI-drafted memos."
+            },
+            {
+              "description": "Optimized value creation: Provides greater visibility for investments with single-system collaboration and automated monitoring, enabling faster reporting for portfolio companies and maximizing alignment."
+            },
+            {
+              "description": "End-to-end platform: Offers an all-in-one solution for private equity, covering precision target sourcing, disciplined deal execution, and optimized value creation."
+            },
+            {
+              "description": "Dedicated Experts (Managed Services): Connects clients with a team for expert advisory, on-demand research and analysis, and tech support throughout the investment lifecycle."
+            },
+            {
+              "description": "Integration-friendly and highly configurable: The platform integrates with secure data sources and 365 accounts, and its tools are built for private equity firms with built-in configurability for unique workflows."
+            },
+            {
+              "description": "Award-winning technology: The company states its technology is 'award-winning' and designed for the future of Private Equity."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Market size estimate for Alt-InvTech in India (if available from reports)",
+          "value": [
+            {
+              "market": "Alternative investments industry in India",
+              "period": "December 1, 2025",
+              "value": "$400 billion",
+              "note": "Includes SEBI registered AIFs at $130 billion and other funds at $270 billion."
+            },
+            {
+              "market": "Alternative investments industry in India",
+              "period": "2034 (projected)",
+              "value": "$2 trillion",
+              "note": "Represents a five-fold jump and a 22% compound annual growth rate (CAGR) from 2024."
+            },
+            {
+              "market": "Alternative Data Market in India",
+              "period": "2023",
+              "value": "US$95.9 million (revenue)"
+            },
+            {
+              "market": "Alternative Data Market in India",
+              "period": "2030 (projected)",
+              "value": "US$2,228.4 million (revenue)",
+              "note": "CAGR (2024-2030): 56.7%."
+            }
+          ],
+          "sources": [
+            {
+              "name": "thealtinvestor.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwhymh5wVgYSKUwLEaKCRCh4iU_lUYukBk7QdD9iuj48jwZ89boeRk77Pox-5enGlRlj6nsbWWZPYTUkFwJ4n7ui0KZ-MgaccuZbbhH5veDcVwr0k7KXFlQ5JyaOEszP_HT1GWg9QYmfyGeTEmUtFEkMV4psV74A8zzqcAyxH6W5hPac9mgnORfbYKhZTY56TD_tgcgwk_nHw="
+            },
+            {
+              "name": "grandviewresearch.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of similar platforms identified in India (Tracxn estimate)",
+          "value": [
+            {
+              "scope": "Kelp's active competitors (globally)",
+              "period": "June 4, 2026",
+              "value": 409
+            },
+            {
+              "scope": "Investment Tech sector (India)",
+              "period": "May 29, 2026",
+              "value": "4,739 startups",
+              "note": "781 of these startups are funded."
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            },
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9JSUOAv3RKb4lk4-pIRLOzxDi6h-RIY8ZBaikyOh-Fzf4p5-x1jILnnIQ7w4pcG31_BYrAtTXXcYXOCUQc98jvEF257uDjMPMDFbIwLt86kQil36Y9OW-VgpE3Z3yb6asMsxaWnV9NkbL7uNPkxelw4Fo_Fk0Hr5EZQ6GOkt7DQC-xnS5gnzKGp-s092UHUs5mT0TYuJYWN2ukCfXWrmybgd45F80"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Analyst/industry recognition or awards (if any)",
+          "value": [
+            {
+              "description": "Company states it offers 'award-winning, AI-enhanced software and services'."
+            },
+            {
+              "description": "Company states it has 'Award-winning technology designed for the future of Private Equity'."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Target client segments (e.g., by AUM range, firm type): [\"Private equity firms\", \"Venture capital firms\", \"Investment banks\", \"Family offices\", \"Corporate mergers and acquisition teams\"]",
+        "Key competitors (named list, India-specific and global): [{\"name\": \"iCapital\", \"scope\": \"Top competitor (global)\"}, {\"name\": \"Juniper Square\", \"scope\": \"Top competitor (global)\"}, {\"name\": \"JMAN Group\", \"scope\": \"Top competitor (global)\"}]",
+        "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution): [{\"description\": \"AI-accelerated thematic deal origination: Unearths hidden opportunities and reveals hyper-relevant companies, moving from search to prioritized shortlists more quickly.\"}, {\"description\": \"AI-enhanced diligence and deal execution: Drives robust diligence, unlocks extended company and market insight with AI, and eliminates bias with data-driven, AI-drafted memos.\"}, {\"description\": \"Optimized value creation: Provides greater visibility for investments with single-system collaboration and automated monitoring, enabling faster reporting for portfolio companies and maximizing alignment.\"}, {\"description\": \"End-to-end platform: Offers an all-in-one solution for private equity, covering precision target sourcing, disciplined deal execution, and optimized value creation.\"}, {\"description\": \"Dedicated Experts (Managed Services): Connects clients with a team for expert advisory, on-demand research and analysis, and tech support throughout the investment lifecycle.\"}, {\"description\": \"Integration-friendly and highly configurable: The platform integrates with secure data sources and 365 accounts, and its tools are built for private equity firms with built-in configurability for unique workflows.\"}, {\"description\": \"Award-winning technology: The company states its technology is 'award-winning' and designed for the future of Private Equity.\"}]",
+        "Market size estimate for Alt-InvTech in India (if available from reports): [{\"market\": \"Alternative investments industry in India\", \"period\": \"December 1, 2025\", \"value\": \"$400 billion\", \"note\": \"Includes SEBI registered AIFs at $130 billion and other funds at $270 billion.\"}, {\"market\": \"Alternative investments industry in India\", \"period\": \"2034 (projected)\", \"value\": \"$2 trillion\", \"note\": \"Represents a five-fold jump and a 22% compound annual growth rate (CAGR) from 2024.\"}, {\"market\": \"Alternative Data Market in India\", \"period\": \"2023\", \"value\": \"US$95.9 million (revenue)\"}, {\"market\": \"Alternative Data Market in India\", \"period\": \"2030 (projected)\", \"value\": \"US$2,228.4 million (revenue)\", \"note\": \"CAGR (2024-2030): 56.7%.\"}]",
+        "Number of similar platforms identified in India (Tracxn estimate): [{\"scope\": \"Kelp's active competitors (globally)\", \"period\": \"June 4, 2026\", \"value\": 409}, {\"scope\": \"Investment Tech sector (India)\", \"period\": \"May 29, 2026\", \"value\": \"4,739 startups\", \"note\": \"781 of these startups are funded.\"}]",
+        "Analyst/industry recognition or awards (if any): [{\"description\": \"Company states it offers 'award-winning, AI-enhanced software and services'.\"}, {\"description\": \"Company states it has 'Award-winning technology designed for the future of Private Equity'.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA==",
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH",
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Key competitors (named list, India-specific and global)",
+            "Number of similar platforms identified in India (Tracxn estimate)"
+          ]
+        },
+        {
+          "name": "thealtinvestor.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwhymh5wVgYSKUwLEaKCRCh4iU_lUYukBk7QdD9iuj48jwZ89boeRk77Pox-5enGlRlj6nsbWWZPYTUkFwJ4n7ui0KZ-MgaccuZbbhH5veDcVwr0k7KXFlQ5JyaOEszP_HT1GWg9QYmfyGeTEmUtFEkMV4psV74A8zzqcAyxH6W5hPac9mgnORfbYKhZTY56TD_tgcgwk_nHw=",
+          "fields": [
+            "Market size estimate for Alt-InvTech in India (if available from reports)"
+          ]
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": null,
+          "fields": [
+            "Market size estimate for Alt-InvTech in India (if available from reports)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9JSUOAv3RKb4lk4-pIRLOzxDi6h-RIY8ZBaikyOh-Fzf4p5-x1jILnnIQ7w4pcG31_BYrAtTXXcYXOCUQc98jvEF257uDjMPMDFbIwLt86kQil36Y9OW-VgpE3Z3yb6asMsxaWnV9NkbL7uNPkxelw4Fo_Fk0Hr5EZQ6GOkt7DQC-xnS5gnzKGp-s092UHUs5mT0TYuJYWN2ukCfXWrmybgd45F80",
+          "fields": [
+            "Number of similar platforms identified in India (Tracxn estimate)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3exmdnbTrCLbhxdjaaMuTPfs_2j9tj0j8m-8KYo1oR3sM-1gYHDEhiIYGZEsTWHNIGib-OTXQqviB1JN_9rQ2XPh8Bfuu05EppjrrHzbgs9mI0Rs6pqcNgN7fGmeWgQ-cnBqHdkC3hOqArHf2WdFleTFsZ_jxMzGytwCRuDt9lTpIwk_iHvEHK1MG",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLpYwNN78uUJVySy_P8Llg-g-be0dGUucVOcwx-vkQFtqCi9TNhKNTKn5iWpbpPXhTs9dUAaSvRaOPun-_-Npm33gHucbBKi0Ft1HQeaE57UVSshdbEkyDJ1R0QNM=",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH_ukPKvFH5ETvwQjBiMIYtvxlCtEqgZqZmcAg8C1gjVgaA4Q8end-YVRtt_irByNMTj3NKizlb1oYpHAw_Wg-iEwc3Acp-rHcknaUdsY-ib03noSXIBnCKW0ZdGRHoPUyXJMgTer4TVskx_XD5AqBFtuaigra_m9aVfaEFVTwIvEGi5V4gF55Sg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Market Positioning & Competitive Landscape",
+      "confidence": "high",
+      "completeness": 0.857,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Geographic focus of client acquisition (e.g., India vs. global client base split)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a potentially attractive niche in India's Alt-InvTech market, justifying deeper diligence into Kelpglobal's competitive moat and scalability.",
+        "banker": "Identifies potential deal angles by understanding Kelpglobal's competitive positioning against both local and global players, informing pitch strategy.",
+        "credit_analyst": "Null",
+        "consultant": "Provides critical context on Kelpglobal's differentiators and competitive landscape, enabling an assessment of potential operational improvement or market entry strategies."
+      }
+    },
+    {
+      "heading": "Competitive Differentiators",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Target client segments (e.g., by AUM range, firm type)",
+          "value": [
+            "Private equity firms",
+            "Venture capital firms",
+            "Investment banks",
+            "Family offices",
+            "Corporate mergers and acquisition teams"
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key competitors (named list, India-specific and global)",
+          "value": [
+            {
+              "name": "iCapital",
+              "scope": "Top competitor (global)"
+            },
+            {
+              "name": "Juniper Square",
+              "scope": "Top competitor (global)"
+            },
+            {
+              "name": "JMAN Group",
+              "scope": "Top competitor (global)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+          "value": [
+            {
+              "description": "AI-accelerated thematic deal origination: Unearths hidden opportunities and reveals hyper-relevant companies, moving from search to prioritized shortlists more quickly."
+            },
+            {
+              "description": "AI-enhanced diligence and deal execution: Drives robust diligence, unlocks extended company and market insight with AI, and eliminates bias with data-driven, AI-drafted memos."
+            },
+            {
+              "description": "Optimized value creation: Provides greater visibility for investments with single-system collaboration and automated monitoring, enabling faster reporting for portfolio companies and maximizing alignment."
+            },
+            {
+              "description": "End-to-end platform: Offers an all-in-one solution for private equity, covering precision target sourcing, disciplined deal execution, and optimized value creation."
+            },
+            {
+              "description": "Dedicated Experts (Managed Services): Connects clients with a team for expert advisory, on-demand research and analysis, and tech support throughout the investment lifecycle."
+            },
+            {
+              "description": "Integration-friendly and highly configurable: The platform integrates with secure data sources and 365 accounts, and its tools are built for private equity firms with built-in configurability for unique workflows."
+            },
+            {
+              "description": "Award-winning technology: The company states its technology is 'award-winning' and designed for the future of Private Equity."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Market size estimate for Alt-InvTech in India (if available from reports)",
+          "value": [
+            {
+              "market": "Alternative investments industry in India",
+              "period": "December 1, 2025",
+              "value": "$400 billion",
+              "note": "Includes SEBI registered AIFs at $130 billion and other funds at $270 billion."
+            },
+            {
+              "market": "Alternative investments industry in India",
+              "period": "2034 (projected)",
+              "value": "$2 trillion",
+              "note": "Represents a five-fold jump and a 22% compound annual growth rate (CAGR) from 2024."
+            },
+            {
+              "market": "Alternative Data Market in India",
+              "period": "2023",
+              "value": "US$95.9 million (revenue)"
+            },
+            {
+              "market": "Alternative Data Market in India",
+              "period": "2030 (projected)",
+              "value": "US$2,228.4 million (revenue)",
+              "note": "CAGR (2024-2030): 56.7%."
+            }
+          ],
+          "sources": [
+            {
+              "name": "thealtinvestor.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwhymh5wVgYSKUwLEaKCRCh4iU_lUYukBk7QdD9iuj48jwZ89boeRk77Pox-5enGlRlj6nsbWWZPYTUkFwJ4n7ui0KZ-MgaccuZbbhH5veDcVwr0k7KXFlQ5JyaOEszP_HT1GWg9QYmfyGeTEmUtFEkMV4psV74A8zzqcAyxH6W5hPac9mgnORfbYKhZTY56TD_tgcgwk_nHw="
+            },
+            {
+              "name": "grandviewresearch.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of similar platforms identified in India (Tracxn estimate)",
+          "value": [
+            {
+              "scope": "Kelp's active competitors (globally)",
+              "period": "June 4, 2026",
+              "value": 409
+            },
+            {
+              "scope": "Investment Tech sector (India)",
+              "period": "May 29, 2026",
+              "value": "4,739 startups",
+              "note": "781 of these startups are funded."
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            },
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9JSUOAv3RKb4lk4-pIRLOzxDi6h-RIY8ZBaikyOh-Fzf4p5-x1jILnnIQ7w4pcG31_BYrAtTXXcYXOCUQc98jvEF257uDjMPMDFbIwLt86kQil36Y9OW-VgpE3Z3yb6asMsxaWnV9NkbL7uNPkxelw4Fo_Fk0Hr5EZQ6GOkt7DQC-xnS5gnzKGp-s092UHUs5mT0TYuJYWN2ukCfXWrmybgd45F80"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Analyst/industry recognition or awards (if any)",
+          "value": [
+            {
+              "description": "Company states it offers 'award-winning, AI-enhanced software and services'."
+            },
+            {
+              "description": "Company states it has 'Award-winning technology designed for the future of Private Equity'."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Target client segments (e.g., by AUM range, firm type): [\"Private equity firms\", \"Venture capital firms\", \"Investment banks\", \"Family offices\", \"Corporate mergers and acquisition teams\"]",
+        "Key competitors (named list, India-specific and global): [{\"name\": \"iCapital\", \"scope\": \"Top competitor (global)\"}, {\"name\": \"Juniper Square\", \"scope\": \"Top competitor (global)\"}, {\"name\": \"JMAN Group\", \"scope\": \"Top competitor (global)\"}]",
+        "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution): [{\"description\": \"AI-accelerated thematic deal origination: Unearths hidden opportunities and reveals hyper-relevant companies, moving from search to prioritized shortlists more quickly.\"}, {\"description\": \"AI-enhanced diligence and deal execution: Drives robust diligence, unlocks extended company and market insight with AI, and eliminates bias with data-driven, AI-drafted memos.\"}, {\"description\": \"Optimized value creation: Provides greater visibility for investments with single-system collaboration and automated monitoring, enabling faster reporting for portfolio companies and maximizing alignment.\"}, {\"description\": \"End-to-end platform: Offers an all-in-one solution for private equity, covering precision target sourcing, disciplined deal execution, and optimized value creation.\"}, {\"description\": \"Dedicated Experts (Managed Services): Connects clients with a team for expert advisory, on-demand research and analysis, and tech support throughout the investment lifecycle.\"}, {\"description\": \"Integration-friendly and highly configurable: The platform integrates with secure data sources and 365 accounts, and its tools are built for private equity firms with built-in configurability for unique workflows.\"}, {\"description\": \"Award-winning technology: The company states its technology is 'award-winning' and designed for the future of Private Equity.\"}]",
+        "Market size estimate for Alt-InvTech in India (if available from reports): [{\"market\": \"Alternative investments industry in India\", \"period\": \"December 1, 2025\", \"value\": \"$400 billion\", \"note\": \"Includes SEBI registered AIFs at $130 billion and other funds at $270 billion.\"}, {\"market\": \"Alternative investments industry in India\", \"period\": \"2034 (projected)\", \"value\": \"$2 trillion\", \"note\": \"Represents a five-fold jump and a 22% compound annual growth rate (CAGR) from 2024.\"}, {\"market\": \"Alternative Data Market in India\", \"period\": \"2023\", \"value\": \"US$95.9 million (revenue)\"}, {\"market\": \"Alternative Data Market in India\", \"period\": \"2030 (projected)\", \"value\": \"US$2,228.4 million (revenue)\", \"note\": \"CAGR (2024-2030): 56.7%.\"}]",
+        "Number of similar platforms identified in India (Tracxn estimate): [{\"scope\": \"Kelp's active competitors (globally)\", \"period\": \"June 4, 2026\", \"value\": 409}, {\"scope\": \"Investment Tech sector (India)\", \"period\": \"May 29, 2026\", \"value\": \"4,739 startups\", \"note\": \"781 of these startups are funded.\"}]",
+        "Analyst/industry recognition or awards (if any): [{\"description\": \"Company states it offers 'award-winning, AI-enhanced software and services'.\"}, {\"description\": \"Company states it has 'Award-winning technology designed for the future of Private Equity'.\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUSfAt9_xssDkyPlx4rK4lSyy96q-PO0QktvqLJrnwP1BEmXq5lBQU1CT24rgEjQyWjRzzPy_wFqD34QKN70tTLSuSxoSUhYM5QKIiB3j5JnWxJoAcrz8DMDmjErADA==",
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8JfSdO0bE6IqaNTrhYcPsY1ddlKjq9u7MMVNBq0YXl4u2B3ODYWHkzXwQXtYgzgJS6ZcWfJxsMbb8WP2OiF6ct0DAgQov1YO8HzQcPMq69i28KYnH",
+          "fields": [
+            "Target client segments (e.g., by AUM range, firm type)",
+            "Competitive advantages cited by company (e.g., AI efficacy, end-to-end solution)",
+            "Analyst/industry recognition or awards (if any)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Key competitors (named list, India-specific and global)",
+            "Number of similar platforms identified in India (Tracxn estimate)"
+          ]
+        },
+        {
+          "name": "thealtinvestor.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwhymh5wVgYSKUwLEaKCRCh4iU_lUYukBk7QdD9iuj48jwZ89boeRk77Pox-5enGlRlj6nsbWWZPYTUkFwJ4n7ui0KZ-MgaccuZbbhH5veDcVwr0k7KXFlQ5JyaOEszP_HT1GWg9QYmfyGeTEmUtFEkMV4psV74A8zzqcAyxH6W5hPac9mgnORfbYKhZTY56TD_tgcgwk_nHw=",
+          "fields": [
+            "Market size estimate for Alt-InvTech in India (if available from reports)"
+          ]
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": null,
+          "fields": [
+            "Market size estimate for Alt-InvTech in India (if available from reports)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9JSUOAv3RKb4lk4-pIRLOzxDi6h-RIY8ZBaikyOh-Fzf4p5-x1jILnnIQ7w4pcG31_BYrAtTXXcYXOCUQc98jvEF257uDjMPMDFbIwLt86kQil36Y9OW-VgpE3Z3yb6asMsxaWnV9NkbL7uNPkxelw4Fo_Fk0Hr5EZQ6GOkt7DQC-xnS5gnzKGp-s092UHUs5mT0TYuJYWN2ukCfXWrmybgd45F80",
+          "fields": [
+            "Number of similar platforms identified in India (Tracxn estimate)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3exmdnbTrCLbhxdjaaMuTPfs_2j9tj0j8m-8KYo1oR3sM-1gYHDEhiIYGZEsTWHNIGib-OTXQqviB1JN_9rQ2XPh8Bfuu05EppjrrHzbgs9mI0Rs6pqcNgN7fGmeWgQ-cnBqHdkC3hOqArHf2WdFleTFsZ_jxMzGytwCRuDt9lTpIwk_iHvEHK1MG",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLpYwNN78uUJVySy_P8Llg-g-be0dGUucVOcwx-vkQFtqCi9TNhKNTKn5iWpbpPXhTs9dUAaSvRaOPun-_-Npm33gHucbBKi0Ft1HQeaE57UVSshdbEkyDJ1R0QNM=",
+          "fields": []
+        },
+        {
+          "name": "grandviewresearch.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH_ukPKvFH5ETvwQjBiMIYtvxlCtEqgZqZmcAg8C1gjVgaA4Q8end-YVRtt_irByNMTj3NKizlb1oYpHAw_Wg-iEwc3Acp-rHcknaUdsY-ib03noSXIBnCKW0ZdGRHoPUyXJMgTer4TVskx_XD5AqBFtuaigra_m9aVfaEFVTwIvEGi5V4gF55Sg==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Market Positioning & Competitive Landscape",
+      "confidence": "high",
+      "completeness": 0.857,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Geographic focus of client acquisition (e.g., India vs. global client base split)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms a potentially attractive niche in India's Alt-InvTech market, justifying deeper diligence into Kelpglobal's competitive moat and scalability.",
+        "banker": "Identifies potential deal angles by understanding Kelpglobal's competitive positioning against both local and global players, informing pitch strategy.",
+        "credit_analyst": "Null",
+        "consultant": "Provides critical context on Kelpglobal's differentiators and competitive landscape, enabling an assessment of potential operational improvement or market entry strategies."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 34
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.052627,
+    "domain_research_usd": 0.322976,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.060603,
+    "grounding_usd": 0.315,
+    "grounded_calls": 9,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.375603,
+    "actual_calls": 13,
+    "elapsed_seconds": 79.2,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.107659,
+      "estimated_generic_domains_usd": 0.645952,
+      "estimated_synthesis_usd": 0.430635,
+      "estimated_total_usd": 1.45219
+    }
+  }
+}
