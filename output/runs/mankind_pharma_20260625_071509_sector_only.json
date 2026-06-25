@@ -1,0 +1,2111 @@
+{
+  "company_name": "mankind pharma",
+  "generated_at": "20260625_071509",
+  "resolved_subsector": "Diversified Indian pharmaceutical company with strong domestic branded formulations (acute, chronic, specialty), consumer healthcare (OTC), and growing biologics/specialty injectables portfolio.",
+  "sections": [
+    {
+      "heading": "Chronic & Specialty Segment Growth",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Revenue from Chronic Therapies (INR Cr)",
+          "value": [
+            {
+              "period": "9 Months FY26",
+              "value": 3373.9,
+              "note": "Calculated based on 36.7% chronic contribution to domestic revenue of INR 9,187.36 Cr for 9M FY26 (excluding BSV)."
+            },
+            {
+              "period": "Q4 FY26",
+              "description": "Showed double-digit growth, with cardiac therapy growing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Chronic Therapies (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "segment": "Cardiac therapy",
+              "value": "14.7%"
+            },
+            {
+              "period": "Q4 FY26",
+              "segment": "Anti-diabetes business",
+              "value": "11.6%"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "Double-digit growth",
+              "note": "overall chronic therapies"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Cardiac",
+              "value": "16.7%"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Anti-diabetes",
+              "value": "14.4%"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "11%"
+            },
+            {
+              "period": "FY20-FY24",
+              "value": "15% CAGR"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Share of Chronic Therapies in Domestic Sales (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "Nearly 40%"
+            },
+            {
+              "period": "FY26",
+              "value": "Around 40%",
+              "note": "up 120 bps YoY"
+            },
+            {
+              "period": "FY26",
+              "value": "~40%"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "39.3%",
+              "note": "up 200 bps YoY"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "39.2% (excluding BSV)",
+              "note": "up from 37.5% YoY"
+            },
+            {
+              "period": "FY24",
+              "value": "37.6%",
+              "note": "of the company's turnover"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "amazonaws.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA=="
+            },
+            {
+              "name": "chemindigest.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1zSZmziOPPXbcxkLhBj2ZvIvaZotyY-EV_ByN56Rvn8QOXD50F13rHbCUs9nQ0CYvAuT6NNwyPhflWwudfQuh4q6fqL7UPbof57-5PpS8mImc2mNApD8mGRLQQEb40lX05Cfv3EdXkHr6S6JhGia2YlCIR4BBH1lp2I8cq8aqZUqm"
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Acute Therapies (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "description": "Sequential recovery in key acute therapies including gastro and VMN segments"
+            },
+            {
+              "period": "FY26",
+              "description": "Recovery in acute therapies expected to support double-digit growth in India business"
+            },
+            {
+              "period": "Q1 FY26",
+              "description": "Visible encouraging trends with 1.8x volume growth to IPM led by outperformance in Anti-infectives & Respiratory segment"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "amazonaws.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA=="
+            },
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Specialty Segments (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "segment": "Cardiac therapy",
+              "value": "14.7%"
+            },
+            {
+              "period": "Q4 FY26",
+              "segment": "Anti-diabetes business",
+              "value": "11.6%"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "Double-digit growth",
+              "note": "overall chronic therapies"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Cardiac",
+              "value": "16.7%"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Anti-diabetes",
+              "value": "14.4%"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "11%"
+            },
+            {
+              "period": "FY20-FY24",
+              "value": "15% CAGR"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue from Chronic Therapies (INR Cr): [{\"period\": \"9 Months FY26\", \"value\": 3373.9, \"note\": \"Calculated based on 36.7% chronic contribution to domestic revenue of INR 9,187.36 Cr for 9M FY26 (excluding BSV).\"}, {\"period\": \"Q4 FY26\", \"description\": \"Showed double-digit growth, with cardiac therapy growing\"}]",
+        "YoY Growth of Chronic Therapies (%): [{\"period\": \"Q4 FY26\", \"segment\": \"Cardiac therapy\", \"value\": \"14.7%\"}, {\"period\": \"Q4 FY26\", \"segment\": \"Anti-diabetes business\", \"value\": \"11.6%\"}, {\"period\": \"Q4 FY26\", \"value\": \"Double-digit growth\", \"note\": \"overall chronic therapies\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Cardiac\", \"value\": \"16.7%\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Anti-diabetes\", \"value\": \"14.4%\"}, {\"period\": \"Q4 FY25\", \"value\": \"11%\"}, {\"period\": \"FY20-FY24\", \"value\": \"15% CAGR\"}]",
+        "Share of Chronic Therapies in Domestic Sales (%): [{\"period\": \"Q4 FY26\", \"value\": \"Nearly 40%\"}, {\"period\": \"FY26\", \"value\": \"Around 40%\", \"note\": \"up 120 bps YoY\"}, {\"period\": \"FY26\", \"value\": \"~40%\"}, {\"period\": \"Q3 FY26\", \"value\": \"39.3%\", \"note\": \"up 200 bps YoY\"}, {\"period\": \"Q4 FY25\", \"value\": \"39.2% (excluding BSV)\", \"note\": \"up from 37.5% YoY\"}, {\"period\": \"FY24\", \"value\": \"37.6%\", \"note\": \"of the company's turnover\"}]",
+        "YoY Growth of Acute Therapies (%): [{\"period\": \"Q4 FY26\", \"description\": \"Sequential recovery in key acute therapies including gastro and VMN segments\"}, {\"period\": \"FY26\", \"description\": \"Recovery in acute therapies expected to support double-digit growth in India business\"}, {\"period\": \"Q1 FY26\", \"description\": \"Visible encouraging trends with 1.8x volume growth to IPM led by outperformance in Anti-infectives & Respiratory segment\"}]",
+        "YoY Growth of Specialty Segments (%): [{\"period\": \"Q4 FY26\", \"segment\": \"Cardiac therapy\", \"value\": \"14.7%\"}, {\"period\": \"Q4 FY26\", \"segment\": \"Anti-diabetes business\", \"value\": \"11.6%\"}, {\"period\": \"Q4 FY26\", \"value\": \"Double-digit growth\", \"note\": \"overall chronic therapies\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Cardiac\", \"value\": \"16.7%\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Anti-diabetes\", \"value\": \"14.4%\"}, {\"period\": \"Q4 FY25\", \"value\": \"11%\"}, {\"period\": \"FY20-FY24\", \"value\": \"15% CAGR\"}]"
+      ],
+      "references": [
+        {
+          "name": "mankindpharma.com",
+          "url": null,
+          "fields": [
+            "Revenue from Chronic Therapies (INR Cr)"
+          ]
+        },
+        {
+          "name": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "YoY Growth of Acute Therapies (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "icicidirect.com",
+          "url": null,
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU=",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA==",
+          "fields": [
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "chemindigest.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1zSZmziOPPXbcxkLhBj2ZvIvaZotyY-EV_ByN56Rvn8QOXD50F13rHbCUs9nQ0CYvAuT6NNwyPhflWwudfQuh4q6fqL7UPbof57-5PpS8mImc2mNApD8mGRLQQEb40lX05Cfv3EdXkHr6S6JhGia2YlCIR4BBH1lp2I8cq8aqZUqm",
+          "fields": [
+            "Share of Chronic Therapies in Domestic Sales (%)"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": null,
+          "fields": [
+            "YoY Growth of Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "medicaldialogues.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Jo3iFeFaoX3f-cdM6v6jnWF_AfGs4NJidD1yERjeuTC3aVFPkyFgNS6Ym1Wm0GiPTk-fUVp8INpcvSgYNds9ylZw-pJ8Z1nJlkJjMJY1k-nebMLABxh2DNPaDf6AZxnuv1B_dIBgipRxRpGi_6E2TiOAenVSspxVBxSKJ8SSg49ZocFUzX22ihsZuv3v7ap6KWMCp6IaYaCDJt5L0HJP2GOnZldak1ra-RcxK08Zv9P8284rOe35eRE=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOCyQ5E-xOgvxyPmASgYmPuYoZjb-hYIQDysHx0vUei43usAXdKnxT3mnYGcuNcoxzeFkaxDYkxpyH-GYK_u4OCujIZpofbpOuGJR47W2SEKrO2uwGDPvoZ2witddbnK11PKjow3hZdKJVzUW1x5Q8Ze9I-oecCN4KqASJv2bWJUzFjdSrdMjw7Osqo2c0xpykx1Hy",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGKYD8WEAkYeQttsEsaqu5r7OGidJlQydQRMVV9l_NVMG-Ixptspajxsg-8BOZRCQBOjefpOSM9B-ytA7YiKUPnLXiE5mOSANshJnSETL0m_QVpzag_seiTlT1A5JX_JE9_5pd6lbJ09pSVsDWAx5dyiJN2O5b1MqDhrfHwZlIRy_diN93XvDZcdjUnMxQztnS8EQ21HYKUvcS95cGBOpHQoPcbTIfx2ssLNVotXk=",
+          "fields": []
+        },
+        {
+          "name": "tijorifinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7ymx2dw9XaVgWx-sGjChHkT9zXu0ew8BNSIi_1QaqImNn55bYByrhyroIJUnLGoyTHjttJUJssTBObUctKezrsGFGQydF002QQxvJkfZjIoNnZn7vHjLFcGXeqruOkeBKh24sY2rR3giPCt5SPd6nPc9_g==",
+          "fields": []
+        },
+        {
+          "name": "icicidirect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XGmHekJ40rF_tMH4kAG3BpnrciprgDk_Zr1j26Ao0b-xhqLgQg-D4k0sMVIwh3myq2e4gMAgkJlLCj_T2X4WP8ecUxqQbIBcWBmJgDiQEoleHlOpYXPjnyiZ3NuOXAtJ47oJrVdho3VSg0p5P5dWuZAyJ0Ug2XWleMDV_HPUi--Tiyh265Q=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELBtsjOQPFqSLcc2jiRA-FCJkfUyZ3m_AISy8_hwGIripVSSe9-0jsPb_JBD79CA4Ae1rr_Z6pKoGHQ-E4Krin2kFUT3MioRHXCL3CTWWWRdPyVp8uC3YFaWFLFSy-otoGJ9CNnmxRnXy9cvKKUE1A6mg_vk4oHB19xySbEZHa-ax7p7k05LNUIS8-7ZI=",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5nEWsi1dCGrY_-tcfDsFpgAP9n3N3SA02H7NO2683hNBe69oz5-Oi7rvg3aykwnJ5zeFStiH3uLrflMXWmlcO-PwB9p1YzWEhxGobfL-6QSvXnr9CnQqjJjFRDx0UKKLp0PiSzqMs1aUuX7sSpDb8Gw3N0z-FjStt2ZLgCj7wQ10QxAjJRnRdxLy-JbeDcDPMztpa_hSc1mO85f0jj2ELW3ZRZQ==",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSw8EDMbeIvW-8meeSvz_tIgcY-mEUuJL7sqncra8bSEdmJD2GjIFpM-OxQsvvD8oBKeW78pHdDOKwEJ14YTVjk06UxOyEb0-Mw-r2A3NkD_Nyx0oJicDzstTFbesPszK3w6p8VoieRjpVb0iLPT95Z89H6EXeqIiJwsPUCJ_YcNIqSSm6Vzp9pKZ4kURygxeSVVh3yNO",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBYtXSGnsxZaWIpjsqUyLvJCyZd-yw2sXOrunqRHRBPkZij3PTa5LJWvKtWvmeuj0mWLJf8lP-9MpYSombS3MSLQT2McHQR68a0WBH9o7kVyUBibWCWSTirWI6rePE62BOThixvPQ=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Specialty & Chronic Portfolio Performance",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Revenue from Acute Therapies (INR Cr)",
+        "Revenue from Specialty Segments (e.g., Women's Health, Fertility, Critical Care) (INR Cr)",
+        "Number of New Product Launches in Chronic/Specialty segments",
+        "Revenue contribution from Biologics/Injectables (INR Cr)",
+        "EBITDA contribution from Biologics/Injectables (INR Cr, if separately reported)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: Strong growth in chronic and specialty segments, coupled with a growing biologics/injectables portfolio, indicates potential for attractive market positioning and future revenue streams, warranting deeper financial diligence.",
+        "banker": "Pursue: The company's diversified portfolio with a focus on high-growth chronic, specialty, and biologics segments suggests potential for M&A, capital raising, or strategic partnerships that could be of interest for advisory services.",
+        "credit_analyst": "Pursue: Understanding the revenue breakdown and growth drivers within chronic, specialty, and biologics segments is crucial for assessing the stability and future cash flow generation, impacting credit risk assessment.",
+        "consultant": "Pursue: The performance data in chronic, specialty, and biologics segments provides a foundation for identifying operational efficiencies, market penetration strategies, or competitive landscape analysis."
+      }
+    },
+    {
+      "heading": "Biologics & Injectables Contribution",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Revenue from Chronic Therapies (INR Cr)",
+          "value": [
+            {
+              "period": "9 Months FY26",
+              "value": 3373.9,
+              "note": "Calculated based on 36.7% chronic contribution to domestic revenue of INR 9,187.36 Cr for 9M FY26 (excluding BSV)."
+            },
+            {
+              "period": "Q4 FY26",
+              "description": "Showed double-digit growth, with cardiac therapy growing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Chronic Therapies (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "segment": "Cardiac therapy",
+              "value": "14.7%"
+            },
+            {
+              "period": "Q4 FY26",
+              "segment": "Anti-diabetes business",
+              "value": "11.6%"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "Double-digit growth",
+              "note": "overall chronic therapies"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Cardiac",
+              "value": "16.7%"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Anti-diabetes",
+              "value": "14.4%"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "11%"
+            },
+            {
+              "period": "FY20-FY24",
+              "value": "15% CAGR"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Share of Chronic Therapies in Domestic Sales (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "Nearly 40%"
+            },
+            {
+              "period": "FY26",
+              "value": "Around 40%",
+              "note": "up 120 bps YoY"
+            },
+            {
+              "period": "FY26",
+              "value": "~40%"
+            },
+            {
+              "period": "Q3 FY26",
+              "value": "39.3%",
+              "note": "up 200 bps YoY"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "39.2% (excluding BSV)",
+              "note": "up from 37.5% YoY"
+            },
+            {
+              "period": "FY24",
+              "value": "37.6%",
+              "note": "of the company's turnover"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "amazonaws.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA=="
+            },
+            {
+              "name": "chemindigest.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1zSZmziOPPXbcxkLhBj2ZvIvaZotyY-EV_ByN56Rvn8QOXD50F13rHbCUs9nQ0CYvAuT6NNwyPhflWwudfQuh4q6fqL7UPbof57-5PpS8mImc2mNApD8mGRLQQEb40lX05Cfv3EdXkHr6S6JhGia2YlCIR4BBH1lp2I8cq8aqZUqm"
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Acute Therapies (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "description": "Sequential recovery in key acute therapies including gastro and VMN segments"
+            },
+            {
+              "period": "FY26",
+              "description": "Recovery in acute therapies expected to support double-digit growth in India business"
+            },
+            {
+              "period": "Q1 FY26",
+              "description": "Visible encouraging trends with 1.8x volume growth to IPM led by outperformance in Anti-infectives & Respiratory segment"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "amazonaws.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA=="
+            },
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "YoY Growth of Specialty Segments (%)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "segment": "Cardiac therapy",
+              "value": "14.7%"
+            },
+            {
+              "period": "Q4 FY26",
+              "segment": "Anti-diabetes business",
+              "value": "11.6%"
+            },
+            {
+              "period": "Q4 FY26",
+              "value": "Double-digit growth",
+              "note": "overall chronic therapies"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Cardiac",
+              "value": "16.7%"
+            },
+            {
+              "period": "Q3 FY26",
+              "segment": "Anti-diabetes",
+              "value": "14.4%"
+            },
+            {
+              "period": "Q4 FY25",
+              "value": "11%"
+            },
+            {
+              "period": "FY20-FY24",
+              "value": "15% CAGR"
+            }
+          ],
+          "sources": [
+            {
+              "name": "angelone.in",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA=="
+            },
+            {
+              "name": "multibagg.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w=="
+            },
+            {
+              "name": "icicidirect.com",
+              "url": null
+            },
+            {
+              "name": "alphaspread.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU="
+            },
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Revenue from Chronic Therapies (INR Cr): [{\"period\": \"9 Months FY26\", \"value\": 3373.9, \"note\": \"Calculated based on 36.7% chronic contribution to domestic revenue of INR 9,187.36 Cr for 9M FY26 (excluding BSV).\"}, {\"period\": \"Q4 FY26\", \"description\": \"Showed double-digit growth, with cardiac therapy growing\"}]",
+        "YoY Growth of Chronic Therapies (%): [{\"period\": \"Q4 FY26\", \"segment\": \"Cardiac therapy\", \"value\": \"14.7%\"}, {\"period\": \"Q4 FY26\", \"segment\": \"Anti-diabetes business\", \"value\": \"11.6%\"}, {\"period\": \"Q4 FY26\", \"value\": \"Double-digit growth\", \"note\": \"overall chronic therapies\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Cardiac\", \"value\": \"16.7%\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Anti-diabetes\", \"value\": \"14.4%\"}, {\"period\": \"Q4 FY25\", \"value\": \"11%\"}, {\"period\": \"FY20-FY24\", \"value\": \"15% CAGR\"}]",
+        "Share of Chronic Therapies in Domestic Sales (%): [{\"period\": \"Q4 FY26\", \"value\": \"Nearly 40%\"}, {\"period\": \"FY26\", \"value\": \"Around 40%\", \"note\": \"up 120 bps YoY\"}, {\"period\": \"FY26\", \"value\": \"~40%\"}, {\"period\": \"Q3 FY26\", \"value\": \"39.3%\", \"note\": \"up 200 bps YoY\"}, {\"period\": \"Q4 FY25\", \"value\": \"39.2% (excluding BSV)\", \"note\": \"up from 37.5% YoY\"}, {\"period\": \"FY24\", \"value\": \"37.6%\", \"note\": \"of the company's turnover\"}]",
+        "YoY Growth of Acute Therapies (%): [{\"period\": \"Q4 FY26\", \"description\": \"Sequential recovery in key acute therapies including gastro and VMN segments\"}, {\"period\": \"FY26\", \"description\": \"Recovery in acute therapies expected to support double-digit growth in India business\"}, {\"period\": \"Q1 FY26\", \"description\": \"Visible encouraging trends with 1.8x volume growth to IPM led by outperformance in Anti-infectives & Respiratory segment\"}]",
+        "YoY Growth of Specialty Segments (%): [{\"period\": \"Q4 FY26\", \"segment\": \"Cardiac therapy\", \"value\": \"14.7%\"}, {\"period\": \"Q4 FY26\", \"segment\": \"Anti-diabetes business\", \"value\": \"11.6%\"}, {\"period\": \"Q4 FY26\", \"value\": \"Double-digit growth\", \"note\": \"overall chronic therapies\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Cardiac\", \"value\": \"16.7%\"}, {\"period\": \"Q3 FY26\", \"segment\": \"Anti-diabetes\", \"value\": \"14.4%\"}, {\"period\": \"Q4 FY25\", \"value\": \"11%\"}, {\"period\": \"FY20-FY24\", \"value\": \"15% CAGR\"}]"
+      ],
+      "references": [
+        {
+          "name": "mankindpharma.com",
+          "url": null,
+          "fields": [
+            "Revenue from Chronic Therapies (INR Cr)"
+          ]
+        },
+        {
+          "name": "angelone.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQq3WeBqPdNXUbWfW1FBfiiCmxdKYjCuZ7vCjnKW2Jtl8IA95u7LN8Alha1yrbc8V0K-SrVPJSqWZ6XixL1EGSnQ-_E-ZXVwwJl4b_udvu45TVTDVhdxr--SM1kb7Ospbr9iEezt3B_tg0TScGO_N-hyN9omkRZMBM3AHDwK7kBbSY16Pwq6C7EGhA0CRPpzQ41fHMTyQKlqdktwtlS8EnseIHidcA1pKWU7CkSAvDIj4bkN7lCn3TV4Ldw-4F3lh2H2XyzHTkBYDe60K0QNNnOCoH2MfcN-JxwLIYA==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlp1qUmJnQB2mx1NjTm9GgA_vycRWZMEw03JW-Mz-Xl5XWLODt27TS7N1rCsS1HGF_YghlnVzPbj03z-NaOB5tWjrxyFoMqRayj_lk2wdurDzwJ_-HdvtHFbnHPgjyyDF0a-aARR9V9q3KGw-WLLPTZ1ViasepKnNoOGEKI-CGPWATJRd3ch1J3VjGC0XuNa54c71WWH361msCKqFd31W8w==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "YoY Growth of Acute Therapies (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "icicidirect.com",
+          "url": null,
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "alphaspread.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHD8OUFAAy4ZKsuh1S5dM7BFCy48IxtxJiyYavy0zfu4XiwUqtvyDRTMsUUgWwuJCUFb30JreQSBl6LNNrJF31kM_webkRbn0UJzSnRUNWglO4_2yKrJa_nepASBWsm1oFVecCn_lZ2S1LsGncM1I_mI7pyJ1BigV8PqR8QTU=",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOWaIiRCPrVhsZ8NofdbZTIrHiYj7KuEl6fZ-LOdCKep2g0cC7yrtH4QUL-45nsV4-CHPWFE-r74GcWlvnbz-rgE4NTRyMRi25dP3F_5MFfaPHiYbL3mXdOMtXv9vgs6hCvENLTG1cHPhfv6OXUk0jrVRjGG-xzNPSd30rL53WIkmqD3NTjQGWDvcT_YuXK6THYmpIhoXXSO21r1qjYJ6debZHAwzx_diBKJ9zmYLVh3aSQJ7ao_bWDEtBu6M-mlwh5ioeGPupL3hhyw==",
+          "fields": [
+            "YoY Growth of Chronic Therapies (%)",
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Specialty Segments (%)"
+          ]
+        },
+        {
+          "name": "amazonaws.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzAQSXfpVRcDvn0v-qZzOVCG7EgglNp_Z2-3kqsW_y3LoewmVBCb_tYv_Zxyc4h9siJr3NjS_2DdFSTJBOxhYB_9FqOlpYpz0mklSv4e8DlYOPr_vIQApGAY1QeYpbujDJpPq9LFMDOOIF0MhR1Wtngk_2cgh2zETqK1JGlzEWjivOOH4DXLfD1apvyBkDs5zFjJnr3zDHkQoyZ9ACQmTbQA==",
+          "fields": [
+            "Share of Chronic Therapies in Domestic Sales (%)",
+            "YoY Growth of Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "chemindigest.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1zSZmziOPPXbcxkLhBj2ZvIvaZotyY-EV_ByN56Rvn8QOXD50F13rHbCUs9nQ0CYvAuT6NNwyPhflWwudfQuh4q6fqL7UPbof57-5PpS8mImc2mNApD8mGRLQQEb40lX05Cfv3EdXkHr6S6JhGia2YlCIR4BBH1lp2I8cq8aqZUqm",
+          "fields": [
+            "Share of Chronic Therapies in Domestic Sales (%)"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": null,
+          "fields": [
+            "YoY Growth of Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "medicaldialogues.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Jo3iFeFaoX3f-cdM6v6jnWF_AfGs4NJidD1yERjeuTC3aVFPkyFgNS6Ym1Wm0GiPTk-fUVp8INpcvSgYNds9ylZw-pJ8Z1nJlkJjMJY1k-nebMLABxh2DNPaDf6AZxnuv1B_dIBgipRxRpGi_6E2TiOAenVSspxVBxSKJ8SSg49ZocFUzX22ihsZuv3v7ap6KWMCp6IaYaCDJt5L0HJP2GOnZldak1ra-RcxK08Zv9P8284rOe35eRE=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOCyQ5E-xOgvxyPmASgYmPuYoZjb-hYIQDysHx0vUei43usAXdKnxT3mnYGcuNcoxzeFkaxDYkxpyH-GYK_u4OCujIZpofbpOuGJR47W2SEKrO2uwGDPvoZ2witddbnK11PKjow3hZdKJVzUW1x5Q8Ze9I-oecCN4KqASJv2bWJUzFjdSrdMjw7Osqo2c0xpykx1Hy",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGKYD8WEAkYeQttsEsaqu5r7OGidJlQydQRMVV9l_NVMG-Ixptspajxsg-8BOZRCQBOjefpOSM9B-ytA7YiKUPnLXiE5mOSANshJnSETL0m_QVpzag_seiTlT1A5JX_JE9_5pd6lbJ09pSVsDWAx5dyiJN2O5b1MqDhrfHwZlIRy_diN93XvDZcdjUnMxQztnS8EQ21HYKUvcS95cGBOpHQoPcbTIfx2ssLNVotXk=",
+          "fields": []
+        },
+        {
+          "name": "tijorifinance.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7ymx2dw9XaVgWx-sGjChHkT9zXu0ew8BNSIi_1QaqImNn55bYByrhyroIJUnLGoyTHjttJUJssTBObUctKezrsGFGQydF002QQxvJkfZjIoNnZn7vHjLFcGXeqruOkeBKh24sY2rR3giPCt5SPd6nPc9_g==",
+          "fields": []
+        },
+        {
+          "name": "icicidirect.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6XGmHekJ40rF_tMH4kAG3BpnrciprgDk_Zr1j26Ao0b-xhqLgQg-D4k0sMVIwh3myq2e4gMAgkJlLCj_T2X4WP8ecUxqQbIBcWBmJgDiQEoleHlOpYXPjnyiZ3NuOXAtJ47oJrVdho3VSg0p5P5dWuZAyJ0Ug2XWleMDV_HPUi--Tiyh265Q=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELBtsjOQPFqSLcc2jiRA-FCJkfUyZ3m_AISy8_hwGIripVSSe9-0jsPb_JBD79CA4Ae1rr_Z6pKoGHQ-E4Krin2kFUT3MioRHXCL3CTWWWRdPyVp8uC3YFaWFLFSy-otoGJ9CNnmxRnXy9cvKKUE1A6mg_vk4oHB19xySbEZHa-ax7p7k05LNUIS8-7ZI=",
+          "fields": []
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5nEWsi1dCGrY_-tcfDsFpgAP9n3N3SA02H7NO2683hNBe69oz5-Oi7rvg3aykwnJ5zeFStiH3uLrflMXWmlcO-PwB9p1YzWEhxGobfL-6QSvXnr9CnQqjJjFRDx0UKKLp0PiSzqMs1aUuX7sSpDb8Gw3N0z-FjStt2ZLgCj7wQ10QxAjJRnRdxLy-JbeDcDPMztpa_hSc1mO85f0jj2ELW3ZRZQ==",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSw8EDMbeIvW-8meeSvz_tIgcY-mEUuJL7sqncra8bSEdmJD2GjIFpM-OxQsvvD8oBKeW78pHdDOKwEJ14YTVjk06UxOyEb0-Mw-r2A3NkD_Nyx0oJicDzstTFbesPszK3w6p8VoieRjpVb0iLPT95Z89H6EXeqIiJwsPUCJ_YcNIqSSm6Vzp9pKZ4kURygxeSVVh3yNO",
+          "fields": []
+        },
+        {
+          "name": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBYtXSGnsxZaWIpjsqUyLvJCyZd-yw2sXOrunqRHRBPkZij3PTa5LJWvKtWvmeuj0mWLJf8lP-9MpYSombS3MSLQT2McHQR68a0WBH9o7kVyUBibWCWSTirWI6rePE62BOThixvPQ=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Specialty & Chronic Portfolio Performance",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Revenue from Acute Therapies (INR Cr)",
+        "Revenue from Specialty Segments (e.g., Women's Health, Fertility, Critical Care) (INR Cr)",
+        "Number of New Product Launches in Chronic/Specialty segments",
+        "Revenue contribution from Biologics/Injectables (INR Cr)",
+        "EBITDA contribution from Biologics/Injectables (INR Cr, if separately reported)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: Strong growth in chronic and specialty segments, coupled with a growing biologics/injectables portfolio, indicates potential for attractive market positioning and future revenue streams, warranting deeper financial diligence.",
+        "banker": "Pursue: The company's diversified portfolio with a focus on high-growth chronic, specialty, and biologics segments suggests potential for M&A, capital raising, or strategic partnerships that could be of interest for advisory services.",
+        "credit_analyst": "Pursue: Understanding the revenue breakdown and growth drivers within chronic, specialty, and biologics segments is crucial for assessing the stability and future cash flow generation, impacting credit risk assessment.",
+        "consultant": "Pursue: The performance data in chronic, specialty, and biologics segments provides a foundation for identifying operational efficiencies, market penetration strategies, or competitive landscape analysis."
+      }
+    },
+    {
+      "heading": "Prescription Share & IPM Outperformance",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Overall Prescription Share (%)",
+          "value": "15.1% (FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescriber Penetration (%)",
+          "value": "84.1% (FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "IPM Outperformance (x)",
+          "value": "1.08x (March 2026, based on domestic formulations growth of 11.5% vs IPM growth of 10.6%)",
+          "sources": [
+            {
+              "name": "economictimes.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Rank in Indian Pharmaceutical Market (IPM) by prescription",
+          "value": "#1 (for the ninth consecutive year, FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Medical Representatives (Field Force Size)",
+          "value": "Over 18,000 professionals (9M FY26)",
+          "sources": [
+            {
+              "name": "icra.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Doctors Reached by Field Force",
+          "value": "Over 500,000 doctors (annually, as of March 2026)",
+          "sources": [
+            {
+              "name": "businessmodelcanvastemplate.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Stockists in Distribution Network",
+          "value": "12,000+ stockists (as of March 2026)",
+          "sources": [
+            {
+              "name": "businessmodelcanvastemplate.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescription Share in Chronic Therapies (%)",
+          "value": "Approximately 40% of sales (Q4 FY26), up 120 basis points year-on-year",
+          "sources": [
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9_n-kFDmOPIJoawN2I-igru-ES73p-gRVFBvA4O2lbLGlm62k-C6yACSQu8dY7e8t1viaP4JmdlfKo5PAUgEwD6U8C3BfyNaS-EwJiBqk9NU_klV56KCSPgZRqO7aB36A6-wpf3T3rdTaiOU45BmX9Azm_Aav0oreWED-ow_Cn-OH2IaK8TebQwLU7xHx4jJA-l9wF2ASl0BX_dqYCOqtct_jUt4shIFtjHqTpYX6Q9pjx-ndHmvC-eK1T50n10WdwsyaHMUaBgU_uqJjyBHY"
+            },
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescription Share in Acute Therapies (%)",
+          "value": "Approximately 60% of sales (Q4 FY26) (inferred from 40% chronic share and 60:40 acute:chronic split)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Overall Prescription Share (%): 15.1% (FY26)",
+        "Prescriber Penetration (%): 84.1% (FY26)",
+        "IPM Outperformance (x): 1.08x (March 2026, based on domestic formulations growth of 11.5% vs IPM growth of 10.6%)",
+        "Rank in Indian Pharmaceutical Market (IPM) by prescription: #1 (for the ninth consecutive year, FY26)",
+        "Number of Medical Representatives (Field Force Size): Over 18,000 professionals (9M FY26)",
+        "Number of Doctors Reached by Field Force: Over 500,000 doctors (annually, as of March 2026)",
+        "Number of Stockists in Distribution Network: 12,000+ stockists (as of March 2026)",
+        "Prescription Share in Chronic Therapies (%): Approximately 40% of sales (Q4 FY26), up 120 basis points year-on-year",
+        "Prescription Share in Acute Therapies (%): Approximately 60% of sales (Q4 FY26) (inferred from 40% chronic share and 60:40 acute:chronic split)"
+      ],
+      "references": [
+        {
+          "name": "tradebrains.in",
+          "url": null,
+          "fields": [
+            "Overall Prescription Share (%)",
+            "Prescriber Penetration (%)",
+            "Rank in Indian Pharmaceutical Market (IPM) by prescription",
+            "Prescription Share in Chronic Therapies (%)",
+            "Prescription Share in Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "economictimes.com",
+          "url": null,
+          "fields": [
+            "IPM Outperformance (x)"
+          ]
+        },
+        {
+          "name": "icra.in",
+          "url": null,
+          "fields": [
+            "Number of Medical Representatives (Field Force Size)"
+          ]
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy",
+          "fields": [
+            "Number of Doctors Reached by Field Force",
+            "Number of Stockists in Distribution Network"
+          ]
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9_n-kFDmOPIJoawN2I-igru-ES73p-gRVFBvA4O2lbLGlm62k-C6yACSQu8dY7e8t1viaP4JmdlfKo5PAUgEwD6U8C3BfyNaS-EwJiBqk9NU_klV56KCSPgZRqO7aB36A6-wpf3T3rdTaiOU45BmX9Azm_Aav0oreWED-ow_Cn-OH2IaK8TebQwLU7xHx4jJA-l9wF2ASl0BX_dqYCOqtct_jUt4shIFtjHqTpYX6Q9pjx-ndHmvC-eK1T50n10WdwsyaHMUaBgU_uqJjyBHY",
+          "fields": [
+            "Prescription Share in Chronic Therapies (%)"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6YPv_dub-1SwA9hdA8Qh6Fm4ytBIVw-mjm2bZnATipVuJIkb2G-QQkYn4BAT8cqG985GjQzkXXssPuldsSyJfgYUUXi3cbqz6wke2ZE3S_tJ3uoG0hXsRXXqgPJJNU1wQd2J8bFDZThKIna3NhrvVQqLcaHeEwiYHr9HRdEq8DW_nJmgDw1NUtytRhcEwYGwCLqKLkM0j2W2VZokh269jzckAyYLumUTav8GlTDE=",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGel8U7Npm6I6dO0ltgUM3VSTu2m3cS4dJrUu3zvDQhktgLLP7jG4aCa3UPv3iVPXDyUnGgexj-zLkqQCzkvGZuduRQXsgNyh2B_SzytzPxfh8tdFb_f7TKqnXOHTgkXpft5ebM1yulAuX62weLhibm_o-aRgHy-8plIEgV92mww0_aek2EqemL9sshweThmxFYqN0V5_ST9i47U-AZiwhFJO73B2cf9-BZRUqefzRqODGIG1885fC4T1_x5rdVABlbzDTYaAcumLRDQ5HVLad_x6XR4lrYtpRC-Kas",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh4qZJDeO9Wr_A-vujFweiLyahS40CLbfqJFfWL8zekRmeKQejApSowrG1N4WVfsKfYCOfgKhh_oiPawEi8VpqnNEBZJNfSkh3V78qfIHJw-xgufukAlF4-t9FS4ouVF7XfltqPiuWfbTsBh4l",
+          "fields": []
+        },
+        {
+          "name": "icra.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzwc160iICDeCMDiRQ6P4P_CGi3oAoWFsHU_VjjFWlEXa5olxoEcD9pEPBXb9kE3u5EJtxTXh6Y80eSW1L8tJZtN4Uy_PE2d9r44rHBV5Ti0iGnaN277n0Utz_7cqwvEalKSToSNTr0axq-e4LG1lqeNc12LxXCmE=",
+          "fields": []
+        },
+        {
+          "name": "reveliolabs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzhY-mnB0O7bFmDPH4n420_GPDIpPk6DsEwELUnxZvBxPnsGFizXGWH7IGIKdSt6NPOe5SnN0SQwcITNDtxgBChEvw33aAq4bX7btP8FQTRpQEf730TVxIzTRxrl13AZ92WCuhJM990x78jkJLQVIfaYlwOEYI0PC_uA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Domestic Market Leadership & Field Force Effectiveness",
+      "confidence": "high",
+      "completeness": 0.9,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "YoY Growth in Field Force Size (%)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data directly supports an investment thesis by quantifying domestic market leadership and the effectiveness of the sales engine, suggesting strong competitive positioning and revenue generation potential.",
+        "banker": "Quantifiable market share and field force metrics are crucial for assessing deal attractiveness and potential for market consolidation or strategic partnerships.",
+        "credit_analyst": "Prescription share trends and field force growth provide insights into revenue stability and market penetration, which are key indicators for creditworthiness.",
+        "consultant": "Understanding field force effectiveness and doctor reach is essential for identifying operational efficiencies and potential strategies for market share expansion."
+      }
+    },
+    {
+      "heading": "Field Force Scale & Doctor Reach",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Overall Prescription Share (%)",
+          "value": "15.1% (FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescriber Penetration (%)",
+          "value": "84.1% (FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "IPM Outperformance (x)",
+          "value": "1.08x (March 2026, based on domestic formulations growth of 11.5% vs IPM growth of 10.6%)",
+          "sources": [
+            {
+              "name": "economictimes.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Rank in Indian Pharmaceutical Market (IPM) by prescription",
+          "value": "#1 (for the ninth consecutive year, FY26)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Medical Representatives (Field Force Size)",
+          "value": "Over 18,000 professionals (9M FY26)",
+          "sources": [
+            {
+              "name": "icra.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Doctors Reached by Field Force",
+          "value": "Over 500,000 doctors (annually, as of March 2026)",
+          "sources": [
+            {
+              "name": "businessmodelcanvastemplate.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Stockists in Distribution Network",
+          "value": "12,000+ stockists (as of March 2026)",
+          "sources": [
+            {
+              "name": "businessmodelcanvastemplate.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescription Share in Chronic Therapies (%)",
+          "value": "Approximately 40% of sales (Q4 FY26), up 120 basis points year-on-year",
+          "sources": [
+            {
+              "name": "business-standard.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9_n-kFDmOPIJoawN2I-igru-ES73p-gRVFBvA4O2lbLGlm62k-C6yACSQu8dY7e8t1viaP4JmdlfKo5PAUgEwD6U8C3BfyNaS-EwJiBqk9NU_klV56KCSPgZRqO7aB36A6-wpf3T3rdTaiOU45BmX9Azm_Aav0oreWED-ow_Cn-OH2IaK8TebQwLU7xHx4jJA-l9wF2ASl0BX_dqYCOqtct_jUt4shIFtjHqTpYX6Q9pjx-ndHmvC-eK1T50n10WdwsyaHMUaBgU_uqJjyBHY"
+            },
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Prescription Share in Acute Therapies (%)",
+          "value": "Approximately 60% of sales (Q4 FY26) (inferred from 40% chronic share and 60:40 acute:chronic split)",
+          "sources": [
+            {
+              "name": "tradebrains.in",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Overall Prescription Share (%): 15.1% (FY26)",
+        "Prescriber Penetration (%): 84.1% (FY26)",
+        "IPM Outperformance (x): 1.08x (March 2026, based on domestic formulations growth of 11.5% vs IPM growth of 10.6%)",
+        "Rank in Indian Pharmaceutical Market (IPM) by prescription: #1 (for the ninth consecutive year, FY26)",
+        "Number of Medical Representatives (Field Force Size): Over 18,000 professionals (9M FY26)",
+        "Number of Doctors Reached by Field Force: Over 500,000 doctors (annually, as of March 2026)",
+        "Number of Stockists in Distribution Network: 12,000+ stockists (as of March 2026)",
+        "Prescription Share in Chronic Therapies (%): Approximately 40% of sales (Q4 FY26), up 120 basis points year-on-year",
+        "Prescription Share in Acute Therapies (%): Approximately 60% of sales (Q4 FY26) (inferred from 40% chronic share and 60:40 acute:chronic split)"
+      ],
+      "references": [
+        {
+          "name": "tradebrains.in",
+          "url": null,
+          "fields": [
+            "Overall Prescription Share (%)",
+            "Prescriber Penetration (%)",
+            "Rank in Indian Pharmaceutical Market (IPM) by prescription",
+            "Prescription Share in Chronic Therapies (%)",
+            "Prescription Share in Acute Therapies (%)"
+          ]
+        },
+        {
+          "name": "economictimes.com",
+          "url": null,
+          "fields": [
+            "IPM Outperformance (x)"
+          ]
+        },
+        {
+          "name": "icra.in",
+          "url": null,
+          "fields": [
+            "Number of Medical Representatives (Field Force Size)"
+          ]
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF482mOnxhRx8RbRn3kRX_JhWC4xvJKwKyPRuhz5BP-8pRfwZ_Fq6jfnxEk7XxRjn-gi4ajPAwL6lPnWa8tgdqyIXEQ4YSoKXkZiAhrVBqQukQ9brR6VbkOIyxD2kSa8PtY-mIMzvvtZpaVbaByFhBOwBlHanV2y0mRN3YhCjlZWG-t3iL8NvzAmq5XqqWDHSvy",
+          "fields": [
+            "Number of Doctors Reached by Field Force",
+            "Number of Stockists in Distribution Network"
+          ]
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9_n-kFDmOPIJoawN2I-igru-ES73p-gRVFBvA4O2lbLGlm62k-C6yACSQu8dY7e8t1viaP4JmdlfKo5PAUgEwD6U8C3BfyNaS-EwJiBqk9NU_klV56KCSPgZRqO7aB36A6-wpf3T3rdTaiOU45BmX9Azm_Aav0oreWED-ow_Cn-OH2IaK8TebQwLU7xHx4jJA-l9wF2ASl0BX_dqYCOqtct_jUt4shIFtjHqTpYX6Q9pjx-ndHmvC-eK1T50n10WdwsyaHMUaBgU_uqJjyBHY",
+          "fields": [
+            "Prescription Share in Chronic Therapies (%)"
+          ]
+        },
+        {
+          "name": "tradebrains.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6YPv_dub-1SwA9hdA8Qh6Fm4ytBIVw-mjm2bZnATipVuJIkb2G-QQkYn4BAT8cqG985GjQzkXXssPuldsSyJfgYUUXi3cbqz6wke2ZE3S_tJ3uoG0hXsRXXqgPJJNU1wQd2J8bFDZThKIna3NhrvVQqLcaHeEwiYHr9HRdEq8DW_nJmgDw1NUtytRhcEwYGwCLqKLkM0j2W2VZokh269jzckAyYLumUTav8GlTDE=",
+          "fields": []
+        },
+        {
+          "name": "economictimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGel8U7Npm6I6dO0ltgUM3VSTu2m3cS4dJrUu3zvDQhktgLLP7jG4aCa3UPv3iVPXDyUnGgexj-zLkqQCzkvGZuduRQXsgNyh2B_SzytzPxfh8tdFb_f7TKqnXOHTgkXpft5ebM1yulAuX62weLhibm_o-aRgHy-8plIEgV92mww0_aek2EqemL9sshweThmxFYqN0V5_ST9i47U-AZiwhFJO73B2cf9-BZRUqefzRqODGIG1885fC4T1_x5rdVABlbzDTYaAcumLRDQ5HVLad_x6XR4lrYtpRC-Kas",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh4qZJDeO9Wr_A-vujFweiLyahS40CLbfqJFfWL8zekRmeKQejApSowrG1N4WVfsKfYCOfgKhh_oiPawEi8VpqnNEBZJNfSkh3V78qfIHJw-xgufukAlF4-t9FS4ouVF7XfltqPiuWfbTsBh4l",
+          "fields": []
+        },
+        {
+          "name": "icra.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzwc160iICDeCMDiRQ6P4P_CGi3oAoWFsHU_VjjFWlEXa5olxoEcD9pEPBXb9kE3u5EJtxTXh6Y80eSW1L8tJZtN4Uy_PE2d9r44rHBV5Ti0iGnaN277n0Utz_7cqwvEalKSToSNTr0axq-e4LG1lqeNc12LxXCmE=",
+          "fields": []
+        },
+        {
+          "name": "reveliolabs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzhY-mnB0O7bFmDPH4n420_GPDIpPk6DsEwELUnxZvBxPnsGFizXGWH7IGIKdSt6NPOe5SnN0SQwcITNDtxgBChEvw33aAq4bX7btP8FQTRpQEf730TVxIzTRxrl13AZ92WCuhJM990x78jkJLQVIfaYlwOEYI0PC_uA==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Domestic Market Leadership & Field Force Effectiveness",
+      "confidence": "high",
+      "completeness": 0.9,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "YoY Growth in Field Force Size (%)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data directly supports an investment thesis by quantifying domestic market leadership and the effectiveness of the sales engine, suggesting strong competitive positioning and revenue generation potential.",
+        "banker": "Quantifiable market share and field force metrics are crucial for assessing deal attractiveness and potential for market consolidation or strategic partnerships.",
+        "credit_analyst": "Prescription share trends and field force growth provide insights into revenue stability and market penetration, which are key indicators for creditworthiness.",
+        "consultant": "Understanding field force effectiveness and doctor reach is essential for identifying operational efficiencies and potential strategies for market share expansion."
+      }
+    },
+    {
+      "heading": "OTC Segment Performance",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "OTC Segment Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "OTC Segment YoY Growth (%)",
+          "value": [
+            {
+              "period": "Q3 FY26 (ending December 2025)",
+              "value": "5.2%"
+            },
+            {
+              "period": "Q3 FY25 (ending December 2024)",
+              "value": "30%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "OTC Segment EBITDA Margin (%) (if disclosed)",
+          "value": [
+            {
+              "period": "Q1 FY25 (ending June 2024)",
+              "value": "19.5%"
+            },
+            {
+              "period": "FY24 (ending March 2024)",
+              "value": "19.9%"
+            },
+            {
+              "period": "Q3 FY25 (ending December 2024)",
+              "value": "19.9%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Manforce brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Prega News brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Gas-O-Fast brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%)",
+          "value": [
+            {
+              "category": "Pregnancy Test Kits",
+              "brand": "Prega News",
+              "value": "85%",
+              "period": "June 2026"
+            },
+            {
+              "category": "Condoms",
+              "brand": "Manforce",
+              "value": "29%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Emergency Contraceptive",
+              "brand": "Unwanted 72",
+              "value": "67%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Medicated Anti-Acne",
+              "brand": "Acnestar",
+              "value": "35%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Antacid Powder",
+              "brand": "Gas-O-Fast",
+              "value": "9%",
+              "note": "#2 brand",
+              "period": "December 2024"
+            },
+            {
+              "category": "Vitamins, Minerals, Nutrients",
+              "brand": "HealthOk",
+              "value": "3%",
+              "note": "#8 brand",
+              "period": "December 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "OTC Segment Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "OTC Segment YoY Growth (%): [{\"period\": \"Q3 FY26 (ending December 2025)\", \"value\": \"5.2%\"}, {\"period\": \"Q3 FY25 (ending December 2024)\", \"value\": \"30%\"}]",
+        "OTC Segment EBITDA Margin (%) (if disclosed): [{\"period\": \"Q1 FY25 (ending June 2024)\", \"value\": \"19.5%\"}, {\"period\": \"FY24 (ending March 2024)\", \"value\": \"19.9%\"}, {\"period\": \"Q3 FY25 (ending December 2024)\", \"value\": \"19.9%\"}]",
+        "Revenue of Manforce brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Revenue of Prega News brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Revenue of Gas-O-Fast brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%): [{\"category\": \"Pregnancy Test Kits\", \"brand\": \"Prega News\", \"value\": \"85%\", \"period\": \"June 2026\"}, {\"category\": \"Condoms\", \"brand\": \"Manforce\", \"value\": \"29%\", \"period\": \"December 2024\"}, {\"category\": \"Emergency Contraceptive\", \"brand\": \"Unwanted 72\", \"value\": \"67%\", \"period\": \"December 2024\"}, {\"category\": \"Medicated Anti-Acne\", \"brand\": \"Acnestar\", \"value\": \"35%\", \"period\": \"December 2024\"}, {\"category\": \"Antacid Powder\", \"brand\": \"Gas-O-Fast\", \"value\": \"9%\", \"note\": \"#2 brand\", \"period\": \"December 2024\"}, {\"category\": \"Vitamins, Minerals, Nutrients\", \"brand\": \"HealthOk\", \"value\": \"3%\", \"note\": \"#8 brand\", \"period\": \"December 2024\"}]"
+      ],
+      "references": [
+        {
+          "name": "multibagg.ai",
+          "url": null,
+          "fields": [
+            "OTC Segment Revenue (INR Cr)",
+            "Revenue of Manforce brand (INR Cr, if disclosed)",
+            "Revenue of Prega News brand (INR Cr, if disclosed)",
+            "Revenue of Gas-O-Fast brand (INR Cr, if disclosed)"
+          ]
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": null,
+          "fields": [
+            "OTC Segment YoY Growth (%)",
+            "OTC Segment EBITDA Margin (%) (if disclosed)",
+            "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJxhpsoDuGSEx00UPft3I1VdACN4YKLSvqY1TQ2lcknyLhi1wQ5hYUPszmOTMAZpW7b2NbMBPdEQYo893wIfsb-HxI6Pq5pZb1aso4WOu5Dp6Xkm3R-YjKlZTiGIXpG3duNodqJwbcV6TQM57YehqXHuI-blOO067DQbee8Ho=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTLLl7XULeuS7tJWUS4VvWizUvRf4mTNMK1onLY8XzraupiDkqh0BJdHWUwVmizinE1PiHxDcbQ1kSxVBpLGMi1Zsk2XVtce4igLYiCBCYrudHljs9RNN6pT1LCXbiONopUVktX3bF433PoeDLmAIFtW1rCLw_LK-JJ4lM1mn17cj3q5HES_mnBvK4g4n105tqmCTK",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAEyMFMUjprwzOZAmAHbWxjwHA0oFXBcJp_zlQoQxmQI24tN97JRQKqw7x1snIulB4AQCyv8cOWU3-sYnG0YBS1hgYDfNxjHwABBprgdo2p9iZb6CcK9raX079kNYWd5SnQ5A20zTniH8vz9J2wGnaVhx-wWXyzaXQgTpySvV2qtbedywpEsKthxzQZpg4z4gmApS5atFOhAtknKWiMqzbqev0UgyP-F0RSS58WfOmGoXyz4y0Qf_r_xlHAjylP9YytrukfbgpTVQiGGdg4Tf8VT-PCMwN4I5y2-OIE3CpWMji0AkMOP4sgzqEYZJz22jMx6yvQ==",
+          "fields": []
+        },
+        {
+          "name": "fashionnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMk_aLBOsYq6hFLJYnrwR8i8y2fmwY3qM9FjghCdi4LkEQdKTGCQK4eJBu46NxlirOjCT4Y4sP8jw9cIoaMOtOkj8aDmZlNpmfWQ-63FMl8sCfVIvP62NNZNIEjoBvNsqeRfZQrLaRFFMWo1Nv_nG7S35mhePVl5GytRpNDkxmmCGi1TTTYXrJUh1JYOcROdXfl-NRY3_GywjnvqMkQdUQnHxwzuKYGljMRwQlbpqreKs=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdEr_o8Ww2OZ6bRY1-kI7tpWokRqc21YyiYxCV1lqKygsgLwwA39BErg_zg7WssXSUaxnk5OHfUfgXoHOnsqE4FYzD1HRPzxjPp6lLmsj1HyUO6727MgJBEMzyAmIQjJlNwXmJAmawZb0v3zl3tnQL1kFZACGhrqqplleK93a1lIwehRNtJsZ4OtQVDXCHlccJhA=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc3pQWibAeVTPdoRmHtPipPkC-BaHoXQXszXCTX3Objo0XqRhTbQvQd3_iqW-r8vxFn7zCNkayyc5KtLpdvQ-JXj1UFMppUjlroc8logwYfNiIOdVzJ_ELg9_6ptLiLqd4bB5liBQRxMYTbmfujlrWUqSALPkSRCR76aStalOEg4p9FL0tsE8obFMFdME=",
+          "fields": []
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3FjydqNxWs3Z56JrRj2oo4twDoKPmykyThawjqqiTsJx8386KL05P4n13V-olNKdZHF0e0m9e1mbKeGFAW0esNiZnr8NAPhIvP-DOs9B9MbfTbWVfO3zAOc5SfVV0oROg8r3Pz2cqfd3Q5gd_OSY-e0cOnC6KKJfk7IDCb7ngVXjtnDFbKHV1G7OlI32I7NAjx8k3mXFkA5vA-mBW",
+          "fields": []
+        },
+        {
+          "name": "themorningcontext.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTnmSWGD0pVXkTfoaoH3sDpDfyd2_U-ckyrf3dLQISLJ0O9f4P3x6Hh1ICp3AU2nYuOZRKFo7LbQN30y6q5pcdbfAYEjrb8v9Px9PU03qQfbep_dcpi1-Ggs-8APbSb6tO7YQk2HfBpdb2_orPNTIXP_pHCkvOUjI2kgyhVrNzSofmfDuj4cxOw==",
+          "fields": []
+        },
+        {
+          "name": "chittorgarh.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENN02_lOSFJQV5jGq-S1sFGxGAkvC7_AiaU3Vb48BpoakZX6v5lU7iBW_Hj1_cm3iUUWycip0R5h2AKE78CskDWXO8sar7ouw_MW30DOrrQB3fD5womTeSulKE0oG8kNNOuWKDzrulDjE4vNu1G2AKZoSyNft8FIcrTjOc_2kewHFEaTdFSggRxNsEprpTMdsyDNEtJg==",
+          "fields": []
+        },
+        {
+          "name": "afaqs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdN3zOvGkX6nCS5be3LwgOjgaHmv2G46QyDohtlPjVGpyclnbK950kL9crKmaVUVTlXPWHMTBwggjmZ3GP443fSh6QVrIcGDy3uZsBrZnlMwJjWjsH6Wxny_5r0okM7ICmF68xflK160ID2sFVvnct98chH1CwymKfOD0B1sNRXZf5zRdt4VJUhhrGlymtk2mnFJBNizvbHtnqkJ7optyWoIT6HDMMnsNKTEAdagAAGIob",
+          "fields": []
+        },
+        {
+          "name": "mediabrief.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb4OYTcczzI93lN1bV3O7uED8_WRVCKK2HlUInJMMYIlBaUpglyM7Z3cjYJ7kkA2unioKyjt5ozaoWTmqUyqVbNgJ0Dnn62RdpJHGhQfQK19kt_mKiy2_fRrc-oFH3bWalV6wf9tzv6HuBQfzVZzJnwDlfUtQAuWPkwz9hjC1VQMB9lE36hw==",
+          "fields": []
+        },
+        {
+          "name": "financialexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMI8dP4mtSdYdrwufTr_FMUNSi--VF152IG5jApfmxfKFw3CYB1eBRL9_Ofk1qneyCAa2hysGiZmuDw8sJCLMbK9XCpKORw5Z1f5kcZ1npo8LA-yQB8cmJ9oMkQJpxSdKt1X9qVKtZ5f5jn1y-eatvJY9sT9ARzBwuMd_WFHmGrd3PBfsyZYtIjGn18bONw7e0iH7O2NwVuWfTpoU3YYUAaocnGvtMiot4RIvKcFVz_GFu6n7X2X6w7hg2Ohc_lWD3iG0oIA8LsIaQxeuwtQ==",
+          "fields": []
+        },
+        {
+          "name": "marketresearchfuture.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNllxvoa1IjvHwwzjm3A0uuaHcT2mTfOWqhcZHdw1CObIiDHvv_U4yz5GnYgU314bZLhHX8IkYkqkFKHA0r2iiYA-LG17c_F-cTEKcKpL9eZ2C0mGI0BXjgVNsMR_cezLHDSy0MnPem6_dtyiuJM4NlScAnVx4aoXS2bQLR0AzYKW5SB7qhX0=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPK2ZwL4Z431Pv4TRgl8rPLM0vyqBa9Lx8wK8wMmXy0VMHFvGuZs4eXyeDDLtwSXuqOM9HyPfyPms9JqRwMXsseoSDdlqjbQyulMHFbzOTV8m2QuOFhTALa15ZKV7ut8don9Hqjwr0FyefM-ziQunU8s1RfBn7ThK7qpiLSp190F12IOGEaYh9qKPZOVOwGmXE0mInmCTiN328YZexTIpyQ==",
+          "fields": []
+        },
+        {
+          "name": "bestmediainfo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57qJZuVrDx_c6ump0g1jheuqoMdfczxJLlXjHgQcukEdsz1CiaF4kratwRq_UlybkkWUi5Rfy9k24CeEvx2PLwbzxqgYmYs8yiIw86p2yIjbToUfg27XtuNSghQNF01Rt01AXul8AdwBEXTrdGueMxgyMjlCdI8_fRr13XZUzK9COZX8MIAIH540LBKUKKHjeoK4zp0In1jZVuWdqEByu5X6IRBCFumq9tzhHtgD5TecYY0dpD6_woflIm3MQaVvJhMG5ZDq0aCHkz_P9",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOO4uUjFN1FWPc6aMF-ghNywJH7b4rQSDYVmzOLIr3XIJklINHlw51SwuFrgHreWILRGgWPa24-x02yEkE01jvnzw6-nyX1hinfPPrc6MJI2V3gMseJKUDf-mQRqfFeIFjZLijT57ZzuyIWKHOvFOa0T33fych2wjteWib_XWbaadNaoCaavXj8ku1ClnzrZgBbNSlgKOGAX-knYM=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0jZ7vK-45VcOT3E2e7TvHYyBzEQz1DuZZRMpJTedy34mNt22KtdTudx3yzfp5irwbbZbUXMyuX8vxqIDHU3pUPvBDg8WvlfSIXCuzrM9MmGDum-PiDVeiaoKn-IqbgltyoOPdZ1ONwY0s5qYkW4CHOe9cKVT2bsqS2hYzbJQrJ-EEwgQ61QC8jbIlRA==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIZlJMTRYK3kTABIO3fisXke4jLsGCgIR4meXPrLYxXLcPoKqVxMlM8agfpiWGYwJId0Z2Edef8pTXruGAthn2uO3JDiTE-B9wL6aXU43_bxCTyNTwhVz5HIH6GJLAkWxF6lAyeanVNFy9PyVkizOhsg29l9kGAm_pw0BEr4xcNUZ-mNyF2Qwo10dEFkZ8WR7uWWzxSfOQya0Vd0HKbZHb-E7gh959cyMTos0Z3nti2ZDwEkbXnZdccIJotcpc9sHob_jfqeMx0KrvHk7vdqqMSAofmtB-kHp46FW1PbE79uBNTKVSXOgC584B2Tu8ksd-Zm4R",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpzuxgNnCHGpNmpPTSey-gGATdru4boOhyatgKjJYwIgfYDY-4bKO9uzQkSos_uQhrXr129cGQYoerh9MuXi2-IoYcESm_B-z5yL_Td2SGBTFwTCLfK8IZuW_7Rr2LezhaDBX7iNv__EpQanKKuAnxq1Q5oT1YIsOAsDvffhtCNCye_49BisSsU427rbkcxPvvtg==",
+          "fields": []
+        },
+        {
+          "name": "financialexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1LOOwoKHutGv3WU74_1iwTgSwOVeyFVkHpu5sBONcfYITxhcUkGeJO4wNEs-FcIKB7l7t3OmLdjPKAUQBQ375ekGTpMOpEg9Nz7IqXSTjk6bfmYnq29MRjjQwTkfrROcGYIZ33xYNsIuewNdBnUiVOCb0BkWy-lrvQfwThpppa10E0Tb9AT0n1EkWzTStvYHQyTRHPpC-D38NUN-WzC5B3xcSDiOwRN1pBNa9tGpfpSXbod0aa-e-5iPqxeL_-C0MThEjvsOVq_XNvVn",
+          "fields": []
+        },
+        {
+          "name": "afaqs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Aibh36hq_cvJBM7AzHMG1AVTSuMXGhZbLp8oSI40qrBsIDAmZezbvzXXPKLN7DhJoUlXzHblxltXX4WF8R3gku4dhuLsM5xlpso-_Q3Rct9WUFgeehI138vXqbjmoWn5dw2Cl29__4y-FuslhWMCpSC_jskQd4OdScInaMkzB1XRDJ80c6nMVyVZ1XUKWWoH3EOYKfjyWQfzk5_lPdi6CSZboOrN-KrhZynd8TVR0g4=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Consumer Healthcare (OTC) Segment Deep Dive",
+      "confidence": "high",
+      "completeness": 0.778,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "E-commerce contribution to OTC sales (%)",
+        "Number of new OTC product launches"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Pursue: Understanding the OTC segment's revenue, growth, and brand contributions is crucial for assessing Mankind's diversification and potential for future consumer-facing growth, a key factor in investment thesis.",
+        "banker": "Pursue: Strong OTC performance and brand data can highlight potential M&A targets or financing opportunities within a growing consumer segment, justifying deeper deal exploration.",
+        "credit_analyst": "Pursue: OTC segment performance and margins provide insight into revenue stability and profitability diversification, which are important for assessing overall credit risk.",
+        "consultant": "Pursue: Analyzing new OTC product launches and market share in key categories offers operational insights into innovation and competitive positioning, warranting further strategic review."
+      }
+    },
+    {
+      "heading": "Key OTC Brand Contribution",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "OTC Segment Revenue (INR Cr)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "OTC Segment YoY Growth (%)",
+          "value": [
+            {
+              "period": "Q3 FY26 (ending December 2025)",
+              "value": "5.2%"
+            },
+            {
+              "period": "Q3 FY25 (ending December 2024)",
+              "value": "30%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "OTC Segment EBITDA Margin (%) (if disclosed)",
+          "value": [
+            {
+              "period": "Q1 FY25 (ending June 2024)",
+              "value": "19.5%"
+            },
+            {
+              "period": "FY24 (ending March 2024)",
+              "value": "19.9%"
+            },
+            {
+              "period": "Q3 FY25 (ending December 2024)",
+              "value": "19.9%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Manforce brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Prega News brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue of Gas-O-Fast brand (INR Cr, if disclosed)",
+          "value": [
+            {
+              "period": "Q4 FY26",
+              "value": "213"
+            },
+            {
+              "period": "Q1 FY26",
+              "value": "237"
+            },
+            {
+              "period": "FY25",
+              "value": "809"
+            },
+            {
+              "period": "Q1 FY25",
+              "value": "206"
+            },
+            {
+              "period": "FY24",
+              "value": "706"
+            }
+          ],
+          "sources": [
+            {
+              "name": "multibagg.ai",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%)",
+          "value": [
+            {
+              "category": "Pregnancy Test Kits",
+              "brand": "Prega News",
+              "value": "85%",
+              "period": "June 2026"
+            },
+            {
+              "category": "Condoms",
+              "brand": "Manforce",
+              "value": "29%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Emergency Contraceptive",
+              "brand": "Unwanted 72",
+              "value": "67%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Medicated Anti-Acne",
+              "brand": "Acnestar",
+              "value": "35%",
+              "period": "December 2024"
+            },
+            {
+              "category": "Antacid Powder",
+              "brand": "Gas-O-Fast",
+              "value": "9%",
+              "note": "#2 brand",
+              "period": "December 2024"
+            },
+            {
+              "category": "Vitamins, Minerals, Nutrients",
+              "brand": "HealthOk",
+              "value": "3%",
+              "note": "#8 brand",
+              "period": "December 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "mankindpharma.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "OTC Segment Revenue (INR Cr): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "OTC Segment YoY Growth (%): [{\"period\": \"Q3 FY26 (ending December 2025)\", \"value\": \"5.2%\"}, {\"period\": \"Q3 FY25 (ending December 2024)\", \"value\": \"30%\"}]",
+        "OTC Segment EBITDA Margin (%) (if disclosed): [{\"period\": \"Q1 FY25 (ending June 2024)\", \"value\": \"19.5%\"}, {\"period\": \"FY24 (ending March 2024)\", \"value\": \"19.9%\"}, {\"period\": \"Q3 FY25 (ending December 2024)\", \"value\": \"19.9%\"}]",
+        "Revenue of Manforce brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Revenue of Prega News brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Revenue of Gas-O-Fast brand (INR Cr, if disclosed): [{\"period\": \"Q4 FY26\", \"value\": \"213\"}, {\"period\": \"Q1 FY26\", \"value\": \"237\"}, {\"period\": \"FY25\", \"value\": \"809\"}, {\"period\": \"Q1 FY25\", \"value\": \"206\"}, {\"period\": \"FY24\", \"value\": \"706\"}]",
+        "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%): [{\"category\": \"Pregnancy Test Kits\", \"brand\": \"Prega News\", \"value\": \"85%\", \"period\": \"June 2026\"}, {\"category\": \"Condoms\", \"brand\": \"Manforce\", \"value\": \"29%\", \"period\": \"December 2024\"}, {\"category\": \"Emergency Contraceptive\", \"brand\": \"Unwanted 72\", \"value\": \"67%\", \"period\": \"December 2024\"}, {\"category\": \"Medicated Anti-Acne\", \"brand\": \"Acnestar\", \"value\": \"35%\", \"period\": \"December 2024\"}, {\"category\": \"Antacid Powder\", \"brand\": \"Gas-O-Fast\", \"value\": \"9%\", \"note\": \"#2 brand\", \"period\": \"December 2024\"}, {\"category\": \"Vitamins, Minerals, Nutrients\", \"brand\": \"HealthOk\", \"value\": \"3%\", \"note\": \"#8 brand\", \"period\": \"December 2024\"}]"
+      ],
+      "references": [
+        {
+          "name": "multibagg.ai",
+          "url": null,
+          "fields": [
+            "OTC Segment Revenue (INR Cr)",
+            "Revenue of Manforce brand (INR Cr, if disclosed)",
+            "Revenue of Prega News brand (INR Cr, if disclosed)",
+            "Revenue of Gas-O-Fast brand (INR Cr, if disclosed)"
+          ]
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": null,
+          "fields": [
+            "OTC Segment YoY Growth (%)",
+            "OTC Segment EBITDA Margin (%) (if disclosed)",
+            "Market share in key OTC categories (e.g., condoms, pregnancy test kits) (%)"
+          ]
+        },
+        {
+          "name": "multibagg.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJxhpsoDuGSEx00UPft3I1VdACN4YKLSvqY1TQ2lcknyLhi1wQ5hYUPszmOTMAZpW7b2NbMBPdEQYo893wIfsb-HxI6Pq5pZb1aso4WOu5Dp6Xkm3R-YjKlZTiGIXpG3duNodqJwbcV6TQM57YehqXHuI-blOO067DQbee8Ho=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTLLl7XULeuS7tJWUS4VvWizUvRf4mTNMK1onLY8XzraupiDkqh0BJdHWUwVmizinE1PiHxDcbQ1kSxVBpLGMi1Zsk2XVtce4igLYiCBCYrudHljs9RNN6pT1LCXbiONopUVktX3bF433PoeDLmAIFtW1rCLw_LK-JJ4lM1mn17cj3q5HES_mnBvK4g4n105tqmCTK",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAEyMFMUjprwzOZAmAHbWxjwHA0oFXBcJp_zlQoQxmQI24tN97JRQKqw7x1snIulB4AQCyv8cOWU3-sYnG0YBS1hgYDfNxjHwABBprgdo2p9iZb6CcK9raX079kNYWd5SnQ5A20zTniH8vz9J2wGnaVhx-wWXyzaXQgTpySvV2qtbedywpEsKthxzQZpg4z4gmApS5atFOhAtknKWiMqzbqev0UgyP-F0RSS58WfOmGoXyz4y0Qf_r_xlHAjylP9YytrukfbgpTVQiGGdg4Tf8VT-PCMwN4I5y2-OIE3CpWMji0AkMOP4sgzqEYZJz22jMx6yvQ==",
+          "fields": []
+        },
+        {
+          "name": "fashionnetwork.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMk_aLBOsYq6hFLJYnrwR8i8y2fmwY3qM9FjghCdi4LkEQdKTGCQK4eJBu46NxlirOjCT4Y4sP8jw9cIoaMOtOkj8aDmZlNpmfWQ-63FMl8sCfVIvP62NNZNIEjoBvNsqeRfZQrLaRFFMWo1Nv_nG7S35mhePVl5GytRpNDkxmmCGi1TTTYXrJUh1JYOcROdXfl-NRY3_GywjnvqMkQdUQnHxwzuKYGljMRwQlbpqreKs=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdEr_o8Ww2OZ6bRY1-kI7tpWokRqc21YyiYxCV1lqKygsgLwwA39BErg_zg7WssXSUaxnk5OHfUfgXoHOnsqE4FYzD1HRPzxjPp6lLmsj1HyUO6727MgJBEMzyAmIQjJlNwXmJAmawZb0v3zl3tnQL1kFZACGhrqqplleK93a1lIwehRNtJsZ4OtQVDXCHlccJhA=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc3pQWibAeVTPdoRmHtPipPkC-BaHoXQXszXCTX3Objo0XqRhTbQvQd3_iqW-r8vxFn7zCNkayyc5KtLpdvQ-JXj1UFMppUjlroc8logwYfNiIOdVzJ_ELg9_6ptLiLqd4bB5liBQRxMYTbmfujlrWUqSALPkSRCR76aStalOEg4p9FL0tsE8obFMFdME=",
+          "fields": []
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3FjydqNxWs3Z56JrRj2oo4twDoKPmykyThawjqqiTsJx8386KL05P4n13V-olNKdZHF0e0m9e1mbKeGFAW0esNiZnr8NAPhIvP-DOs9B9MbfTbWVfO3zAOc5SfVV0oROg8r3Pz2cqfd3Q5gd_OSY-e0cOnC6KKJfk7IDCb7ngVXjtnDFbKHV1G7OlI32I7NAjx8k3mXFkA5vA-mBW",
+          "fields": []
+        },
+        {
+          "name": "themorningcontext.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTnmSWGD0pVXkTfoaoH3sDpDfyd2_U-ckyrf3dLQISLJ0O9f4P3x6Hh1ICp3AU2nYuOZRKFo7LbQN30y6q5pcdbfAYEjrb8v9Px9PU03qQfbep_dcpi1-Ggs-8APbSb6tO7YQk2HfBpdb2_orPNTIXP_pHCkvOUjI2kgyhVrNzSofmfDuj4cxOw==",
+          "fields": []
+        },
+        {
+          "name": "chittorgarh.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENN02_lOSFJQV5jGq-S1sFGxGAkvC7_AiaU3Vb48BpoakZX6v5lU7iBW_Hj1_cm3iUUWycip0R5h2AKE78CskDWXO8sar7ouw_MW30DOrrQB3fD5womTeSulKE0oG8kNNOuWKDzrulDjE4vNu1G2AKZoSyNft8FIcrTjOc_2kewHFEaTdFSggRxNsEprpTMdsyDNEtJg==",
+          "fields": []
+        },
+        {
+          "name": "afaqs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdN3zOvGkX6nCS5be3LwgOjgaHmv2G46QyDohtlPjVGpyclnbK950kL9crKmaVUVTlXPWHMTBwggjmZ3GP443fSh6QVrIcGDy3uZsBrZnlMwJjWjsH6Wxny_5r0okM7ICmF68xflK160ID2sFVvnct98chH1CwymKfOD0B1sNRXZf5zRdt4VJUhhrGlymtk2mnFJBNizvbHtnqkJ7optyWoIT6HDMMnsNKTEAdagAAGIob",
+          "fields": []
+        },
+        {
+          "name": "mediabrief.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb4OYTcczzI93lN1bV3O7uED8_WRVCKK2HlUInJMMYIlBaUpglyM7Z3cjYJ7kkA2unioKyjt5ozaoWTmqUyqVbNgJ0Dnn62RdpJHGhQfQK19kt_mKiy2_fRrc-oFH3bWalV6wf9tzv6HuBQfzVZzJnwDlfUtQAuWPkwz9hjC1VQMB9lE36hw==",
+          "fields": []
+        },
+        {
+          "name": "financialexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMI8dP4mtSdYdrwufTr_FMUNSi--VF152IG5jApfmxfKFw3CYB1eBRL9_Ofk1qneyCAa2hysGiZmuDw8sJCLMbK9XCpKORw5Z1f5kcZ1npo8LA-yQB8cmJ9oMkQJpxSdKt1X9qVKtZ5f5jn1y-eatvJY9sT9ARzBwuMd_WFHmGrd3PBfsyZYtIjGn18bONw7e0iH7O2NwVuWfTpoU3YYUAaocnGvtMiot4RIvKcFVz_GFu6n7X2X6w7hg2Ohc_lWD3iG0oIA8LsIaQxeuwtQ==",
+          "fields": []
+        },
+        {
+          "name": "marketresearchfuture.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNllxvoa1IjvHwwzjm3A0uuaHcT2mTfOWqhcZHdw1CObIiDHvv_U4yz5GnYgU314bZLhHX8IkYkqkFKHA0r2iiYA-LG17c_F-cTEKcKpL9eZ2C0mGI0BXjgVNsMR_cezLHDSy0MnPem6_dtyiuJM4NlScAnVx4aoXS2bQLR0AzYKW5SB7qhX0=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPK2ZwL4Z431Pv4TRgl8rPLM0vyqBa9Lx8wK8wMmXy0VMHFvGuZs4eXyeDDLtwSXuqOM9HyPfyPms9JqRwMXsseoSDdlqjbQyulMHFbzOTV8m2QuOFhTALa15ZKV7ut8don9Hqjwr0FyefM-ziQunU8s1RfBn7ThK7qpiLSp190F12IOGEaYh9qKPZOVOwGmXE0mInmCTiN328YZexTIpyQ==",
+          "fields": []
+        },
+        {
+          "name": "bestmediainfo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57qJZuVrDx_c6ump0g1jheuqoMdfczxJLlXjHgQcukEdsz1CiaF4kratwRq_UlybkkWUi5Rfy9k24CeEvx2PLwbzxqgYmYs8yiIw86p2yIjbToUfg27XtuNSghQNF01Rt01AXul8AdwBEXTrdGueMxgyMjlCdI8_fRr13XZUzK9COZX8MIAIH540LBKUKKHjeoK4zp0In1jZVuWdqEByu5X6IRBCFumq9tzhHtgD5TecYY0dpD6_woflIm3MQaVvJhMG5ZDq0aCHkz_P9",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOO4uUjFN1FWPc6aMF-ghNywJH7b4rQSDYVmzOLIr3XIJklINHlw51SwuFrgHreWILRGgWPa24-x02yEkE01jvnzw6-nyX1hinfPPrc6MJI2V3gMseJKUDf-mQRqfFeIFjZLijT57ZzuyIWKHOvFOa0T33fych2wjteWib_XWbaadNaoCaavXj8ku1ClnzrZgBbNSlgKOGAX-knYM=",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0jZ7vK-45VcOT3E2e7TvHYyBzEQz1DuZZRMpJTedy34mNt22KtdTudx3yzfp5irwbbZbUXMyuX8vxqIDHU3pUPvBDg8WvlfSIXCuzrM9MmGDum-PiDVeiaoKn-IqbgltyoOPdZ1ONwY0s5qYkW4CHOe9cKVT2bsqS2hYzbJQrJ-EEwgQ61QC8jbIlRA==",
+          "fields": []
+        },
+        {
+          "name": "indiatimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIZlJMTRYK3kTABIO3fisXke4jLsGCgIR4meXPrLYxXLcPoKqVxMlM8agfpiWGYwJId0Z2Edef8pTXruGAthn2uO3JDiTE-B9wL6aXU43_bxCTyNTwhVz5HIH6GJLAkWxF6lAyeanVNFy9PyVkizOhsg29l9kGAm_pw0BEr4xcNUZ-mNyF2Qwo10dEFkZ8WR7uWWzxSfOQya0Vd0HKbZHb-E7gh959cyMTos0Z3nti2ZDwEkbXnZdccIJotcpc9sHob_jfqeMx0KrvHk7vdqqMSAofmtB-kHp46FW1PbE79uBNTKVSXOgC584B2Tu8ksd-Zm4R",
+          "fields": []
+        },
+        {
+          "name": "mankindpharma.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpzuxgNnCHGpNmpPTSey-gGATdru4boOhyatgKjJYwIgfYDY-4bKO9uzQkSos_uQhrXr129cGQYoerh9MuXi2-IoYcESm_B-z5yL_Td2SGBTFwTCLfK8IZuW_7Rr2LezhaDBX7iNv__EpQanKKuAnxq1Q5oT1YIsOAsDvffhtCNCye_49BisSsU427rbkcxPvvtg==",
+          "fields": []
+        },
+        {
+          "name": "financialexpress.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1LOOwoKHutGv3WU74_1iwTgSwOVeyFVkHpu5sBONcfYITxhcUkGeJO4wNEs-FcIKB7l7t3OmLdjPKAUQBQ375ekGTpMOpEg9Nz7IqXSTjk6bfmYnq29MRjjQwTkfrROcGYIZ33xYNsIuewNdBnUiVOCb0BkWy-lrvQfwThpppa10E0Tb9AT0n1EkWzTStvYHQyTRHPpC-D38NUN-WzC5B3xcSDiOwRN1pBNa9tGpfpSXbod0aa-e-5iPqxeL_-C0MThEjvsOVq_XNvVn",
+          "fields": []
+        },
+        {
+          "name": "afaqs.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Aibh36hq_cvJBM7AzHMG1AVTSuMXGhZbLp8oSI40qrBsIDAmZezbvzXXPKLN7DhJoUlXzHblxltXX4WF8R3gku4dhuLsM5xlpso-_Q3Rct9WUFgeehI138vXqbjmoWn5dw2Cl29__4y-FuslhWMCpSC_jskQd4OdScInaMkzB1XRDJ80c6nMVyVZ1XUKWWoH3EOYKfjyWQfzk5_lPdi6CSZboOrN-KrhZynd8TVR0g4=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Consumer Healthcare (OTC) Segment Deep Dive",
+      "confidence": "high",
+      "completeness": 0.778,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "E-commerce contribution to OTC sales (%)",
+        "Number of new OTC product launches"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Pursue: Understanding the OTC segment's revenue, growth, and brand contributions is crucial for assessing Mankind's diversification and potential for future consumer-facing growth, a key factor in investment thesis.",
+        "banker": "Pursue: Strong OTC performance and brand data can highlight potential M&A targets or financing opportunities within a growing consumer segment, justifying deeper deal exploration.",
+        "credit_analyst": "Pursue: OTC segment performance and margins provide insight into revenue stability and profitability diversification, which are important for assessing overall credit risk.",
+        "consultant": "Pursue: Analyzing new OTC product launches and market share in key categories offers operational insights into innovation and competitive positioning, warranting further strategic review."
+      }
+    },
+    {
+      "heading": "Key Regulatory Filings & Approvals",
+      "content_type": "table",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Regulatory Filings & Compliance Status",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Number of Drug Master Files (DMFs) filed (US/EU)",
+        "Number of Drug Master Files (DMFs) approved (US/EU)",
+        "Number of Certificates of Suitability (CEPs) filed (EU)",
+        "Number of Certificates of Suitability (CEPs) approved (EU)",
+        "Number of USFDA Form 483s received (past 3 years)",
+        "Number of USFDA Warning Letters received (past 3 years)",
+        "Number of CDSCO (India) New Drug Approvals (past 3 years)",
+        "Status of major manufacturing site inspections (e.g., USFDA, EDQM, CDSCO) (e.g., 'No Action Indicated', 'Voluntary Action Indicated')",
+        "Number of product recalls (past 3 years)",
+        "Any ongoing significant regulatory litigation/penalties"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A high number of recent USFDA Form 483s or Warning Letters would significantly increase diligence risk, potentially leading to a 'pass' decision if systemic issues are indicated.",
+        "banker": "A history of significant regulatory issues or penalties could make a company a less attractive M&A or financing target, potentially impacting a banker's decision to pursue a deal.",
+        "credit_analyst": "Numerous USFDA Warning Letters or ongoing significant regulatory litigation would be a major red flag, increasing credit risk and potentially leading to a 'pass' on deeper underwriting.",
+        "consultant": "A pattern of manufacturing site compliance issues (e.g., frequent 'Voluntary Action Indicated' statuses) would signal operational inefficiencies and potential future costs, warranting deeper investigation into operational improvements."
+      }
+    },
+    {
+      "heading": "Manufacturing Site Compliance History",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Regulatory Filings & Compliance Status",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 10,
+      "missing_fields": [
+        "Number of Drug Master Files (DMFs) filed (US/EU)",
+        "Number of Drug Master Files (DMFs) approved (US/EU)",
+        "Number of Certificates of Suitability (CEPs) filed (EU)",
+        "Number of Certificates of Suitability (CEPs) approved (EU)",
+        "Number of USFDA Form 483s received (past 3 years)",
+        "Number of USFDA Warning Letters received (past 3 years)",
+        "Number of CDSCO (India) New Drug Approvals (past 3 years)",
+        "Status of major manufacturing site inspections (e.g., USFDA, EDQM, CDSCO) (e.g., 'No Action Indicated', 'Voluntary Action Indicated')",
+        "Number of product recalls (past 3 years)",
+        "Any ongoing significant regulatory litigation/penalties"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "A high number of recent USFDA Form 483s or Warning Letters would significantly increase diligence risk, potentially leading to a 'pass' decision if systemic issues are indicated.",
+        "banker": "A history of significant regulatory issues or penalties could make a company a less attractive M&A or financing target, potentially impacting a banker's decision to pursue a deal.",
+        "credit_analyst": "Numerous USFDA Warning Letters or ongoing significant regulatory litigation would be a major red flag, increasing credit risk and potentially leading to a 'pass' on deeper underwriting.",
+        "consultant": "A pattern of manufacturing site compliance issues (e.g., frequent 'Voluntary Action Indicated' statuses) would signal operational inefficiencies and potential future costs, warranting deeper investigation into operational improvements."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 42
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.058355,
+    "domain_research_usd": 0.807918,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.236273,
+    "grounding_usd": 0.63,
+    "grounded_calls": 18,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.866273,
+    "actual_calls": 23,
+    "elapsed_seconds": 188.6,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.201979,
+      "estimated_generic_domains_usd": 1.211877,
+      "estimated_synthesis_usd": 0.807918,
+      "estimated_total_usd": 2.886068
+    }
+  }
+}
