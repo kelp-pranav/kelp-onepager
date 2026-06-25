@@ -31,13 +31,16 @@ import streamlit as st
 # the existing .env path is used. Never overwrite a value already set in the environment.
 for _k in ("LITELLM_BASE_URL", "LITELLM_API_KEY", "LITELLM_FLASH_MODEL",
            "LITELLM_FLASH_LITE_MODEL", "ANTHROPIC_API_KEY", "OPENAI_API_KEY",
-           "GEMINI_API_KEY"):
+           "GEMINI_API_KEY",
+           # Durable storage (commit runs/comments to a GitHub data branch):
+           "GITHUB_TOKEN", "GITHUB_REPO", "GITHUB_DATA_BRANCH"):
     try:
         if not os.getenv(_k) and _k in st.secrets:
             os.environ[_k] = str(st.secrets[_k])
     except Exception:
         pass  # no secrets.toml configured (local dev) — fall through to .env
 
+import github_store
 import sections_catalog
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -146,6 +149,12 @@ def _save_comment(company: str, author: str, section: str, text: str) -> None:
             json.dump(comments, fh, indent=2, ensure_ascii=False)
     except OSError as exc:
         st.warning(f"Could not save comment: {exc}")
+        return
+    # Persist to GitHub so comments survive Cloud restarts (best-effort).
+    if github_store.configured():
+        payload = json.dumps(comments, indent=2, ensure_ascii=False).encode("utf-8")
+        github_store.put_file(f"output/comments/{_slug(company)}.json",
+                              payload, f"comment: {company}")
 
 
 def _runs_mtime() -> float:
@@ -153,6 +162,34 @@ def _runs_mtime() -> float:
     paths = (glob.glob(os.path.join(OUTPUT_DIR, "runs", "*_sector_only.json"))
              + glob.glob(os.path.join(OUTPUT_DIR, "*_sector_only.json")))
     return max((os.path.getmtime(p) for p in paths), default=0.0)
+
+
+@st.cache_data(show_spinner=False)
+def _sync_from_github(_once: str = "v1") -> int:
+    """Pull durable runs + comments from the GitHub data branch into local output/ so they
+    survive Streamlit Cloud restarts. Cached per container (runs once); the manual
+    'Refresh from GitHub' button clears this cache to re-pull. Returns files pulled."""
+    if not github_store.configured():
+        return 0
+    n = github_store.pull_dir("output/runs", os.path.join(OUTPUT_DIR, "runs"))
+    n += github_store.pull_dir("output/comments", _COMMENTS_DIR)
+    return n
+
+
+def _persist_run_to_github(result: dict) -> None:
+    """Commit this run's archive JSON to the data branch (best-effort, never raises)."""
+    if not github_store.configured():
+        return
+    slug, ts = _slug(result.get("company_name", "company")), result.get("generated_at", "")
+    fname = f"{slug}_{ts}_sector_only.json" if ts else f"{slug}_sector_only.json"
+    payload = json.dumps(result, indent=2, ensure_ascii=False).encode("utf-8")
+    ok, detail = github_store.put_file(f"output/runs/{fname}",
+                                       payload, f"run: {result.get('company_name','')}")
+    if ok:
+        st.caption("☁️ Saved to GitHub — this run will persist across restarts.")
+    else:
+        st.caption(f"⚠️ Could not save run to GitHub ({detail}). It's stored locally "
+                   "(ephemeral on the cloud).")
 
 
 def _why_lines(reasoning: dict) -> list:
@@ -956,6 +993,18 @@ with st.sidebar:
     # ---- Previous runs: load any saved run instantly (no LLM call, no cost) ----
     st.divider()
     st.subheader("📂 Previous runs")
+    # Pull durable runs/comments from GitHub (once per container) so they survive restarts.
+    _synced = _sync_from_github()
+    if github_store.configured():
+        _cap = (f"☁️ {_synced} file(s) restored from GitHub" if _synced
+                else "☁️ GitHub storage on — runs persist across restarts")
+        if st.button("🔄 Refresh from GitHub", use_container_width=True):
+            _sync_from_github.clear()
+            st.rerun()
+        st.caption(_cap)
+    else:
+        st.caption("⚠️ GitHub storage off — runs are ephemeral on the cloud "
+                   "(add GITHUB_TOKEN/GITHUB_REPO to Secrets to persist).")
     _runs = _list_runs(_runs_mtime())
     if not _runs:
         st.caption("No saved runs yet — run one above.")
@@ -1064,6 +1113,10 @@ if run:
     except (OSError, json.JSONDecodeError) as exc:
         st.error(f"Could not read result JSON: {exc}")
         st.stop()
+
+    # Persist the fresh run to GitHub so it survives Cloud restarts, then refresh the list.
+    _persist_run_to_github(st.session_state["result"])
+    _sync_from_github.clear()
 
 
 # --------------------------------------------------------------------------- #
