@@ -1314,44 +1314,26 @@ st.html(
     + "</div>"
 )
 
-# 6) Reviewer comments — managers leave feedback on this output -----------------
+# 6) Comments — a simple feedback box at the bottom ----------------------------
 st.divider()
 _company = data.get("company_name", "Company")
 _comments = _load_comments(_company)
-st.header(f"💬 Reviewer comments — {len(_comments)}")
-st.caption("Leave feedback on this one-pager — flag anything wrong, missing, or worth "
-           "pursuing. Comments are tied to this company and visible to everyone viewing it.")
+st.header(f"💬 Comments — {len(_comments)}")
 
-# Existing comments, newest first.
-if _comments:
-    for c in reversed(_comments):
-        sec = c.get("section") or "General"
-        tag = "pn" if sec == "General" else "pb"
-        st.html(
-            '<div class="kelp-op" style="border:0.5px solid #E5E8EE;border-radius:6px;'
-            'padding:8px 10px;margin:4px 0;">'
-            f'<div style="font-size:10px;color:#5A6878;margin-bottom:3px;">'
-            f'<b style="color:#1A2332;">{_h(c.get("author") or "Anonymous")}</b> '
-            f'<span class="pill {tag}">{_h(sec)}</span> '
-            f'<span style="color:#8A9AB0;">· {_h(c.get("ts") or "")}</span></div>'
-            f'<div style="font-size:11px;color:#1A2332;line-height:1.5;white-space:pre-wrap;">'
-            f'{_h(c.get("text") or "")}</div></div>'
-        )
-else:
-    st.info("No comments yet — be the first to leave feedback below.")
+# Existing comments, newest first (just timestamp + text).
+for c in reversed(_comments):
+    st.html(
+        '<div class="kelp-op" style="border:0.5px solid #E5E8EE;border-radius:6px;'
+        'padding:8px 10px;margin:4px 0;">'
+        f'<div style="font-size:9px;color:#8A9AB0;margin-bottom:3px;">{_h(c.get("ts") or "")}</div>'
+        f'<div style="font-size:11px;color:#1A2332;line-height:1.5;white-space:pre-wrap;">'
+        f'{_h(c.get("text") or "")}</div></div>'
+    )
 
-# Post a new comment.
-_section_opts = ["General"] + [s.get("heading", "(untitled)") for s in sections]
+# Post a new comment — just a text box.
 with st.form("add_comment", clear_on_submit=True):
-    cc1, cc2 = st.columns([1, 2])
-    _author = cc1.text_input("Your name", placeholder="e.g. Priya (manager)")
-    _section = cc2.selectbox("About which section?", _section_opts)
-    _text = st.text_area("Comment", placeholder="What's wrong, missing, or worth pursuing?",
-                         height=90)
-    _submitted = st.form_submit_button("💬 Post comment", type="primary")
-    if _submitted:
-        if _text.strip():
-            _save_comment(_company, _author, _section, _text)
-            st.rerun()
-        else:
-            st.warning("Write a comment before posting.")
+    _text = st.text_area("Add a comment", placeholder="Type your feedback…", height=90,
+                         label_visibility="collapsed")
+    if st.form_submit_button("Post", type="primary") and _text.strip():
+        _save_comment(_company, "", "", _text)
+        st.rerun()
