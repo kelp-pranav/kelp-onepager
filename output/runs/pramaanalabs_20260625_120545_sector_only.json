@@ -1,0 +1,251 @@
+{
+  "company_name": "Pramaanalabs",
+  "generated_at": "20260625_120545",
+  "resolved_subsector": "AI verification & trustworthy AI platform for regulated industries",
+  "sections": [
+    {
+      "heading": "Regulated Industry Focus",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Target Verticals & Early Market Engagement",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Named target regulated verticals (e.g., Taxation, Legal, Healthcare, Cybersecurity, Financial Services)",
+        "Specific Indian regulatory frameworks/standards addressed (e.g., Income Tax Act, SEBI regulations, CDSCO guidelines)",
+        "Number of pilot projects or proof-of-concepts (PoCs) underway/completed (if disclosed)",
+        "Any publicly announced early clients or strategic partners (names, industry)",
+        "Testimonials or case studies (if published)",
+        "Participation in industry working groups or regulatory sandboxes related to AI in India",
+        "Market size estimates for AI verification in target Indian verticals (from third-party reports)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms Pramaanalabs' strategic focus on high-value, regulated Indian markets, increasing the likelihood of a defensible niche and strong future revenue streams, thus strengthening the pursue decision.",
+        "banker": "Identifies specific Indian regulatory frameworks and early client signals that could indicate potential deal flow or partnership opportunities for the bank, making a deeper dive more attractive.",
+        "credit_analyst": "Provides insight into the regulatory landscape and early customer adoption, which are crucial for assessing market risk and revenue predictability, potentially mitigating concerns and supporting a pursue decision.",
+        "consultant": "Highlights the specific regulated verticals and engagement with Indian regulatory bodies, offering concrete areas for operational improvement or strategic advisory, thus increasing the relevance for a deeper dive."
+      }
+    },
+    {
+      "heading": "Early Client & Partnership Signals",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Target Verticals & Early Market Engagement",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Named target regulated verticals (e.g., Taxation, Legal, Healthcare, Cybersecurity, Financial Services)",
+        "Specific Indian regulatory frameworks/standards addressed (e.g., Income Tax Act, SEBI regulations, CDSCO guidelines)",
+        "Number of pilot projects or proof-of-concepts (PoCs) underway/completed (if disclosed)",
+        "Any publicly announced early clients or strategic partners (names, industry)",
+        "Testimonials or case studies (if published)",
+        "Participation in industry working groups or regulatory sandboxes related to AI in India",
+        "Market size estimates for AI verification in target Indian verticals (from third-party reports)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "Confirms Pramaanalabs' strategic focus on high-value, regulated Indian markets, increasing the likelihood of a defensible niche and strong future revenue streams, thus strengthening the pursue decision.",
+        "banker": "Identifies specific Indian regulatory frameworks and early client signals that could indicate potential deal flow or partnership opportunities for the bank, making a deeper dive more attractive.",
+        "credit_analyst": "Provides insight into the regulatory landscape and early customer adoption, which are crucial for assessing market risk and revenue predictability, potentially mitigating concerns and supporting a pursue decision.",
+        "consultant": "Highlights the specific regulated verticals and engagement with Indian regulatory bodies, offering concrete areas for operational improvement or strategic advisory, thus increasing the relevance for a deeper dive."
+      }
+    },
+    {
+      "heading": "Formal Verification Platform Architecture",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Formal Verification Technology & Platform",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Types of formal logic/methods employed (e.g., SAT solvers, SMT solvers, theorem provers)",
+        "Key programming languages/frameworks used for formalization (e.g., Coq, Lean, Isabelle)",
+        "Number of formalization 'knowledge bases' or domain-specific logic libraries developed",
+        "High-level description of proof engine architecture (e.g., modular, extensible)",
+        "Number of patents filed/granted in India (or internationally if applicable)",
+        "Number of peer-reviewed academic publications by core team members related to formal methods/AI verification",
+        "Any open-source contributions or community engagement in formal methods",
+        "Strategic technology partnerships (e.g., with cloud providers, academic institutions)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The depth of IP (patents, publications) and the sophistication of the formal verification architecture directly inform the defensibility and potential competitive advantage, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "The presence of strategic technology partnerships and open-source contributions could indicate potential M&A targets or collaboration opportunities, making it more relevant for deal sourcing.",
+        "credit_analyst": "Null",
+        "consultant": "The description of the proof engine architecture and the development of domain-specific logic libraries would be crucial for assessing the platform's scalability and applicability to specific client operational challenges, thus influencing a pursue decision."
+      }
+    },
+    {
+      "heading": "Core AI Research & IP",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Formal Verification Technology & Platform",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Types of formal logic/methods employed (e.g., SAT solvers, SMT solvers, theorem provers)",
+        "Key programming languages/frameworks used for formalization (e.g., Coq, Lean, Isabelle)",
+        "Number of formalization 'knowledge bases' or domain-specific logic libraries developed",
+        "High-level description of proof engine architecture (e.g., modular, extensible)",
+        "Number of patents filed/granted in India (or internationally if applicable)",
+        "Number of peer-reviewed academic publications by core team members related to formal methods/AI verification",
+        "Any open-source contributions or community engagement in formal methods",
+        "Strategic technology partnerships (e.g., with cloud providers, academic institutions)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The depth of IP (patents, publications) and the sophistication of the formal verification architecture directly inform the defensibility and potential competitive advantage, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "The presence of strategic technology partnerships and open-source contributions could indicate potential M&A targets or collaboration opportunities, making it more relevant for deal sourcing.",
+        "credit_analyst": "Null",
+        "consultant": "The description of the proof engine architecture and the development of domain-specific logic libraries would be crucial for assessing the platform's scalability and applicability to specific client operational challenges, thus influencing a pursue decision."
+      }
+    },
+    {
+      "heading": "Seed Funding Round Details",
+      "content_type": "stat_grid",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Seed Funding & Strategic Investors",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Total seed funding amount (in USD and INR equivalent)",
+        "Date of funding announcement",
+        "Lead investor(s) name(s)",
+        "Participating investor(s) name(s)",
+        "Stated use of proceeds (e.g., R&D, team expansion, market entry)",
+        "Any publicly disclosed valuation at seed round",
+        "Prior investments by lead investors in similar AI/deep tech companies (India-focused)",
+        "Board representation from investors (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The presence of reputable lead investors and a clear use of proceeds for R&D and expansion would strongly signal a 'pursue' decision, indicating potential for future growth and market traction.",
+        "banker": "Information on the total seed funding amount and lead investors is crucial for assessing deal potential and identifying potential co-investors or acquisition targets, thus leaning towards a 'pursue' decision.",
+        "credit_analyst": "The stated use of proceeds and any disclosed valuation at seed round are relevant for initial risk assessment, but without more financial depth, this item alone wouldn't significantly alter a 'pass' decision without further diligence.",
+        "consultant": "Understanding the use of proceeds (R&D, team expansion, market entry) directly informs potential operational improvement areas and strategic advisory opportunities, making this a 'pursue' signal."
+      }
+    },
+    {
+      "heading": "Investor Profile & Validation",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Seed Funding & Strategic Investors",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Total seed funding amount (in USD and INR equivalent)",
+        "Date of funding announcement",
+        "Lead investor(s) name(s)",
+        "Participating investor(s) name(s)",
+        "Stated use of proceeds (e.g., R&D, team expansion, market entry)",
+        "Any publicly disclosed valuation at seed round",
+        "Prior investments by lead investors in similar AI/deep tech companies (India-focused)",
+        "Board representation from investors (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The presence of reputable lead investors and a clear use of proceeds for R&D and expansion would strongly signal a 'pursue' decision, indicating potential for future growth and market traction.",
+        "banker": "Information on the total seed funding amount and lead investors is crucial for assessing deal potential and identifying potential co-investors or acquisition targets, thus leaning towards a 'pursue' decision.",
+        "credit_analyst": "The stated use of proceeds and any disclosed valuation at seed round are relevant for initial risk assessment, but without more financial depth, this item alone wouldn't significantly alter a 'pass' decision without further diligence.",
+        "consultant": "Understanding the use of proceeds (R&D, team expansion, market entry) directly informs potential operational improvement areas and strategic advisory opportunities, making this a 'pursue' signal."
+      }
+    },
+    {
+      "heading": "India's AI Regulatory Environment",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Evolving AI Regulatory Landscape",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Key Indian government initiatives/policies on AI regulation (e.g., MeitY's AI strategy, proposed Digital India Act provisions on AI)",
+        "Status of any national AI regulatory frameworks (e.g., draft bills, consultation papers)",
+        "Relevant global AI regulatory trends impacting potential future markets (e.g., EU AI Act, NIST AI RMF)",
+        "Industry-specific AI guidelines or ethical frameworks in India (e.g., NITI Aayog's Responsible AI principles)",
+        "Potential for government grants or incentives for AI safety/trustworthiness solutions in India",
+        "Number of AI-related policy papers or recommendations published by Indian think tanks/bodies"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "This data directly informs the regulatory risk and market opportunity for Pramaanalabs, making it a stronger pursue signal by highlighting potential tailwinds from government initiatives and headwinds from global standards.",
+        "banker": "Null",
+        "credit_analyst": "Understanding the regulatory landscape is crucial for assessing compliance risk and potential future operational costs, thus influencing the decision to pursue deeper credit underwriting.",
+        "consultant": "This information is highly relevant for identifying potential strategic advisory opportunities related to navigating AI regulations and compliance for clients in regulated industries, strengthening the pursue decision."
+      }
+    },
+    {
+      "heading": "Global Trustworthy AI Standards Impact",
+      "content_type": "list",
+      "fields": [],
+      "bullets": [],
+      "references": [],
+      "domain_name": "Evolving AI Regulatory Landscape",
+      "confidence": "low",
+      "completeness": 0.0,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Key Indian government initiatives/policies on AI regulation (e.g., MeitY's AI strategy, proposed Digital India Act provisions on AI)",
+        "Status of any national AI regulatory frameworks (e.g., draft bills, consultation papers)",
+        "Relevant global AI regulatory trends impacting potential future markets (e.g., EU AI Act, NIST AI RMF)",
+        "Industry-specific AI guidelines or ethical frameworks in India (e.g., NITI Aayog's Responsible AI principles)",
+        "Potential for government grants or incentives for AI safety/trustworthiness solutions in India",
+        "Number of AI-related policy papers or recommendations published by Indian think tanks/bodies"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "This data directly informs the regulatory risk and market opportunity for Pramaanalabs, making it a stronger pursue signal by highlighting potential tailwinds from government initiatives and headwinds from global standards.",
+        "banker": "Null",
+        "credit_analyst": "Understanding the regulatory landscape is crucial for assessing compliance risk and potential future operational costs, thus influencing the decision to pursue deeper credit underwriting.",
+        "consultant": "This information is highly relevant for identifying potential strategic advisory opportunities related to navigating AI regulations and compliance for clients in regulated industries, strengthening the pursue decision."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {},
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.051077,
+    "domain_research_usd": 0.358435,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.094512,
+    "grounding_usd": 0.315,
+    "grounded_calls": 9,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.409512,
+    "actual_calls": 14,
+    "elapsed_seconds": 169.7,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.089609,
+      "estimated_generic_domains_usd": 0.537652,
+      "estimated_synthesis_usd": 0.358435,
+      "estimated_total_usd": 1.3056
+    }
+  }
+}
