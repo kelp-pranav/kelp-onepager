@@ -1145,6 +1145,11 @@ if run:
     # Persist the fresh run to GitHub so it survives Cloud restarts, then refresh the list.
     _persist_run_to_github(st.session_state["result"])
     _sync_from_github.clear()
+    # Rerun so the sidebar rebuilds and the just-finished run shows in "Previous runs"
+    # immediately (the sidebar rendered before this run completed). On the rerun the Run
+    # button is False, so the subprocess does NOT re-execute; the result persists via
+    # session_state and re-renders in the main panel.
+    st.rerun()
 
 
 # --------------------------------------------------------------------------- #
