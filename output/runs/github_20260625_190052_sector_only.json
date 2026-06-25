@@ -1,0 +1,1789 @@
+{
+  "company_name": "Github",
+  "generated_at": "20260625_190052",
+  "resolved_subsector": "AI-powered Developer Platform & DevOps Tools",
+  "sections": [
+    {
+      "heading": "Enterprise Platform Adoption & Security",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "GitHub Enterprise revenue contribution (% of total)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "Over 90% (projected)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of GitHub Enterprise customers",
+          "value": [
+            {
+              "period": "As of 2026",
+              "value": 1573
+            }
+          ],
+          "sources": [
+            {
+              "name": "landbase.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFFd09xgzPoOwURMKJcsrFrbev5h2Qu_9aIHEwjWSh1VgRcdrlYzybJjsvPg5iQEk-rp_wURCvBeA4dDf4ceIyN8nS2W1YyJCh9OBaw5LxC3Z5JvgMvfgM5n__uXQoYkcvXsmDhdeX-qLgXskfx23OdA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers)",
+          "value": [
+            {
+              "period": "Last fiscal year (as of early 2025)",
+              "value": "45% growth in adoption (proxy — not % of Enterprise customers)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "skillademia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvRyw9l1hoDgNip1aNjxI74lR5wNPXxNfn7nsduMsWy5ba1ixgAUPAfBgeFl8lSvW9_x-12NgIH35i3_rtcZH1ye3zqtiXVD2ki5aEUcpfRyaPgPViNuskADi4aU6c2H9u0DsljgLcHtq0DcI-DIG3B-Tpw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions total workflow runs (monthly/annually)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "Over 6 billion monthly"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions workflow runs growth (YoY %)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "75% annual increase"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions paid usage revenue ($)",
+          "value": [
+            {
+              "note": "Source of metered compute billing revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Codespaces usage metrics (e.g., active users, compute hours)",
+          "value": [
+            {
+              "period": "February 2026",
+              "note": "Free tier for personal accounts provides 120 core hours per month"
+            }
+          ],
+          "sources": [
+            {
+              "name": "devactivity.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6UhDwO6NL__jQBkSSwn2npdOQ-q-Jz76Kjxw8NLltzVXSuHBKHklFuAgxAsItre8Pi3Jaqqmqiph2cMGNngdaecP4pWOm38WSsovO4RX55HdgYcmY7-3zbHSjFgjmRRUCBfDQideh9dnYWYAdrshUF4fSw2Cfni7PWrkQQAz1ai8crLnHfSmabOONK_2JvyA5Fiu75KJhEGLi46weLI="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "GitHub Enterprise revenue contribution (% of total): [{\"period\": \"2026\", \"value\": \"Over 90% (projected)\"}]",
+        "Number of GitHub Enterprise customers: [{\"period\": \"As of 2026\", \"value\": 1573}]",
+        "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers): [{\"period\": \"Last fiscal year (as of early 2025)\", \"value\": \"45% growth in adoption (proxy — not % of Enterprise customers)\"}]",
+        "GitHub Actions total workflow runs (monthly/annually): [{\"period\": \"2026\", \"value\": \"Over 6 billion monthly\"}]",
+        "GitHub Actions workflow runs growth (YoY %): [{\"period\": \"2026\", \"value\": \"75% annual increase\"}]",
+        "GitHub Actions paid usage revenue ($): [{\"note\": \"Source of metered compute billing revenue\"}]",
+        "GitHub Codespaces usage metrics (e.g., active users, compute hours): [{\"period\": \"February 2026\", \"note\": \"Free tier for personal accounts provides 120 core hours per month\"}]"
+      ],
+      "references": [
+        {
+          "name": "fueler.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I",
+          "fields": [
+            "GitHub Enterprise revenue contribution (% of total)",
+            "GitHub Actions total workflow runs (monthly/annually)",
+            "GitHub Actions workflow runs growth (YoY %)",
+            "GitHub Actions paid usage revenue ($)"
+          ]
+        },
+        {
+          "name": "landbase.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFFd09xgzPoOwURMKJcsrFrbev5h2Qu_9aIHEwjWSh1VgRcdrlYzybJjsvPg5iQEk-rp_wURCvBeA4dDf4ceIyN8nS2W1YyJCh9OBaw5LxC3Z5JvgMvfgM5n__uXQoYkcvXsmDhdeX-qLgXskfx23OdA=",
+          "fields": [
+            "Number of GitHub Enterprise customers"
+          ]
+        },
+        {
+          "name": "skillademia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvRyw9l1hoDgNip1aNjxI74lR5wNPXxNfn7nsduMsWy5ba1ixgAUPAfBgeFl8lSvW9_x-12NgIH35i3_rtcZH1ye3zqtiXVD2ki5aEUcpfRyaPgPViNuskADi4aU6c2H9u0DsljgLcHtq0DcI-DIG3B-Tpw==",
+          "fields": [
+            "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers)"
+          ]
+        },
+        {
+          "name": "devactivity.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6UhDwO6NL__jQBkSSwn2npdOQ-q-Jz76Kjxw8NLltzVXSuHBKHklFuAgxAsItre8Pi3Jaqqmqiph2cMGNngdaecP4pWOm38WSsovO4RX55HdgYcmY7-3zbHSjFgjmRRUCBfDQideh9dnYWYAdrshUF4fSw2Cfni7PWrkQQAz1ai8crLnHfSmabOONK_2JvyA5Fiu75KJhEGLi46weLI=",
+          "fields": [
+            "GitHub Codespaces usage metrics (e.g., active users, compute hours)"
+          ]
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJEvk4oOUPr2c4mTjONmMBcxGynzWl8ia3xEom71qyw_LESeEVk-yURajK2YXbjAhPE2XGbvpIaj3Jtgz__EKfnIvxV5hsqGn7IlAt5hKMQD1h9Qd_n9phmR8GDpnRJna-PRDhVpIaPHNWqnMtFopcNoU7uotYlH0vF9-42gH1fO7SnrzODKIWYdL",
+          "fields": []
+        }
+      ],
+      "domain_name": "Enterprise & DevOps Ecosystem",
+      "confidence": "high",
+      "completeness": 0.778,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Number of security vulnerabilities identified by Advanced Security (annual)",
+        "Number of GitHub Actions integrations/partners"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "The strong growth in GitHub Actions paid usage and increasing adoption of GitHub Advanced Security by Enterprise customers would significantly increase my interest in pursuing deeper diligence on GitHub's revenue potential and competitive moat.",
+        "banker": "High growth in GitHub Actions paid usage and a growing base of Enterprise customers with Advanced Security adoption indicates a strong product-market fit, making GitHub a more attractive potential M&A or IPO target, thus increasing my pursuit.",
+        "credit_analyst": "The increasing adoption of GitHub Advanced Security and the growth in GitHub Actions paid usage suggest a healthy and expanding revenue stream, reducing immediate credit concerns and making a deeper underwriting look more warranted.",
+        "consultant": "The metrics on GitHub Actions integrations/partners and GitHub Codespaces usage would be crucial for assessing potential operational efficiencies and competitive advantages, prompting a deeper dive into how these tools impact developer productivity and enterprise workflows."
+      }
+    },
+    {
+      "heading": "DevOps Automation & CI/CD (GitHub Actions)",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "GitHub Enterprise revenue contribution (% of total)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "Over 90% (projected)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of GitHub Enterprise customers",
+          "value": [
+            {
+              "period": "As of 2026",
+              "value": 1573
+            }
+          ],
+          "sources": [
+            {
+              "name": "landbase.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFFd09xgzPoOwURMKJcsrFrbev5h2Qu_9aIHEwjWSh1VgRcdrlYzybJjsvPg5iQEk-rp_wURCvBeA4dDf4ceIyN8nS2W1YyJCh9OBaw5LxC3Z5JvgMvfgM5n__uXQoYkcvXsmDhdeX-qLgXskfx23OdA="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers)",
+          "value": [
+            {
+              "period": "Last fiscal year (as of early 2025)",
+              "value": "45% growth in adoption (proxy — not % of Enterprise customers)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "skillademia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvRyw9l1hoDgNip1aNjxI74lR5wNPXxNfn7nsduMsWy5ba1ixgAUPAfBgeFl8lSvW9_x-12NgIH35i3_rtcZH1ye3zqtiXVD2ki5aEUcpfRyaPgPViNuskADi4aU6c2H9u0DsljgLcHtq0DcI-DIG3B-Tpw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions total workflow runs (monthly/annually)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "Over 6 billion monthly"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions workflow runs growth (YoY %)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "75% annual increase"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Actions paid usage revenue ($)",
+          "value": [
+            {
+              "note": "Source of metered compute billing revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "fueler.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Codespaces usage metrics (e.g., active users, compute hours)",
+          "value": [
+            {
+              "period": "February 2026",
+              "note": "Free tier for personal accounts provides 120 core hours per month"
+            }
+          ],
+          "sources": [
+            {
+              "name": "devactivity.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6UhDwO6NL__jQBkSSwn2npdOQ-q-Jz76Kjxw8NLltzVXSuHBKHklFuAgxAsItre8Pi3Jaqqmqiph2cMGNngdaecP4pWOm38WSsovO4RX55HdgYcmY7-3zbHSjFgjmRRUCBfDQideh9dnYWYAdrshUF4fSw2Cfni7PWrkQQAz1ai8crLnHfSmabOONK_2JvyA5Fiu75KJhEGLi46weLI="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "GitHub Enterprise revenue contribution (% of total): [{\"period\": \"2026\", \"value\": \"Over 90% (projected)\"}]",
+        "Number of GitHub Enterprise customers: [{\"period\": \"As of 2026\", \"value\": 1573}]",
+        "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers): [{\"period\": \"Last fiscal year (as of early 2025)\", \"value\": \"45% growth in adoption (proxy — not % of Enterprise customers)\"}]",
+        "GitHub Actions total workflow runs (monthly/annually): [{\"period\": \"2026\", \"value\": \"Over 6 billion monthly\"}]",
+        "GitHub Actions workflow runs growth (YoY %): [{\"period\": \"2026\", \"value\": \"75% annual increase\"}]",
+        "GitHub Actions paid usage revenue ($): [{\"note\": \"Source of metered compute billing revenue\"}]",
+        "GitHub Codespaces usage metrics (e.g., active users, compute hours): [{\"period\": \"February 2026\", \"note\": \"Free tier for personal accounts provides 120 core hours per month\"}]"
+      ],
+      "references": [
+        {
+          "name": "fueler.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bgYtHy8IXVOwvTfjXJTXNsLRpTgCuHkQlorhCZX1Vsz39s2mLKBD1jXqHIdD1vU51RJ70pxu1fkAqgl6mQu4oVChhBE7MVdOoriznkB1vXiVNIUAR7xSY4vlySLnKKVzgT9Hp3G8fECFBtC5gpETzr6v33EEl9_JPBCc5yogTv5I",
+          "fields": [
+            "GitHub Enterprise revenue contribution (% of total)",
+            "GitHub Actions total workflow runs (monthly/annually)",
+            "GitHub Actions workflow runs growth (YoY %)",
+            "GitHub Actions paid usage revenue ($)"
+          ]
+        },
+        {
+          "name": "landbase.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFFd09xgzPoOwURMKJcsrFrbev5h2Qu_9aIHEwjWSh1VgRcdrlYzybJjsvPg5iQEk-rp_wURCvBeA4dDf4ceIyN8nS2W1YyJCh9OBaw5LxC3Z5JvgMvfgM5n__uXQoYkcvXsmDhdeX-qLgXskfx23OdA=",
+          "fields": [
+            "Number of GitHub Enterprise customers"
+          ]
+        },
+        {
+          "name": "skillademia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvRyw9l1hoDgNip1aNjxI74lR5wNPXxNfn7nsduMsWy5ba1ixgAUPAfBgeFl8lSvW9_x-12NgIH35i3_rtcZH1ye3zqtiXVD2ki5aEUcpfRyaPgPViNuskADi4aU6c2H9u0DsljgLcHtq0DcI-DIG3B-Tpw==",
+          "fields": [
+            "GitHub Advanced Security adoption rate (e.g., % of Enterprise customers)"
+          ]
+        },
+        {
+          "name": "devactivity.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6UhDwO6NL__jQBkSSwn2npdOQ-q-Jz76Kjxw8NLltzVXSuHBKHklFuAgxAsItre8Pi3Jaqqmqiph2cMGNngdaecP4pWOm38WSsovO4RX55HdgYcmY7-3zbHSjFgjmRRUCBfDQideh9dnYWYAdrshUF4fSw2Cfni7PWrkQQAz1ai8crLnHfSmabOONK_2JvyA5Fiu75KJhEGLi46weLI=",
+          "fields": [
+            "GitHub Codespaces usage metrics (e.g., active users, compute hours)"
+          ]
+        },
+        {
+          "name": "businessmodelcanvastemplate.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNJEvk4oOUPr2c4mTjONmMBcxGynzWl8ia3xEom71qyw_LESeEVk-yURajK2YXbjAhPE2XGbvpIaj3Jtgz__EKfnIvxV5hsqGn7IlAt5hKMQD1h9Qd_n9phmR8GDpnRJna-PRDhVpIaPHNWqnMtFopcNoU7uotYlH0vF9-42gH1fO7SnrzODKIWYdL",
+          "fields": []
+        }
+      ],
+      "domain_name": "Enterprise & DevOps Ecosystem",
+      "confidence": "high",
+      "completeness": 0.778,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Number of security vulnerabilities identified by Advanced Security (annual)",
+        "Number of GitHub Actions integrations/partners"
+      ],
+      "reasoning": {
+        "overall_score": 95,
+        "pe_analyst": "The strong growth in GitHub Actions paid usage and increasing adoption of GitHub Advanced Security by Enterprise customers would significantly increase my interest in pursuing deeper diligence on GitHub's revenue potential and competitive moat.",
+        "banker": "High growth in GitHub Actions paid usage and a growing base of Enterprise customers with Advanced Security adoption indicates a strong product-market fit, making GitHub a more attractive potential M&A or IPO target, thus increasing my pursuit.",
+        "credit_analyst": "The increasing adoption of GitHub Advanced Security and the growth in GitHub Actions paid usage suggest a healthy and expanding revenue stream, reducing immediate credit concerns and making a deeper underwriting look more warranted.",
+        "consultant": "The metrics on GitHub Actions integrations/partners and GitHub Codespaces usage would be crucial for assessing potential operational efficiencies and competitive advantages, prompting a deeper dive into how these tools impact developer productivity and enterprise workflows."
+      }
+    },
+    {
+      "heading": "GitHub Copilot Adoption & Revenue Contribution",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "GitHub Copilot total users (current)",
+          "value": [
+            {
+              "period": "July 2025",
+              "value": "~20 million",
+              "note": "total users (all-time/trial + paid)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot paid subscribers (current)",
+          "value": [
+            {
+              "period": "January 28, 2026",
+              "value": "4.7 million"
+            },
+            {
+              "period": "FY2024",
+              "value": "~1.8 million"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot paid subscriber growth (YoY %)",
+          "value": [
+            {
+              "period": "January 28, 2026",
+              "value": "+75%"
+            },
+            {
+              "period": "January 28, 2026",
+              "value": "+77%",
+              "note": "Copilot Pro+ individual subscriptions quarter-over-quarter growth"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot organizational adoption (% of Fortune 100)",
+          "value": [
+            {
+              "period": "January 2026",
+              "value": "~90%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot estimated annual revenue contribution ($)",
+          "value": [
+            {
+              "period": "March 2026",
+              "value": "$1 billion or more",
+              "note": "estimated annual recurring revenue (ARR)"
+            },
+            {
+              "period": "January 2026",
+              "value": "$451 million to ~$848 million",
+              "note": "estimated ARR based on 4.7 million paid subscribers"
+            },
+            {
+              "period": "end of 2024",
+              "value": "$400 million+",
+              "note": "estimated annual revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+          "value": [
+            {
+              "period": "current",
+              "value": "approaching $19 per month",
+              "note": "blended price point for 4.7 million paid subscribers"
+            },
+            {
+              "period": "current",
+              "value": "$10/month",
+              "note": "Copilot Pro public pricing"
+            },
+            {
+              "period": "current",
+              "value": "$19/user/month",
+              "note": "Copilot Business public pricing"
+            },
+            {
+              "period": "current",
+              "value": "$39/user/month",
+              "note": "Copilot Enterprise public pricing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total company estimated annual revenue ($)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "$2.8 billion",
+              "note": "projected revenue"
+            },
+            {
+              "period": "May 2026",
+              "value": "approaching or exceeding $2 billion",
+              "note": "total annual revenue"
+            },
+            {
+              "period": "2024",
+              "value": "over $2 billion",
+              "note": "estimated annual revenue"
+            },
+            {
+              "period": "end of 2022",
+              "value": "$1 billion",
+              "note": "annual recurring revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            },
+            {
+              "name": "getpanto.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+          "value": [
+            {
+              "segment": "GitHub Enterprise",
+              "period": "2026",
+              "value": "Over 90%",
+              "note": "projected revenue contribution"
+            },
+            {
+              "segment": "GitHub Enterprise",
+              "value": "over 50%",
+              "note": "income contribution"
+            },
+            {
+              "segment": "GitHub Marketplace",
+              "period": "2026",
+              "value": "$200 million annually",
+              "note": "estimated contribution"
+            },
+            {
+              "segment": "Monthly subscription plans (individuals and teams)",
+              "period": "2026",
+              "value": "$150 million per year",
+              "note": "from paid users beyond enterprise deals"
+            },
+            {
+              "segment": "GitHub Actions",
+              "value": "$300 million+ annually",
+              "note": "estimated revenue"
+            },
+            {
+              "segment": "GitHub Advanced Security",
+              "value": "Not Available",
+              "note": "add-on, priced at $49 per month per active committer"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            },
+            {
+              "name": "getpanto.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Revenue Per Organization (ARPO) for Enterprise accounts",
+          "value": [
+            {
+              "value": "$68,000 annually",
+              "note": "average enterprise deal size"
+            },
+            {
+              "value": "$3,000 to $95,000 annually",
+              "note": "enterprise pricing range as of March 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Historical pricing changes (e.g., date of private repo paywall removal)",
+          "value": [
+            {
+              "date": "January 2019",
+              "description": "Removed paywall for private repositories for teams of up to three collaborators."
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Marketplace take-rate (%)",
+          "value": "25%",
+          "sources": [
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "GitHub Copilot total users (current): [{\"period\": \"July 2025\", \"value\": \"~20 million\", \"note\": \"total users (all-time/trial + paid)\"}]",
+        "GitHub Copilot paid subscribers (current): [{\"period\": \"January 28, 2026\", \"value\": \"4.7 million\"}, {\"period\": \"FY2024\", \"value\": \"~1.8 million\"}]",
+        "GitHub Copilot paid subscriber growth (YoY %): [{\"period\": \"January 28, 2026\", \"value\": \"+75%\"}, {\"period\": \"January 28, 2026\", \"value\": \"+77%\", \"note\": \"Copilot Pro+ individual subscriptions quarter-over-quarter growth\"}]",
+        "GitHub Copilot organizational adoption (% of Fortune 100): [{\"period\": \"January 2026\", \"value\": \"~90%\"}]",
+        "GitHub Copilot estimated annual revenue contribution ($): [{\"period\": \"March 2026\", \"value\": \"$1 billion or more\", \"note\": \"estimated annual recurring revenue (ARR)\"}, {\"period\": \"January 2026\", \"value\": \"$451 million to ~$848 million\", \"note\": \"estimated ARR based on 4.7 million paid subscribers\"}, {\"period\": \"end of 2024\", \"value\": \"$400 million+\", \"note\": \"estimated annual revenue\"}]",
+        "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers: [{\"period\": \"current\", \"value\": \"approaching $19 per month\", \"note\": \"blended price point for 4.7 million paid subscribers\"}, {\"period\": \"current\", \"value\": \"$10/month\", \"note\": \"Copilot Pro public pricing\"}, {\"period\": \"current\", \"value\": \"$19/user/month\", \"note\": \"Copilot Business public pricing\"}, {\"period\": \"current\", \"value\": \"$39/user/month\", \"note\": \"Copilot Enterprise public pricing\"}]",
+        "Total company estimated annual revenue ($): [{\"period\": \"2026\", \"value\": \"$2.8 billion\", \"note\": \"projected revenue\"}, {\"period\": \"May 2026\", \"value\": \"approaching or exceeding $2 billion\", \"note\": \"total annual revenue\"}, {\"period\": \"2024\", \"value\": \"over $2 billion\", \"note\": \"estimated annual revenue\"}, {\"period\": \"end of 2022\", \"value\": \"$1 billion\", \"note\": \"annual recurring revenue\"}]",
+        "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%): [{\"segment\": \"GitHub Enterprise\", \"period\": \"2026\", \"value\": \"Over 90%\", \"note\": \"projected revenue contribution\"}, {\"segment\": \"GitHub Enterprise\", \"value\": \"over 50%\", \"note\": \"income contribution\"}, {\"segment\": \"GitHub Marketplace\", \"period\": \"2026\", \"value\": \"$200 million annually\", \"note\": \"estimated contribution\"}, {\"segment\": \"Monthly subscription plans (individuals and teams)\", \"period\": \"2026\", \"value\": \"$150 million per year\", \"note\": \"from paid users beyond enterprise deals\"}, {\"segment\": \"GitHub Actions\", \"value\": \"$300 million+ annually\", \"note\": \"estimated revenue\"}, {\"segment\": \"GitHub Advanced Security\", \"value\": \"Not Available\", \"note\": \"add-on, priced at $49 per month per active committer\"}]",
+        "Average Revenue Per Organization (ARPO) for Enterprise accounts: [{\"value\": \"$68,000 annually\", \"note\": \"average enterprise deal size\"}, {\"value\": \"$3,000 to $95,000 annually\", \"note\": \"enterprise pricing range as of March 2025\"}]",
+        "Historical pricing changes (e.g., date of private repo paywall removal): [{\"date\": \"January 2019\", \"description\": \"Removed paywall for private repositories for teams of up to three collaborators.\"}]",
+        "GitHub Marketplace take-rate (%): 25%"
+      ],
+      "references": [
+        {
+          "name": "aibusinessweekly.net",
+          "url": null,
+          "fields": [
+            "GitHub Copilot total users (current)",
+            "GitHub Copilot paid subscribers (current)",
+            "GitHub Copilot paid subscriber growth (YoY %)",
+            "GitHub Copilot organizational adoption (% of Fortune 100)",
+            "GitHub Copilot estimated annual revenue contribution ($)",
+            "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+            "Average Revenue Per Organization (ARPO) for Enterprise accounts"
+          ]
+        },
+        {
+          "name": "quantumrun.com",
+          "url": null,
+          "fields": [
+            "GitHub Copilot paid subscribers (current)",
+            "GitHub Copilot paid subscriber growth (YoY %)",
+            "GitHub Copilot estimated annual revenue contribution ($)",
+            "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+            "Average Revenue Per Organization (ARPO) for Enterprise accounts",
+            "Historical pricing changes (e.g., date of private repo paywall removal)",
+            "GitHub Marketplace take-rate (%)"
+          ]
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw==",
+          "fields": [
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)"
+          ]
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHInHiExEN_FQ0JJezd-AIpLSc7jH_x8Hnl-O0yZu2HhcbiXW7BP91YQMrfXCKQc4G-O719aHaHJnxrqqcxvCTOigFtENr9lXBBFfqf_Kb_y9n8RUceQZj8-U86LoFtz9TUK_TxXz3t0lQMdnIJIzSr",
+          "fields": []
+        },
+        {
+          "name": "quantumrun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUROJrse-6-KvqUNffR9G3tHSGQcjHXEISydsHddPvQ1eQr7iYhELqUTl5uKEOZSPCWAROAzwzA4Ew-b0_90RL0BsK06orNzNuV3BKzAXpBBJDD8cJSYJZmdEtfmdRfMhNeXqwtMq3QXhxRKwvU5zJa9f-15MLSp6aAw==",
+          "fields": []
+        },
+        {
+          "name": "aibusinessweekly.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPA6f27AVoLSPFKYhz_QpPdhmi4nSosXnG0ET8x5TafkbbmyHKejgRhmyVupvkn1RLePjWCLWJL4oU1kqEyowu9xEHi4XQXvczZ7zxIj7rn7ZmHxvmfyVm-ghARyhaw8Dvdr8rZY31hMuro4LfAsrZC5Oe4VU=",
+          "fields": []
+        },
+        {
+          "name": "skillademia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgFaehACMsbpwELeDArJu1CYKqisSvePJIZdNfYxzs1pkz53xhBep20UwXAuBQkqJgfBmEH_2wqTQVZWK3BNZ2rM1DcwaiRXpwmUa4LHYQ4JxdpKn0BzTxeyKp9vBvO64fsORjZGVx5syJQa9hvjpVXkD",
+          "fields": []
+        },
+        {
+          "name": "fueler.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoeean0SvtuaQxRrQtIMC93TMQF2918VUmEAJB3QBAYWDK0DeaqoAnnWJ0TrORsMPzD_Az5CmtK6mwsC6D3eDLXG7EHaER5N63j8sUgvrza8UHNqvyxgDy2f0HYQNeh2WjTF1UZle7oP0lxmShc_1R9wpP-WpkjV7UHLveKYgSgBE=",
+          "fields": []
+        },
+        {
+          "name": "growjo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxxljRq9cffaH-Bsy3RxdG0qoPHGitv_qnybelsGF34h9SdVF6QUKoqOHCHcdLb8bhz_REd4JCIF8gvEI8Kr4qWix2_N1u0Wqfq3ELfkOp0NgOpRhhtwO4G2KA",
+          "fields": []
+        },
+        {
+          "name": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqDEsIiqTkmJoS5X5WH8ChqcecUdji5XU77PvmT0fFc68EVfdpk4YOLa_MILDx8a7fvB7wozNe5mA2aZzpPw-iSZqtY_k33jhCvejRyygzQSUE3gYQRzPsJK-Yb4ZJ9j56hUYNpC2QvrB7gPY-FbL3n4xQOCc6iyin7vk",
+          "fields": []
+        },
+        {
+          "name": "thinkinsights.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbIm48th4AYZg_C5cEpgK3zZrCXDJ6mv0cS5yyqnlR38vUn8i14kGQqpOxD4OXWTCBc7RI-6Hn-nZee_OFmM5R-swTNeBK1Ofv_QA3tI3dAZypUWC0ubKV9QPJ27BpeVx8t02_XZ6-nrPfHzc6eBGqg==",
+          "fields": []
+        },
+        {
+          "name": "emergentsoftware.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_kPl7emu8rAkJbehA6Ue64qqYA4Tb8dsQlWY9BrABBtYrYQBOymL3YkifWDKkjjSqSOmMheAbWJrFMWjuf1Q8k721spcdxShmdUGFLTbjxl1GOxPuH5BehqH3QN3eDx9Na91VWF-oDrAdaK1P1I3ZF_TgbX6Pr95uNQZbvMhATMbvvRpIFZq8BlXz5Nnt",
+          "fields": []
+        },
+        {
+          "name": "github.blog",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxK6IqL7dJ5EBtLmRDcLhEItlDefADgIIQZSWTdDFXBUMXUrFIBAQt0NxAas41qLkF5KUc6R3PUYAbjPidxVrmaj2MV9I6zRFDEzU0FZnv5ypVpc_9XQHZ9na7SjC6UhxpN_ZRRGPSQcDXqwkYuoP0XG_jCEIXpZuuvvzhW29AdLCJCWU16VqLO3FzaEnO0j5KtzZbkdqZFwU=",
+          "fields": []
+        },
+        {
+          "name": "spendflo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdaWKZAu0Gmi9u1S91h9WN5NpbUiZJpDsbO8NVGExAd_ds2rbfvgpTgLGiBCRuIVZccMPkHsqbdF925ZoOFumdW9T02rrFazcIZXMg0CNw1qYyKtN1cEg6HOJFZmqSwYzDk3wu4_g-jHV83A=",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI-Powered Developer Platform & Monetization",
+      "confidence": "high",
+      "completeness": 0.917,
+      "planned_field_count": 12,
+      "missing_fields": [
+        "Usage-based revenue as % of total revenue"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data provides critical insights into the adoption and revenue generation of GitHub Copilot, a key growth driver, directly impacting the valuation and investment thesis.",
+        "banker": "The detailed revenue breakdown and ARPU/ARPO figures are essential for understanding the company's financial health and identifying potential upsell or cross-sell opportunities for a deal.",
+        "credit_analyst": "Understanding the revenue contribution and growth of key products like Copilot, alongside ARPU and ARPO trends, helps assess the company's financial stability and ability to service debt.",
+        "consultant": "The data on Copilot adoption, organizational penetration, and usage-based billing provides a strong foundation for analyzing platform stickiness and identifying potential areas for operational efficiency or new product development."
+      }
+    },
+    {
+      "heading": "Platform Monetization & Usage-Based Billing",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "GitHub Copilot total users (current)",
+          "value": [
+            {
+              "period": "July 2025",
+              "value": "~20 million",
+              "note": "total users (all-time/trial + paid)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot paid subscribers (current)",
+          "value": [
+            {
+              "period": "January 28, 2026",
+              "value": "4.7 million"
+            },
+            {
+              "period": "FY2024",
+              "value": "~1.8 million"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot paid subscriber growth (YoY %)",
+          "value": [
+            {
+              "period": "January 28, 2026",
+              "value": "+75%"
+            },
+            {
+              "period": "January 28, 2026",
+              "value": "+77%",
+              "note": "Copilot Pro+ individual subscriptions quarter-over-quarter growth"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot organizational adoption (% of Fortune 100)",
+          "value": [
+            {
+              "period": "January 2026",
+              "value": "~90%"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot estimated annual revenue contribution ($)",
+          "value": [
+            {
+              "period": "March 2026",
+              "value": "$1 billion or more",
+              "note": "estimated annual recurring revenue (ARR)"
+            },
+            {
+              "period": "January 2026",
+              "value": "$451 million to ~$848 million",
+              "note": "estimated ARR based on 4.7 million paid subscribers"
+            },
+            {
+              "period": "end of 2024",
+              "value": "$400 million+",
+              "note": "estimated annual revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+          "value": [
+            {
+              "period": "current",
+              "value": "approaching $19 per month",
+              "note": "blended price point for 4.7 million paid subscribers"
+            },
+            {
+              "period": "current",
+              "value": "$10/month",
+              "note": "Copilot Pro public pricing"
+            },
+            {
+              "period": "current",
+              "value": "$19/user/month",
+              "note": "Copilot Business public pricing"
+            },
+            {
+              "period": "current",
+              "value": "$39/user/month",
+              "note": "Copilot Enterprise public pricing"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total company estimated annual revenue ($)",
+          "value": [
+            {
+              "period": "2026",
+              "value": "$2.8 billion",
+              "note": "projected revenue"
+            },
+            {
+              "period": "May 2026",
+              "value": "approaching or exceeding $2 billion",
+              "note": "total annual revenue"
+            },
+            {
+              "period": "2024",
+              "value": "over $2 billion",
+              "note": "estimated annual revenue"
+            },
+            {
+              "period": "end of 2022",
+              "value": "$1 billion",
+              "note": "annual recurring revenue"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            },
+            {
+              "name": "getpanto.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+          "value": [
+            {
+              "segment": "GitHub Enterprise",
+              "period": "2026",
+              "value": "Over 90%",
+              "note": "projected revenue contribution"
+            },
+            {
+              "segment": "GitHub Enterprise",
+              "value": "over 50%",
+              "note": "income contribution"
+            },
+            {
+              "segment": "GitHub Marketplace",
+              "period": "2026",
+              "value": "$200 million annually",
+              "note": "estimated contribution"
+            },
+            {
+              "segment": "Monthly subscription plans (individuals and teams)",
+              "period": "2026",
+              "value": "$150 million per year",
+              "note": "from paid users beyond enterprise deals"
+            },
+            {
+              "segment": "GitHub Actions",
+              "value": "$300 million+ annually",
+              "note": "estimated revenue"
+            },
+            {
+              "segment": "GitHub Advanced Security",
+              "value": "Not Available",
+              "note": "add-on, priced at $49 per month per active committer"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            },
+            {
+              "name": "getpanto.ai",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Revenue Per Organization (ARPO) for Enterprise accounts",
+          "value": [
+            {
+              "value": "$68,000 annually",
+              "note": "average enterprise deal size"
+            },
+            {
+              "value": "$3,000 to $95,000 annually",
+              "note": "enterprise pricing range as of March 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "aibusinessweekly.net",
+              "url": null
+            },
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Historical pricing changes (e.g., date of private repo paywall removal)",
+          "value": [
+            {
+              "date": "January 2019",
+              "description": "Removed paywall for private repositories for teams of up to three collaborators."
+            }
+          ],
+          "sources": [
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "GitHub Marketplace take-rate (%)",
+          "value": "25%",
+          "sources": [
+            {
+              "name": "quantumrun.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "GitHub Copilot total users (current): [{\"period\": \"July 2025\", \"value\": \"~20 million\", \"note\": \"total users (all-time/trial + paid)\"}]",
+        "GitHub Copilot paid subscribers (current): [{\"period\": \"January 28, 2026\", \"value\": \"4.7 million\"}, {\"period\": \"FY2024\", \"value\": \"~1.8 million\"}]",
+        "GitHub Copilot paid subscriber growth (YoY %): [{\"period\": \"January 28, 2026\", \"value\": \"+75%\"}, {\"period\": \"January 28, 2026\", \"value\": \"+77%\", \"note\": \"Copilot Pro+ individual subscriptions quarter-over-quarter growth\"}]",
+        "GitHub Copilot organizational adoption (% of Fortune 100): [{\"period\": \"January 2026\", \"value\": \"~90%\"}]",
+        "GitHub Copilot estimated annual revenue contribution ($): [{\"period\": \"March 2026\", \"value\": \"$1 billion or more\", \"note\": \"estimated annual recurring revenue (ARR)\"}, {\"period\": \"January 2026\", \"value\": \"$451 million to ~$848 million\", \"note\": \"estimated ARR based on 4.7 million paid subscribers\"}, {\"period\": \"end of 2024\", \"value\": \"$400 million+\", \"note\": \"estimated annual revenue\"}]",
+        "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers: [{\"period\": \"current\", \"value\": \"approaching $19 per month\", \"note\": \"blended price point for 4.7 million paid subscribers\"}, {\"period\": \"current\", \"value\": \"$10/month\", \"note\": \"Copilot Pro public pricing\"}, {\"period\": \"current\", \"value\": \"$19/user/month\", \"note\": \"Copilot Business public pricing\"}, {\"period\": \"current\", \"value\": \"$39/user/month\", \"note\": \"Copilot Enterprise public pricing\"}]",
+        "Total company estimated annual revenue ($): [{\"period\": \"2026\", \"value\": \"$2.8 billion\", \"note\": \"projected revenue\"}, {\"period\": \"May 2026\", \"value\": \"approaching or exceeding $2 billion\", \"note\": \"total annual revenue\"}, {\"period\": \"2024\", \"value\": \"over $2 billion\", \"note\": \"estimated annual revenue\"}, {\"period\": \"end of 2022\", \"value\": \"$1 billion\", \"note\": \"annual recurring revenue\"}]",
+        "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%): [{\"segment\": \"GitHub Enterprise\", \"period\": \"2026\", \"value\": \"Over 90%\", \"note\": \"projected revenue contribution\"}, {\"segment\": \"GitHub Enterprise\", \"value\": \"over 50%\", \"note\": \"income contribution\"}, {\"segment\": \"GitHub Marketplace\", \"period\": \"2026\", \"value\": \"$200 million annually\", \"note\": \"estimated contribution\"}, {\"segment\": \"Monthly subscription plans (individuals and teams)\", \"period\": \"2026\", \"value\": \"$150 million per year\", \"note\": \"from paid users beyond enterprise deals\"}, {\"segment\": \"GitHub Actions\", \"value\": \"$300 million+ annually\", \"note\": \"estimated revenue\"}, {\"segment\": \"GitHub Advanced Security\", \"value\": \"Not Available\", \"note\": \"add-on, priced at $49 per month per active committer\"}]",
+        "Average Revenue Per Organization (ARPO) for Enterprise accounts: [{\"value\": \"$68,000 annually\", \"note\": \"average enterprise deal size\"}, {\"value\": \"$3,000 to $95,000 annually\", \"note\": \"enterprise pricing range as of March 2025\"}]",
+        "Historical pricing changes (e.g., date of private repo paywall removal): [{\"date\": \"January 2019\", \"description\": \"Removed paywall for private repositories for teams of up to three collaborators.\"}]",
+        "GitHub Marketplace take-rate (%): 25%"
+      ],
+      "references": [
+        {
+          "name": "aibusinessweekly.net",
+          "url": null,
+          "fields": [
+            "GitHub Copilot total users (current)",
+            "GitHub Copilot paid subscribers (current)",
+            "GitHub Copilot paid subscriber growth (YoY %)",
+            "GitHub Copilot organizational adoption (% of Fortune 100)",
+            "GitHub Copilot estimated annual revenue contribution ($)",
+            "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+            "Average Revenue Per Organization (ARPO) for Enterprise accounts"
+          ]
+        },
+        {
+          "name": "quantumrun.com",
+          "url": null,
+          "fields": [
+            "GitHub Copilot paid subscribers (current)",
+            "GitHub Copilot paid subscriber growth (YoY %)",
+            "GitHub Copilot estimated annual revenue contribution ($)",
+            "GitHub Copilot ARPU (Average Revenue Per User) for paid subscribers",
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)",
+            "Average Revenue Per Organization (ARPO) for Enterprise accounts",
+            "Historical pricing changes (e.g., date of private repo paywall removal)",
+            "GitHub Marketplace take-rate (%)"
+          ]
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb-gLVAAN2AZtdr-YoeaBFt3J_5PmgagGzRA_8Sb-M43-laJjA8DXBoqwvM4fzH9CfBOF7MbBYm9UYyFyvquNdkisdVtlXr0YqYznvNhcss9iuG2zVHjSThUkJiGEjZuu6Dtr7fGDUrw==",
+          "fields": [
+            "Total company estimated annual revenue ($)",
+            "Revenue split by product segment (Enterprise, Pro/Team, Copilot, Actions, Advanced Security, Marketplace) (%)"
+          ]
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHInHiExEN_FQ0JJezd-AIpLSc7jH_x8Hnl-O0yZu2HhcbiXW7BP91YQMrfXCKQc4G-O719aHaHJnxrqqcxvCTOigFtENr9lXBBFfqf_Kb_y9n8RUceQZj8-U86LoFtz9TUK_TxXz3t0lQMdnIJIzSr",
+          "fields": []
+        },
+        {
+          "name": "quantumrun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUROJrse-6-KvqUNffR9G3tHSGQcjHXEISydsHddPvQ1eQr7iYhELqUTl5uKEOZSPCWAROAzwzA4Ew-b0_90RL0BsK06orNzNuV3BKzAXpBBJDD8cJSYJZmdEtfmdRfMhNeXqwtMq3QXhxRKwvU5zJa9f-15MLSp6aAw==",
+          "fields": []
+        },
+        {
+          "name": "aibusinessweekly.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPA6f27AVoLSPFKYhz_QpPdhmi4nSosXnG0ET8x5TafkbbmyHKejgRhmyVupvkn1RLePjWCLWJL4oU1kqEyowu9xEHi4XQXvczZ7zxIj7rn7ZmHxvmfyVm-ghARyhaw8Dvdr8rZY31hMuro4LfAsrZC5Oe4VU=",
+          "fields": []
+        },
+        {
+          "name": "skillademia.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETgFaehACMsbpwELeDArJu1CYKqisSvePJIZdNfYxzs1pkz53xhBep20UwXAuBQkqJgfBmEH_2wqTQVZWK3BNZ2rM1DcwaiRXpwmUa4LHYQ4JxdpKn0BzTxeyKp9vBvO64fsORjZGVx5syJQa9hvjpVXkD",
+          "fields": []
+        },
+        {
+          "name": "fueler.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoeean0SvtuaQxRrQtIMC93TMQF2918VUmEAJB3QBAYWDK0DeaqoAnnWJ0TrORsMPzD_Az5CmtK6mwsC6D3eDLXG7EHaER5N63j8sUgvrza8UHNqvyxgDy2f0HYQNeh2WjTF1UZle7oP0lxmShc_1R9wpP-WpkjV7UHLveKYgSgBE=",
+          "fields": []
+        },
+        {
+          "name": "growjo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxxljRq9cffaH-Bsy3RxdG0qoPHGitv_qnybelsGF34h9SdVF6QUKoqOHCHcdLb8bhz_REd4JCIF8gvEI8Kr4qWix2_N1u0Wqfq3ELfkOp0NgOpRhhtwO4G2KA",
+          "fields": []
+        },
+        {
+          "name": "substack.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqDEsIiqTkmJoS5X5WH8ChqcecUdji5XU77PvmT0fFc68EVfdpk4YOLa_MILDx8a7fvB7wozNe5mA2aZzpPw-iSZqtY_k33jhCvejRyygzQSUE3gYQRzPsJK-Yb4ZJ9j56hUYNpC2QvrB7gPY-FbL3n4xQOCc6iyin7vk",
+          "fields": []
+        },
+        {
+          "name": "thinkinsights.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbIm48th4AYZg_C5cEpgK3zZrCXDJ6mv0cS5yyqnlR38vUn8i14kGQqpOxD4OXWTCBc7RI-6Hn-nZee_OFmM5R-swTNeBK1Ofv_QA3tI3dAZypUWC0ubKV9QPJ27BpeVx8t02_XZ6-nrPfHzc6eBGqg==",
+          "fields": []
+        },
+        {
+          "name": "emergentsoftware.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_kPl7emu8rAkJbehA6Ue64qqYA4Tb8dsQlWY9BrABBtYrYQBOymL3YkifWDKkjjSqSOmMheAbWJrFMWjuf1Q8k721spcdxShmdUGFLTbjxl1GOxPuH5BehqH3QN3eDx9Na91VWF-oDrAdaK1P1I3ZF_TgbX6Pr95uNQZbvMhATMbvvRpIFZq8BlXz5Nnt",
+          "fields": []
+        },
+        {
+          "name": "github.blog",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxK6IqL7dJ5EBtLmRDcLhEItlDefADgIIQZSWTdDFXBUMXUrFIBAQt0NxAas41qLkF5KUc6R3PUYAbjPidxVrmaj2MV9I6zRFDEzU0FZnv5ypVpc_9XQHZ9na7SjC6UhxpN_ZRRGPSQcDXqwkYuoP0XG_jCEIXpZuuvvzhW29AdLCJCWU16VqLO3FzaEnO0j5KtzZbkdqZFwU=",
+          "fields": []
+        },
+        {
+          "name": "spendflo.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPdaWKZAu0Gmi9u1S91h9WN5NpbUiZJpDsbO8NVGExAd_ds2rbfvgpTgLGiBCRuIVZccMPkHsqbdF925ZoOFumdW9T02rrFazcIZXMg0CNw1qYyKtN1cEg6HOJFZmqSwYzDk3wu4_g-jHV83A=",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI-Powered Developer Platform & Monetization",
+      "confidence": "high",
+      "completeness": 0.917,
+      "planned_field_count": 12,
+      "missing_fields": [
+        "Usage-based revenue as % of total revenue"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data provides critical insights into the adoption and revenue generation of GitHub Copilot, a key growth driver, directly impacting the valuation and investment thesis.",
+        "banker": "The detailed revenue breakdown and ARPU/ARPO figures are essential for understanding the company's financial health and identifying potential upsell or cross-sell opportunities for a deal.",
+        "credit_analyst": "Understanding the revenue contribution and growth of key products like Copilot, alongside ARPU and ARPO trends, helps assess the company's financial stability and ability to service debt.",
+        "consultant": "The data on Copilot adoption, organizational penetration, and usage-based billing provides a strong foundation for analyzing platform stickiness and identifying potential areas for operational efficiency or new product development."
+      }
+    },
+    {
+      "heading": "Global Developer Community Growth",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Total developers on GitHub (current)",
+          "value": "180 million+ developers",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New developers added (annual)",
+          "value": "36 million+ new developers",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total repositories hosted (current)",
+          "value": "630 million total repositories",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New repositories created (annual)",
+          "value": "121 million+ new repositories",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Public/Open-Source contributions (annual)",
+          "value": "1.12 billion contributions",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Pull Requests merged (annual)",
+          "value": "518.7 million pull requests",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Pull Requests merged growth (YoY %)",
+          "value": "+23% year-over-year",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Commits (annual)",
+          "value": "986 million+ commits",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Commits growth (YoY %)",
+          "value": "+25% year-over-year",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Top 5 programming languages by repository count/activity",
+          "value": [
+            {
+              "language": "TypeScript",
+              "metric": "monthly contributors",
+              "value": "2,636,006",
+              "period": "August 2025"
+            },
+            {
+              "language": "Python",
+              "metric": "monthly contributors",
+              "value": "~2.6 million",
+              "period": "August 2025"
+            },
+            {
+              "language": "JavaScript",
+              "metric": "monthly contributors",
+              "value": "~2.15 million",
+              "period": "August 2025"
+            },
+            {
+              "language": "Java",
+              "metric": "new contributors in 2025",
+              "value": "~174,705",
+              "period": "August 2025"
+            },
+            {
+              "language": "C#",
+              "metric": "new contributors in 2025",
+              "value": "~136,735",
+              "period": "August 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total developers on GitHub (current): 180 million+ developers",
+        "New developers added (annual): 36 million+ new developers",
+        "Total repositories hosted (current): 630 million total repositories",
+        "New repositories created (annual): 121 million+ new repositories",
+        "Public/Open-Source contributions (annual): 1.12 billion contributions",
+        "Pull Requests merged (annual): 518.7 million pull requests",
+        "Pull Requests merged growth (YoY %): +23% year-over-year",
+        "Total Commits (annual): 986 million+ commits",
+        "Total Commits growth (YoY %): +25% year-over-year",
+        "Top 5 programming languages by repository count/activity: [{\"language\": \"TypeScript\", \"metric\": \"monthly contributors\", \"value\": \"2,636,006\", \"period\": \"August 2025\"}, {\"language\": \"Python\", \"metric\": \"monthly contributors\", \"value\": \"~2.6 million\", \"period\": \"August 2025\"}, {\"language\": \"JavaScript\", \"metric\": \"monthly contributors\", \"value\": \"~2.15 million\", \"period\": \"August 2025\"}, {\"language\": \"Java\", \"metric\": \"new contributors in 2025\", \"value\": \"~174,705\", \"period\": \"August 2025\"}, {\"language\": \"C#\", \"metric\": \"new contributors in 2025\", \"value\": \"~136,735\", \"period\": \"August 2025\"}]"
+      ],
+      "references": [
+        {
+          "name": "github.blog",
+          "url": null,
+          "fields": [
+            "Total developers on GitHub (current)",
+            "New developers added (annual)",
+            "Total repositories hosted (current)",
+            "New repositories created (annual)",
+            "Public/Open-Source contributions (annual)",
+            "Pull Requests merged (annual)",
+            "Pull Requests merged growth (YoY %)",
+            "Total Commits (annual)",
+            "Total Commits growth (YoY %)",
+            "Top 5 programming languages by repository count/activity"
+          ]
+        },
+        {
+          "name": "forbes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-umlHNh82DAqYGy8Y-hEJvsVQWlm-7JKML7AEFgh99Am_O4qeWkv5p9ngBZlKFn5dhHG1mp1JiRZWn3PooDQ4pzt8O0Ry8XPkEHgZGe2iKwGke10nIOxRi97au7zDX08kGfh5bRAP9lcqUSArytcOeLUrf27lJMu6Sem3EkE-0TgxZtB8bq0Ky2V19alTlzLiGpc45axBaqSmyIAuOwcg9gBt",
+          "fields": []
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB-NWqnVkMXmsntYCtXScelTUwpPM8Tn5hoMh7ylB82TOoYkBz-eSVHy4qKrUT8QaYZ6O-igjgwU8CwA0Puc2X326eeX70W2TbvyfM5-9N7e0S32L7RHKB8LRHOJni_vtbMKs9QNUvucA=",
+          "fields": []
+        },
+        {
+          "name": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSWGKQ-pvZWTWgh0qf1NGvlz6ZgvZ59h3g8k8fgkXaQMsm62GPe4-sgv-Lq8cZ3uvkDmRkBE6WeND2WiNrqCk7_m7S4pN31GpGfhjwzgRa7qCd2gYuT1e_dIBjkwv3whwqfMECDvK7PTedmnXgMDhWjs5SVndvHtg3KWTibo-9LGSVYK_EGbB5L8hiIlXcUdRVZ6aF1A2sCzLHCM98df7A2GfbaikQO8UOlg==",
+          "fields": []
+        },
+        {
+          "name": "github.blog",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4i9jMbbCjixmH3Bs3k4GVgSIP3z_bvdXH23szMqG-XQdSbtlfdVWx_G8rBWDh6MDiHRWAjY8nTYY-gRUtyi1waC89pUwBIYCVdNQwAZKYnoQJJFfMgFcAheppTOpGnXZAgoaDkFwOhJtGfQkKtLsFfrN_8X2mrIBy6tlJ37FsfdeJ6kvgdzsosuvT1Ref7vIcFAICbZ8b_vhhNcmLw_JmxxYmLim32F7NUgbiS2GGkkMKErrydQ=",
+          "fields": []
+        },
+        {
+          "name": "visualstudiomagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBHs11xIT1-WcjVUnk-2dWT26iJgl3ksBx26Ugf0Ij5HwHec8687vmMMvGD09ZVuMxH06dJy-BL_k9UROT27qQZTcxfph7aWQLDdhI1ZCQALELxarpUPh-7IUFcIDLtZZZRx8XsZTv3WHRhYeU6zkxASIDwxZfdYLTSiE4_MkxuAWHizgkvUAW_YRUb5kOV2wCa5ViSLlfyklzLVWGHq7FYvXe7J5NkTHSfUWEKyBxQaDxW3n20TisA==",
+          "fields": []
+        },
+        {
+          "name": "ssojet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgnExcS7f3bdiTBptlPv5ic4gzbPxKMJ5ea4OZv7zkExO92Q6eTEa_TCpGAdq28Dy_sMkliqkHAusTBBcM7fi4XqSDRS94p2Sh-6kN5zf5B9c6jEBCzYWLLBmsx-ibeZb5h5kt0_VLa4tVHb2vMDGu87AG4Z5YLCFdpIRiTD40b8TwdGp00knP7uSk3jE7huBiow==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Developer Community & Network Effects",
+      "confidence": "high",
+      "completeness": 0.909,
+      "planned_field_count": 11,
+      "missing_fields": [
+        "Number of active organizations on GitHub"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The strong growth in new developers, repositories, and contributions directly supports a thesis for continued user acquisition and platform stickiness, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Robust community growth and high engagement metrics (commits, PRs) suggest a large and active user base, which is attractive for potential M&A or financing opportunities, thus increasing the likelihood of pursuing.",
+        "credit_analyst": "The data on developer and repository growth, while positive, doesn't directly address financial health or debt-paying ability, making it less critical for an initial credit underwriting screen.",
+        "consultant": "The 'Developer Community & Network Effects' data provides strong evidence of platform virality and user lock-in, which is a key operational strength to explore further in a strategic review."
+      }
+    },
+    {
+      "heading": "Open Source Engagement & Contributions",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Total developers on GitHub (current)",
+          "value": "180 million+ developers",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New developers added (annual)",
+          "value": "36 million+ new developers",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total repositories hosted (current)",
+          "value": "630 million total repositories",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "New repositories created (annual)",
+          "value": "121 million+ new repositories",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Public/Open-Source contributions (annual)",
+          "value": "1.12 billion contributions",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Pull Requests merged (annual)",
+          "value": "518.7 million pull requests",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Pull Requests merged growth (YoY %)",
+          "value": "+23% year-over-year",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Commits (annual)",
+          "value": "986 million+ commits",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Total Commits growth (YoY %)",
+          "value": "+25% year-over-year",
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Top 5 programming languages by repository count/activity",
+          "value": [
+            {
+              "language": "TypeScript",
+              "metric": "monthly contributors",
+              "value": "2,636,006",
+              "period": "August 2025"
+            },
+            {
+              "language": "Python",
+              "metric": "monthly contributors",
+              "value": "~2.6 million",
+              "period": "August 2025"
+            },
+            {
+              "language": "JavaScript",
+              "metric": "monthly contributors",
+              "value": "~2.15 million",
+              "period": "August 2025"
+            },
+            {
+              "language": "Java",
+              "metric": "new contributors in 2025",
+              "value": "~174,705",
+              "period": "August 2025"
+            },
+            {
+              "language": "C#",
+              "metric": "new contributors in 2025",
+              "value": "~136,735",
+              "period": "August 2025"
+            }
+          ],
+          "sources": [
+            {
+              "name": "github.blog",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Total developers on GitHub (current): 180 million+ developers",
+        "New developers added (annual): 36 million+ new developers",
+        "Total repositories hosted (current): 630 million total repositories",
+        "New repositories created (annual): 121 million+ new repositories",
+        "Public/Open-Source contributions (annual): 1.12 billion contributions",
+        "Pull Requests merged (annual): 518.7 million pull requests",
+        "Pull Requests merged growth (YoY %): +23% year-over-year",
+        "Total Commits (annual): 986 million+ commits",
+        "Total Commits growth (YoY %): +25% year-over-year",
+        "Top 5 programming languages by repository count/activity: [{\"language\": \"TypeScript\", \"metric\": \"monthly contributors\", \"value\": \"2,636,006\", \"period\": \"August 2025\"}, {\"language\": \"Python\", \"metric\": \"monthly contributors\", \"value\": \"~2.6 million\", \"period\": \"August 2025\"}, {\"language\": \"JavaScript\", \"metric\": \"monthly contributors\", \"value\": \"~2.15 million\", \"period\": \"August 2025\"}, {\"language\": \"Java\", \"metric\": \"new contributors in 2025\", \"value\": \"~174,705\", \"period\": \"August 2025\"}, {\"language\": \"C#\", \"metric\": \"new contributors in 2025\", \"value\": \"~136,735\", \"period\": \"August 2025\"}]"
+      ],
+      "references": [
+        {
+          "name": "github.blog",
+          "url": null,
+          "fields": [
+            "Total developers on GitHub (current)",
+            "New developers added (annual)",
+            "Total repositories hosted (current)",
+            "New repositories created (annual)",
+            "Public/Open-Source contributions (annual)",
+            "Pull Requests merged (annual)",
+            "Pull Requests merged growth (YoY %)",
+            "Total Commits (annual)",
+            "Total Commits growth (YoY %)",
+            "Top 5 programming languages by repository count/activity"
+          ]
+        },
+        {
+          "name": "forbes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-umlHNh82DAqYGy8Y-hEJvsVQWlm-7JKML7AEFgh99Am_O4qeWkv5p9ngBZlKFn5dhHG1mp1JiRZWn3PooDQ4pzt8O0Ry8XPkEHgZGe2iKwGke10nIOxRi97au7zDX08kGfh5bRAP9lcqUSArytcOeLUrf27lJMu6Sem3EkE-0TgxZtB8bq0Ky2V19alTlzLiGpc45axBaqSmyIAuOwcg9gBt",
+          "fields": []
+        },
+        {
+          "name": "getpanto.ai",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB-NWqnVkMXmsntYCtXScelTUwpPM8Tn5hoMh7ylB82TOoYkBz-eSVHy4qKrUT8QaYZ6O-igjgwU8CwA0Puc2X326eeX70W2TbvyfM5-9N7e0S32L7RHKB8LRHOJni_vtbMKs9QNUvucA=",
+          "fields": []
+        },
+        {
+          "name": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSWGKQ-pvZWTWgh0qf1NGvlz6ZgvZ59h3g8k8fgkXaQMsm62GPe4-sgv-Lq8cZ3uvkDmRkBE6WeND2WiNrqCk7_m7S4pN31GpGfhjwzgRa7qCd2gYuT1e_dIBjkwv3whwqfMECDvK7PTedmnXgMDhWjs5SVndvHtg3KWTibo-9LGSVYK_EGbB5L8hiIlXcUdRVZ6aF1A2sCzLHCM98df7A2GfbaikQO8UOlg==",
+          "fields": []
+        },
+        {
+          "name": "github.blog",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4i9jMbbCjixmH3Bs3k4GVgSIP3z_bvdXH23szMqG-XQdSbtlfdVWx_G8rBWDh6MDiHRWAjY8nTYY-gRUtyi1waC89pUwBIYCVdNQwAZKYnoQJJFfMgFcAheppTOpGnXZAgoaDkFwOhJtGfQkKtLsFfrN_8X2mrIBy6tlJ37FsfdeJ6kvgdzsosuvT1Ref7vIcFAICbZ8b_vhhNcmLw_JmxxYmLim32F7NUgbiS2GGkkMKErrydQ=",
+          "fields": []
+        },
+        {
+          "name": "visualstudiomagazine.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBHs11xIT1-WcjVUnk-2dWT26iJgl3ksBx26Ugf0Ij5HwHec8687vmMMvGD09ZVuMxH06dJy-BL_k9UROT27qQZTcxfph7aWQLDdhI1ZCQALELxarpUPh-7IUFcIDLtZZZRx8XsZTv3WHRhYeU6zkxASIDwxZfdYLTSiE4_MkxuAWHizgkvUAW_YRUb5kOV2wCa5ViSLlfyklzLVWGHq7FYvXe7J5NkTHSfUWEKyBxQaDxW3n20TisA==",
+          "fields": []
+        },
+        {
+          "name": "ssojet.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgnExcS7f3bdiTBptlPv5ic4gzbPxKMJ5ea4OZv7zkExO92Q6eTEa_TCpGAdq28Dy_sMkliqkHAusTBBcM7fi4XqSDRS94p2Sh-6kN5zf5B9c6jEBCzYWLLBmsx-ibeZb5h5kt0_VLa4tVHb2vMDGu87AG4Z5YLCFdpIRiTD40b8TwdGp00knP7uSk3jE7huBiow==",
+          "fields": []
+        }
+      ],
+      "domain_name": "Developer Community & Network Effects",
+      "confidence": "high",
+      "completeness": 0.909,
+      "planned_field_count": 11,
+      "missing_fields": [
+        "Number of active organizations on GitHub"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "The strong growth in new developers, repositories, and contributions directly supports a thesis for continued user acquisition and platform stickiness, increasing the likelihood of pursuing deeper diligence.",
+        "banker": "Robust community growth and high engagement metrics (commits, PRs) suggest a large and active user base, which is attractive for potential M&A or financing opportunities, thus increasing the likelihood of pursuing.",
+        "credit_analyst": "The data on developer and repository growth, while positive, doesn't directly address financial health or debt-paying ability, making it less critical for an initial credit underwriting screen.",
+        "consultant": "The 'Developer Community & Network Effects' data provides strong evidence of platform virality and user lock-in, which is a key operational strength to explore further in a strategic review."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 56
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.050019,
+    "domain_research_usd": 0.272224,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.077243,
+    "grounding_usd": 0.245,
+    "grounded_calls": 7,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.322243,
+    "actual_calls": 11,
+    "elapsed_seconds": 83.0,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.090741,
+      "estimated_generic_domains_usd": 0.544448,
+      "estimated_synthesis_usd": 0.362965,
+      "estimated_total_usd": 1.229656
+    }
+  }
+}
