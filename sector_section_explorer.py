@@ -971,7 +971,9 @@ def _section_html(idx: int, heading: str, conf: str, tag_label: str, pairs: list
 
     if not pairs:
         body = ('<div class="body-text" style="color:#8A9AB0;font-style:italic;">'
-                'This facet is covered by a related section in the same research domain.</div>')
+                'No data found for this section — the research looked for this domain\'s '
+                'data points but none were publicly available for this company '
+                '(see “considered but not found” below).</div>')
 
     return (f'<div class="kelp-op"><div class="sec">{head}{body}'
             f'{_src_footer(pairs)}</div></div>')
