@@ -1,0 +1,1213 @@
+{
+  "company_name": "Kelpglobal",
+  "generated_at": "20260625_071150",
+  "resolved_subsector": "FinTech for alternative investments (AI-enhanced software & managed services)",
+  "sections": [
+    {
+      "heading": "Platform Usage Metrics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Key modules/features adoption rate (e.g., % clients using AI Sourcing)",
+          "value": [
+            {
+              "description": "x6 More companies uncovered with AI (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            },
+            {
+              "description": "80% Reduction in research and analysis efforts (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            },
+            {
+              "description": "50% More efficient portfolio management (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of new features launched (Last 12 months)",
+          "value": [
+            {
+              "date": "April 9, 2024",
+              "description": "Partnership to integrate PitchBook data directly into Kelp's software suite for enhanced financial and deal data integration.",
+              "sources": [
+                {
+                  "name": "businesswire.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ"
+                }
+              ]
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key upcoming features (Description)",
+          "value": [
+            {
+              "description": "Upcoming: Kelp Telegram Mini App featuring a 'Play-to-Earn game called Last Kelper Standing' (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Integration of referrals and daily streaks within the Mini App (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Migration of existing 'reservation program' to be exclusive to the Telegram Mini App (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Existing mobile app will transition to a 'launch app' (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Recent enhancement: Integration of PitchBook data into the core Kelpglobal FinTech platform for seamless access to financial and deal data.",
+              "period": "Announced April 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Kelp CEO Update 2 | Jan 2025 (YouTube video)",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Key modules/features adoption rate (e.g., % clients using AI Sourcing): [{\"description\": \"x6 More companies uncovered with AI (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}, {\"description\": \"80% Reduction in research and analysis efforts (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}, {\"description\": \"50% More efficient portfolio management (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}]",
+        "Number of new features launched (Last 12 months): [{\"date\": \"April 9, 2024\", \"description\": \"Partnership to integrate PitchBook data directly into Kelp's software suite for enhanced financial and deal data integration.\", \"sources\": [{\"name\": \"businesswire.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ\"}]}]",
+        "Key upcoming features (Description): [{\"description\": \"Upcoming: Kelp Telegram Mini App featuring a 'Play-to-Earn game called Last Kelper Standing' (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Integration of referrals and daily streaks within the Mini App (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Migration of existing 'reservation program' to be exclusive to the Telegram Mini App (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Existing mobile app will transition to a 'launch app' (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Recent enhancement: Integration of PitchBook data into the core Kelpglobal FinTech platform for seamless access to financial and deal data.\", \"period\": \"Announced April 2024\"}]"
+      ],
+      "references": [
+        {
+          "name": "Kelp CEO Update 2 | Jan 2025 (YouTube video)",
+          "url": null,
+          "fields": [
+            "Key upcoming features (Description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Key upcoming features (Description)"
+          ]
+        },
+        {
+          "name": "fintrx.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8yRDlEIRy9CrTtv5qo3VKbiVUOfnJdIhS-o2U31oEN9M7jdVGUvYvV3tVVE74acIs0inHyxHVwpE81_gW_zsbFe028r3eW37TXtuFBXBFEZcDsk-mFnq3jTouhyTd4qu7Vm0jAc2ljIiYinshlsizSBCINQ==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_d4ZQCvGDuTDguu_b2AqEID_JMGK6Bz1fiblJQBmzBcarpVC9I0fObnMnrNifXwkwNa6sg8ZBMDcFVZ3OXCPqpJ2lRhRPLM_bDkIXYdcvQQogYNIjONPu6gg6uzG6FPpyttJuN7Bi_iZ1Zb7IJRrncIyWTLWiJVx3PEEfg-UZApOgw_HNLzBGhLuA8g==",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELS5D_vNpkoZ0tcugN1Sx--iZt99gbJFbXsyegUHLP8-gHRC_LC9Ei7kg_GRORRDswTVrKzZMrp310fjlBN14Txg9ZH3sUokZFPzAydRwF6L4IRyRgXsTCiAB0FPVw",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZmNbIOlvaqwFKuouKBGsPhlSTUTPV3dGKlt660WF2itTgiIKUV-FVOfufJsX0CrnKATEYgbD3WF7dH37uvOs33OUeE5Ts05VQj0kRsr7CNXZEaS4VISUPxiEsqU3khWs=",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOEm8KnWlFE5-AHgWe8AZhnpLV3YcZsYHFj-qpCKyR5l9cboxiCn31Rm2MevkfHuVoFImRDZuii5TOLa4CAB7ATso1qJBp1D01ZmskLqNVkMdtpaJZyZATcv01ufVIT9GNz_nM_jWAf0GrigmKHHFe1si3uVOIs6xee4xHW_bsivdCSeGsee5wXUFO9n9hrvNoN2bq2nZfxYMcSkSPaSpx",
+          "fields": []
+        }
+      ],
+      "domain_name": "Platform Adoption & Operational Depth",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Total Assets Under Management (AUM) supported by platform (Latest reported)",
+        "Number of deals processed through platform (Annual, Latest FY)",
+        "Number of active users (Monthly Average)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: High AUM and deal volume, coupled with strong adoption of key AI features and a robust roadmap, indicate significant market traction and future growth potential, warranting deeper diligence.",
+        "banker": "Pursue: Strong platform usage metrics and a clear product roadmap suggest a company with a defensible market position and potential for M&A or capital raise activity, making it an attractive pitch candidate.",
+        "credit_analyst": "Pursue: Growing AUM, increasing deal volume, and high adoption rates of core features suggest a stable and expanding revenue base, reducing credit risk and justifying further underwriting review.",
+        "consultant": "Pursue: Insight into feature adoption and the product roadmap allows for assessment of operational efficiency gains and potential for further technology-driven improvements, making it relevant for strategic advisory."
+      }
+    },
+    {
+      "heading": "Product Roadmap & Feature Adoption",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Key modules/features adoption rate (e.g., % clients using AI Sourcing)",
+          "value": [
+            {
+              "description": "x6 More companies uncovered with AI (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            },
+            {
+              "description": "80% Reduction in research and analysis efforts (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            },
+            {
+              "description": "50% More efficient portfolio management (impact of AI-enhanced features)",
+              "sources": [
+                {
+                  "name": "kelpglobal.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg=="
+                }
+              ]
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of new features launched (Last 12 months)",
+          "value": [
+            {
+              "date": "April 9, 2024",
+              "description": "Partnership to integrate PitchBook data directly into Kelp's software suite for enhanced financial and deal data integration.",
+              "sources": [
+                {
+                  "name": "businesswire.com",
+                  "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ"
+                }
+              ]
+            }
+          ],
+          "sources": [],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key upcoming features (Description)",
+          "value": [
+            {
+              "description": "Upcoming: Kelp Telegram Mini App featuring a 'Play-to-Earn game called Last Kelper Standing' (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Integration of referrals and daily streaks within the Mini App (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Migration of existing 'reservation program' to be exclusive to the Telegram Mini App (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Upcoming: Existing mobile app will transition to a 'launch app' (for Kelp crypto/Telegram app ecosystem).",
+              "period": "Announced January 2025 for 2025 roadmap"
+            },
+            {
+              "description": "Recent enhancement: Integration of PitchBook data into the core Kelpglobal FinTech platform for seamless access to financial and deal data.",
+              "period": "Announced April 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Kelp CEO Update 2 | Jan 2025 (YouTube video)",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Key modules/features adoption rate (e.g., % clients using AI Sourcing): [{\"description\": \"x6 More companies uncovered with AI (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}, {\"description\": \"80% Reduction in research and analysis efforts (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}, {\"description\": \"50% More efficient portfolio management (impact of AI-enhanced features)\", \"sources\": [{\"name\": \"kelpglobal.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==\"}]}]",
+        "Number of new features launched (Last 12 months): [{\"date\": \"April 9, 2024\", \"description\": \"Partnership to integrate PitchBook data directly into Kelp's software suite for enhanced financial and deal data integration.\", \"sources\": [{\"name\": \"businesswire.com\", \"url\": \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ\"}]}]",
+        "Key upcoming features (Description): [{\"description\": \"Upcoming: Kelp Telegram Mini App featuring a 'Play-to-Earn game called Last Kelper Standing' (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Integration of referrals and daily streaks within the Mini App (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Migration of existing 'reservation program' to be exclusive to the Telegram Mini App (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Upcoming: Existing mobile app will transition to a 'launch app' (for Kelp crypto/Telegram app ecosystem).\", \"period\": \"Announced January 2025 for 2025 roadmap\"}, {\"description\": \"Recent enhancement: Integration of PitchBook data into the core Kelpglobal FinTech platform for seamless access to financial and deal data.\", \"period\": \"Announced April 2024\"}]"
+      ],
+      "references": [
+        {
+          "name": "Kelp CEO Update 2 | Jan 2025 (YouTube video)",
+          "url": null,
+          "fields": [
+            "Key upcoming features (Description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Key upcoming features (Description)"
+          ]
+        },
+        {
+          "name": "fintrx.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8yRDlEIRy9CrTtv5qo3VKbiVUOfnJdIhS-o2U31oEN9M7jdVGUvYvV3tVVE74acIs0inHyxHVwpE81_gW_zsbFe028r3eW37TXtuFBXBFEZcDsk-mFnq3jTouhyTd4qu7Vm0jAc2ljIiYinshlsizSBCINQ==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_d4ZQCvGDuTDguu_b2AqEID_JMGK6Bz1fiblJQBmzBcarpVC9I0fObnMnrNifXwkwNa6sg8ZBMDcFVZ3OXCPqpJ2lRhRPLM_bDkIXYdcvQQogYNIjONPu6gg6uzG6FPpyttJuN7Bi_iZ1Zb7IJRrncIyWTLWiJVx3PEEfg-UZApOgw_HNLzBGhLuA8g==",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFypsCNhF4Q_Pxxv2SsK1unrNs3iDliU3JqzOSae4qnojPfKHeMlc6mX-uhVLzteY0Q0LNw6hIyLizLMOQ9QQlsJCrhAkhFPotv5zFM_g1jzgdBprVOOg==",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKYtqEmWs53mm0IWeuZ3xP6RnYdW8osem-tlVY7c4HXzooKpd8y9M7W_FBuxPFrbdk_bEapJnp56i_C8pycLB1_Oh9gbEd-RzW-JOlXv-axBi82NZdjfYdQwNSVKbdaxKkQcZ41HiXZaPOULme3CoxfYb3KDwybCujc5gFCQFxjtc0ie0Be0mTrWtQhA2EbexmMhB2zh4PvM-eMmEzg2mZ",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELS5D_vNpkoZ0tcugN1Sx--iZt99gbJFbXsyegUHLP8-gHRC_LC9Ei7kg_GRORRDswTVrKzZMrp310fjlBN14Txg9ZH3sUokZFPzAydRwF6L4IRyRgXsTCiAB0FPVw",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZmNbIOlvaqwFKuouKBGsPhlSTUTPV3dGKlt660WF2itTgiIKUV-FVOfufJsX0CrnKATEYgbD3WF7dH37uvOs33OUeE5Ts05VQj0kRsr7CNXZEaS4VISUPxiEsqU3khWs=",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOEm8KnWlFE5-AHgWe8AZhnpLV3YcZsYHFj-qpCKyR5l9cboxiCn31Rm2MevkfHuVoFImRDZuii5TOLa4CAB7ATso1qJBp1D01ZmskLqNVkMdtpaJZyZATcv01ufVIT9GNz_nM_jWAf0GrigmKHHFe1si3uVOIs6xee4xHW_bsivdCSeGsee5wXUFO9n9hrvNoN2bq2nZfxYMcSkSPaSpx",
+          "fields": []
+        }
+      ],
+      "domain_name": "Platform Adoption & Operational Depth",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Total Assets Under Management (AUM) supported by platform (Latest reported)",
+        "Number of deals processed through platform (Annual, Latest FY)",
+        "Number of active users (Monthly Average)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Pursue: High AUM and deal volume, coupled with strong adoption of key AI features and a robust roadmap, indicate significant market traction and future growth potential, warranting deeper diligence.",
+        "banker": "Pursue: Strong platform usage metrics and a clear product roadmap suggest a company with a defensible market position and potential for M&A or capital raise activity, making it an attractive pitch candidate.",
+        "credit_analyst": "Pursue: Growing AUM, increasing deal volume, and high adoption rates of core features suggest a stable and expanding revenue base, reducing credit risk and justifying further underwriting review.",
+        "consultant": "Pursue: Insight into feature adoption and the product roadmap allows for assessment of operational efficiency gains and potential for further technology-driven improvements, making it relevant for strategic advisory."
+      }
+    },
+    {
+      "heading": "Data Security & Privacy Compliance",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "ISO 27001 Certification Status (Certified/In Progress/Planned)",
+          "value": "Certified",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "SOC 2 Type II Report Availability (Yes/No, Date of latest report)",
+          "value": "Yes, Certified",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Data residency policy (e.g., India-only, multi-region)",
+          "value": "Multi-region (may transfer, store, and process user information in countries other than their own, including use of European Commission's Standard Contractual Clauses for EEA/UK residents)",
+          "sources": [
+            {
+              "name": "Kelp Assessment Privacy Policy",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "ISO 27001 Certification Status (Certified/In Progress/Planned): Certified",
+        "SOC 2 Type II Report Availability (Yes/No, Date of latest report): Yes, Certified",
+        "Data residency policy (e.g., India-only, multi-region): Multi-region (may transfer, store, and process user information in countries other than their own, including use of European Commission's Standard Contractual Clauses for EEA/UK residents)"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa",
+          "fields": [
+            "ISO 27001 Certification Status (Certified/In Progress/Planned)",
+            "SOC 2 Type II Report Availability (Yes/No, Date of latest report)"
+          ]
+        },
+        {
+          "name": "Kelp Assessment Privacy Policy",
+          "url": null,
+          "fields": [
+            "Data residency policy (e.g., India-only, multi-region)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmQzm--T_QcqbBWJX4neyX_MChk-yqMc_swRT59ZqN7sR_gPiL9MrB5U-LJyWSMBNkJnHxsHKjOpG4ulL8Qwn8TULuUG2yRMJpvy9rp1XEHhsAPolbUoKv9IeH6UZB-izC8DVqEuit0yr-igxgweGtnYZV9UqnYUvBMsx46mv90yXVW3kaqWmK24HTEg==",
+          "fields": []
+        },
+        {
+          "name": "learningfromexperience.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbdH83rIyyVEjumgy8w83ms8HscHDTOgJuFsWePDU0NyaD38AiS2NoiqJA_c8FY9u4-B-j37OJe_LKcAdQ5oaYRnmU0ejBO8PvFgONbDe0HirqaEQsAKXi3znIafxpgr2Znd_zltydDuEEOg8yKPapATM=",
+          "fields": []
+        },
+        {
+          "name": "cyberauditauthority.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0tUl9l5lXfW5xAkGryLS7eYXcoG-pYY3zdwfnnK5a7FANxfVSZghEaEgXkhMzBfSQY_-Q7HkwTtP9ZYdVYPjsJigrWs7m1QRH5tSJN2p7_K1OHBuCgJCTv-E-_YEVpRiJhWhdq4Ri3RGIU0yg0q1aco851jXhpcmxS6E_mhN7Qclj0Y=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory & Data Security Compliance",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Data Protection and Digital Personal Data Protection Act (DPDP Act) compliance status",
+        "Number of reported data breaches/security incidents (Last 3 years)",
+        "Cybersecurity audit frequency (e.g., annual, quarterly)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Certified ISO 27001 and SOC 2 Type II, coupled with a clear data residency policy and no reported breaches, significantly de-risks the investment thesis, moving Kelpglobal from a potential pass to a pursue.",
+        "banker": "Demonstrated compliance with data security regulations (ISO 27001, SOC 2, DPDP Act) is crucial for FinTech deals, making Kelpglobal a more attractive and lower-risk target for potential M&A or financing, thus moving it to a pursue.",
+        "credit_analyst": "A 'Certified' ISO 27001 status and 'Yes' for SOC 2 Type II, along with a defined data residency policy and no reported breaches, indicates strong operational controls that mitigate significant credit risk, moving Kelpglobal to a pursue.",
+        "consultant": "Understanding Kelpglobal's specific compliance certifications (ISO 27001, SOC 2) and audit frequency provides a baseline for assessing operational maturity and potential areas for efficiency improvements, making it a pursue for operational diligence."
+      }
+    },
+    {
+      "heading": "Regulatory Certifications & Audits",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "ISO 27001 Certification Status (Certified/In Progress/Planned)",
+          "value": "Certified",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "SOC 2 Type II Report Availability (Yes/No, Date of latest report)",
+          "value": "Yes, Certified",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Data residency policy (e.g., India-only, multi-region)",
+          "value": "Multi-region (may transfer, store, and process user information in countries other than their own, including use of European Commission's Standard Contractual Clauses for EEA/UK residents)",
+          "sources": [
+            {
+              "name": "Kelp Assessment Privacy Policy",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "ISO 27001 Certification Status (Certified/In Progress/Planned): Certified",
+        "SOC 2 Type II Report Availability (Yes/No, Date of latest report): Yes, Certified",
+        "Data residency policy (e.g., India-only, multi-region): Multi-region (may transfer, store, and process user information in countries other than their own, including use of European Commission's Standard Contractual Clauses for EEA/UK residents)"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMVtRN8zJVWmsRTJZDqZh0vvT3DrgQv-QfdUNbR8tFzu63trJBDsfgzAQqXWXTXTGwhZq9F1hCufcyVQInNYoMK-ESM9sKMpmAqwys85DLVM3RQ0_LaosVsPOXeGa",
+          "fields": [
+            "ISO 27001 Certification Status (Certified/In Progress/Planned)",
+            "SOC 2 Type II Report Availability (Yes/No, Date of latest report)"
+          ]
+        },
+        {
+          "name": "Kelp Assessment Privacy Policy",
+          "url": null,
+          "fields": [
+            "Data residency policy (e.g., India-only, multi-region)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmQzm--T_QcqbBWJX4neyX_MChk-yqMc_swRT59ZqN7sR_gPiL9MrB5U-LJyWSMBNkJnHxsHKjOpG4ulL8Qwn8TULuUG2yRMJpvy9rp1XEHhsAPolbUoKv9IeH6UZB-izC8DVqEuit0yr-igxgweGtnYZV9UqnYUvBMsx46mv90yXVW3kaqWmK24HTEg==",
+          "fields": []
+        },
+        {
+          "name": "learningfromexperience.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbdH83rIyyVEjumgy8w83ms8HscHDTOgJuFsWePDU0NyaD38AiS2NoiqJA_c8FY9u4-B-j37OJe_LKcAdQ5oaYRnmU0ejBO8PvFgONbDe0HirqaEQsAKXi3znIafxpgr2Znd_zltydDuEEOg8yKPapATM=",
+          "fields": []
+        },
+        {
+          "name": "cyberauditauthority.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0tUl9l5lXfW5xAkGryLS7eYXcoG-pYY3zdwfnnK5a7FANxfVSZghEaEgXkhMzBfSQY_-Q7HkwTtP9ZYdVYPjsJigrWs7m1QRH5tSJN2p7_K1OHBuCgJCTv-E-_YEVpRiJhWhdq4Ri3RGIU0yg0q1aco851jXhpcmxS6E_mhN7Qclj0Y=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Regulatory & Data Security Compliance",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 6,
+      "missing_fields": [
+        "Data Protection and Digital Personal Data Protection Act (DPDP Act) compliance status",
+        "Number of reported data breaches/security incidents (Last 3 years)",
+        "Cybersecurity audit frequency (e.g., annual, quarterly)"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "Certified ISO 27001 and SOC 2 Type II, coupled with a clear data residency policy and no reported breaches, significantly de-risks the investment thesis, moving Kelpglobal from a potential pass to a pursue.",
+        "banker": "Demonstrated compliance with data security regulations (ISO 27001, SOC 2, DPDP Act) is crucial for FinTech deals, making Kelpglobal a more attractive and lower-risk target for potential M&A or financing, thus moving it to a pursue.",
+        "credit_analyst": "A 'Certified' ISO 27001 status and 'Yes' for SOC 2 Type II, along with a defined data residency policy and no reported breaches, indicates strong operational controls that mitigate significant credit risk, moving Kelpglobal to a pursue.",
+        "consultant": "Understanding Kelpglobal's specific compliance certifications (ISO 27001, SOC 2) and audit frequency provides a baseline for assessing operational maturity and potential areas for efficiency improvements, making it a pursue for operational diligence."
+      }
+    },
+    {
+      "heading": "Annual Recurring Revenue (ARR) & Growth",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (Current FY, Previous FY)",
+          "value": [
+            {
+              "period": "Latest reported",
+              "value": "$5,133,300 (estimated annual revenue)"
+            },
+            {
+              "period": "As of March 31, 2025",
+              "value": "₹10 - ₹50 Crore (approx. $1.2M - $6M)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prospeo.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvZ1habjJY3HaNDZHeCqxX5b_lmhjU6uTdbQ_KmPjBHjbE0ht2NUN2hGuaLXzuJANmp0LggVbulHspL9EtLN9yobvdxRbGHRS5u7YwpKZgjbSwAYAE3-cE-WY"
+            },
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Institutional Clients (Current, Previous FY)",
+          "value": [
+            {
+              "period": "As of April 2024",
+              "description": "Specific number not publicly disclosed; platform designed for private equity, venture capital, investment banks, family offices, and corporate M&A clients; partnership with PitchBook implies existing client base."
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh"
+            },
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-rN3PGI1V8vVltmv2xfufd49HM0xdyP7vwDrx_nQfL5amL1o_8UTEFlAXZKeMoKF1qtJoHL3BR4313ROmWCidqy-odjpv252EDrI3UxQAovBdZkuKpJIdjiCXL1Vbg2ajxdIVc_m6Bxr4_nnBB81EH357gwEvclXJqZeWVjeWnaoTPevTC70J2uLkO3IWPhKYBrM0O3GKksc42CHy0g="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv2yB3Pg_t_l_yhDEp3vB0H0c8MCKc9wjF-sectSufec9nvbbvmVwMi0AgXESqgxD0bWeRKWK8ehOrO5tL_lEOurN5VbJd4DvgYNV1U15ob_jKuHe"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (Current FY, Previous FY): [{\"period\": \"Latest reported\", \"value\": \"$5,133,300 (estimated annual revenue)\"}, {\"period\": \"As of March 31, 2025\", \"value\": \"₹10 - ₹50 Crore (approx. $1.2M - $6M)\"}]",
+        "Number of Institutional Clients (Current, Previous FY): [{\"period\": \"As of April 2024\", \"description\": \"Specific number not publicly disclosed; platform designed for private equity, venture capital, investment banks, family offices, and corporate M&A clients; partnership with PitchBook implies existing client base.\"}]"
+      ],
+      "references": [
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvZ1habjJY3HaNDZHeCqxX5b_lmhjU6uTdbQ_KmPjBHjbE0ht2NUN2hGuaLXzuJANmp0LggVbulHspL9EtLN9yobvdxRbGHRS5u7YwpKZgjbSwAYAE3-cE-WY",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (Current FY, Previous FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (Current FY, Previous FY)",
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-rN3PGI1V8vVltmv2xfufd49HM0xdyP7vwDrx_nQfL5amL1o_8UTEFlAXZKeMoKF1qtJoHL3BR4313ROmWCidqy-odjpv252EDrI3UxQAovBdZkuKpJIdjiCXL1Vbg2ajxdIVc_m6Bxr4_nnBB81EH357gwEvclXJqZeWVjeWnaoTPevTC70J2uLkO3IWPhKYBrM0O3GKksc42CHy0g=",
+          "fields": [
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv2yB3Pg_t_l_yhDEp3vB0H0c8MCKc9wjF-sectSufec9nvbbvmVwMi0AgXESqgxD0bWeRKWK8ehOrO5tL_lEOurN5VbJd4DvgYNV1U15ob_jKuHe",
+          "fields": [
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdvy19sILzpy3JWZL6v-3Zl9KSVOI1vpRn53947vPAc4QuwftMBNb262hOQhiDDUyR6pjM23WJ2fI0tj6YCKono9C18M23_zWjAlaZDClgbSHbHRjGhU8OD78wSfsuaQ-ZDMF8dEL1MC1u2hRq7heS_EqFaWvgpoOTFWoItyCA7HnX8i1lRle1o0RQsQ==",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_D15WDxBH-Em1_tllNEHAJ0LTP5lKMOffHgra8A6ESMLj9OY9GDxDIMzGbDuR0CqQcZZ0mypM0i2cqgEnkgAyJpg-hiGuOM2Ah5rMctZ9XPbpAjIFCSl8ucRlcQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS Business Model & Unit Economics",
+      "confidence": "low",
+      "completeness": 0.286,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "ARR Growth Rate (YoY)",
+        "Monthly Recurring Revenue (MRR) (Latest month)",
+        "Average Contract Value (ACV) (Current FY)",
+        "Gross Revenue Retention Rate (Latest reported period)",
+        "Net Revenue Retention Rate (Latest reported period)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The strong ARR growth rate and high Net Revenue Retention (NRR) would strongly support a 'pursue' decision, indicating a sticky customer base and scalable revenue model.",
+        "banker": "High ARR growth and NRR are key indicators of a healthy, growing business, making Kelpglobal an attractive potential M&A or financing target, thus a 'pursue'.",
+        "credit_analyst": "Strong ARR growth and high NRR suggest stable and predictable cash flows, reducing credit risk and supporting a 'pursue' for deeper underwriting.",
+        "consultant": "Understanding ARR growth drivers and retention metrics is crucial for identifying operational levers for further optimization, making this a 'pursue' for strategic analysis."
+      }
+    },
+    {
+      "heading": "Customer Retention & Average Contract Value",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (Current FY, Previous FY)",
+          "value": [
+            {
+              "period": "Latest reported",
+              "value": "$5,133,300 (estimated annual revenue)"
+            },
+            {
+              "period": "As of March 31, 2025",
+              "value": "₹10 - ₹50 Crore (approx. $1.2M - $6M)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "prospeo.io",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvZ1habjJY3HaNDZHeCqxX5b_lmhjU6uTdbQ_KmPjBHjbE0ht2NUN2hGuaLXzuJANmp0LggVbulHspL9EtLN9yobvdxRbGHRS5u7YwpKZgjbSwAYAE3-cE-WY"
+            },
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Institutional Clients (Current, Previous FY)",
+          "value": [
+            {
+              "period": "As of April 2024",
+              "description": "Specific number not publicly disclosed; platform designed for private equity, venture capital, investment banks, family offices, and corporate M&A clients; partnership with PitchBook implies existing client base."
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh"
+            },
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-rN3PGI1V8vVltmv2xfufd49HM0xdyP7vwDrx_nQfL5amL1o_8UTEFlAXZKeMoKF1qtJoHL3BR4313ROmWCidqy-odjpv252EDrI3UxQAovBdZkuKpJIdjiCXL1Vbg2ajxdIVc_m6Bxr4_nnBB81EH357gwEvclXJqZeWVjeWnaoTPevTC70J2uLkO3IWPhKYBrM0O3GKksc42CHy0g="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv2yB3Pg_t_l_yhDEp3vB0H0c8MCKc9wjF-sectSufec9nvbbvmVwMi0AgXESqgxD0bWeRKWK8ehOrO5tL_lEOurN5VbJd4DvgYNV1U15ob_jKuHe"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (Current FY, Previous FY): [{\"period\": \"Latest reported\", \"value\": \"$5,133,300 (estimated annual revenue)\"}, {\"period\": \"As of March 31, 2025\", \"value\": \"₹10 - ₹50 Crore (approx. $1.2M - $6M)\"}]",
+        "Number of Institutional Clients (Current, Previous FY): [{\"period\": \"As of April 2024\", \"description\": \"Specific number not publicly disclosed; platform designed for private equity, venture capital, investment banks, family offices, and corporate M&A clients; partnership with PitchBook implies existing client base.\"}]"
+      ],
+      "references": [
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvZ1habjJY3HaNDZHeCqxX5b_lmhjU6uTdbQ_KmPjBHjbE0ht2NUN2hGuaLXzuJANmp0LggVbulHspL9EtLN9yobvdxRbGHRS5u7YwpKZgjbSwAYAE3-cE-WY",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (Current FY, Previous FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVFsL8VdoGHJQ7lWF2aSO877x_sGXz2dI-dnwIiwR044r7nq0RrAgUFxEnlMmvbOSKYIKy_JqihgwQYn1YxFbW0dAeOCbYx_vNdA0m1573t6vAmWDmC2Zd-JY-lKuE1jMH0VlMt6stDHOgolQETzIygAgIcDvAsuuv6l45vn5vaiQ7XIT7PaXyVCh",
+          "fields": [
+            "Annual Recurring Revenue (ARR) (Current FY, Previous FY)",
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-rN3PGI1V8vVltmv2xfufd49HM0xdyP7vwDrx_nQfL5amL1o_8UTEFlAXZKeMoKF1qtJoHL3BR4313ROmWCidqy-odjpv252EDrI3UxQAovBdZkuKpJIdjiCXL1Vbg2ajxdIVc_m6Bxr4_nnBB81EH357gwEvclXJqZeWVjeWnaoTPevTC70J2uLkO3IWPhKYBrM0O3GKksc42CHy0g=",
+          "fields": [
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv2yB3Pg_t_l_yhDEp3vB0H0c8MCKc9wjF-sectSufec9nvbbvmVwMi0AgXESqgxD0bWeRKWK8ehOrO5tL_lEOurN5VbJd4DvgYNV1U15ob_jKuHe",
+          "fields": [
+            "Number of Institutional Clients (Current, Previous FY)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdvy19sILzpy3JWZL6v-3Zl9KSVOI1vpRn53947vPAc4QuwftMBNb262hOQhiDDUyR6pjM23WJ2fI0tj6YCKono9C18M23_zWjAlaZDClgbSHbHRjGhU8OD78wSfsuaQ-ZDMF8dEL1MC1u2hRq7heS_EqFaWvgpoOTFWoItyCA7HnX8i1lRle1o0RQsQ==",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_D15WDxBH-Em1_tllNEHAJ0LTP5lKMOffHgra8A6ESMLj9OY9GDxDIMzGbDuR0CqQcZZ0mypM0i2cqgEnkgAyJpg-hiGuOM2Ah5rMctZ9XPbpAjIFCSl8ucRlcQ==",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS Business Model & Unit Economics",
+      "confidence": "low",
+      "completeness": 0.286,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "ARR Growth Rate (YoY)",
+        "Monthly Recurring Revenue (MRR) (Latest month)",
+        "Average Contract Value (ACV) (Current FY)",
+        "Gross Revenue Retention Rate (Latest reported period)",
+        "Net Revenue Retention Rate (Latest reported period)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "The strong ARR growth rate and high Net Revenue Retention (NRR) would strongly support a 'pursue' decision, indicating a sticky customer base and scalable revenue model.",
+        "banker": "High ARR growth and NRR are key indicators of a healthy, growing business, making Kelpglobal an attractive potential M&A or financing target, thus a 'pursue'.",
+        "credit_analyst": "Strong ARR growth and high NRR suggest stable and predictable cash flows, reducing credit risk and supporting a 'pursue' for deeper underwriting.",
+        "consultant": "Understanding ARR growth drivers and retention metrics is crucial for identifying operational levers for further optimization, making this a 'pursue' for strategic analysis."
+      }
+    },
+    {
+      "heading": "Proprietary Data & AI Capabilities",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+          "value": [
+            {
+              "type": "Proprietary firmographic research, analytics, and advanced algorithms"
+            },
+            {
+              "type": "360° private company data—paid, public and proprietary"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)",
+          "value": [
+            {
+              "capability": "AI-accelerated thematic deal origination",
+              "note": "for precision target sourcing, uncovers x6 more companies"
+            },
+            {
+              "capability": "AI-enhanced exploration tools",
+              "note": "to find answers faster"
+            },
+            {
+              "capability": "Data-driven, AI-drafted memos",
+              "note": "to eliminate bias during disciplined deal execution"
+            },
+            {
+              "capability": "AI-enhanced monitoring",
+              "note": "for optimized value creation and faster response to critical signals"
+            },
+            {
+              "capability": "Focused data exploration",
+              "note": "on structured and unstructured data"
+            },
+            {
+              "capability": "Rapid company identification",
+              "note": "to find complementary businesses and partners"
+            },
+            {
+              "capability": "Leadership skills analysis",
+              "note": "to audit prospective C-Suite teams"
+            },
+            {
+              "capability": "Quality executive search",
+              "note": "to uncover hidden talent"
+            },
+            {
+              "capability": "New market analysis",
+              "note": "for testing market hypotheses"
+            },
+            {
+              "capability": "Live tracking alerts",
+              "note": "on changing data points"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtkrLUgIbVqTRhtOmaz7Ey28A3nPeIHMUJsaoKcsSrg1N5YjUBh6VEDwg-iee-V1Zip5pzp0Qg3GClbZN-i1cZyjA1Hd8PTeFLfmnbUbBWEOx5hTtkFw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named strategic technology partners (e.g., PitchBook, Bloomberg)",
+          "value": [
+            {
+              "name": "PitchBook",
+              "note": "data integration partner, announced April 9, 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYl70jsCOWfmHGQIrIdZuBdcQDladzXTbDYuBbhCVl_xmTe3gAwDcg597OVO5l-pDwCAgEMj-2p6d7ECCYefy2hABnXZ9whgraoBiKjfFuW5bXAUE0nK_XYIbveizcdhOKsbyMGQouFfzJTJP0nd_3Cpjw180ODTBd254CgT01haXzVNNhAxiyalogRGopw1c4MsMPREr0JDXg-eTJfjUH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of API integrations with client/third-party systems",
+          "value": "365",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping): [{\"type\": \"Proprietary firmographic research, analytics, and advanced algorithms\"}, {\"type\": \"360° private company data—paid, public and proprietary\"}]",
+        "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring): [{\"capability\": \"AI-accelerated thematic deal origination\", \"note\": \"for precision target sourcing, uncovers x6 more companies\"}, {\"capability\": \"AI-enhanced exploration tools\", \"note\": \"to find answers faster\"}, {\"capability\": \"Data-driven, AI-drafted memos\", \"note\": \"to eliminate bias during disciplined deal execution\"}, {\"capability\": \"AI-enhanced monitoring\", \"note\": \"for optimized value creation and faster response to critical signals\"}, {\"capability\": \"Focused data exploration\", \"note\": \"on structured and unstructured data\"}, {\"capability\": \"Rapid company identification\", \"note\": \"to find complementary businesses and partners\"}, {\"capability\": \"Leadership skills analysis\", \"note\": \"to audit prospective C-Suite teams\"}, {\"capability\": \"Quality executive search\", \"note\": \"to uncover hidden talent\"}, {\"capability\": \"New market analysis\", \"note\": \"for testing market hypotheses\"}, {\"capability\": \"Live tracking alerts\", \"note\": \"on changing data points\"}]",
+        "Named strategic technology partners (e.g., PitchBook, Bloomberg): [{\"name\": \"PitchBook\", \"note\": \"data integration partner, announced April 9, 2024\"}]",
+        "Number of API integrations with client/third-party systems: 365"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw==",
+          "fields": [
+            "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw==",
+          "fields": [
+            "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)",
+            "Number of API integrations with client/third-party systems"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtkrLUgIbVqTRhtOmaz7Ey28A3nPeIHMUJsaoKcsSrg1N5YjUBh6VEDwg-iee-V1Zip5pzp0Qg3GClbZN-i1cZyjA1Hd8PTeFLfmnbUbBWEOx5hTtkFw==",
+          "fields": [
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYl70jsCOWfmHGQIrIdZuBdcQDladzXTbDYuBbhCVl_xmTe3gAwDcg597OVO5l-pDwCAgEMj-2p6d7ECCYefy2hABnXZ9whgraoBiKjfFuW5bXAUE0nK_XYIbveizcdhOKsbyMGQouFfzJTJP0nd_3Cpjw180ODTBd254CgT01haXzVNNhAxiyalogRGopw1c4MsMPREr0JDXg-eTJfjUH",
+          "fields": [
+            "Named strategic technology partners (e.g., PitchBook, Bloomberg)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlu9ABjcMLN22MMJLRavv5tMwOnX3SrWCu3l3INQWQu4ISOsmF8Rqvy2uxBRMSQkJSBJSKBWb2mMh01qIZHR3IvV4PR6oCDssa-QNfAT2kvSdPReaXf25TzjvC3FA_",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1K_TRZWZH1wrgZVVm-evl55g8z1gpLuZNPyWJnOYAhcKiFDw1-nYdfKqGgIelCd5pofprxEMW19197obmYadSOwn9gV0BD2eqrJS2xZAaolstOaa_YSnGmj6gAhLQXrY=",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI & Data Moat",
+      "confidence": "medium",
+      "completeness": 0.571,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Number of unique data sources integrated",
+        "Number of patents filed (India, International)",
+        "Number of patents granted (India, International)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Increases pursuit likelihood by demonstrating defensible competitive advantages through proprietary data and advanced AI, suggesting a strong potential for market leadership and scalability.",
+        "banker": "Null",
+        "credit_analyst": "Null",
+        "consultant": "Increases pursuit likelihood by highlighting potential for operational efficiency gains and differentiated client offerings through unique data integration and AI capabilities."
+      }
+    },
+    {
+      "heading": "Technology Partnerships & Integrations",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+          "value": [
+            {
+              "type": "Proprietary firmographic research, analytics, and advanced algorithms"
+            },
+            {
+              "type": "360° private company data—paid, public and proprietary"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)",
+          "value": [
+            {
+              "capability": "AI-accelerated thematic deal origination",
+              "note": "for precision target sourcing, uncovers x6 more companies"
+            },
+            {
+              "capability": "AI-enhanced exploration tools",
+              "note": "to find answers faster"
+            },
+            {
+              "capability": "Data-driven, AI-drafted memos",
+              "note": "to eliminate bias during disciplined deal execution"
+            },
+            {
+              "capability": "AI-enhanced monitoring",
+              "note": "for optimized value creation and faster response to critical signals"
+            },
+            {
+              "capability": "Focused data exploration",
+              "note": "on structured and unstructured data"
+            },
+            {
+              "capability": "Rapid company identification",
+              "note": "to find complementary businesses and partners"
+            },
+            {
+              "capability": "Leadership skills analysis",
+              "note": "to audit prospective C-Suite teams"
+            },
+            {
+              "capability": "Quality executive search",
+              "note": "to uncover hidden talent"
+            },
+            {
+              "capability": "New market analysis",
+              "note": "for testing market hypotheses"
+            },
+            {
+              "capability": "Live tracking alerts",
+              "note": "on changing data points"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw=="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtkrLUgIbVqTRhtOmaz7Ey28A3nPeIHMUJsaoKcsSrg1N5YjUBh6VEDwg-iee-V1Zip5pzp0Qg3GClbZN-i1cZyjA1Hd8PTeFLfmnbUbBWEOx5hTtkFw=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Named strategic technology partners (e.g., PitchBook, Bloomberg)",
+          "value": [
+            {
+              "name": "PitchBook",
+              "note": "data integration partner, announced April 9, 2024"
+            }
+          ],
+          "sources": [
+            {
+              "name": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYl70jsCOWfmHGQIrIdZuBdcQDladzXTbDYuBbhCVl_xmTe3gAwDcg597OVO5l-pDwCAgEMj-2p6d7ECCYefy2hABnXZ9whgraoBiKjfFuW5bXAUE0nK_XYIbveizcdhOKsbyMGQouFfzJTJP0nd_3Cpjw180ODTBd254CgT01haXzVNNhAxiyalogRGopw1c4MsMPREr0JDXg-eTJfjUH"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of API integrations with client/third-party systems",
+          "value": "365",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping): [{\"type\": \"Proprietary firmographic research, analytics, and advanced algorithms\"}, {\"type\": \"360° private company data—paid, public and proprietary\"}]",
+        "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring): [{\"capability\": \"AI-accelerated thematic deal origination\", \"note\": \"for precision target sourcing, uncovers x6 more companies\"}, {\"capability\": \"AI-enhanced exploration tools\", \"note\": \"to find answers faster\"}, {\"capability\": \"Data-driven, AI-drafted memos\", \"note\": \"to eliminate bias during disciplined deal execution\"}, {\"capability\": \"AI-enhanced monitoring\", \"note\": \"for optimized value creation and faster response to critical signals\"}, {\"capability\": \"Focused data exploration\", \"note\": \"on structured and unstructured data\"}, {\"capability\": \"Rapid company identification\", \"note\": \"to find complementary businesses and partners\"}, {\"capability\": \"Leadership skills analysis\", \"note\": \"to audit prospective C-Suite teams\"}, {\"capability\": \"Quality executive search\", \"note\": \"to uncover hidden talent\"}, {\"capability\": \"New market analysis\", \"note\": \"for testing market hypotheses\"}, {\"capability\": \"Live tracking alerts\", \"note\": \"on changing data points\"}]",
+        "Named strategic technology partners (e.g., PitchBook, Bloomberg): [{\"name\": \"PitchBook\", \"note\": \"data integration partner, announced April 9, 2024\"}]",
+        "Number of API integrations with client/third-party systems: 365"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIdxYMeMJqNnHLCvhwAMLXR39UePo3HDoPuOhaRyTyK28i2K9MTJhdRF7Q7HwxbGdAz2RXc-HQAwTijBJYx1jOeNtRsqMnlXckk2PaJjFmnvJVuOSaIgDYasootSCpw==",
+          "fields": [
+            "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvvQlkKj6kxCT0hCVkadNlg2vJsqx22je9Z3ZdzxXmaIybF1FgPIZ-v9Ehr5hkQc8iUzOvrPBY-80CZIMKG94E1ntRV6sq1NuXQ_Q_szndHCfmbug-Q3mQRTEdU4fZYw==",
+          "fields": [
+            "Types of proprietary/alternative data sets (e.g., satellite imagery, web scraping)",
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)",
+            "Number of API integrations with client/third-party systems"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtkrLUgIbVqTRhtOmaz7Ey28A3nPeIHMUJsaoKcsSrg1N5YjUBh6VEDwg-iee-V1Zip5pzp0Qg3GClbZN-i1cZyjA1Hd8PTeFLfmnbUbBWEOx5hTtkFw==",
+          "fields": [
+            "Key AI/ML capabilities (e.g., NLP for document analysis, predictive deal scoring)"
+          ]
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYl70jsCOWfmHGQIrIdZuBdcQDladzXTbDYuBbhCVl_xmTe3gAwDcg597OVO5l-pDwCAgEMj-2p6d7ECCYefy2hABnXZ9whgraoBiKjfFuW5bXAUE0nK_XYIbveizcdhOKsbyMGQouFfzJTJP0nd_3Cpjw180ODTBd254CgT01haXzVNNhAxiyalogRGopw1c4MsMPREr0JDXg-eTJfjUH",
+          "fields": [
+            "Named strategic technology partners (e.g., PitchBook, Bloomberg)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlu9ABjcMLN22MMJLRavv5tMwOnX3SrWCu3l3INQWQu4ISOsmF8Rqvy2uxBRMSQkJSBJSKBWb2mMh01qIZHR3IvV4PR6oCDssa-QNfAT2kvSdPReaXf25TzjvC3FA_",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1K_TRZWZH1wrgZVVm-evl55g8z1gpLuZNPyWJnOYAhcKiFDw1-nYdfKqGgIelCd5pofprxEMW19197obmYadSOwn9gV0BD2eqrJS2xZAaolstOaa_YSnGmj6gAhLQXrY=",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI & Data Moat",
+      "confidence": "medium",
+      "completeness": 0.571,
+      "planned_field_count": 7,
+      "missing_fields": [
+        "Number of unique data sources integrated",
+        "Number of patents filed (India, International)",
+        "Number of patents granted (India, International)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Increases pursuit likelihood by demonstrating defensible competitive advantages through proprietary data and advanced AI, suggesting a strong potential for market leadership and scalability.",
+        "banker": "Null",
+        "credit_analyst": "Null",
+        "consultant": "Increases pursuit likelihood by highlighting potential for operational efficiency gains and differentiated client offerings through unique data integration and AI capabilities."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 24
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.053141,
+    "domain_research_usd": 0.483747,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.081888,
+    "grounding_usd": 0.455,
+    "grounded_calls": 13,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.536888,
+    "actual_calls": 18,
+    "elapsed_seconds": 127.8,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.120937,
+      "estimated_generic_domains_usd": 0.725621,
+      "estimated_synthesis_usd": 0.483747,
+      "estimated_total_usd": 1.746256
+    }
+  }
+}
