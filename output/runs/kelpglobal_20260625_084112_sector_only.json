@@ -1,0 +1,1172 @@
+{
+  "company_name": "Kelpglobal",
+  "generated_at": "20260625_084112",
+  "resolved_subsector": "AI-powered FinTech platform for alternative investment deal sourcing, diligence, and portfolio management",
+  "sections": [
+    {
+      "heading": "Data Security & Regulatory Compliance Posture",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Data Security Certifications (e.g., ISO 27001, SOC 2 Type II)",
+          "value": [
+            {
+              "certification": "ISO 27001",
+              "status": "Certified"
+            },
+            {
+              "certification": "SOC2",
+              "status": "Certified"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Kelpglobal official website",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQiAUw1TCydG9xPb5wCYQUafy7mhqOYhffTOVSK6hN1jZyE5OV2ZGyfT9VjoFhlyTQ3FHtkPZ3DmGnQOf81SDAvGUQE2_K5sLlEYQ5Hf-cro71UxJazVkVqsueCEec"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Data Residency Policy (e.g., India-only, global)",
+          "value": "Host on your private cloud (implies flexibility, no explicit specific policy stated)",
+          "sources": [
+            {
+              "name": "Kelpglobal official website",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQiAUw1TCydG9xPb5wCYQUafy7mhqOYhffTOVSK6hN1jZyE5OV2ZGyfT9VjoFhlyTQ3FHtkPZ3DmGnQOf81SDAvGUQE2_K5sLlEYQ5Hf-cro71UxJazVkVqsueCEec"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Adherence to Data Privacy Regulations (e.g., India's DPDP Act, GDPR if applicable)",
+          "value": [
+            {
+              "policy": "Cookie Policy",
+              "details": "Full Value Technologies Private Limited (legal entity for Kelp) may use cookies; cookies will not be used to determine user identity; mentions third-party cookies (YouTube, LinkedIn, Facebook, Twitter)"
+            },
+            {
+              "policy": "Privacy Policy",
+              "date": "June 8, 2022",
+              "details": "Information may be transferred, stored, and processed in countries other than the user's own; measures implemented to protect personal information in accordance with privacy notice and applicable law, including European Commission's Standard Contractual Clauses for EEA/UK residents"
+            }
+          ],
+          "sources": [
+            {
+              "name": "Kelpglobal official website",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQiAUw1TCydG9xPb5wCYQUafy7mhqOYhffTOVSK6hN1jZyE5OV2ZGyfT9VjoFhlyTQ3FHtkPZ3DmGnQOf81SDAvGUQE2_K5sLlEYQ5Hf-cro71UxJazVkVqsueCEec"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Regulatory Licenses Held (if any specific to FinTech data handling in India)",
+          "value": "No explicit mention of Kelpglobal or Full Value Technologies Private Limited holding specific FinTech data handling licenses (e.g., RBI's PA-CB, NBFC, PPI License). Full Value Technologies Private Limited has CIN: U72900MH2022PTC380614, 'Active' status as of June 4, 2026.",
+          "sources": [
+            {
+              "name": "Tracxn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQBYAsmkQZFzX8-WeD46jqn9VtHzZ_BrRjPTrIxm4bDgLsky-ow3ETSAR1qZx21MeHOKXYfQKt0aY5hyKVedTJ9n9Thy2DKH_onYlLbzP9k79XIhd5oWqCyu7_iLA7LkmfHeiUv2gkr3mr-1bPZTUKuYtbwKBATLFfBRtnrWI3iAw72hy-NBv28HvnFg=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Data Security Certifications (e.g., ISO 27001, SOC 2 Type II): [{\"certification\": \"ISO 27001\", \"status\": \"Certified\"}, {\"certification\": \"SOC2\", \"status\": \"Certified\"}]",
+        "Data Residency Policy (e.g., India-only, global): Host on your private cloud (implies flexibility, no explicit specific policy stated)",
+        "Adherence to Data Privacy Regulations (e.g., India's DPDP Act, GDPR if applicable): [{\"policy\": \"Cookie Policy\", \"details\": \"Full Value Technologies Private Limited (legal entity for Kelp) may use cookies; cookies will not be used to determine user identity; mentions third-party cookies (YouTube, LinkedIn, Facebook, Twitter)\"}, {\"policy\": \"Privacy Policy\", \"date\": \"June 8, 2022\", \"details\": \"Information may be transferred, stored, and processed in countries other than the user's own; measures implemented to protect personal information in accordance with privacy notice and applicable law, including European Commission's Standard Contractual Clauses for EEA/UK residents\"}]",
+        "Regulatory Licenses Held (if any specific to FinTech data handling in India): No explicit mention of Kelpglobal or Full Value Technologies Private Limited holding specific FinTech data handling licenses (e.g., RBI's PA-CB, NBFC, PPI License). Full Value Technologies Private Limited has CIN: U72900MH2022PTC380614, 'Active' status as of June 4, 2026."
+      ],
+      "references": [
+        {
+          "name": "Kelpglobal official website",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQiAUw1TCydG9xPb5wCYQUafy7mhqOYhffTOVSK6hN1jZyE5OV2ZGyfT9VjoFhlyTQ3FHtkPZ3DmGnQOf81SDAvGUQE2_K5sLlEYQ5Hf-cro71UxJazVkVqsueCEec",
+          "fields": [
+            "Data Security Certifications (e.g., ISO 27001, SOC 2 Type II)",
+            "Data Residency Policy (e.g., India-only, global)",
+            "Adherence to Data Privacy Regulations (e.g., India's DPDP Act, GDPR if applicable)"
+          ]
+        },
+        {
+          "name": "Tracxn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQBYAsmkQZFzX8-WeD46jqn9VtHzZ_BrRjPTrIxm4bDgLsky-ow3ETSAR1qZx21MeHOKXYfQKt0aY5hyKVedTJ9n9Thy2DKH_onYlLbzP9k79XIhd5oWqCyu7_iLA7LkmfHeiUv2gkr3mr-1bPZTUKuYtbwKBATLFfBRtnrWI3iAw72hy-NBv28HvnFg==",
+          "fields": [
+            "Regulatory Licenses Held (if any specific to FinTech data handling in India)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0qKUari20RJ7lgLgf9VTbLTC6wUXzc3ot4Nu_U8IuAWkD3GSEAOE1eBgGAr3XCzLdTbcvIxo22TWrH-FtANwPzkb1jrdUyjYhfD4slXVS2onVH0puS940yhUMGEX4IO2GKxM=",
+          "fields": []
+        },
+        {
+          "name": "learningfromexperience.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJeWYjvd-GgolhJ0P0Fj0So8RNMOyo4Y2Yfzj2yL35X1HSYak-ofdmRJz3LT3JkW9tRI-w2G2Q6QF1r8WSgqdzbBPgtAnHpcjt_P2C42i740Lg2vlWKMBu3guw6z70Gjf1T_XIs4LzX43_2Tg0Rc2UO-U=",
+          "fields": []
+        },
+        {
+          "name": "business-standard.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1s3AJcqrf1HPBRHasjYvvgSGRkPcQiAdlykENHDO_tTlvB1MZOxpVeLGgei_C2TbQ7LJaohZJBxYy4BlKj9m7dJSxNeam0iQyredaoaXmYpYqFRKAIFHsDajFFEvh4LSlns2kk7bODgCAkvSi8kK4H8Zycho6u9Sgv-44lkGg7pq6cX29kpPV0O5oXYvGoUDBhpe3Lo9aWPpUgO17vmKl7CxT-rkxGkj-D4QKy6tq15dRrHkVR2Ldf7B3PMKlAu9zYBJ1V4OT_gjTC8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Data Security & Regulatory Compliance",
+      "confidence": "medium",
+      "completeness": 0.5,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "Number of Reported Data Breaches (Historical)",
+        "Third-Party Security Audit Frequency",
+        "Disaster Recovery & Business Continuity Plan Summary",
+        "Cyber Insurance Coverage Details"
+      ],
+      "reasoning": {
+        "overall_score": 100,
+        "pe_analyst": "A strong posture in data security certifications and adherence to regulations significantly de-risks the investment, making it more likely to pursue deeper diligence.",
+        "banker": "Robust data security and compliance documentation are critical for deal execution and client trust, increasing the likelihood of pursuing a pitch.",
+        "credit_analyst": "Evidence of strong data security and disaster recovery plans mitigates operational and reputational risk, making a deeper underwriting look more favorable.",
+        "consultant": "Understanding the regulatory licenses and compliance adherence provides a clear operational framework and potential areas for efficiency improvements, warranting further investigation."
+      }
+    },
+    {
+      "heading": "Annual Recurring Revenue (ARR) & Growth",
+      "content_type": "chart",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (₹ Cr)",
+          "value": [
+            {
+              "period": "March 31, 2025",
+              "value": "₹10 - ₹50 Cr (Annual Revenue)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (₹ Cr): [{\"period\": \"March 31, 2025\", \"value\": \"₹10 - ₹50 Cr (Annual Revenue)\"}]"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Annual Recurring Revenue (ARR) (₹ Cr)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDr-jCFpLBepAPJ-qwvOa-xpY2WmptUpHAzzw6QLTDCEJf9hqZ9SdWhVcQvWA_sY9WNUoM9KM5tqzaYKBQBryUizuo6mRd4cfCvk2OCv0s-AqDWRbYPCb0Lj7YFn9dsFd1WEW_YB1-0mTSTm_BOdt6EIYD4LpwSsJwstWxsCCbSIjxZ5q3lzI9xgrQmg==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9TB39nQ6PKygYyeSy7r3C0PdluWJH6IpvVT1lapG2hIQSdXyN5eLVWBOKPoLQ9g76K7Ya4hNoYoKs_NjFSRM8_qDc7YW3pZRJLSsrHxBj5IdQwgnjiwnxONvDf-Ey0DmZendoIbNDjeCEQvJkZ68WQKGKu0gfkUmje05VT26IY4xA3VZl-pOXNoA",
+          "fields": []
+        },
+        {
+          "name": "zuora.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESfkKA_Rp2N4jGiatteydSetmQePmh0SANGjfkA5WDU7Ncer3VcHExq4sg6WpeBpHqtXGoQ8LVwHFzW6lG1yuZM600RLYwB41Qg28abWmUNSXqRiXmqpdC39Q3jysAHEHhsm3D_6zFdLaPRLZ8QB5A2FQ=",
+          "fields": []
+        },
+        {
+          "name": "sage.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExTtvmDGZjHntgDvA_3zbTL0mXJc1WHwcmDRbqUJjAzoxQaEc5kSUAzmxDNI4Sqn-00vJdzt4uT9uPVdbHm-bp8AAy1EIvhwZ7c0m-6i0H6mVfzTltLyYwmLEJa5_6StGKDz_WilVoNL4QEoz-WtrV2vZtV6cHPsJlR5gEY0WzzG7QRncawG-v1ul1uK-ejfDVzeHbVQrP9UZsDZ3E",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrBVABB3aiIbbdtYepavK1ipjksI2cPwnOTUKNjB_T8j2dgxil9GLZN9Ou7CJcVejD8imWPkw0j9uuZfZifwsM7yYLnIqnMeav6OObboVI2ZrWHgUinRKMdBhH_U6rrw=",
+          "fields": []
+        },
+        {
+          "name": "amplitude.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLikjtiy2DvPT9mw30h1Rp_pJB9YMdW___DmZ9YcRVn2maxRIl4l36gyIXn9UzUoNIqb4A0mRq7F0-3Luta0nf5qARs4mjqNWEUFDKCh_-XYRCJOqSZRHKuXVHbNa6EjBLXj-",
+          "fields": []
+        },
+        {
+          "name": "radians.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYq-cIKt_QA0Ym3NABGS8vXqxSRc2zE7ENAugbKx9Wt3ruaDHTO6xEdnExXhlYJRnDujjIoZ2RZpTTd_N770VSr8D3l8S5RFcKJ_7tILfdBDjuOh3J",
+          "fields": []
+        },
+        {
+          "name": "woodsborobank.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9GloD50HJgN3RKSrAP2ypsro_4NVDWMX5oKQsTQomAGgBXcK4KPlIw20TeftPfw-RKYx7EhC3CZqeEB4G8ueuDVydUdzn450LKBFqlnTsKP77fqS3aVD0GPEuktWrx6WFXpUo4Jdlx_HmROdVpOP3ShNN_4UzfLDxP-wtHSYlKDw9g==",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Q_AKiW1XGA-xiTmrY4AwsXEFY5oLYmPbC7SURGQPF6qBWvjk49EPA-hFPIbqvsdGTNSbF1QXPgjNgAhw3HC-eplLl4YIFLFtwSzVv97_46ra7FVpV5xialOoqtd-zJlLpqg-j8RTPERg",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_O0J-Kxh_1A4w4PUC4VT0i1Wfwpy2gg2FXSSC2JBBxpeURwYtIz36pX_of7bEJOyo_0Uv74CZaGHrDoA9DlTSFFbIb4QizwNT9j1b-oajQK2y2Xyhts8-WjWf",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS & Platform Key Performance Indicators",
+      "confidence": "low",
+      "completeness": 0.125,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "ARR Growth Rate (YoY %)",
+        "Average Contract Value (ACV) (₹)",
+        "Number of Paying Customers",
+        "Customer Churn Rate (Logo %)",
+        "Net Revenue Retention (NRR %)",
+        "Customer Lifetime Value (LTV) (₹)",
+        "Customer Acquisition Cost (CAC) (₹)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data provides critical insights into Kelpglobal's revenue predictability and scalability, directly impacting its valuation potential and investment attractiveness.",
+        "banker": "Strong ARR growth and NRR would signal a healthy, growing business, making it more attractive for M&A or capital raise pitches.",
+        "credit_analyst": "Churn rate and LTV/CAC ratio are key indicators of customer stickiness and operational efficiency, informing credit risk assessment.",
+        "consultant": "Understanding customer acquisition costs and retention metrics can highlight areas for operational improvement and strategic growth initiatives."
+      }
+    },
+    {
+      "heading": "Customer Acquisition & Retention Metrics",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Annual Recurring Revenue (ARR) (₹ Cr)",
+          "value": [
+            {
+              "period": "March 31, 2025",
+              "value": "₹10 - ₹50 Cr (Annual Revenue)"
+            }
+          ],
+          "sources": [
+            {
+              "name": "tracxn.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Annual Recurring Revenue (ARR) (₹ Cr): [{\"period\": \"March 31, 2025\", \"value\": \"₹10 - ₹50 Cr (Annual Revenue)\"}]"
+      ],
+      "references": [
+        {
+          "name": "tracxn.com",
+          "url": null,
+          "fields": [
+            "Annual Recurring Revenue (ARR) (₹ Cr)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDr-jCFpLBepAPJ-qwvOa-xpY2WmptUpHAzzw6QLTDCEJf9hqZ9SdWhVcQvWA_sY9WNUoM9KM5tqzaYKBQBryUizuo6mRd4cfCvk2OCv0s-AqDWRbYPCb0Lj7YFn9dsFd1WEW_YB1-0mTSTm_BOdt6EIYD4LpwSsJwstWxsCCbSIjxZ5q3lzI9xgrQmg==",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9TB39nQ6PKygYyeSy7r3C0PdluWJH6IpvVT1lapG2hIQSdXyN5eLVWBOKPoLQ9g76K7Ya4hNoYoKs_NjFSRM8_qDc7YW3pZRJLSsrHxBj5IdQwgnjiwnxONvDf-Ey0DmZendoIbNDjeCEQvJkZ68WQKGKu0gfkUmje05VT26IY4xA3VZl-pOXNoA",
+          "fields": []
+        },
+        {
+          "name": "zuora.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESfkKA_Rp2N4jGiatteydSetmQePmh0SANGjfkA5WDU7Ncer3VcHExq4sg6WpeBpHqtXGoQ8LVwHFzW6lG1yuZM600RLYwB41Qg28abWmUNSXqRiXmqpdC39Q3jysAHEHhsm3D_6zFdLaPRLZ8QB5A2FQ=",
+          "fields": []
+        },
+        {
+          "name": "sage.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExTtvmDGZjHntgDvA_3zbTL0mXJc1WHwcmDRbqUJjAzoxQaEc5kSUAzmxDNI4Sqn-00vJdzt4uT9uPVdbHm-bp8AAy1EIvhwZ7c0m-6i0H6mVfzTltLyYwmLEJa5_6StGKDz_WilVoNL4QEoz-WtrV2vZtV6cHPsJlR5gEY0WzzG7QRncawG-v1ul1uK-ejfDVzeHbVQrP9UZsDZ3E",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrBVABB3aiIbbdtYepavK1ipjksI2cPwnOTUKNjB_T8j2dgxil9GLZN9Ou7CJcVejD8imWPkw0j9uuZfZifwsM7yYLnIqnMeav6OObboVI2ZrWHgUinRKMdBhH_U6rrw=",
+          "fields": []
+        },
+        {
+          "name": "amplitude.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZLikjtiy2DvPT9mw30h1Rp_pJB9YMdW___DmZ9YcRVn2maxRIl4l36gyIXn9UzUoNIqb4A0mRq7F0-3Luta0nf5qARs4mjqNWEUFDKCh_-XYRCJOqSZRHKuXVHbNa6EjBLXj-",
+          "fields": []
+        },
+        {
+          "name": "radians.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYq-cIKt_QA0Ym3NABGS8vXqxSRc2zE7ENAugbKx9Wt3ruaDHTO6xEdnExXhlYJRnDujjIoZ2RZpTTd_N770VSr8D3l8S5RFcKJ_7tILfdBDjuOh3J",
+          "fields": []
+        },
+        {
+          "name": "woodsborobank.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9GloD50HJgN3RKSrAP2ypsro_4NVDWMX5oKQsTQomAGgBXcK4KPlIw20TeftPfw-RKYx7EhC3CZqeEB4G8ueuDVydUdzn450LKBFqlnTsKP77fqS3aVD0GPEuktWrx6WFXpUo4Jdlx_HmROdVpOP3ShNN_4UzfLDxP-wtHSYlKDw9g==",
+          "fields": []
+        },
+        {
+          "name": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Q_AKiW1XGA-xiTmrY4AwsXEFY5oLYmPbC7SURGQPF6qBWvjk49EPA-hFPIbqvsdGTNSbF1QXPgjNgAhw3HC-eplLl4YIFLFtwSzVv97_46ra7FVpV5xialOoqtd-zJlLpqg-j8RTPERg",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_O0J-Kxh_1A4w4PUC4VT0i1Wfwpy2gg2FXSSC2JBBxpeURwYtIz36pX_of7bEJOyo_0Uv74CZaGHrDoA9DlTSFFbIb4QizwNT9j1b-oajQK2y2Xyhts8-WjWf",
+          "fields": []
+        }
+      ],
+      "domain_name": "SaaS & Platform Key Performance Indicators",
+      "confidence": "low",
+      "completeness": 0.125,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "ARR Growth Rate (YoY %)",
+        "Average Contract Value (ACV) (₹)",
+        "Number of Paying Customers",
+        "Customer Churn Rate (Logo %)",
+        "Net Revenue Retention (NRR %)",
+        "Customer Lifetime Value (LTV) (₹)",
+        "Customer Acquisition Cost (CAC) (₹)"
+      ],
+      "reasoning": {
+        "overall_score": 90,
+        "pe_analyst": "This data provides critical insights into Kelpglobal's revenue predictability and scalability, directly impacting its valuation potential and investment attractiveness.",
+        "banker": "Strong ARR growth and NRR would signal a healthy, growing business, making it more attractive for M&A or capital raise pitches.",
+        "credit_analyst": "Churn rate and LTV/CAC ratio are key indicators of customer stickiness and operational efficiency, informing credit risk assessment.",
+        "consultant": "Understanding customer acquisition costs and retention metrics can highlight areas for operational improvement and strategic growth initiatives."
+      }
+    },
+    {
+      "heading": "AI Platform Features & Data Integration",
+      "content_type": "list",
+      "fields": [
+        {
+          "label": "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+          "value": [
+            {
+              "name": "PitchBook data",
+              "description": "Seamlessly integrated directly into Kelp's software suite, including financial data on private and public companies, investors, funds, limited partners, and service providers."
+            },
+            {
+              "name": "Clients' secure data sources and 365 accounts",
+              "description": "Integrated with the Kelp platform."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+          "value": [
+            {
+              "type": "Natural Language Processing (implied)",
+              "description": "Used for extracting insights from data rooms, identifying key relationships and competitive pressures, and drafting data-driven memos."
+            },
+            {
+              "type": "Predictive Analytics (implied)",
+              "description": "Used for AI-accelerated thematic deal origination, identifying hidden opportunities, and assessing risks."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+          "value": [
+            {
+              "type": "Private Equity"
+            },
+            {
+              "type": "Venture Capital"
+            },
+            {
+              "type": "Investment Banking"
+            },
+            {
+              "type": "Credit Funds"
+            },
+            {
+              "type": "Limited Partners"
+            },
+            {
+              "type": "Sovereign/Pension Funds"
+            },
+            {
+              "type": "Family Offices"
+            },
+            {
+              "type": "Corporate Mergers and Acquisitions"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Time Saved per Deal (Client Testimonials/Case Studies)",
+          "value": [
+            {
+              "metric": "Reduction in research and analysis efforts",
+              "value": "80%"
+            },
+            {
+              "metric": "Clarity in deal shortlisting",
+              "value": "3 days (vs. weeks internally)",
+              "note": "Client testimonial from Head of M&A, Global Healthcare Company."
+            },
+            {
+              "metric": "Efficiency in portfolio management",
+              "value": "50% more efficient"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of API Integrations Offered",
+          "value": [
+            {
+              "type": "API & Developer Tools",
+              "description": "Kelp offers general API and developer tools."
+            },
+            {
+              "type": "Secure data sources and 365 accounts",
+              "description": "Platform is integration-friendly with these."
+            },
+            {
+              "type": "PitchBook data",
+              "description": "Direct integration through a partnership."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Proprietary Data Assets (description)",
+          "value": "Kelp combines PitchBook's financial and deal data with its own proprietary firmographic research, analytics, and advanced algorithms. Its technology leverages structured and unstructured data, emphasizing the increasing value of proprietary data and unique analytical approaches.",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase): [{\"name\": \"PitchBook data\", \"description\": \"Seamlessly integrated directly into Kelp's software suite, including financial data on private and public companies, investors, funds, limited partners, and service providers.\"}, {\"name\": \"Clients' secure data sources and 365 accounts\", \"description\": \"Integrated with the Kelp platform.\"}]",
+        "Types of AI Models Used (e.g., NLP, Predictive Analytics): [{\"type\": \"Natural Language Processing (implied)\", \"description\": \"Used for extracting insights from data rooms, identifying key relationships and competitive pressures, and drafting data-driven memos.\"}, {\"type\": \"Predictive Analytics (implied)\", \"description\": \"Used for AI-accelerated thematic deal origination, identifying hidden opportunities, and assessing risks.\"}]",
+        "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture): [{\"type\": \"Private Equity\"}, {\"type\": \"Venture Capital\"}, {\"type\": \"Investment Banking\"}, {\"type\": \"Credit Funds\"}, {\"type\": \"Limited Partners\"}, {\"type\": \"Sovereign/Pension Funds\"}, {\"type\": \"Family Offices\"}, {\"type\": \"Corporate Mergers and Acquisitions\"}]",
+        "Average Time Saved per Deal (Client Testimonials/Case Studies): [{\"metric\": \"Reduction in research and analysis efforts\", \"value\": \"80%\"}, {\"metric\": \"Clarity in deal shortlisting\", \"value\": \"3 days (vs. weeks internally)\", \"note\": \"Client testimonial from Head of M&A, Global Healthcare Company.\"}, {\"metric\": \"Efficiency in portfolio management\", \"value\": \"50% more efficient\"}]",
+        "Number of API Integrations Offered: [{\"type\": \"API & Developer Tools\", \"description\": \"Kelp offers general API and developer tools.\"}, {\"type\": \"Secure data sources and 365 accounts\", \"description\": \"Platform is integration-friendly with these.\"}, {\"type\": \"PitchBook data\", \"description\": \"Direct integration through a partnership.\"}]",
+        "Proprietary Data Assets (description): Kelp combines PitchBook's financial and deal data with its own proprietary firmographic research, analytics, and advanced algorithms. Its technology leverages structured and unstructured data, emphasizing the increasing value of proprietary data and unique analytical approaches."
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY=",
+          "fields": [
+            "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+            "Number of API Integrations Offered",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx",
+          "fields": [
+            "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+            "Average Time Saved per Deal (Client Testimonials/Case Studies)",
+            "Number of API Integrations Offered",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Average Time Saved per Deal (Client Testimonials/Case Studies)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ==",
+          "fields": [
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbNHMj_GmuVhNyK3It2CN6HhRAYrZlwMbv7a28GoaRLpPMxYr_NmevmJ3aXZCQbC-o2eueuB-lA6CFqRMIqfGP1WZM7pLQzNtuS4lQoYBEH_bNOPmz9EgObDZ9V8PAwmAOyWKS5kq6AFdNzfm9mkNErP-_yyVVQ5_WCRwHGk-XW8S-xMNK-zq8r_8JA==",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqppyUXEM4xgTLI7fj5lTe0xwAsd6X2R3DDNJl_dHTe9vHIR1Z049Z9LUppt-NfHZal1jVKrsx0srMtU3n3czI8tkZU46X9-t5pB7siQgBCXpnY1wUjQipbjW-c-A5et49xfMF4p5tysEMBknDP-aPkB4jsdWDy1mbSQEVFhjADeRN3kPs0w6qPoSdmzh1c23dRkmhVGt_08wJnRVrtdVM",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHr7U6MwgleyawB9VXqr9v8-ESuGxLuZq18XgUboaWkpUalxq1d_pFdCQFj7anAsrDsDjEdiFR_hyq1CgqrGv0Oe0PijN_DmahlV6_B91NV77_7KIaBQ==",
+          "fields": []
+        },
+        {
+          "name": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbCJlXsSn88oqSOXYjdmMyxxGWlxATXOQ6aPec2pwQ3iPLK2lwTgDuhj2pbq-g9oXYnVyZBmmoZ-Papxaf0ZZaopquhdXslx3A3jM9JnPi1C8thlIhPVMCLIFiRYWKhQoNX7f037u7513afSaV5iboKKnS6-8h7ksEqoVdBLmUUBWC6hxzsA==",
+          "fields": []
+        },
+        {
+          "name": "truenorth.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqTgdg-HzBChUwkZ2Jx3_r8-25G1z5vaduNi2uLECX-TrsyUa4te9IjNNKPNjHDvKnVDOpJDz7cYg87VuJJECqDh9aCFSrCHbqLbQMkLRsv2cHVxZyCcQEXMdOVw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI & Data Platform Capabilities",
+      "confidence": "high",
+      "completeness": 0.75,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "User Engagement Rate (e.g., DAU/MAU)",
+        "Feature Adoption Rate (e.g., % of clients using deal sourcing module)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: The breadth of integrated data sources and types of AI models used directly informs the platform's potential for generating alpha and competitive advantage, warranting deeper diligence.",
+        "banker": "Pursue: The 'Number of Deal Types Supported' and 'Average Time Saved per Deal' are critical for understanding the platform's market fit and potential for driving transaction volume, making it a more attractive pitch target.",
+        "credit_analyst": "Null",
+        "consultant": "Pursue: The 'Feature Adoption Rate' and 'User Engagement Rate' provide key insights into the platform's stickiness and operational efficiency, which are crucial for assessing potential implementation challenges and value creation opportunities."
+      }
+    },
+    {
+      "heading": "Efficiency Gains & User Adoption",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+          "value": [
+            {
+              "name": "PitchBook data",
+              "description": "Seamlessly integrated directly into Kelp's software suite, including financial data on private and public companies, investors, funds, limited partners, and service providers."
+            },
+            {
+              "name": "Clients' secure data sources and 365 accounts",
+              "description": "Integrated with the Kelp platform."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+          "value": [
+            {
+              "type": "Natural Language Processing (implied)",
+              "description": "Used for extracting insights from data rooms, identifying key relationships and competitive pressures, and drafting data-driven memos."
+            },
+            {
+              "type": "Predictive Analytics (implied)",
+              "description": "Used for AI-accelerated thematic deal origination, identifying hidden opportunities, and assessing risks."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+          "value": [
+            {
+              "type": "Private Equity"
+            },
+            {
+              "type": "Venture Capital"
+            },
+            {
+              "type": "Investment Banking"
+            },
+            {
+              "type": "Credit Funds"
+            },
+            {
+              "type": "Limited Partners"
+            },
+            {
+              "type": "Sovereign/Pension Funds"
+            },
+            {
+              "type": "Family Offices"
+            },
+            {
+              "type": "Corporate Mergers and Acquisitions"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Average Time Saved per Deal (Client Testimonials/Case Studies)",
+          "value": [
+            {
+              "metric": "Reduction in research and analysis efforts",
+              "value": "80%"
+            },
+            {
+              "metric": "Clarity in deal shortlisting",
+              "value": "3 days (vs. weeks internally)",
+              "note": "Client testimonial from Head of M&A, Global Healthcare Company."
+            },
+            {
+              "metric": "Efficiency in portfolio management",
+              "value": "50% more efficient"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": null
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Number of API Integrations Offered",
+          "value": [
+            {
+              "type": "API & Developer Tools",
+              "description": "Kelp offers general API and developer tools."
+            },
+            {
+              "type": "Secure data sources and 365 accounts",
+              "description": "Platform is integration-friendly with these."
+            },
+            {
+              "type": "PitchBook data",
+              "description": "Direct integration through a partnership."
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Proprietary Data Assets (description)",
+          "value": "Kelp combines PitchBook's financial and deal data with its own proprietary firmographic research, analytics, and advanced algorithms. Its technology leverages structured and unstructured data, emphasizing the increasing value of proprietary data and unique analytical approaches.",
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY="
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx"
+            },
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ=="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase): [{\"name\": \"PitchBook data\", \"description\": \"Seamlessly integrated directly into Kelp's software suite, including financial data on private and public companies, investors, funds, limited partners, and service providers.\"}, {\"name\": \"Clients' secure data sources and 365 accounts\", \"description\": \"Integrated with the Kelp platform.\"}]",
+        "Types of AI Models Used (e.g., NLP, Predictive Analytics): [{\"type\": \"Natural Language Processing (implied)\", \"description\": \"Used for extracting insights from data rooms, identifying key relationships and competitive pressures, and drafting data-driven memos.\"}, {\"type\": \"Predictive Analytics (implied)\", \"description\": \"Used for AI-accelerated thematic deal origination, identifying hidden opportunities, and assessing risks.\"}]",
+        "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture): [{\"type\": \"Private Equity\"}, {\"type\": \"Venture Capital\"}, {\"type\": \"Investment Banking\"}, {\"type\": \"Credit Funds\"}, {\"type\": \"Limited Partners\"}, {\"type\": \"Sovereign/Pension Funds\"}, {\"type\": \"Family Offices\"}, {\"type\": \"Corporate Mergers and Acquisitions\"}]",
+        "Average Time Saved per Deal (Client Testimonials/Case Studies): [{\"metric\": \"Reduction in research and analysis efforts\", \"value\": \"80%\"}, {\"metric\": \"Clarity in deal shortlisting\", \"value\": \"3 days (vs. weeks internally)\", \"note\": \"Client testimonial from Head of M&A, Global Healthcare Company.\"}, {\"metric\": \"Efficiency in portfolio management\", \"value\": \"50% more efficient\"}]",
+        "Number of API Integrations Offered: [{\"type\": \"API & Developer Tools\", \"description\": \"Kelp offers general API and developer tools.\"}, {\"type\": \"Secure data sources and 365 accounts\", \"description\": \"Platform is integration-friendly with these.\"}, {\"type\": \"PitchBook data\", \"description\": \"Direct integration through a partnership.\"}]",
+        "Proprietary Data Assets (description): Kelp combines PitchBook's financial and deal data with its own proprietary firmographic research, analytics, and advanced algorithms. Its technology leverages structured and unstructured data, emphasizing the increasing value of proprietary data and unique analytical approaches."
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FtjzNncpIy0uciy291Ut52lWFk1R1tIcOwd8U2-QyovlEPQifr0ckdRWxv_7RgjpdPK1U2gCWiwTV4W-ZT4_Xy8zpXL40gjPE72d01guYAkc2s4B0XxyaLCzVbtoauY=",
+          "fields": [
+            "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+            "Number of API Integrations Offered",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpiMNyuuPuid2ytsttZdTWvBmDnCkWNbRwhvAeGIpuJ4pE7_xAvvOLykmiPSS9yFJoBQI9qJuNEubQafQ1S7HVqB5duCc0uujt86S6H67mBQGRxUCVvPJ8s6wgAodx",
+          "fields": [
+            "Number of Integrated Data Sources (e.g., PitchBook, Crunchbase)",
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Number of Deal Types Supported (e.g., Growth Equity, Buyout, Venture)",
+            "Average Time Saved per Deal (Client Testimonials/Case Studies)",
+            "Number of API Integrations Offered",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": null,
+          "fields": [
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Average Time Saved per Deal (Client Testimonials/Case Studies)"
+          ]
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBgjh4gdoTeAxENJraj-RQsSQgmx6EqEj-7ng4Ylu9L2fmvnQq-O6RmAVZqk2c3q4WZhhCSWphv5dEj5ZihxCQZVKRyWntFNHU7Xg6ZfGY6D9EFrxR268ZsRXCGQ7oQ==",
+          "fields": [
+            "Types of AI Models Used (e.g., NLP, Predictive Analytics)",
+            "Proprietary Data Assets (description)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbNHMj_GmuVhNyK3It2CN6HhRAYrZlwMbv7a28GoaRLpPMxYr_NmevmJ3aXZCQbC-o2eueuB-lA6CFqRMIqfGP1WZM7pLQzNtuS4lQoYBEH_bNOPmz9EgObDZ9V8PAwmAOyWKS5kq6AFdNzfm9mkNErP-_yyVVQ5_WCRwHGk-XW8S-xMNK-zq8r_8JA==",
+          "fields": []
+        },
+        {
+          "name": "businesswire.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqppyUXEM4xgTLI7fj5lTe0xwAsd6X2R3DDNJl_dHTe9vHIR1Z049Z9LUppt-NfHZal1jVKrsx0srMtU3n3czI8tkZU46X9-t5pB7siQgBCXpnY1wUjQipbjW-c-A5et49xfMF4p5tysEMBknDP-aPkB4jsdWDy1mbSQEVFhjADeRN3kPs0w6qPoSdmzh1c23dRkmhVGt_08wJnRVrtdVM",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHr7U6MwgleyawB9VXqr9v8-ESuGxLuZq18XgUboaWkpUalxq1d_pFdCQFj7anAsrDsDjEdiFR_hyq1CgqrGv0Oe0PijN_DmahlV6_B91NV77_7KIaBQ==",
+          "fields": []
+        },
+        {
+          "name": "medium.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbCJlXsSn88oqSOXYjdmMyxxGWlxATXOQ6aPec2pwQ3iPLK2lwTgDuhj2pbq-g9oXYnVyZBmmoZ-Papxaf0ZZaopquhdXslx3A3jM9JnPi1C8thlIhPVMCLIFiRYWKhQoNX7f037u7513afSaV5iboKKnS6-8h7ksEqoVdBLmUUBWC6hxzsA==",
+          "fields": []
+        },
+        {
+          "name": "truenorth.co.in",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqTgdg-HzBChUwkZ2Jx3_r8-25G1z5vaduNi2uLECX-TrsyUa4te9IjNNKPNjHDvKnVDOpJDz7cYg87VuJJECqDh9aCFSrCHbqLbQMkLRsv2cHVxZyCcQEXMdOVw==",
+          "fields": []
+        }
+      ],
+      "domain_name": "AI & Data Platform Capabilities",
+      "confidence": "high",
+      "completeness": 0.75,
+      "planned_field_count": 8,
+      "missing_fields": [
+        "User Engagement Rate (e.g., DAU/MAU)",
+        "Feature Adoption Rate (e.g., % of clients using deal sourcing module)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Pursue: The breadth of integrated data sources and types of AI models used directly informs the platform's potential for generating alpha and competitive advantage, warranting deeper diligence.",
+        "banker": "Pursue: The 'Number of Deal Types Supported' and 'Average Time Saved per Deal' are critical for understanding the platform's market fit and potential for driving transaction volume, making it a more attractive pitch target.",
+        "credit_analyst": "Null",
+        "consultant": "Pursue: The 'Feature Adoption Rate' and 'User Engagement Rate' provide key insights into the platform's stickiness and operational efficiency, which are crucial for assessing potential implementation challenges and value creation opportunities."
+      }
+    },
+    {
+      "heading": "Target Client Segments & AUM Served",
+      "content_type": "table",
+      "fields": [
+        {
+          "label": "Number of Deals Sourced via Platform (Annual)",
+          "value": [
+            {
+              "value": "1,300 unique companies identified",
+              "note": "from a case study on 'Precision Target Sourcing'"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Geographic Focus of Client Deals (e.g., India, SEA)",
+          "value": [
+            {
+              "region": "India"
+            },
+            {
+              "region": "UK"
+            },
+            {
+              "region": "Southeast Asia",
+              "note": "potentially"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Deals Sourced via Platform (Annual): [{\"value\": \"1,300 unique companies identified\", \"note\": \"from a case study on 'Precision Target Sourcing'\"}]",
+        "Geographic Focus of Client Deals (e.g., India, SEA): [{\"region\": \"India\"}, {\"region\": \"UK\"}, {\"region\": \"Southeast Asia\", \"note\": \"potentially\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0=",
+          "fields": [
+            "Number of Deals Sourced via Platform (Annual)",
+            "Geographic Focus of Client Deals (e.g., India, SEA)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ6oDPNq14LpJFw-8sCna_W2SeXOp3V_5vuD61yXQQD-8QVoVi1P0hDjOFf-xdSSR7M8UDmUnylhHzgIc-g6Bqc4G1WRj6H9Xrz6YZGEH7FuDBRtv3otvHKLNfE7XVtAFzVlCARz57DOhPdvD1r6bERUJCZB57TeE5EUViv2mjargHMJSiFnDdEcZu",
+          "fields": []
+        },
+        {
+          "name": "fintechfutures.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkSXixxH-L3lK5A9XBbTNRfBUq_ct0Pj_VWJuYgXflOkU4XteR87eZiRfmq24ut5KW8tNqeoWQoTOxzFiIqLCEN6epqAnlmrQ8xbUJ42QJ-EKfDqjv_AvFaGKKQTeMhx3SMk9TK6ouikUJiFLuTtyRZWn9c2fKqNreljl9WzvTBEvIcxDmOzneGIhDq6mRta_S6QIo",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7UWu4K-N1j5roxRdT_Uv8ej9by44bT3WTgeX5tlwc213Iwkdze9OOPT5UhZQiDj9j0m00fPwv9Nj3HokEwkMwuftLJiWoTB1sENA3MKjXI90s90MluoTrzm6ofYkHnpbNPOwjNFGbXo6h7EMwIFjMxKwpW5QcjSlUN8AF1cFzZqDxs8TYNXN4_gJ",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEza9igZ1RI4L9k07Wa7USiGdEdjPwANLisX4QM0cLS7VrvwL2Xc3lQ93XCJ737Xn8xAfmIzqtw-AO0d7bavqOP1njPfXxeW5rs1QOiwDxW_jCm5c8ETOJWtv9K",
+          "fields": []
+        },
+        {
+          "name": "fintrx.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIiEl3hbUjT_MlBXinQshxsfN1zCAw-zzu8TyUHUbb2q8jmvxpnLePXa_TUCSd9XbHe2Se-0L18nsfg5O6e-AWX3l4X5AolNVU_L7J-6ZLxHxO9l6NhgsZ5eCFS5CDHGVsKF2wSbi-zO75jItaIgvPuYgW",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRH0_Pp6K-qBtZRZi234Sti34WTkvVJ_IHamICBHSHti67b-B0KHye71hfVvPhSCymjubu49mXLLm9XC0xnEGPSxeyir6SsHPqAjfChUwOPIUcDVxF",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsZZpkFIUXJo8UnpSW7KwgwyJS6-XQ1hn-6f3ZaPTFN3LIBLARYdQLx_JwzYRiw6UXTQDMkRYFjKUWywMJy21arO9DGQFDljDmjrUcQ0N-t6rFkpVVByIFG1aCAXarvF8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Alternative Investment Market Focus",
+      "confidence": "low",
+      "completeness": 0.222,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Number of Private Equity Funds Served",
+        "Number of Venture Capital Funds Served",
+        "Number of Family Offices Served",
+        "Total Assets Under Management (AUM) of Client Funds (₹ Cr)",
+        "Average Deal Size Supported by Platform (₹ Cr)",
+        "Number of Deals Managed via Platform (Annual)",
+        "Success Rate of Sourced Deals (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms target market alignment and potential for platform scalability by indicating the breadth of fund types and AUM served, directly impacting the investment thesis.",
+        "banker": "Provides crucial data on deal flow volume and success rates, which are key metrics for assessing the platform's ability to generate actionable deal opportunities for potential M&A or capital raising.",
+        "credit_analyst": "Null",
+        "consultant": "Highlights the platform's impact on deal sourcing and management efficiency, offering a clear operational angle for potential efficiency improvements or strategic advisory services."
+      }
+    },
+    {
+      "heading": "Deal Flow & Sourcing Impact",
+      "content_type": "stat_grid",
+      "fields": [
+        {
+          "label": "Number of Deals Sourced via Platform (Annual)",
+          "value": [
+            {
+              "value": "1,300 unique companies identified",
+              "note": "from a case study on 'Precision Target Sourcing'"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        },
+        {
+          "label": "Geographic Focus of Client Deals (e.g., India, SEA)",
+          "value": [
+            {
+              "region": "India"
+            },
+            {
+              "region": "UK"
+            },
+            {
+              "region": "Southeast Asia",
+              "note": "potentially"
+            }
+          ],
+          "sources": [
+            {
+              "name": "kelpglobal.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0="
+            }
+          ],
+          "verified": null,
+          "verdict": "unchecked",
+          "verify_note": ""
+        }
+      ],
+      "bullets": [
+        "Number of Deals Sourced via Platform (Annual): [{\"value\": \"1,300 unique companies identified\", \"note\": \"from a case study on 'Precision Target Sourcing'\"}]",
+        "Geographic Focus of Client Deals (e.g., India, SEA): [{\"region\": \"India\"}, {\"region\": \"UK\"}, {\"region\": \"Southeast Asia\", \"note\": \"potentially\"}]"
+      ],
+      "references": [
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrhY9BFCU9Ip1Ei6Id--gGK51medV2WEM5jAM1pCRc1bcKRHOgbybuG-vebJIIVOhY0UEcAdQAs63QwiDCdmKudu-sY_ISN1104IoHGrcPvwEw5_tkcky8Qpcil1Bfk0=",
+          "fields": [
+            "Number of Deals Sourced via Platform (Annual)",
+            "Geographic Focus of Client Deals (e.g., India, SEA)"
+          ]
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ6oDPNq14LpJFw-8sCna_W2SeXOp3V_5vuD61yXQQD-8QVoVi1P0hDjOFf-xdSSR7M8UDmUnylhHzgIc-g6Bqc4G1WRj6H9Xrz6YZGEH7FuDBRtv3otvHKLNfE7XVtAFzVlCARz57DOhPdvD1r6bERUJCZB57TeE5EUViv2mjargHMJSiFnDdEcZu",
+          "fields": []
+        },
+        {
+          "name": "fintechfutures.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkSXixxH-L3lK5A9XBbTNRfBUq_ct0Pj_VWJuYgXflOkU4XteR87eZiRfmq24ut5KW8tNqeoWQoTOxzFiIqLCEN6epqAnlmrQ8xbUJ42QJ-EKfDqjv_AvFaGKKQTeMhx3SMk9TK6ouikUJiFLuTtyRZWn9c2fKqNreljl9WzvTBEvIcxDmOzneGIhDq6mRta_S6QIo",
+          "fields": []
+        },
+        {
+          "name": "tracxn.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7UWu4K-N1j5roxRdT_Uv8ej9by44bT3WTgeX5tlwc213Iwkdze9OOPT5UhZQiDj9j0m00fPwv9Nj3HokEwkMwuftLJiWoTB1sENA3MKjXI90s90MluoTrzm6ofYkHnpbNPOwjNFGbXo6h7EMwIFjMxKwpW5QcjSlUN8AF1cFzZqDxs8TYNXN4_gJ",
+          "fields": []
+        },
+        {
+          "name": "prospeo.io",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEza9igZ1RI4L9k07Wa7USiGdEdjPwANLisX4QM0cLS7VrvwL2Xc3lQ93XCJ737Xn8xAfmIzqtw-AO0d7bavqOP1njPfXxeW5rs1QOiwDxW_jCm5c8ETOJWtv9K",
+          "fields": []
+        },
+        {
+          "name": "fintrx.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIiEl3hbUjT_MlBXinQshxsfN1zCAw-zzu8TyUHUbb2q8jmvxpnLePXa_TUCSd9XbHe2Se-0L18nsfg5O6e-AWX3l4X5AolNVU_L7J-6ZLxHxO9l6NhgsZ5eCFS5CDHGVsKF2wSbi-zO75jItaIgvPuYgW",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRH0_Pp6K-qBtZRZi234Sti34WTkvVJ_IHamICBHSHti67b-B0KHye71hfVvPhSCymjubu49mXLLm9XC0xnEGPSxeyir6SsHPqAjfChUwOPIUcDVxF",
+          "fields": []
+        },
+        {
+          "name": "kelpglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsZZpkFIUXJo8UnpSW7KwgwyJS6-XQ1hn-6f3ZaPTFN3LIBLARYdQLx_JwzYRiw6UXTQDMkRYFjKUWywMJy21arO9DGQFDljDmjrUcQ0N-t6rFkpVVByIFG1aCAXarvF8=",
+          "fields": []
+        }
+      ],
+      "domain_name": "Alternative Investment Market Focus",
+      "confidence": "low",
+      "completeness": 0.222,
+      "planned_field_count": 9,
+      "missing_fields": [
+        "Number of Private Equity Funds Served",
+        "Number of Venture Capital Funds Served",
+        "Number of Family Offices Served",
+        "Total Assets Under Management (AUM) of Client Funds (₹ Cr)",
+        "Average Deal Size Supported by Platform (₹ Cr)",
+        "Number of Deals Managed via Platform (Annual)",
+        "Success Rate of Sourced Deals (if disclosed)"
+      ],
+      "reasoning": {
+        "overall_score": 75,
+        "pe_analyst": "Confirms target market alignment and potential for platform scalability by indicating the breadth of fund types and AUM served, directly impacting the investment thesis.",
+        "banker": "Provides crucial data on deal flow volume and success rates, which are key metrics for assessing the platform's ability to generate actionable deal opportunities for potential M&A or capital raising.",
+        "credit_analyst": "Null",
+        "consultant": "Highlights the platform's impact on deal sourcing and management efficiency, offering a clear operational angle for potential efficiency improvements or strategic advisory services."
+      }
+    }
+  ],
+  "considered_not_chosen": [],
+  "verification": {
+    "enabled": false,
+    "verdict_counts": {
+      "unchecked": 22
+    },
+    "cost_usd": 0.0
+  },
+  "cost": {
+    "phase1_sector_research_usd": 0.050097,
+    "domain_research_usd": 0.480204,
+    "accuracy_verify_usd": 0.0,
+    "token_usd": 0.075301,
+    "grounding_usd": 0.455,
+    "grounded_calls": 13,
+    "grounding_rate_per_call": 0.035,
+    "grounding_note": "grounding billed past Google's free daily tier; $0 while under it",
+    "actual_total_usd": 0.530301,
+    "actual_calls": 18,
+    "elapsed_seconds": 114.0,
+    "estimated_full_workflow_usd": {
+      "method": "avg cost per sector domain this run, extrapolated to 6 generic domains + synthesis (same model tier per config.py)",
+      "avg_cost_per_domain_this_run": 0.120051,
+      "estimated_generic_domains_usd": 0.720306,
+      "estimated_synthesis_usd": 0.480204,
+      "estimated_total_usd": 1.730811
+    }
+  }
+}
